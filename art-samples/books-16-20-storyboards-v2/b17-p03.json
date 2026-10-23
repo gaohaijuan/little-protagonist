@@ -1,0 +1,37 @@
+{
+  "id": "b17-p03",
+  "book": 17,
+  "page": 3,
+  "brief": "The leaf moves: EXTREME LOW grazing view along flowerbed border. Single cabbage leaf dominates center foreground, blade facing viewer, stem toward RIGHT. Same rabbit carries stem in its mouth BEHIND leaf, its head and most body physically hidden by leaf and a little natural foreground clover; just tiny paws or one ear-tip may hint. Leaf is lifted slightly above ground by rabbit, never floats alone. Wood hutch blurred in far RIGHT, no people. New suspense composition, not crop of earlier scene.",
+  "actors": [],
+  "extras": [],
+  "refs": [
+    "art-samples/books-16-20-native/garden-nook.png",
+    "art-samples/books-16-20-native/rabbit.png",
+    "art-samples/books-16-20-native/cabbage-leaf.png",
+    "art-samples/books-16-20-native/rabbit-hutch.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. The leaf moves: EXTREME LOW grazing view along flowerbed border. Single cabbage leaf dominates center foreground, blade facing viewer, stem toward RIGHT. Same rabbit carries stem in its mouth BEHIND leaf, its head and most body physically hidden by leaf and a little natural foreground clover; just tiny paws or one ear-tip may hint. Leaf is lifted slightly above ground by rabbit, never floats alone. Wood hutch blurred in far RIGHT, no people. New suspense composition, not crop of earlier scene.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-a214a9ef-4017-4655-852c-72cdd0dfd250.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "2898aecb71a8b20bd7ec689034a12be662d8f4a8054096751a4a74fe6af77300",
+  "correction": {
+    "id": "b17-p03",
+    "prompt": "Local precise edit: keep this exact whole square watercolor/gouache scene and cabbage leaf. Hide rabbit's eye, face and BOTH long ears BEHIND the cabbage leaf by modestly repositioning rabbit behind blade; only tiny cream paws below leaf and a little cream fur behind edge may hint. Rabbit must remain physically holding stem behind blade, no magic floating. Do not enlarge leaf or change camera, hutch, flowers, lighting. This is BEFORE mystery reveal, NO visible face/eye/ear. No new animals/people.",
+    "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-cd4d5352-e999-4807-8759-ae8fa5b6a81a.png"
+  }
+}

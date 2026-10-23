@@ -1,0 +1,21 @@
+{
+  "name": "run-left-clean",
+  "prompt": "Use case: background-extraction. EDIT exact reference, remove ALL blurred yellow/brown halo and black/cream background. Output genuine fully transparent alpha everywhere outside the headless child's silhouette. Keep child's pose, sweater, shorts, socks, shoes, dimensions, exact original position/pixel density and1024x1536 canvas unchanged. No halo, no shadows, no floor, no glow. Do not enlarge/shrink/recenter or add head. CRITICAL preserve empty upper canvas and toe shape. Only crisp soft antialias edge pixels, clear empty space between limbs and above neck.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-54a7d1b6-9e3b-46ca-a5d7-67ccd3c68a90.png",
+  "nativeSize": [
+    1024,
+    1536
+  ],
+  "bounds": [
+    136,
+    194,
+    989,
+    1373
+  ],
+  "alphaRange": [
+    0,
+    254
+  ],
+  "accepted": true,
+  "sha256": "d6dbf3c14131027506eb00b4d26e36cd5ae58d57594a9d21409b6f47eebc04a4"
+}

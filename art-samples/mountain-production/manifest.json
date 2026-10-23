@@ -1,0 +1,68 @@
+{
+  "title": "山不见了",
+  "status": "illustration-review-only",
+  "tool": "built-in image_gen",
+  "sourceEditions": [
+    "content/level1-stories-reviewed-30.json:sourceNumber=7",
+    "content/level1-stories-04-10.json:number=7"
+  ],
+  "assets": {
+    "background": {
+      "file": "clear.png",
+      "prompt": "clear-prompt.txt",
+      "nativePixels": [
+        1254,
+        1254
+      ]
+    },
+    "cloud": {
+      "file": "cloud.png",
+      "prompt": "cloud-prompt.txt",
+      "nativePixels": [
+        1983,
+        793
+      ],
+      "alpha": true
+    },
+    "foreground": {
+      "file": "foreground.png",
+      "prompt": "foreground-prompt.txt",
+      "nativePixels": [
+        1254,
+        1254
+      ],
+      "alpha": true
+    }
+  },
+  "composition": {
+    "sceneCount": 6,
+    "camera": "fixed",
+    "characterModel": "child-v1",
+    "pose": "stand-wave",
+    "independentHeadAdjustment": false,
+    "realPortraitGenerativeProcessing": false,
+    "cloudPositions": [
+      null,
+      [
+        -110,
+        120,
+        1400
+      ],
+      [
+        -110,
+        120,
+        1400
+      ],
+      [
+        570,
+        120,
+        1400
+      ],
+      null,
+      null
+    ]
+  },
+  "preview": "http://127.0.0.1:4180/?view=mountain-art",
+  "printQualification": "reading-preview-only; high-resolution print deferred by user",
+  "mainShelfIntegrated": false
+}

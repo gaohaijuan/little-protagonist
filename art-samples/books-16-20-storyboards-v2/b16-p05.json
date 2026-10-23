@@ -1,0 +1,38 @@
+{
+  "id": "b16-p05",
+  "book": 16,
+  "page": 5,
+  "brief": "Cat follows the book: view toward DOORWAY from far RIGHT corner, low bookcase receding diagonally LEFT, teal door and sunlit garden in BACK center. The open moon book is now on bare floor at (75%,85%), away from rug; kitten just settles onto it with one hind paw still on floor, smug cat-like relaxed pose, not human smile. Child slot on LEFT at(27%,92%). New broad action composition with diagonal floorboards leading toward cat.",
+  "actors": [
+    {
+      "pose": "sit-shoo",
+      "x": 270,
+      "ground": 920,
+      "scale": 0.72
+    }
+  ],
+  "extras": [],
+  "refs": [
+    "preview/art/sequence/books-11-15/playroom-clear.png",
+    "art-samples/books-16-20-native/open-book.png",
+    "preview/art/sequence/books-06-10/cat.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Cat follows the book: view toward DOORWAY from far RIGHT corner, low bookcase receding diagonally LEFT, teal door and sunlit garden in BACK center. The open moon book is now on bare floor at (75%,85%), away from rug; kitten just settles onto it with one hind paw still on floor, smug cat-like relaxed pose, not human smile. Child slot on LEFT at(27%,92%). New broad action composition with diagonal floorboards leading toward cat.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-c5b593d2-1b07-46f2-ba98-84b7d12c1db1.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "dc954cfb885d185057ef5772f84253881d0ea29bd358622963a363914ea72be0"
+}

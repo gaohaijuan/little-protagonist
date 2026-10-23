@@ -1,0 +1,22 @@
+<view class="bookshelf">
+  <view class="greeting-row">
+    <view class="greeting-text"><text class="eyebrow">今天，也读一个小故事</text><view class="greeting">你好，{{profile.name}}</view></view>
+    <button class="avatar-button" bindtap="editProfile" aria-label="编辑我的小主角">
+      <story-art framing="avatar" avatar-path="{{profile.avatarPath}}" />
+    </button>
+  </view>
+  <view class="hero">
+    <view class="hero-art"><story-art book="intro" framing="hero" avatar-path="{{profile.avatarPath}}" /></view>
+    <view class="hero-copy"><text class="hero-label">每个故事里，都有你</text><view class="hero-title"><view>我的故事，</view><view>我来读。</view></view><text class="hero-note">从熟悉的小事，认识新的字。</text></view>
+  </view>
+  <button class="primary-button start-button" data-book="intro" bindtap="openBook">开始阅读 <text class="button-arrow">→</text></button>
+  <view class="section-heading"><view class="section-title">我的小书架</view><text class="level-badge">第 1 级 · 起步阅读</text></view>
+  <view class="book-list">
+    <button wx:for="{{books}}" wx:key="id" class="book-card" data-book="{{item.id}}" bindtap="openBook" aria-label="阅读{{item.title}}">
+      <view class="book-cover {{item.tone}}"><story-art book="{{item.id}}" cover="{{true}}" avatar-path="{{profile.avatarPath}}" /><text class="cover-number">0{{index + 1}}</text></view>
+      <view class="book-title">{{item.title}}</view><view class="book-tag">{{item.tag}} · {{item.pages.length}} 页</view>
+    </button>
+  </view>
+  <view class="shelf-note">慢慢读，每一页都是小小的发现。</view>
+  <view class="bottom-bar"><view class="current-tab"><text class="tab-mark">▤</text><text>我的书架</text></view><button class="profile-tab" bindtap="editProfile"><text class="tab-mark">☺</text><text>我的小主角</text></button><button class="profile-tab" bindtap="openAccount"><text class="tab-mark">○</text><text>{{accountLabel}}</text></button></view>
+</view>

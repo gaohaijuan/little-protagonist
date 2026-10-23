@@ -1,0 +1,22 @@
+{
+  "name": "barefoot-step",
+  "ref": "art-samples/books-16-20-native/child-barefoot-v2.png",
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. Pixel-calibrated1024x1536 headless child body, same master intrinsic anatomy/pixel density: collar501225, sweater hem730, shorts955, large empty top194px, right bare foot1355. One small forward STEP: image-left leg lifts slightly forward/left, knee naturally bent, bare left foot stepping to(320,1260); right leg remains planted at(735,1355). Both arms a little out for balance. Keep actual thigh/calf/foot physical lengths/thickness, no giant foot or stretched legs; don't scale torso. Exact yellow/sage/ivory clothes, transparent alpha, no shoe/props/background/shadow/glow.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-ef54c212-2dd5-429e-a00b-218db7a04595.png",
+  "nativeSize": [
+    1024,
+    1536
+  ],
+  "bounds": [
+    103,
+    190,
+    1007,
+    1372
+  ],
+  "alphaRange": [
+    0,
+    254
+  ],
+  "accepted": true,
+  "sha256": "3a2e713939ce4c543bde34133aa57665c9544ee8d4090e542a9a4b5c1cac74da"
+}

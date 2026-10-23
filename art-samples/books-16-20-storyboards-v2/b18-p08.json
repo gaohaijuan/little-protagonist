@@ -1,0 +1,45 @@
+{
+  "id": "b18-p08",
+  "book": 18,
+  "page": 8,
+  "brief": "Off we go: EXTERIOR VIEW FROM SUNNY GARDEN looking into open teal cottage door BACK LEFT. Diagonal stepping-stone path leads toward RIGHT foreground through daisies. Clear adult slot LEFT(28%,94%) just outside door and child slot RIGHT(65%,94%) farther ahead on path. NO people, bags or shoes baked. Bright leafy overhead framing, coherent cottage architecture, broad cheerful ending.",
+  "actors": [
+    {
+      "pose": "carry-play",
+      "x": 650,
+      "ground": 940,
+      "scale": 0.66
+    },
+    {
+      "adult": true,
+      "x": 280,
+      "ground": 940,
+      "height": 770
+    }
+  ],
+  "extras": [
+    "held-bag"
+  ],
+  "refs": [
+    "preview/art/sequence/books-11-15/playroom-clear.png",
+    "art-samples/books-16-20-native/adult-shoes.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Off we go: EXTERIOR VIEW FROM SUNNY GARDEN looking into open teal cottage door BACK LEFT. Diagonal stepping-stone path leads toward RIGHT foreground through daisies. Clear adult slot LEFT(28%,94%) just outside door and child slot RIGHT(65%,94%) farther ahead on path. NO people, bags or shoes baked. Bright leafy overhead framing, coherent cottage architecture, broad cheerful ending.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-d54fd15a-f6a6-417f-979f-16f3b9fe0c6f.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "f43bfcf4621c5c698c6852d7ee410766c4a1bcb975cf2df36f9c487a9082866e"
+}

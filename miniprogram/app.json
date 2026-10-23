@@ -1,0 +1,14 @@
+{
+  "pages": ["pages/home/home", "pages/profile/profile", "pages/reader/reader", "pages/account/account", "pages/login/login", "pages/legal/legal"],
+  "window": {
+    "navigationBarTitleText": "小小故事家",
+    "navigationBarBackgroundColor": "#fbf8f0",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#fbf8f0",
+    "backgroundTextStyle": "dark",
+    "pageOrientation": "portrait"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "run-left-v2",
+  "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-family-production/child-body.png",
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. Strict1024x1536 registered character edit. Keep exact native physical scale and large empty transparent y0..199. Neck/collar501225, yellow sweater hem730. RUN TOWARD LEFT, child torso remains same500px length and480px width, bent opposite arms, left leg lightly extended forward-left, right knee bent back. Critical feet: left sneaker painted box x210..430,y1200..1400 =220px wide, right sneaker painted box x730..930,y1080..1290=200px wide. NOT an enlarged close-up foot. Same thighs/calves lengths and thickness as source; legs never longer than source. Same clothes, socks/shoes, ivory pocket imageRIGHT. No head/props/scene/floor/shadow/glow, true alpha. Do not zoom or recenter.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-016b15d5-709e-4227-a888-eb7bf7f21a89.png",
+  "nativeSize": [
+    1024,
+    1536
+  ],
+  "bounds": [
+    96,
+    193,
+    989,
+    1375
+  ],
+  "alphaRange": [
+    0,
+    254
+  ],
+  "accepted": false,
+  "sha256": "7798e9b73235a3e262d9206e6c1c034ef6faea349f528d2a823ca85593254fbc"
+}

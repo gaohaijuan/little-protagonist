@@ -1,0 +1,555 @@
+{
+  "mode": "built-in imagegen",
+  "assets": [
+    {
+      "name": "child-sit-read",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. EDIT this approved child BODY into a naturally cross-legged seated FLOOR reading pose. Same child's physical anatomical sizes: exact shoulder width, sweater length, arm thickness/length, shorts, thighs, calves and shoes as the reference, same source pixel density. Do NOT scale anatomy up to fill canvas. Canvas 1024x1536; existing standing collar (501,225), feet1400 used as calibration. Sitting projects shorter: collar around (501,420), crossed feet around y1260, knees naturally folded not stretched. Headless neck stump only for separately fitted real photo head. Both forearms forward low, palms gently supporting the bottom sides of an imaginary open book on lap, no book baked in. Same yellow sweater, ivory pocket, sage shorts, cream socks and orange sneakers. Empty transparent space above and below, no props/background/shadow/glow. Preserve genuine alpha.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-24d62744-2505-404d-91d2-508f680d40c1.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        122,
+        372,
+        941,
+        1358
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": false
+    },
+    {
+      "name": "child-barefoot",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. Precise edit of master: keep canvas1024x1536, collar501225, sweater, arms, torso, shorts, leg lengths/thickness and ALL clothing/body coordinates unchanged. Remove ONLY both sneakers and socks, reveal natural small bare feet at the same two ankle positions. Preserve knee and ankle anatomy; foot soles near y1380, not enlarged adult feet. Standing, headless neck stump, same arms and gentle paper watercolor light. Complete five toes per foot, no extra feet, no anatomy resizing. Genuine alpha background; no floor, shadow, props or head.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-2af931cf-4744-4b44-9789-c985f5db6207.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        134,
+        124,
+        1004,
+        1408
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": false
+    },
+    {
+      "name": "child-barefoot-v2",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. EXACT PIXEL-REGISTERED MINIMAL EDIT. Input is a 1024x1536 transparent master. Retain exact same canvas and framing; do not zoom or recenter. All pixels ABOVE y1150 must remain in original positions: neck stump top y202, neck/collar anchor(501,225), sweater hem y730, shorts hem y955, knees y1000. Only replace the socks and orange shoes BELOW y1150 with natural child bare ankles/feet. Left foot centered around(427,1320), right foot around(729,1320), sole baseline y1395. Bare feet width about180px each, same child's small anatomy. No head, no new pose, no resizing of any body part. Leave original huge empty transparent space above headless neck (y0..199). Match source painting. True alpha.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-eea1e91b-882a-4102-888e-42ba69b186d2.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        178,
+        195,
+        965,
+        1355
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "child-sit-read-v2",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. Create pixel-calibrated CROSS-LEGGED FLOOR-SITTING variant of this exact child body, on 1024x1536 genuine alpha canvas. Exact source anatomy sizes, never zoom subject to fill canvas. Shoulder seam width about400px, torso collar-to-hem480px, sweater waist width460px, hands about115px wide, orange sneaker length220px (NOT350px). Put neck stump top y400 at x501; collar anchor(501,420); sweater hem aroundy885. Fold SAME thighs and calves naturally into crossed seated pose, shoes ending aroundy1200. Both hands palms upward at x370 and650,y860, supporting an open book added later. Retain yellow sweater, ivory pocket, sage shorts, cream socks/orange shoes. Headless. Large unused transparent top and bottom remain. No props, floor, shadow, head or glow. No enlarging torso/feet.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8a4e8756-d017-4f79-be46-2b15886ea5b4.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        141,
+        365,
+        922,
+        1251
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "cat-sleep",
+      "ref": "preview/art/sequence/books-06-10/cat.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. Pose edit SAME tiny orange-and-white tabby kitten, identical face proportions, orange stripes/white muzzle and bib, same anatomy scale and painterly detail. Curled up asleep on its belly, full body side-threequarter view, eyes softly CLOSED, tail curled around paws, ears relaxed. No book baked in (added separately). Entire kitten isolated genuine alpha, no floor/shadow/background. No human smile.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-e08c8545-fc63-43b9-8c29-e2801588376b.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        10,
+        238,
+        1254,
+        1050
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "accepted": false
+    },
+    {
+      "name": "open-book",
+      "ref": "preview/art/sequence/books-11-15/playroom-clear.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One OPEN CHILD PICTURE BOOK lying open almost flat, visible warm ivory paper spread with gently curved pages, muted sage cloth cover and rounded paper corners, threequarter top view. LEFT page has one large simple painted MOON in blue starry sky; RIGHT page has a small quiet cloud/sky vignette only, NO text/glyphs. Center seam visible and natural paper thickness. Isolated book, true transparent background, no hands/cat/floor. Same finely painted warm gouache collage texture. Full book margins.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-5cb0db39-5198-4261-ba86-7891df9c21df.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        8,
+        116,
+        1533,
+        904
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "garden-nook",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": false,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. A NEW square 1:1 garden corner within this exact cottage world, coherent warm watercolor/gouache. Child-eye view, cottage cream stone wall and teal side-door at upper LEFT, sweet pea/clover/daisies around low old stone border at back, a patch of soft earth/gravel and close warm flagstone paving filling the foreground, leafy shade with sunlit openings. Rich foreground details but clear usable ground in lower half for independently composited child/rabbit/plant props. NO people, animals, rabbit hutch, flowerpot, stool, watering can or vegetables. Full bleed painting every edge, no cream fade or blank text zone.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-dfe77ac5-a891-4a4a-ba02-4f1a293e919b.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true
+    },
+    {
+      "name": "rabbit",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One small real-anatomy friendly cream-and-warm-brown domestic RABBIT in threequarter SIDE view, nose pointing RIGHT, soft alert upright ears, four small paws anatomically clear, modest rounded body, realistic rabbit mouth ready to grip a light cabbage leaf added separately. Eyes not human, no cartoon grin. Whole rabbit isolated genuine alpha, no leaf, no scene/floor/shadow, no accessories. Exact warm delicate gouache texture of reference.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-3e817566-4835-42dd-8fbc-2b0a7d8031d0.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        224,
+        15,
+        1345,
+        991
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "cabbage-leaf",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One lightweight small Chinese napa CABBAGE LEAF, pale ivory central rib at RIGHT end, soft pale sage-green ruffled blade fanning to LEFT, natural detailed translucent vein pattern, nearly side-on threequarter view. Single leaf, modest thin stem, not whole cabbage. Whole leaf isolated clean true alpha, no ground or shadow, no rabbit/hands. Gentle watercolor/gouache collage matching reference.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-4e7d2b10-2135-4ada-a533-7ed122005612.png",
+      "nativeSize": [
+        1672,
+        941
+      ],
+      "bounds": [
+        29,
+        67,
+        1631,
+        864
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "accepted": true
+    },
+    {
+      "name": "rabbit-hutch",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One little low rabbit HUTCH/shelter of weathered pale honey wood, simple shallow pitched roof, broad open front doorway with warm straw inside, threequarter view with front facing viewer-left. Cozy, no bars/cage, no animal, no vegetables baked in. Sized for one small pet rabbit. Genuine alpha isolated full hutch, delicate watercolor/gouache textures, no ground plane/shadow or garden.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-a82bbc76-f021-484b-9688-ec5583b8e56f.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        37,
+        39,
+        1499,
+        986
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "melon",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One small hand-sized slice of fresh WATERMELON, triangular red flesh with a few dark seeds, pale ivory inner rind and thin sage green outer rind; front-threequarter view, thick enough to hold, no bite mark. Painted still-life in exact soft warm watercolor/gouache storybook style, true transparent alpha. No plate, hand, animal, scene, shadow, writing or other fruit.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-1baef653-0470-4c47-abcc-cc7801e965cc.png",
+      "nativeSize": [
+        1361,
+        1156
+      ],
+      "bounds": [
+        127,
+        85,
+        1254,
+        1081
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "accepted": true
+    },
+    {
+      "name": "adult-shoes",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One PAIR of adult-sized simple warm brown leather slip-on SHOES, low soft loafers with wide OPEN heel/foot openings visible, no laces. Threequarter front view toes toward viewer, left shoe slightly left-pointing and right shoe slightly right-pointing matching stance of reference child feet. Both sit on same baseline. These are adult shoes clearly longer/wider than child's orange sneakers, not boots. Separate objects with transparent gap, true alpha, no floor/shadow/feet/legs. Delicate painterly worn leather texture same style.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-9ebfc8b9-973d-4534-8473-3d58dab7eb93.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        36,
+        156,
+        1507,
+        912
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "plant-stool",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One small orange-red flower growing in a terracotta FLOWERPOT filled with dark earth, on a very LOW sturdy pale wooden STOOL. Full unit isolated on true alpha; front-threequarter view shows a small drainage hole near lower LEFT of pot, an unobstructed path straight down from drainage hole past left stool edge to floor; pot slightly overhangs LEFT stool edge. Warm earthy gouache texture, one stem with leaves and cheerful orange petals, not face. No saucer, no water, no wateringcan, no child, no ground/shadow. Full pot+stool, four stable low legs.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-396b529c-418f-4d01-835a-bd3292ce8c4f.png",
+      "nativeSize": [
+        1143,
+        1376
+      ],
+      "bounds": [
+        174,
+        71,
+        1013,
+        1330
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "accepted": true
+    },
+    {
+      "name": "watering-can",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One child-sized SAGE GREEN WATERING CAN with round compact body, large loop handle on LEFT/top, a slim spout extending up to RIGHT, small perforated rose tip at RIGHT, slightly tipped forward to pour. Top fill opening and metal edges painted delicately. Isolated genuine alpha, no water stream (separate layer), no hand, no soil/flower/ground/shadow. Warm fine watercolor/gouache matching reference.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-9a275f2f-cf60-4ea4-9e2a-64ae2b09fb0a.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        56,
+        95,
+        1494,
+        933
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "water-cup",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One small simple cream ceramic CUP with sage green rim and single handle on RIGHT, plain no patterns/letters. Threequarter front view, visible little clean water inside, delicately painted highlights and matte warm watercolor/gouache paper texture. Entire object true alpha, no hands/background/shadow/steam.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-4dcebc66-98be-47b1-9ec4-6a852a350bd1.png",
+      "nativeSize": [
+        1385,
+        1136
+      ],
+      "bounds": [
+        127,
+        149,
+        1326,
+        1039
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "accepted": true
+    },
+    {
+      "name": "satchel",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One small child school SATCHEL/backpack, muted sage green soft canvas, simple rounded shape with pale cream flap and tan clasp, two shoulder straps tucked behind plus small top carry handle visible. Threequarter front view, full small backpack isolated genuine alpha, no child/hands/letters/floor/shadow. Same warm gouache fine paper texture as reference.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-19a4ed44-46c7-4c6a-aaaf-8ab890683275.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        23,
+        176,
+        1014,
+        1359
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "after-rain-patio",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": false,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. NEW square 1:1 cottage patio within exact same garden world AFTER RAIN has stopped. Teal cottage window/door and jasmine vines at back, pale warm stone paving in foreground with a few shallow rain glints near edges, distant grey cloud opening to soft blue and sunshine. A low solid stone garden bench at RIGHT upper-midground only, foreground paving clear for child to sit/draw and chase paper. Gentle breeze bends a few leaves, no flying loose objects. No people, animals, paper, pencils or tools baked in. Rich warm watercolor gouache full bleed to every edge, no ivory fade.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-1f30f4e8-3e8f-44e6-b4db-98d0ebed6491.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true
+    },
+    {
+      "name": "red-paper",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One flat rectangular small sheet of muted TERRACOTTA RED drawing PAPER, a little handmade fibrous paper grain, viewed from nearly above with slight perspective and natural gently lifted corner, wide landscape sheet aspect1.45, ALL edges clear. Blank no drawing or letters. Isolated on true alpha, no floor/hands/shadow/objects. Warm premium watercolor/gouache texture.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-50120a45-6145-458d-a39e-9ac9a49dce28.png",
+      "nativeSize": [
+        1510,
+        1042
+      ],
+      "bounds": [
+        28,
+        53,
+        1495,
+        1001
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "accepted": true
+    },
+    {
+      "name": "pencil",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. One short simple child's drawing PENCIL, warm pale wood hexagonal body, dark graphite sharp tip, no brand or writing. Full pencil horizontal, graphite tip pointing LEFT. Isolated true alpha with generous transparent margin, no floor, hand or shadow. Same delicate painted gouache/paper texture.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-e9de8b13-460d-4102-8dda-7afb0dfb885f.png",
+      "nativeSize": [
+        2020,
+        779
+      ],
+      "bounds": [
+        100,
+        293,
+        1935,
+        514
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "accepted": true
+    },
+    {
+      "name": "cat-sleep-v2",
+      "ref": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-e08c8545-fc63-43b9-8c29-e2801588376b.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. Precise framing correction of SAME curled sleeping orange-white kitten. Preserve the exact pose, face, proportions, markings, closed eyes and fine fur brush texture. Show the COMPLETE kitten including right cheek, both ears, ALL whiskers and tail with generous transparent margin on every side (at least8% canvas border). Current rightmost cheek/whiskers touch edge; restore their natural continuation. Subject centered and fully inside canvas, actual alpha transparency, no floor/background/shadow/glow, no new props.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-14da5f0d-85cd-4168-b620-23d9494911d8.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        21,
+        273,
+        1254,
+        1052
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "accepted": true
+    },
+    {
+      "name": "child-drink",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/books-16-20-native/child-barefoot-v2.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. MINIMAL LEFT ARM EDIT ONLY on same transparent 1024x1536 pixel-registered child. Empty topy0..194, collar501225, hem730, shorts955, legs and bare feet1355 unchanged. Pose image-left forearm upward with hand supporting imaginary small drinking cup near LEFT of chin at(370,210); hand about100px wide, thumb and fingers gently curved. Image-right arm/palm unchanged. Retain original torso, legs, clothes, pixel density and framing exactly, no recenter or enlargement. Headless neck stump only, NO cup/head/props/background/shadow/glow. Genuine alpha.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-b16b4b24-5685-49b1-a68f-99946583a29d.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        169,
+        162,
+        966,
+        1356
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "child-sit-draw-v2",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/books-16-20-native/child-sit-read-v2.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. MINIMAL LOCAL HAND EDIT ONLY. Lock supplied target canvas1024x1536 and its exact position/scale. CRITICAL EMPTY TRANSPARENT BAND y0..364 must remain EMPTY; neck starts365, collar(501,400), hem930, feet1250; do not move neck to200 or enlarge body! Keep sweater/neck/shoulders/torso/waist/hips/both crossed legs/feet pixels in their original positions. Change image-left palm only to rest on existing knee; change image-right forearm downward with hand gently pinching imaginary pencil at(700,1040), over existing right crossed leg. Fingers natural 3-point drawing grip. No pencil baked in. All body parts retain original size, sneaker length~230px, not300. Same headless neck and alpha, no added head, props, floor or shadow. Preserve empty margins.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-054a5777-6f12-4cc8-9e60-3c11901f35a4.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        131,
+        364,
+        894,
+        1270
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "child-sit-draw",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/books-16-20-native/child-sit-read-v2.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. PRECISE POSE EDIT of this exact 1024x1536 transparent cross-legged child. Retain the entire seated body, neck anchor about(501,400), sweater hem around920, crossed knees, shoes baseline1250, native anatomy/pixel scale and canvas placement unchanged. ONLY change the forearms/hands: image-left hand rests lightly on left knee; image-right forearm reaches slightly down and forward, thumb/index/middle fingers form natural small three-finger pencil grip at(680,930) as if drawing on paper near the feet. No actual pencil or paper baked in, headless. No floor/background/shadow/glow. Preserve full alpha and every intrinsic limb size, don't enlarge body or footwear.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-920502b8-ba0d-42bb-a86d-52dd9397b2fa.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        53,
+        195,
+        994,
+        1332
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": false
+    },
+    {
+      "name": "child-water-pour",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/books-16-20-native/child-barefoot-v2.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. Pixel-registered pose edit on this exact 1024x1536 barefoot child body. Preserve neck/collar(501,225), empty top199px, sweater hem730, shorts955, knees, bare ankles/feet baseline1355, torso and all intrinsic limb sizes EXACTLY. Change ONLY image-right arm: bend elbow naturally to raise forearm outward/right at chest height, hand loosely closed gripping an imaginary watering-can handle centered at(820,380). Thumb and four fingers visible around empty handle space. Image-left hand stays at chest unchanged. No can baked in, no props, no head, no background/shadow/glow. Retain actual alpha. Do not zoom/recenter/rescale body.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-57595363-6c7a-4e6e-895b-7bcfcda44fe6.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        178,
+        195,
+        947,
+        1357
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    },
+    {
+      "name": "rabbit-low",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/books-16-20-native/rabbit.png",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. Pose edit of EXACT SAME cream-and-brown rabbit, same anatomy/physical size/color patterns. Canvas1536x1024, don't enlarge. Flatten its pose into low CROUCH while carrying a leaf later added separately: ears folded gently flat backwards along back, chest and chin low, body almost horizontal, all paws tucked close to ground. Nose faces RIGHT at about(1230,780), feet baseline990, body top around500, ears folded not upright. Keep eye, head width and body length identical to source. NO leaf or props baked in, genuine alpha no ground/shadow/background. Whole rabbit, generous margins. Same warm fine watercolor fur texture.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-fbf1f84f-808c-4d8c-b83a-b139c70dfc39.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        111,
+        309,
+        1468,
+        892
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true
+    }
+  ]
+}

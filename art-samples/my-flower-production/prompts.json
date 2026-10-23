@@ -1,0 +1,46 @@
+{
+  "generator": "built-in image_gen",
+  "fictionalCharacter": true,
+  "noUserPhotosSubmitted": true,
+  "derivedFrom": "../my-flower-v2",
+  "distribution": "Full dimension WebP encoding, alpha retained, quality 88",
+  "baseImages": [
+    {
+      "id": "care",
+      "reference": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-flower-v2/page-01-my-flower.png",
+      "prompt": "Use case: precise-object-edit. Production asset for a layered personalized children's picture-book app. Edit the provided approved page with EXTREME spatial fidelity. Keep EXACT same landscape canvas dimensions and exact pixel placement/scale of illustrated body, hands, clothes, legs, collar, garden, ground, leaves and snail. Warm golden yellow shirt, cream pocket, sage shorts, cut-paper gouache textures.\nRemove ONLY the child's entire photographic head including all face, ears, hair and any neck skin above the shirt collar. Reconstruct continuous natural garden/sky behind the removed head, no skin, no scalp, no head-shaped hole, no white placeholder, no cartoon head, no face. Retain the FULL illustrated body and intact round shirt collar in its exact original place. This is a technical headless compositing backplate; a real head will be placed on it in software.\nRemove ALL Chinese lettering from the right; replace lettering with matching continuous warm cream textured paper, rightmost ~33% calmly blank. No new text/watermarks. Do not move any object or crop/zoom. Keep the single coral flower at its EXACT original position and EXACT eleven visible petals, stem, leaves, cupping hands and snail. Preserve every petal's shape and count; no loose petals. Only remove head and typography. Do not add anything."
+    },
+    {
+      "id": "wind",
+      "reference": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-flower-v2/page-03-catching-petals.png",
+      "prompt": "Use case: precise-object-edit. Production asset for a layered personalized children's picture-book app. Edit the provided approved page with EXTREME spatial fidelity. Keep EXACT same landscape canvas dimensions and exact pixel placement/scale of illustrated body, hands, clothes, legs, collar, garden, ground, leaves and snail. Warm golden yellow shirt, cream pocket, sage shorts, cut-paper gouache textures.\nRemove ONLY the child's entire photographic head including all face, ears, hair and any neck skin above the shirt collar. Reconstruct continuous natural garden/sky behind the removed head, no skin, no scalp, no head-shaped hole, no white placeholder, no cartoon head, no face. Retain the FULL illustrated body and intact round shirt collar in its exact original place. This is a technical headless compositing backplate; a real head will be placed on it in software.\nRemove ALL Chinese lettering from the right; replace lettering with matching continuous warm cream textured paper, rightmost ~33% calmly blank. No new text/watermarks. Do not move any object or crop/zoom. In addition, REMOVE ALL CORAL-ORANGE PETALS: remove the four airborne orange petals and the seven orange petals attached to the flower. Keep the golden yellow FLOWER CENTER disk at exact original position (left of page), and its stem and green leaves, untouched. Inpaint garden/sky seamlessly where petals were. Leave no orange petals anywhere (terracotta shoes remain). A program will draw precise petals around this golden center. Preserve reaching hands and tiptoe body pose in EXACT same positions. Keep green windblown leaves unchanged. Do not add anything."
+    },
+    {
+      "id": "search",
+      "reference": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-flower-v2/page-06-searching-grass.png",
+      "prompt": "Use case: precise-object-edit. Production asset for a layered personalized children's picture-book app. Edit the provided approved page with EXTREME spatial fidelity. Keep EXACT same landscape canvas dimensions and exact pixel placement/scale of illustrated body, hands, clothes, legs, collar, garden, ground, leaves and snail. Warm golden yellow shirt, cream pocket, sage shorts, cut-paper gouache textures.\nRemove ONLY the child's entire photographic head including all face, ears, hair and any neck skin above the shirt collar. Reconstruct continuous natural garden/sky behind the removed head, no skin, no scalp, no head-shaped hole, no white placeholder, no cartoon head, no face. Retain the FULL illustrated body and intact round shirt collar in its exact original place. This is a technical headless compositing backplate; a real head will be placed on it in software.\nRemove ALL Chinese lettering from the right; replace lettering with matching continuous warm cream textured paper, rightmost ~33% calmly blank. No new text/watermarks. Do not move any object or crop/zoom. Keep the searching body kneeling and both hands parting grass in exact same positions. Keep one small dark green question mark at its current garden position to the right of where the head will go. Keep all petals hidden and the snail intact. No orange petals or flowers anywhere. Remove only head and large Chinese story text."
+    }
+  ],
+  "sprites": [
+    {
+      "id": "careHead",
+      "reference": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-flower-v2/page-01-my-flower.png",
+      "prompt": "Use case: background-extraction. Extract ONLY the complete PHOTOGRAPHIC HEAD of this exact fictional child, including full natural black hair, ears and face down to the chin. Keep this exact gentle downward gaze and small closed-mouth smile, facial identity, photographic texture, hair silhouette and angle. Remove ALL body, neck below the chin, clothes, garden, lettering and objects. Isolate centered in a square transparent PNG with generous 5% transparent padding on every side. Preserve every hair tip; NO invented hair, no cartoon rendering, no head border, no white outline, no shadows outside the head. The whole head fills about 85% of image height, nothing else. Real transparent alpha background, not a checkerboard drawing. This is a transparent avatar sprite for compositing into the original page."
+    },
+    {
+      "id": "windHead",
+      "reference": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-flower-v2/page-03-catching-petals.png",
+      "prompt": "Use case: background-extraction. Extract ONLY the complete PHOTOGRAPHIC HEAD of this exact fictional child, including full natural black hair, ears and face down to the chin. Keep the exact engaged happy expression and eyes looking upper right toward the petals, facial identity, photographic texture, hair silhouette and angle. Remove ALL body, neck below the chin, clothes, garden, lettering and objects. Isolate centered in a square transparent PNG with generous 5% transparent padding on every side. Preserve every hair tip; NO invented hair, no cartoon rendering, no head border, no white outline, no external drop shadow. The whole head fills about 85% of image height, nothing else. Actual transparent alpha background, not checkerboard. Transparent avatar sprite to composite into original page."
+    },
+    {
+      "id": "searchHead",
+      "reference": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-flower-v2/page-06-searching-grass.png",
+      "prompt": "Use case: background-extraction. Extract ONLY the complete PHOTOGRAPHIC HEAD of this exact fictional child, including full natural black hair, ears and face down to the chin. Keep the exact PUZZLED CURIOUS expression, eyes looking DOWN toward the grass, closed neutral mouth with no smile or teeth, eyebrows slightly furrowed, face angle, photographic texture and facial identity. Remove ALL body, neck below the chin, clothes, garden, question mark, lettering and objects. Isolate centered in square transparent PNG with generous 5% transparent padding on every side. Preserve every hair tip; NO invented hair, no cartoon rendering, no head border, no white outline, no external shadows. The whole head fills about 85% of height, nothing else. Actual transparent alpha background, not checkerboard. Transparent avatar sprite for compositing into original page."
+    },
+    {
+      "id": "petal",
+      "reference": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-flower-v2/page-01-my-flower.png",
+      "prompt": "Use case: illustration-story. Create ONE isolated coral-orange flower PETAL sprite, matching the approved picture-book flower in reference. This is ONE flower petal only, NOT a whole flower, NOT a leaf, no stem, no face or any other object. Petal points upward: broad rounded softly irregular rounded tip at top, slightly tapered narrow base at bottom. Long oval with height about 2.2 times width, gentle handmade asymmetry. Tactile coral-orange painted torn-paper/gouache, subtle paper fibers and brush flecks, tiny warm pale brush mark but NO leaf veins, no stalk. Saturated coral orange matching reference flower, flat cut-paper style with slight dimensional texture, NO outer shadow. Center with all edges inside a square canvas, ample transparent padding. True transparent PNG background, no checkerboard drawing. One object only. This sprite will be rotated programmatically to make an exactly countable flower."
+    }
+  ]
+}

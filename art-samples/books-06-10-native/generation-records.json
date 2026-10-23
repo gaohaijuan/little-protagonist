@@ -1,0 +1,121 @@
+{
+  "method": "Built-in imagegen; no API; actual native resolution; transparent production layers",
+  "rows": [
+    {
+      "name": "child-umbrella",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. Edit ONLY the right arm on the right side of the provided HEADLESS CHILD BODY MASTER. Preserve unchanged pixel registration and all proportions: canvas 1024x1536, collar center (501,225), sweater hem about y700, shorts and knees, socks and feet ending y1405. Exact same yellow sweater/ivory pocket/sage shorts/orange shoes. Change the right-side elbow and hand to a bent arm with a closed grasp at about (850,600), as if holding a vertical umbrella shaft; no shaft or umbrella painted into the body layer. Keep left hand on chest unchanged. Skin-tone neck stump EMPTY with no head, hair or face. Whole isolated body with genuine transparent background, clean soft antialiasing, no coloured glow and no ground shadow. Do not scale the body, move the torso or redraw the legs. This asset must align with the master, so exact same collar, torso width, leg lengths and source pixel density.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-143a9b21-ca89-4260-bf3c-23d935bb84bf.png"
+    },
+    {
+      "name": "child-water-reach",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. Edit ONLY the right arm on the right side of the provided HEADLESS CHILD BODY MASTER. Preserve unchanged registration/anatomy: canvas 1024x1536, collar center (501,225), sweater hem about y700, original shorts, knees, socks and feet ending y1405. Same yellow sweater/ivory pocket/sage shorts/orange shoes, same torso and legs and overall intrinsic size. Lower and gently extend right forearm so right fingertips point downward and end about (850,900), to dip into a shallow basin standing on a low stool; no basin/water painted here. Left hand rests on own chest unchanged. EMPTY neck stump with no head, hair or face. Genuine transparent background with clean alpha, no colour halo, no ground shadow. Do not shrink, scale, translate the torso or alter clothing shape.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-3a855b7c-cee2-470a-9204-1cf86b8f5721.png"
+    },
+    {
+      "name": "rain-garden",
+      "ref": "art-samples/mountain-production/clear.png",
+      "alpha": false,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. Create a new SQUARE full-bleed scene in the exact reference picture-book style and same courtyard world, adapted for a gentle rainy afternoon. Camera at child's eye level, moderately close garden view: mossy stone wall, dense delicate yellow-green bushes, terracotta roof and teal gate partly visible to right, wet grassy path with a few small puddles. Overcast soft pale blue-grey sky in upper third, no dark horror. Leave a modest clear foreground landing area in lower left/centre for a locally composited child but DO NOT make a broad empty lawn, floor or desert of blank space. Rich edge-to-edge original-like illustration, coherent light reflections. No people, human body, umbrella, large flower or cat; these are independent layers. No huge white fade or text area.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-0efc04af-6090-446a-9f88-4e452f27c522.png"
+    },
+    {
+      "name": "umbrella",
+      "ref": "art-samples/mountain-production/clear.png",
+      "alpha": true,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. Isolated one opened sage green child's umbrella in the exact painterly storybook style of reference. Three-quarter front view. Wide gently domed cloth canopy, wood ribs visible underneath, sturdy thin dark-ochre wooden straight shaft down to small J handle. Full object entirely inside canvas, canopy centered near x500,y240 with span about800 on a square1000 canvas, shaft x500 from y260 to y900. True transparent background, no child, hands, rain, face, ground or text, no glow. Soft diffuse rainy light. Intricate but readable fabric texture.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-1a441b1e-e05c-4a8d-aaa5-7e2d91d8c122.png"
+    },
+    {
+      "name": "night-garden",
+      "ref": "art-samples/mountain-production/clear.png",
+      "alpha": false,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. Create a SQUARE full-bleed night version of this same intimate Mediterranean garden courtyard in exactly this watercolor/gouache style. Preserve tree on left, teal garden gate and wall right, little terracotta roofs, daisies and warm paper painted details. View at child's eye level with foreground paving and rich greenery, do not expand empty floor or shrink scene. Gentle deep blue and muted teal twilight with soft amber light at cottage door. In the top right sky place ONE clear round cream full moon at normalized(0.79,0.16), small radius0.055 of width. A few stars. Scene lower center moderately open to receive separate child and low stool basin. No people, body parts, basin, other moon or moon reflection painted into background. Calm welcoming preschool mood, no black crushed shadows.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8e480d46-439a-4f35-a7c0-281df9e4de28.png"
+    },
+    {
+      "name": "basin-still",
+      "ref": "art-samples/mountain-production/clear.png",
+      "alpha": true,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. Isolated shallow wide pale ivory enamel WATER BASIN on a sturdy LOW SHORT WOODEN STOOL, three-quarter front view seen slightly from above, exact illustrated reference style, soft night blue light with warm cream rims. Square canvas. Basin water ellipse centered around x500,y270, horizontal radius360, vertical radius140. Water is calm deep blue with ONE small circular cream moon reflection near x560,y260. Enamel basin rim and shallow sides, stool underneath, its legs ending near y910. Whole object within canvas. Clear coherent perspective. Genuine transparent background, no child, hands, faces, background, ground or text.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-d7d22785-0181-4e40-88d4-5550f64c4251.png"
+    },
+    {
+      "name": "basin-ripples",
+      "ref": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-d7d22785-0181-4e40-88d4-5550f64c4251.png",
+      "alpha": true,
+      "prompt": "Precise image edit: preserve the provided isolated enamel basin and low stool EXACTLY, same canvas/framing, same rim, rust flecks, wood grain, legs, perspective, scale and transparent background. Edit ONLY the blue WATER INTERIOR. It has just been disturbed by a child's finger: replace the circular moon reflection and ALL cream/yellow reflection streaks with overlapping gentle concentric blue ripples and a few broken diffuse pale flecks; there must be NO intact moon circle in the water. Do not add a hand, finger, child, new objects, background or text. Same watercolor/gouache night colour. Keep water surface entirely inside existing rim. Highest native resolution supported, true alpha preserved.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-57c58962-2aff-4e38-a19d-ba2bf2e30360.png"
+    },
+    {
+      "name": "bird-garden",
+      "ref": "art-samples/mountain-production/clear.png",
+      "alpha": false,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. Create a new SQUARE full-bleed illustrated courtyard scene matching this exact lush gouache/watercolor picture book style. A SMALL LEAFY TREE at left, its low branch clearly visible at normalized(x.28,y.30), stone cottage/teal door behind right, path and daisies, welcoming morning sunshine. A modest clear child landing spot in foreground centre/right, rich garden fills frame. Need separate layers for bird, cat and little tricycle, so absolutely NO people, headless bodies, animals, birds or vehicles in this background. Tree foot at (.25,.85), a tiny ochre cat can later sit there. No blank cream area, no broad empty lawn, no text.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-164cc1c1-ab68-4ee1-b057-2904163e5219.png"
+    },
+    {
+      "name": "bird",
+      "ref": "art-samples/mountain-production/clear.png",
+      "alpha": true,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. One tiny ochre and brown garden songbird, entire body, three-quarter side view facing right, round plump body, delicate painted feathers, two little feet, small open beak as if chirping, slightly raised tail. Exact painterly child-friendly reference style, no plastic 3D. Isolated on genuine transparent background, no branches, plants, scene, shadows, lettering or sound symbols.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-a05810ec-438d-4c4f-9f21-45ec09c88d18.png"
+    },
+    {
+      "name": "cat",
+      "ref": "art-samples/mountain-production/clear.png",
+      "alpha": true,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. One small friendly ginger-and-cream kitten sitting upright, three-quarter front view looking slightly up, mouth subtly open as if meowing, round paws, curled tail and clear painted fur. Exact watercolor/gouache reference style and muted ochre/cream colours. Whole cat on genuine transparent background, no ground, plants, props, people, writing or sound symbols.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-2ada0bee-3708-4579-9497-c3f976b21368.png"
+    },
+    {
+      "name": "tricycle",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Children's picture-book production asset, same established warm watercolor/gouache, delicate collage-like paper brushwork, muted sage-green, ochre yellow, terracotta and ivory, finely resolved leaves/cloth/wood at highest available native resolution. Match provided reference style and existing character anatomy. No writing, letters, captions, logos or borders. One small terracotta red CHILD TRICYCLE matching the garden reference illustration style, three-quarter side view facing left, handlebar, cream saddle with room for one tiny bird to perch, three clearly logical wheels, fine painterly metal and rubber texture, softly sunlit. Entire object isolated on genuine transparent background, no ground, people, birds, plants, scene, lettering or glow.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-e34bf335-8e57-4f33-89cf-1da3d12c592e.png"
+    },
+    {
+      "name": "bird-quiet",
+      "ref": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-a05810ec-438d-4c4f-9f21-45ec09c88d18.png",
+      "alpha": true,
+      "prompt": "Edit the provided isolated watercolor/gouache songbird with extreme fidelity. Change ONLY its open beak into a naturally CLOSED beak, so the same bird is quietly listening rather than singing. Preserve exact body silhouette, feather patterns, eye, feet, tail, colours, canvas placement and true transparent background. No other changes, no writing or background. Highest actual native resolution.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-d326d853-c118-494a-9e81-3520d8f382d3.png"
+    },
+    {
+      "name": "umbrella-long",
+      "ref": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-1a441b1e-e05c-4a8d-aaa5-7e2d91d8c122.png",
+      "alpha": true,
+      "prompt": "Production prop edit. Keep this exact sage floral umbrella's canopy, painted fabric, ribs, wooden colours and silhouette. Extend the straight wooden SHAFT substantially, about twice the current exposed shaft length below the canopy, so a small child can hold it at chest height while the canopy stays clearly above their full hairstyle. Extend the transparent canvas downward as required; do NOT widen or enlarge canopy, distort its fabric or add anything. One same J handle at end of longer shaft. Desired full object aspect about 0.70 wide / 1.0 tall. True clean transparent background, no glow, ground, writing, people or hands. Highest native resolution.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-fdd628cd-219c-406e-a4ca-96897aafbe66.png"
+    },
+    {
+      "name": "bird-garden-small-tree",
+      "ref": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-164cc1c1-ab68-4ee1-b057-2904163e5219.png",
+      "alpha": false,
+      "prompt": "Precisely edit this square children's picture-book courtyard. KEEP the mountain, cottage, teal gate, flowers, path, brushwork, colours and framing unchanged. REPLACE ONLY the huge thick tree and its massive overhead limbs at left with ONE SMALL GARDEN SAPLING that a preschool child would call 小树: slender trunk at x0.22 from y0.84 to y0.46, compact leafy canopy from y0.18 to y0.50, a low visible slim branch around (x0.28,y0.40). It should fit inside the image and be about 1.4 times the height of a child later placed at x0.58 with feet y0.95 and head y0.30. The sapling must not be a giant tree cropped at top. Restore appropriate garden greenery behind removed overhead branches. No people, animals, vehicles, words, empty white fade or added objects. Same detailed warm watercolor/gouache style, highest native resolution.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-b250a14d-ed28-4129-a7b4-21b916d11cee.png"
+    },
+    {
+      "name": "pebble",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/next-three-production/stone/mother-reveal.png",
+      "alpha": true,
+      "prompt": "Extract and recreate ONLY the single small smooth pale cream-grey oval PEBBLE resting in the mother's open right-side palm of the reference illustration. Exactly that ordinary stone's shape, matte painted texture and warm grey colour, no face, no markings. Whole isolated pebble centered on a genuine transparent background with generous margins, no hand, skin, sleeve, shadow, background or other objects. Highest native resolution, same watercolor/gouache picture-book style.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-e60a411c-9009-4b7f-aa54-383af53744c8.png"
+    },
+    {
+      "name": "dark-cloud",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/books-06-10-native/rain-garden.png",
+      "alpha": true,
+      "prompt": "One horizontal bank of dark rain clouds for an established preschool watercolor/gouache picture book. Rounded layered charcoal blue-grey clouds, softly brushed muted shadows, painted paper texture, clearly darker than white clouds but gentle and child-friendly. Horizontal panorama about 2.7:1. Keep full cloud silhouette inside canvas with transparent margins. Genuine transparent background, absolutely no sky rectangle, rain strokes, landscape, people, faces, thunder, text or frame. Highest actual native resolution.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-1343840a-73f5-4bc0-af7d-a09d13dee5f4.png"
+    }
+  ],
+  "notUsed": [
+    "umbrella",
+    "bird-garden"
+  ]
+}

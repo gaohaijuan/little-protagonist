@@ -1,0 +1,736 @@
+{
+  "version": 2,
+  "edition": "reviewed-all-30-v8-personalized",
+  "style": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. ",
+  "pages": [
+    {
+      "id": "b16-p01",
+      "book": 16,
+      "page": 1,
+      "brief": "Quiet reading: wide diagonal WINDOW-CORNER view, teal window at RIGHT, soft linen curtain and a few windowsill daisies, low bookcase at LEFT, honey timber boards and a soft small sage rug. Floor open book with sage cover lies flat at (66%,83%), left page clearly large golden moon on blue sky, right page clouds. NO cat yet. Leave complete floor seat slot at (32%,90%) for child; don't put rug/books in that slot. Room feels inhabited, not an empty stage.",
+      "actors": [
+        {
+          "pose": "sit-read",
+          "x": 320,
+          "ground": 900,
+          "scale": 0.75
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ]
+    },
+    {
+      "id": "b16-p02",
+      "book": 16,
+      "page": 2,
+      "brief": "Cat interrupts: LOW FLOOR-LEVEL angle looking past a small stack of closed books at extreme LEFT foreground toward the reading rug and bookcase along BACK wall, with teal window now only at upper-left edge. SAME orange-white kitten is clambering onto the SAME open moon book at (68%,84%), one front paw obscures moon, tail curved, alert ears. Clear floor seat slot at (30%,91%). Cat/book are big enough to read, no new pets.",
+      "actors": [
+        {
+          "pose": "sit-read",
+          "x": 300,
+          "ground": 910,
+          "scale": 0.72
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ]
+    },
+    {
+      "id": "b16-p03",
+      "book": 16,
+      "page": 3,
+      "brief": "Please let me see: medium CLOSE composition from opposite end of rug, cream wall and framed pressed flowers BACK, soft low armchair RIGHT edge, angled sunlight bands. Moon book and kitten occupy RIGHT foreground (72%,85%), kitten sitting squarely on spread and turning curious gaze toward LEFT. It covers the moon image. Leave sitting child space at (32%,94%) with enough head clearance. Do not copy previous camera or background layout.",
+      "actors": [
+        {
+          "pose": "sit-shoo",
+          "x": 320,
+          "ground": 940,
+          "scale": 0.82
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ]
+    },
+    {
+      "id": "b16-p04",
+      "book": 16,
+      "page": 4,
+      "brief": "Moving the book: medium SIDE view from bookshelf looking toward teal cottage door on RIGHT, small linen cushion LEFT, diagonal rug edge sweeping from lower-left to center. Kitten sitting on the OLD reading spot at (24%,85%), looking toward RIGHT. NO open book anywhere (will be held separately). Clear crouching child slot centered(57%,93%); a free patch of floor RIGHT is where book will be placed. Entire room angle freshly painted.",
+      "actors": [
+        {
+          "pose": "crouch-book",
+          "x": 570,
+          "ground": 930,
+          "scale": 0.8
+        }
+      ],
+      "extras": [
+        "held-book"
+      ],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ]
+    },
+    {
+      "id": "b16-p05",
+      "book": 16,
+      "page": 5,
+      "brief": "Cat follows the book: view toward DOORWAY from far RIGHT corner, low bookcase receding diagonally LEFT, teal door and sunlit garden in BACK center. The open moon book is now on bare floor at (75%,85%), away from rug; kitten just settles onto it with one hind paw still on floor, smug cat-like relaxed pose, not human smile. Child slot on LEFT at(27%,92%). New broad action composition with diagonal floorboards leading toward cat.",
+      "actors": [
+        {
+          "pose": "sit-shoo",
+          "x": 270,
+          "ground": 920,
+          "scale": 0.72
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ]
+    },
+    {
+      "id": "b16-p06",
+      "book": 16,
+      "page": 6,
+      "brief": "PAYOFF CLOSE-UP: kitten curled ASLEEP on the open moon book, whole book and complete kitten, soft closed eyes and tucked paws, moon peeks from beneath its flank. They fill central70% of image on warm textured rug edge, LOW close camera, distant bookshelf softly blurred. No human, no human body parts, no other animal. Gentle paw/book weight and contact shadows, lyrical painted detail.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ]
+    },
+    {
+      "id": "b16-p07",
+      "book": 16,
+      "page": 7,
+      "brief": "Warm ending WIDE shot framed from OPEN TEAL DOOR looking into room: back cream wall, low shelf, linen cushion and soft late-afternoon bands of light across floor. Sleeping kitten on open book at RIGHT foreground (72%,85%), quiet curled pose. Leave child sitting comfortably at LEFT (31%,91%), watching cat. Make this a distinct tableau and environment perspective, not an enlargement of page6.",
+      "actors": [
+        {
+          "pose": "sit-read",
+          "x": 310,
+          "ground": 910,
+          "scale": 0.7
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ]
+    },
+    {
+      "id": "b17-p01",
+      "book": 17,
+      "page": 1,
+      "brief": "Offer a leaf: view from cottage STEP into garden, a little low stone wall RIGHT and a narrow path receding diagonally toward a simple wooden rabbit hutch BACK RIGHT. One cream-brown rabbit sits beside hutch at(79%,74%), ears up. No cabbage leaf anywhere (held separately). Clear standing child slot LEFT foreground(32%,94%). Early bright garden sunlight and rich daisy/clover detail at margins.",
+      "actors": [
+        {
+          "pose": "carry-play",
+          "x": 320,
+          "ground": 940,
+          "scale": 0.65
+        }
+      ],
+      "extras": [
+        "held-leaf"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ]
+    },
+    {
+      "id": "b17-p02",
+      "book": 17,
+      "page": 2,
+      "brief": "Rabbit doesn't come: REVERSE garden angle, wooden hutch small at BACK LEFT with same rabbit sitting near doorway(25%,67%) ignoring food, pale warm stone paving in foreground. A single light cabbage leaf laid on ground at RIGHT center(63%,84%). Clear child slot LEFT foreground(36%,95%). Cottage wall only at RIGHT edge, flowering peas hang above; fresh viewpoint, no second rabbit.",
+      "actors": [
+        {
+          "pose": "crouch-palm",
+          "x": 360,
+          "ground": 950,
+          "scale": 0.8
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ]
+    },
+    {
+      "id": "b17-p03",
+      "book": 17,
+      "page": 3,
+      "brief": "The leaf moves: EXTREME LOW grazing view along flowerbed border. Single cabbage leaf dominates center foreground, blade facing viewer, stem toward RIGHT. Same rabbit carries stem in its mouth BEHIND leaf, its head and most body physically hidden by leaf and a little natural foreground clover; just tiny paws or one ear-tip may hint. Leaf is lifted slightly above ground by rabbit, never floats alone. Wood hutch blurred in far RIGHT, no people. New suspense composition, not crop of earlier scene.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ]
+    },
+    {
+      "id": "b17-p04",
+      "book": 17,
+      "page": 4,
+      "brief": "Where is leaf going: SIDE-ON path view at LOW height, cabbage leaf now moving RIGHT toward hutch across pale stepping stone. Only a little rabbit hind paw and cream fur peek beneath trailing leaf; mouth holds stem but head remains behind blade. Foreground tall grass partly occludes rabbit naturally. Hutch is near RIGHT edge, cottage gone from this angle. No people, no extra rabbit, no magic floating leaf.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ]
+    },
+    {
+      "id": "b17-p05",
+      "book": 17,
+      "page": 5,
+      "brief": "Reveal from ABOVE: gentle HIGH ANGLE looking down at complete SAME cream-brown rabbit at RIGHT(70%,78%), unmistakably gripping single cabbage leaf by stem. Leaf blade trails LEFT across paw, same small physical sizes. Low hutch at upperRIGHT, loose clover and soft earth, cottage step lowerLEFT. Leave crouching child slot LEFT(30%,94%). Rich full scene, rabbit must be clear, eye/body not covered by leaf now.",
+      "actors": [
+        {
+          "pose": "crouch-palm",
+          "x": 235,
+          "ground": 940,
+          "scale": 0.7
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ]
+    },
+    {
+      "id": "b17-p06",
+      "book": 17,
+      "page": 6,
+      "brief": "Rabbit goes home: LOW THREE-QUARTER VIEW of the hutch front filling RIGHT half, warm straw/open doorway clear, same rabbit approaching doorway from LEFT while carrying light cabbage leaf in mouth. Hind legs slightly extended in a little hop, ears angled back, anatomically natural. Path and white daisies foreground, back wall softly recedes, no people. The hutch entrance big enough for this rabbit; consistent sizes.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ]
+    },
+    {
+      "id": "b17-p07",
+      "book": 17,
+      "page": 7,
+      "brief": "Eating CLOSE-UP: same rabbit seated at its straw doorway, face threequarter to viewer, chewing leaf from its paws/mouth; leaf partly eaten with natural scalloped bite edges and much smaller blade but original-sized central rib. Whole rabbit and hutch doorway edge, soft straw, worn wood, nearby clover fill frame. No humans/hands, no extra leaf/food. Delightful tactile gouache detail, no graphic bite symbols.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ]
+    },
+    {
+      "id": "b17-p08",
+      "book": 17,
+      "page": 8,
+      "brief": "I go home too: WIDE view FROM GARDEN TOWARD COTTAGE DOOR on LEFT, clear diagonal stepping-stone path foreground. Hutch small at BACK RIGHT with same rabbit eating remaining little cabbage leaf at doorway. Child slot RIGHT foreground(64%,94%), on path toward cottage; no melon anywhere (held separately). A different closing environment view, warm intimate cottage flowers.",
+      "actors": [
+        {
+          "pose": "carry-play",
+          "x": 640,
+          "ground": 940,
+          "scale": 0.65
+        }
+      ],
+      "extras": [
+        "held-melon"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ]
+    },
+    {
+      "id": "b18-p01",
+      "book": 18,
+      "page": 1,
+      "brief": "Cold morning entry: intimate cottage room with CLOSED TEAL WINDOW at LEFT, cool pale-blue morning sky through glass, a little coat rail and soft scarf BACK RIGHT, woven basket and cream plaster wall; honey floor warm indoors. Adult brown loafers rest together at RIGHT lower edge(80%,88%). Child standing slot LEFT center(39%,94%). Distinct quiet composition, no snowstorm, no people.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 390,
+          "ground": 940,
+          "scale": 0.68
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ]
+    },
+    {
+      "id": "b18-p02",
+      "book": 18,
+      "page": 2,
+      "brief": "Dressed and ready: fresh WARDROBE-SIDE view, open low wooden clothes cupboard at LEFT with neatly folded warm sweaters, door leading to hall at BACK RIGHT, sunlit timber floor and tiny round woven mat. Brown adult loafers still unworn near RIGHT foreground(79%,88%). Clear standing child slot at(47%,94%) proud of clothing. Same home but do not repeat window composition.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 470,
+          "ground": 940,
+          "scale": 0.68
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ]
+    },
+    {
+      "id": "b18-p03",
+      "book": 18,
+      "page": 3,
+      "brief": "SIZE COMPARISON STILL LIFE, no humans/feet/legs: top-threequarter view of two pairs of shoes on warm wood floor. Adult brown loafers at RIGHT with each shoe about1.6 times CHILD orange sneaker physical length, small orange sneakers/cream laces at LEFT. Same shoe designs as references, both pairs complete and clear, aligned parallel on same floor plane, low wood skirting and basket edge at top. Fill frame with tactile shoe detail, no ruler/numbers/text.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ]
+    },
+    {
+      "id": "b18-p04",
+      "book": 18,
+      "page": 4,
+      "brief": "Trying big shoes: LOW FRONT view across hallway floor with teal doorframe LEFT and a small round mirror/coat hook high BACK, warm muted paper wall, baskets only at sides. Leave complete front-facing child slot centered(50%,94%); NO shoes painted anywhere, no feet/people. Bottom-central floor clear for independently added oversized loafers. Slight close camera makes action dominant, new view.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 500,
+          "ground": 940,
+          "scale": 0.7
+        }
+      ],
+      "extras": [
+        "big-shoes"
+      ],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ]
+    },
+    {
+      "id": "b18-p05",
+      "book": 18,
+      "page": 5,
+      "brief": "One step, shoes stay: long DIAGONAL HALLWAY view toward open teal garden door BACK LEFT, floorboard perspective leads from lowerRIGHT to upperLEFT. Adult brown loafers remain empty at LEFT foreground(34%,89%) at fixed adult physical size. Clear stepping child slot at RIGHT(64%,94%), having stepped out forward. No other shoes or people. Show free floor around stuck shoes, not same page4 view.",
+      "actors": [
+        {
+          "pose": "barefoot-step",
+          "x": 640,
+          "ground": 940,
+          "scale": 0.7
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ]
+    },
+    {
+      "id": "b18-p06",
+      "book": 18,
+      "page": 6,
+      "brief": "FEET DETAIL scene plate: warm floor at ground level, adult brown loafers left BACK(24%,57%) and empty unobstructed honey wood FOREGROUND RIGHT for a child's bare feet to be composited. Camera is close to floor; wood grain, soft rug edge and low skirting only, NO humans/feet/legs. Brown shoes are farther behind foreground feet slot, natural perspective. New close drawing, no head/face.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 400,
+          "ground": 950,
+          "scale": 3,
+          "detail": true
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ]
+    },
+    {
+      "id": "b18-p07",
+      "book": 18,
+      "page": 7,
+      "brief": "Own shoes and school bag: view beside low HALL BENCH at LEFT, small coat rail with hanging sun hat, open teal door at RIGHT spilling sunlight; textured timber floor. Clear child slot centered(51%,94%) wearing own shoes via separate actor; no bag/people/shoes painted. Bench and basket frame the action, different composition from wardrobe/window. Child will hold small sage schoolbag.",
+      "actors": [
+        {
+          "pose": "carry-play",
+          "x": 510,
+          "ground": 940,
+          "scale": 0.7
+        }
+      ],
+      "extras": [
+        "held-bag"
+      ],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ]
+    },
+    {
+      "id": "b18-p08",
+      "book": 18,
+      "page": 8,
+      "brief": "Off we go: EXTERIOR VIEW FROM SUNNY GARDEN looking into open teal cottage door BACK LEFT. Diagonal stepping-stone path leads toward RIGHT foreground through daisies. Clear adult slot LEFT(28%,94%) just outside door and child slot RIGHT(65%,94%) farther ahead on path. NO people, bags or shoes baked. Bright leafy overhead framing, coherent cottage architecture, broad cheerful ending.",
+      "actors": [
+        {
+          "pose": "carry-play",
+          "x": 650,
+          "ground": 940,
+          "scale": 0.66
+        },
+        {
+          "adult": true,
+          "x": 280,
+          "ground": 940,
+          "height": 770
+        }
+      ],
+      "extras": [
+        "held-bag"
+      ],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ]
+    },
+    {
+      "id": "b19-p01",
+      "book": 19,
+      "page": 1,
+      "brief": "Hot day water break: SUNLIT garden corner beside stone bench LEFT, a few pebbles and thyme lower edge, cottage wall/teal shutter BACK RIGHT. Small orange flower in terracotta pot on a low pale-wood stool RIGHT(77%,90%), same reference design, visible soil. Child slot LEFT(34%,94%) for drinking. No cup/can/people painted. Dappled summer light with pale warm sky, full rich scene.",
+      "actors": [
+        {
+          "pose": "drink-water",
+          "x": 340,
+          "ground": 940,
+          "scale": 0.68
+        }
+      ],
+      "extras": [
+        "held-cup"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ]
+    },
+    {
+      "id": "b19-p02",
+      "book": 19,
+      "page": 2,
+      "brief": "Watering the flower: THREEQUARTER FRONT view of working corner, old stone wall diagonal BACK LEFT, bright geraniums at far sides, usable flagstones. Exact terracotta flowerpot/low wooden stool at RIGHT(76%,94%), orange flower/stem and soil visible; left-side lower pot drainage hole, no saucer. Child slot LEFT(40%,94%) holding can separately, no can/water/people painted. Soil landing point around(73%,65%).",
+      "actors": [
+        {
+          "pose": "water-pour",
+          "x": 400,
+          "ground": 820,
+          "scale": 0.68
+        }
+      ],
+      "extras": [
+        "held-can"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ]
+    },
+    {
+      "id": "b19-p03",
+      "book": 19,
+      "page": 3,
+      "brief": "Just a little more: HIGH ANGLE CLOSE-UP of terracotta pot's DARK SOIL, orange flower stem/leaves near upperRIGHT, low stool edge visible below pot. SAGE WATERING CAN rose enters from upperLEFT, gently pouring a few small sunlit droplets onto SOIL, not petals. Same compact can/pot designs, no human hands/body, no flood. Diagonal composition, believable delicate water physically entering pot.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ]
+    },
+    {
+      "id": "b19-p04",
+      "book": 19,
+      "page": 4,
+      "brief": "Surprise wet foot DETAIL plate: LOW ANGLE across flagstones toward LOW WOOD STOOL at RIGHT; terracotta pot cropped at top but its drain area remains visible. Thin NATURAL trickle drips from lower pot hole past left stool edge to small shallow puddle flowing toward EMPTY FOREGROUND LEFT foot slot. No people/feet/legs/can. Real watery droplets/highlights, no blue pipe or schematic lines. Flower shadow across paving, warm garden texture.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 450,
+          "ground": 950,
+          "scale": 3,
+          "detail": true
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ]
+    },
+    {
+      "id": "b19-p05",
+      "book": 19,
+      "page": 5,
+      "brief": "Find the source: MACRO SIDE VIEW of lower terracotta flowerpot resting on low wooden stool corner, clearly visible little drainage hole at lowerLEFT of pot. Natural small drops bead at hole, trickle down outside stool leg to flagstones. Pot texture, stool wood and thyme plant softly frame, no people/body/feet. Water must look transparent liquid, not a tube or drawn dashed line. Fresh full painting.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ]
+    },
+    {
+      "id": "b19-p06",
+      "book": 19,
+      "page": 6,
+      "brief": "Follow the whole water path: DIAGONAL LOW VIEW from beside flowerpot at RIGHT upper-half down to wet paving in LEFT foreground. Same terracotta pot/low stool, visible drainhole and single gentle runoff trickle that flows across stone toward EMPTY child foot slot LEFT(30%,94%). Leave room for one complete child at LEFT, keep background wall low/uncluttered. Water natural highlights/shallow puddle, no human painted, can set down far RIGHT edge.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 300,
+          "ground": 940,
+          "scale": 0.76
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ]
+    },
+    {
+      "id": "b19-p07",
+      "book": 19,
+      "page": 7,
+      "brief": "Playful ending WIDE shot from SHADED TEAL DOORWAY looking into bright flowering garden: orange flower/terracotta pot/low stool at RIGHT(75%,92%) with small puddle at its feet, sage wateringcan now set down on paving nearby and no pouring. Clear child slot LEFT(37%,94%), open-hand 'aha' gesture will be separate. Varied leafy foreground frames sides, sunny airy happy scene, no people. Not same camera as page1.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 370,
+          "ground": 940,
+          "scale": 0.68
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ]
+    },
+    {
+      "id": "b20-p01",
+      "book": 20,
+      "page": 1,
+      "brief": "Start drawing after rain: intimate view of cottage PATIO beneath jasmine shade, low stone bench recedes at BACK LEFT, teal window at RIGHT, wet stone glints near margins but dry drawing patch central foreground. Clear seated child slot LEFT(35%,93%), unobstructed drawing paper area RIGHT of knees(56%,88%). No paper/pencil/people/stone painted (all separate). Fresh diagonal composition.",
+      "actors": [
+        {
+          "pose": "sit-draw",
+          "x": 350,
+          "ground": 930,
+          "scale": 0.75
+        }
+      ],
+      "extras": [
+        "drawing-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ]
+    },
+    {
+      "id": "b20-p02",
+      "book": 20,
+      "page": 2,
+      "brief": "GUST ARRIVES: LOW wide patio view toward cottage door at BACK RIGHT; overhead tree leaves sweep diagonally LEFT-to-RIGHT, scarf-like branch shadows across pale wet paving. Clear standing child slot LEFT(33%,94%) and airborne paper space at RIGHT center(72%,57%). No paper/pencil/people painted. Lively curved botanical shapes and wind direction from foliage, not text or graphic arrows.",
+      "actors": [
+        {
+          "pose": "hands-flower-open",
+          "x": 330,
+          "ground": 940,
+          "scale": 0.67
+        }
+      ],
+      "extras": [
+        "flying-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ]
+    },
+    {
+      "id": "b20-p03",
+      "book": 20,
+      "page": 3,
+      "brief": "Chase LEFT: long garden path sweeps strongly toward OPEN LOW GATE on LEFT, cottage now mostly on RIGHT edge, daisies and clover rush past foreground, leaves blown leftward. Clear running child slot RIGHT of center(57%,94%), airborne paper slot LEFT(18%,55%). Ground child-eye camera, action composition with directional diagonals. No people/paper/pencil or motion text painted.",
+      "actors": [
+        {
+          "pose": "run-left",
+          "x": 570,
+          "ground": 940,
+          "scale": 0.68,
+          "rotation": -0.07
+        }
+      ],
+      "extras": [
+        "flying-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ]
+    },
+    {
+      "id": "b20-p04",
+      "book": 20,
+      "page": 4,
+      "brief": "Chase RIGHT: REVERSE ANGLE from near gate looking toward LOW STONE BENCH and teal window at RIGHT, path now sweeps rightward, loose leaves drift right, strong opposite directional composition. Child running slot LEFT of center(43%,94%), airborne paper slot RIGHT(83%,55%). Same patio after rain but a newly painted scene and camera, no people/paper/pencil.",
+      "actors": [
+        {
+          "pose": "run-right",
+          "x": 430,
+          "ground": 940,
+          "scale": 0.68,
+          "rotation": 0.07
+        }
+      ],
+      "extras": [
+        "flying-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ]
+    },
+    {
+      "id": "b20-p05",
+      "book": 20,
+      "page": 5,
+      "brief": "Paper lands: closer THREEQUARTER view beside low stone bench on RIGHT and cottage step BACK LEFT, dry flat pale flagstone patch foreground at(56%,88%). Child crouching slot LEFT(35%,94%) with hand reaching toward landing paper; no paper/pencil/stone/people painted. A few rain glints at margins, dappled warm light. Different viewpoint, clear story action space.",
+      "actors": [
+        {
+          "pose": "crouch-palm",
+          "x": 350,
+          "ground": 940,
+          "scale": 0.82
+        }
+      ],
+      "extras": [
+        "landed-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ]
+    },
+    {
+      "id": "b20-p06",
+      "book": 20,
+      "page": 6,
+      "brief": "Try a stone: GROUND-LEVEL medium view along patio border, terra-cotta plant pots/back window high in distance, BIG flat dry flagstone foreground. Child crouching slot RIGHT(68%,94%), hands toward paper area LEFT(40%,85%). No paper/pencil/stone/people painted (all added consistently). Clear diagonal reaching action setup, rich painted stone detail, no blank stage.",
+      "actors": [
+        {
+          "pose": "crouch-book",
+          "x": 680,
+          "ground": 940,
+          "scale": 0.8
+        }
+      ],
+      "extras": [
+        "anchored-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ]
+    },
+    {
+      "id": "b20-p07",
+      "book": 20,
+      "page": 7,
+      "brief": "Wind test CLOSE-UP: small same terracotta-red drawing sheet lies FLAT on pale flagstone, broadside threequarter view, one small rounded grey pebble weighs down ONLY its LEFT edge. Paper has only one pale simple incomplete umbrella-canopy arc near center, rest blank no letters. A loose corner curls slightly in breeze but stays down, several tree leaves blow past in BACK, pencil set beside paper, stone does not cover drawing area. Full tactile composition, no people/hands/body.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ]
+    },
+    {
+      "id": "b20-p08",
+      "book": 20,
+      "page": 8,
+      "brief": "Finally drawing: WIDE CALM ending from cottage porch toward sunlit patio bench/garden flowers, teal shutters at LEFT, overhead leafy arch RIGHT, warm damp paving with a dry drawing patch foreground. Seated child slot LEFT(36%,94%) and paper patch RIGHT of knees(57%,88%). No paper/pencil/stone/people painted. Leaves settle, gentle late light, new closing scene orientation distinct from page1.",
+      "actors": [
+        {
+          "pose": "sit-draw",
+          "x": 360,
+          "ground": 940,
+          "scale": 0.75
+        }
+      ],
+      "extras": [
+        "finished-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ]
+    }
+  ]
+}

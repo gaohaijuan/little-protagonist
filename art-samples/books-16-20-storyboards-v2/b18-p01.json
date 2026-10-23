@@ -1,0 +1,37 @@
+{
+  "id": "b18-p01",
+  "book": 18,
+  "page": 1,
+  "brief": "Cold morning entry: intimate cottage room with CLOSED TEAL WINDOW at LEFT, cool pale-blue morning sky through glass, a little coat rail and soft scarf BACK RIGHT, woven basket and cream plaster wall; honey floor warm indoors. Adult brown loafers rest together at RIGHT lower edge(80%,88%). Child standing slot LEFT center(39%,94%). Distinct quiet composition, no snowstorm, no people.",
+  "actors": [
+    {
+      "pose": "barefoot-stand",
+      "x": 390,
+      "ground": 940,
+      "scale": 0.68
+    }
+  ],
+  "extras": [],
+  "refs": [
+    "preview/art/sequence/books-11-15/playroom-clear.png",
+    "art-samples/books-16-20-native/adult-shoes.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Cold morning entry: intimate cottage room with CLOSED TEAL WINDOW at LEFT, cool pale-blue morning sky through glass, a little coat rail and soft scarf BACK RIGHT, woven basket and cream plaster wall; honey floor warm indoors. Adult brown loafers rest together at RIGHT lower edge(80%,88%). Child standing slot LEFT center(39%,94%). Distinct quiet composition, no snowstorm, no people.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-4383fb4b-2e14-47ba-8993-51cc8429306b.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "b42d6628412399e7139e33d2457e181577b4111847d11553281f6cc8a3243cef"
+}

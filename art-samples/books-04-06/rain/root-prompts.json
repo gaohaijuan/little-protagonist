@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "file": "rain-alone.png",
+      "prompt": "Use case: precise-object-edit. Preserve the exact watercolor collage garden, open sage umbrella, flower outside umbrella, cream right third and full 16:9 frame. REQUIRED compositing correction: the child body is currently too tall for a large photo head under the umbrella. Redraw the SAME child outfit as a substantially SHORTER cute preschool body: collar/neck top at x=31%, y=59% of the frame (approximately y=555 on a 941px image), shoes still on ground around y=91%. Torso short, chubby legs, big-head doll proportions when head later added. Shorten arms and let left hand hold the umbrella shaft around y=67%, free right palm extending to rain around y=66%. The large empty region between umbrella canopy and collar must be 260px or more tall at the neck's x-position. Do NOT add a head/face/hair/ears or placeholder; all region above neck stays garden background. Shaft remains on left side of head area. Same yellow top, plain small cream patch pocket, sage shorts, ivory socks and red shoes. No face or head. No extra elements. This is a body-only compositing layer."
+    },
+    {
+      "file": "rain-walk.png",
+      "prompt": "Use case: illustration-story / precise-object-edit. Make the NEXT story moment from this reference rainy-garden image, keep exactly the same distinctive watercolor/torn-paper craft style, sage umbrella, coral-orange rooted daisy, garden path and cottage, muted palette and 16:9 cream right third. The child now takes a little step toward the flower on the RIGHT, moving their umbrella toward it. The flower stays rooted in the same ground spot, the child is the one who moves. One short chubby preschool body in mustard sweater with plain cream pocket, sage shorts, socks and red shoes. One foot stepping, other hand extending toward flower, torso is still mostly front-facing with slight lean right (not profile). Body at x=37%, flower at x=57%, leave headroom. ABSOLUTELY NO HEAD, HAIR, FACE, EARS, OR head placeholder; neck top and collar visible, background continuous above. Give a much shorter cute body: neck/collar roughly y=56% and feet y=91%, not an adult tall body. Umbrella lifted high, canopy bottom around y=22%, shaft beside head. Preserve at least 260 pixels of EMPTY background from collar to underside of canopy at character x, large cartoon/photo head will be composited here. Rightmost 35% clean cream paper for live text, no text in picture. No additional people, no real photo head. Gentle warm rain, leaves bend slightly, no scary storm."
+    },
+    {
+      "file": "curious-head.png",
+      "prompt": "Use case: precise-object-edit. Create a transparent isolated HEAD of the SAME cute illustrated preschool child in the reference, preserving the handmade torn-paper hair and watercolor-paper skin, same facial identity, warm skin, short dark tousled hair, and chubby cheeks. Change expression ONLY: soft curious concentration, mouth gently closed, eyebrows slightly raised, both pupils looking subtly downward and slightly to viewer's right toward their own hands/a flower. Face remains almost frontal, not profile; tiny natural tilt. NOT smiling at camera. Only entire head including ALL hair and ears and full chin, no neck, no torso, no clothes, no border, no shadow, no text. True transparent background. Generous transparent margin around every hair tip. Do not become a photograph or a realistic adult; preserve the exact paper-collage cartoon style of reference."
+    }
+  ]
+}

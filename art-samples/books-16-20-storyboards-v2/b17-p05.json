@@ -1,0 +1,39 @@
+{
+  "id": "b17-p05",
+  "book": 17,
+  "page": 5,
+  "brief": "Reveal from ABOVE: gentle HIGH ANGLE looking down at complete SAME cream-brown rabbit at RIGHT(70%,78%), unmistakably gripping single cabbage leaf by stem. Leaf blade trails LEFT across paw, same small physical sizes. Low hutch at upperRIGHT, loose clover and soft earth, cottage step lowerLEFT. Leave crouching child slot LEFT(30%,94%). Rich full scene, rabbit must be clear, eye/body not covered by leaf now.",
+  "actors": [
+    {
+      "pose": "crouch-palm",
+      "x": 300,
+      "ground": 940,
+      "scale": 0.8
+    }
+  ],
+  "extras": [],
+  "refs": [
+    "art-samples/books-16-20-native/garden-nook.png",
+    "art-samples/books-16-20-native/rabbit.png",
+    "art-samples/books-16-20-native/cabbage-leaf.png",
+    "art-samples/books-16-20-native/rabbit-hutch.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Reveal from ABOVE: gentle HIGH ANGLE looking down at complete SAME cream-brown rabbit at RIGHT(70%,78%), unmistakably gripping single cabbage leaf by stem. Leaf blade trails LEFT across paw, same small physical sizes. Low hutch at upperRIGHT, loose clover and soft earth, cottage step lowerLEFT. Leave crouching child slot LEFT(30%,94%). Rich full scene, rabbit must be clear, eye/body not covered by leaf now.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8e085b8d-ee76-4127-a145-0889d2a23ba3.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "56089c6a5b7284dd110f7002d9723d855969698d6be6f58618d2fc5616b02a13"
+}

@@ -1,0 +1,759 @@
+{
+  "version": 1,
+  "status": "no-approved-replacements",
+  "approvedAssets": [],
+  "assets": [
+    {
+      "oldResourcePath": "preview/art/intro/greeting.webp",
+      "originalSourcePath": "art-samples/my-introduction-production/greeting.png",
+      "originalDimensions": [
+        1672,
+        941
+      ],
+      "newFilePath": null,
+      "newDimensions": null,
+      "status": "unresolved",
+      "passes300ppi": false,
+      "worstEffectivePpi": 214.8,
+      "reason": "No native higher resolution source found; built-in image generator returned approximately 1.57 megapixels despite explicit larger output request. No interpolated substitute accepted."
+    },
+    {
+      "oldResourcePath": "preview/art/intro/play.webp",
+      "originalSourcePath": "art-samples/my-introduction-production/play.png",
+      "originalDimensions": [
+        1672,
+        941
+      ],
+      "newFilePath": null,
+      "newDimensions": null,
+      "status": "unresolved",
+      "passes300ppi": false,
+      "worstEffectivePpi": 142.67,
+      "reason": "No native higher resolution source found; built-in image generator returned approximately 1.57 megapixels despite explicit larger output request. No interpolated substitute accepted."
+    },
+    {
+      "oldResourcePath": "preview/art/intro/school.webp",
+      "originalSourcePath": "art-samples/my-introduction-production/school.png",
+      "originalDimensions": [
+        1672,
+        941
+      ],
+      "newFilePath": null,
+      "newDimensions": null,
+      "status": "unresolved",
+      "passes300ppi": false,
+      "worstEffectivePpi": 148.37,
+      "reason": "No native higher resolution source found; built-in image generator returned approximately 1.57 megapixels despite explicit larger output request. No interpolated substitute accepted."
+    },
+    {
+      "oldResourcePath": "preview/art/flower/care.webp",
+      "originalSourcePath": "art-samples/my-flower-production/care.png",
+      "originalDimensions": [
+        1672,
+        941
+      ],
+      "newFilePath": null,
+      "newDimensions": null,
+      "status": "unresolved",
+      "passes300ppi": false,
+      "worstEffectivePpi": 102.95,
+      "reason": "No native higher resolution source found; built-in image generator returned approximately 1.57 megapixels despite explicit larger output request. No interpolated substitute accepted."
+    },
+    {
+      "oldResourcePath": "preview/art/flower/wind.webp",
+      "originalSourcePath": "art-samples/my-flower-production/wind.png",
+      "originalDimensions": [
+        1672,
+        941
+      ],
+      "newFilePath": null,
+      "newDimensions": null,
+      "status": "unresolved",
+      "passes300ppi": false,
+      "worstEffectivePpi": 214.82,
+      "reason": "No native higher resolution source found; built-in image generator returned approximately 1.57 megapixels despite explicit larger output request. No interpolated substitute accepted."
+    },
+    {
+      "oldResourcePath": "preview/art/flower/search.webp",
+      "originalSourcePath": "art-samples/my-flower-production/search.png",
+      "originalDimensions": [
+        1672,
+        941
+      ],
+      "newFilePath": null,
+      "newDimensions": null,
+      "status": "unresolved",
+      "passes300ppi": false,
+      "worstEffectivePpi": 214.82,
+      "reason": "No native higher resolution source found; built-in image generator returned approximately 1.57 megapixels despite explicit larger output request. No interpolated substitute accepted."
+    },
+    {
+      "oldResourcePath": "preview/art/sequence/hands/hands-show.webp",
+      "originalSourcePath": "art-samples/books-04-06/hands/hands-show.png",
+      "originalDimensions": [
+        1672,
+        941
+      ],
+      "newFilePath": null,
+      "newDimensions": null,
+      "status": "unresolved",
+      "passes300ppi": false,
+      "worstEffectivePpi": 214.8,
+      "reason": "No native higher resolution source found; built-in image generator returned approximately 1.57 megapixels despite explicit larger output request. No interpolated substitute accepted."
+    },
+    {
+      "oldResourcePath": "preview/art/sequence/hands/hands-open.webp",
+      "originalSourcePath": "art-samples/books-04-06/hands/hands-open.png",
+      "originalDimensions": [
+        1672,
+        941
+      ],
+      "newFilePath": null,
+      "newDimensions": null,
+      "status": "unresolved",
+      "passes300ppi": false,
+      "worstEffectivePpi": 144.95,
+      "reason": "No native higher resolution source found; built-in image generator returned approximately 1.57 megapixels despite explicit larger output request. No interpolated substitute accepted."
+    },
+    {
+      "oldResourcePath": "preview/art/sequence/hands/hands-closed.webp",
+      "originalSourcePath": "art-samples/books-04-06/hands/hands-closed.png",
+      "originalDimensions": [
+        1672,
+        941
+      ],
+      "newFilePath": null,
+      "newDimensions": null,
+      "status": "unresolved",
+      "passes300ppi": false,
+      "worstEffectivePpi": 146.09,
+      "reason": "No native higher resolution source found; built-in image generator returned approximately 1.57 megapixels despite explicit larger output request. No interpolated substitute accepted."
+    }
+  ],
+  "printAssumptions": {
+    "illustrationPanelWidthMm": 128.5,
+    "illustrationPanelHeightMm": 111.27252747252747,
+    "legacyCanvas": [
+      1400,
+      788
+    ],
+    "leftIllustrationFraction": 0.65,
+    "safePanelXmm": [
+      8,
+      136.5
+    ],
+    "note": "Camera expansion for user hair decreases enlargement. These measurements apply to the greatest no-extra-hair camera enlargement. Cover layouts require their actual output camera to be evaluated separately."
+  },
+  "pageAudit": [
+    {
+      "book": "intro",
+      "page": 1,
+      "scene": "greeting",
+      "sourceCrop": {
+        "x": 450,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1087,
+        "height": 941.2703296703296
+      },
+      "effectivePpiAtMaximumPanel": 214.86,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3962,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2335,
+        1314
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.03
+    },
+    {
+      "book": "intro",
+      "page": 2,
+      "scene": "play",
+      "sourceCrop": {
+        "x": 280,
+        "y": 0,
+        "width": 720,
+        "height": 625
+      },
+      "expandedCamera": {
+        "width": 721.763959390863,
+        "height": 625
+      },
+      "effectivePpiAtMaximumPanel": 142.67,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 2.1028,
+      "requiredFullSourceDimensionsAt300ppi": [
+        3516,
+        1979
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        3520,
+        1984
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 61.11
+    },
+    {
+      "book": "intro",
+      "page": 3,
+      "scene": "greeting",
+      "sourceCrop": {
+        "x": 35,
+        "y": 0,
+        "width": 1052,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1086.6878172588833,
+        "height": 941
+      },
+      "effectivePpiAtMaximumPanel": 214.8,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3966,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2336,
+        1315
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.01
+    },
+    {
+      "book": "intro",
+      "page": 4,
+      "scene": "play",
+      "sourceCrop": {
+        "x": 0,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1087,
+        "height": 941.2703296703296
+      },
+      "effectivePpiAtMaximumPanel": 214.86,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3962,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2335,
+        1314
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.03
+    },
+    {
+      "book": "intro",
+      "page": 5,
+      "scene": "school",
+      "sourceCrop": {
+        "x": 245,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1087,
+        "height": 941.2703296703296
+      },
+      "effectivePpiAtMaximumPanel": 214.86,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3962,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2335,
+        1314
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.03
+    },
+    {
+      "book": "intro",
+      "page": 6,
+      "scene": "school",
+      "sourceCrop": {
+        "x": 325,
+        "y": 0,
+        "width": 750,
+        "height": 650
+      },
+      "expandedCamera": {
+        "width": 750.6345177664975,
+        "height": 650
+      },
+      "effectivePpiAtMaximumPanel": 148.37,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 2.0219,
+      "requiredFullSourceDimensionsAt300ppi": [
+        3381,
+        1903
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        3392,
+        1904
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 63.55
+    },
+    {
+      "book": "hands",
+      "page": 1,
+      "scene": "show",
+      "sourceCrop": {
+        "x": 250,
+        "y": 0,
+        "width": 860,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1086.6878172588833,
+        "height": 941
+      },
+      "effectivePpiAtMaximumPanel": 214.8,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3966,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2336,
+        1315
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.01
+    },
+    {
+      "book": "hands",
+      "page": 2,
+      "scene": "open",
+      "sourceCrop": {
+        "x": 250,
+        "y": 0,
+        "width": 860,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1086.6878172588833,
+        "height": 941
+      },
+      "effectivePpiAtMaximumPanel": 214.8,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3966,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2336,
+        1315
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.01
+    },
+    {
+      "book": "hands",
+      "page": 3,
+      "scene": "closed",
+      "sourceCrop": {
+        "x": 250,
+        "y": 0,
+        "width": 860,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1086.6878172588833,
+        "height": 941
+      },
+      "effectivePpiAtMaximumPanel": 214.8,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3966,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2336,
+        1315
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.01
+    },
+    {
+      "book": "hands",
+      "page": 4,
+      "scene": "closed",
+      "sourceCrop": {
+        "x": 340,
+        "y": 0,
+        "width": 720,
+        "height": 640
+      },
+      "expandedCamera": {
+        "width": 739.0862944162437,
+        "height": 640
+      },
+      "effectivePpiAtMaximumPanel": 146.09,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 2.0535,
+      "requiredFullSourceDimensionsAt300ppi": [
+        3434,
+        1933
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        3440,
+        1936
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 62.58
+    },
+    {
+      "book": "hands",
+      "page": 5,
+      "scene": "open",
+      "sourceCrop": {
+        "x": 315,
+        "y": 0,
+        "width": 795,
+        "height": 830
+      },
+      "expandedCamera": {
+        "width": 958.502538071066,
+        "height": 830
+      },
+      "effectivePpiAtMaximumPanel": 189.46,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.5834,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2648,
+        1491
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2656,
+        1504
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 81.15
+    },
+    {
+      "book": "hands",
+      "page": 6,
+      "scene": "open",
+      "sourceCrop": {
+        "x": 340,
+        "y": 0,
+        "width": 720,
+        "height": 635
+      },
+      "expandedCamera": {
+        "width": 733.3121827411168,
+        "height": 635
+      },
+      "effectivePpiAtMaximumPanel": 144.95,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 2.0697,
+      "requiredFullSourceDimensionsAt300ppi": [
+        3461,
+        1948
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        3472,
+        1952
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 62.09
+    },
+    {
+      "book": "flower",
+      "page": 1,
+      "scene": "care",
+      "sourceCrop": {
+        "x": 0,
+        "y": 0,
+        "width": 1086.8,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1086.8,
+        "height": 941.0971428571428
+      },
+      "effectivePpiAtMaximumPanel": 214.82,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3965,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2335,
+        1315
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.02
+    },
+    {
+      "book": "flower",
+      "page": 2,
+      "scene": "care",
+      "sourceCrop": {
+        "x": 520,
+        "y": 446,
+        "width": 520,
+        "height": 451
+      },
+      "expandedCamera": {
+        "width": 520.8248730964467,
+        "height": 451
+      },
+      "effectivePpiAtMaximumPanel": 102.95,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 2.9141,
+      "requiredFullSourceDimensionsAt300ppi": [
+        4873,
+        2743
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        4880,
+        2752
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 44.1
+    },
+    {
+      "book": "flower",
+      "page": 3,
+      "scene": "wind",
+      "sourceCrop": {
+        "x": 0,
+        "y": 0,
+        "width": 1086.8,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1086.8,
+        "height": 941.0971428571428
+      },
+      "effectivePpiAtMaximumPanel": 214.82,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3965,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2335,
+        1315
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.02
+    },
+    {
+      "book": "flower",
+      "page": 4,
+      "scene": "wind",
+      "sourceCrop": {
+        "x": 0,
+        "y": 0,
+        "width": 1086.8,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1086.8,
+        "height": 941.0971428571428
+      },
+      "effectivePpiAtMaximumPanel": 214.82,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3965,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2335,
+        1315
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.02
+    },
+    {
+      "book": "flower",
+      "page": 5,
+      "scene": "wind",
+      "sourceCrop": {
+        "x": 0,
+        "y": 0,
+        "width": 1086.8,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1086.8,
+        "height": 941.0971428571428
+      },
+      "effectivePpiAtMaximumPanel": 214.82,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3965,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2335,
+        1315
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.02
+    },
+    {
+      "book": "flower",
+      "page": 6,
+      "scene": "search",
+      "sourceCrop": {
+        "x": 0,
+        "y": 0,
+        "width": 1086.8,
+        "height": 941
+      },
+      "expandedCamera": {
+        "width": 1086.8,
+        "height": 941.0971428571428
+      },
+      "effectivePpiAtMaximumPanel": 214.82,
+      "passes300ppi": false,
+      "requiredNativeResolutionMultiplier": 1.3965,
+      "requiredFullSourceDimensionsAt300ppi": [
+        2335,
+        1315
+      ],
+      "requiredFullSourceDimensionsRoundedTo16": [
+        2336,
+        1328
+      ],
+      "minimumIndependentCameraPixels": [
+        1518,
+        1315
+      ],
+      "maximumPanelWidthMmAt300ppi": 92.02
+    }
+  ],
+  "rejectedCandidates": [
+    {
+      "oldResourcePath": "preview/art/intro/greeting.webp",
+      "candidatePath": "art-samples/print-hires-first/intro/greeting-generated-1672-rejected.png",
+      "requestedDimensions": [
+        3840,
+        2160
+      ],
+      "actualDimensions": [
+        1672,
+        941
+      ],
+      "generationSource": "built-in image_gen edit from art-samples/my-introduction-production/greeting.png",
+      "status": "rejected",
+      "passes300ppi": false,
+      "reason": "Actual output has the same pixel dimensions as the original. Geometry was visually similar but this does not improve source sampling."
+    },
+    {
+      "oldResourcePath": "preview/art/flower/care.webp",
+      "candidatePath": "art-samples/print-hires-first/flower/care-closeup-generated.png",
+      "requestedDimensions": [
+        2304,
+        2000
+      ],
+      "actualDimensions": [
+        1345,
+        1169
+      ],
+      "generationSource": "built-in image_gen edit, independent close-up of original crop (520,446,520,451)",
+      "proposedCropMapping": {
+        "x": 0,
+        "y": 0,
+        "width": 1345,
+        "height": 1169
+      },
+      "effectivePpiAtMaximumPanel": 265.86,
+      "maximumWidthMmAt300ppi": 113.88,
+      "status": "rejected",
+      "passes300ppi": false,
+      "reason": "Under 300ppi at maximum panel. Flower center, hands, knee, shoe and leaf move relative to original crop; collar enters top edge. Mapping is diagnostic only and must not be connected."
+    }
+  ],
+  "qaFiles": [
+    "art-samples/print-hires-first/originals-qa-contact.png",
+    "art-samples/print-hires-first/flower/closeup-qa-comparison.png"
+  ],
+  "restrictions": [
+    "No real portrait input was sent to ImageGen.",
+    "No original source or existing manifest was changed.",
+    "No candidate was copied into serving asset directories.",
+    "No interpolation or DPI metadata alteration was used to claim source detail."
+  ]
+}

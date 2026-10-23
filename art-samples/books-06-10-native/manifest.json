@@ -1,0 +1,167 @@
+{
+  "method": "Built-in imagegen; no API; actual native resolution; transparent production layers",
+  "files": [
+    {
+      "name": "child-umbrella",
+      "status": "used",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "sha256": "6b62c2892a7d7ae8d4179f366cfc13f9e37e0ca4053d5ecf9ddae50e956feacc"
+    },
+    {
+      "name": "child-water-reach",
+      "status": "used",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "sha256": "600395a75a66a344877259437151a69a018550e62bd9d32e7c35e1a343ecc98a"
+    },
+    {
+      "name": "rain-garden",
+      "status": "used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "sha256": "eef5607dda870482d6a16a416dc588925bd2fbba48323bf0fb60c2c8e4e9ca11"
+    },
+    {
+      "name": "umbrella",
+      "status": "not-used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "75769cdcfe38a2a61e4e0cb6354a6f7f8902929119d8785588c058927f580c04"
+    },
+    {
+      "name": "night-garden",
+      "status": "used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "sha256": "1a96362d977d0442b7083b4641300ba29bf41635163557e259199ac98c96aafd"
+    },
+    {
+      "name": "basin-still",
+      "status": "used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "a29522cfccf536163f39eb744ca924faf126ddae7f6638d73f724bf42e8aa4de"
+    },
+    {
+      "name": "basin-ripples",
+      "status": "used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "1006f9a88894139fdc24ad92244c4135f49a7944ed60cac8630230cebb5b2bff"
+    },
+    {
+      "name": "bird-garden",
+      "status": "not-used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "sha256": "4fc9533b38197c979d2ed67fefd559fb78aeaec90039ea1295606c54fec7c94e"
+    },
+    {
+      "name": "bird",
+      "status": "used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "961d7236757d1f98f02b2f689c46e87b198dd5f21c10514335a8cd58393caea8"
+    },
+    {
+      "name": "cat",
+      "status": "used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "486f6fe40a00e12db5f67f5445ad456bbf3ef4d8f4d7c84b40871fae60b2361b"
+    },
+    {
+      "name": "tricycle",
+      "status": "used",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "sha256": "71c8f2007a84de0984c4845b2d87fe666de58dec1ee5dfe05c761722fc8892d1"
+    },
+    {
+      "name": "bird-quiet",
+      "status": "used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "98ecb0699444509d32da0137c9f5da0be18c581aaff4be82db1c93c74ad0fde7"
+    },
+    {
+      "name": "umbrella-long",
+      "status": "used",
+      "pixels": [
+        1049,
+        1499
+      ],
+      "mode": "RGBA",
+      "sha256": "2d4372abddf15e11c09e2dfffc44036a137df2be103bd875e0560d13d36c2d64"
+    },
+    {
+      "name": "bird-garden-small-tree",
+      "status": "used",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "sha256": "27e0a4d7f28133718784bb74de0240d43af7a70d3b5e729813f8c9ed37e56bc8"
+    },
+    {
+      "name": "pebble",
+      "status": "used",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "sha256": "8983a19f7a70ebac181d40aa5d4a0537589d297e3e64b08ab2b128739c229e0e"
+    },
+    {
+      "name": "dark-cloud",
+      "status": "used",
+      "pixels": [
+        2057,
+        765
+      ],
+      "mode": "RGBA",
+      "sha256": "f2b86e0610d016e19d299ce6b4ed16275cb9a1ec373d46e8cd9a9e052f7e2bcc"
+    }
+  ],
+  "printCertified": false,
+  "provenance": "generation-records.json"
+}

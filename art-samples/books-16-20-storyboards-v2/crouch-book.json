@@ -1,0 +1,22 @@
+{
+  "name": "crouch-book",
+  "ref": "art-samples/books-11-15-native/child-crouch-palm-v2.png",
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. PIXEL REGISTERED pose edit same1024x1536 child: neck anchor510320, headless neck top276, torso hem735, knees/feet bottom1191 stay in place and unchanged size. Only adjust forearms/hands: BOTH hands gently extend forward, palms up around(390,800) and(680,800), ready to lift an open book added separately. Same natural deep squat, exact small shoe size220px, same torso/limbs/sage shorts/yellow sweater. No book/props/head/floor/shadow/glow; true alpha. Do not zoom or enlarge body.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-42762ac7-9487-4527-ab10-ccbc09565560.png",
+  "nativeSize": [
+    1024,
+    1536
+  ],
+  "bounds": [
+    167,
+    244,
+    963,
+    1244
+  ],
+  "alphaRange": [
+    0,
+    254
+  ],
+  "accepted": true,
+  "sha256": "ea9bc6bb4ba9308320dea207e50a73be2ea483427e9eec2472492006ce791627"
+}

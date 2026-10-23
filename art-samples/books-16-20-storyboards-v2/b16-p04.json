@@ -1,0 +1,40 @@
+{
+  "id": "b16-p04",
+  "book": 16,
+  "page": 4,
+  "brief": "Moving the book: medium SIDE view from bookshelf looking toward teal cottage door on RIGHT, small linen cushion LEFT, diagonal rug edge sweeping from lower-left to center. Kitten sitting on the OLD reading spot at (24%,85%), looking toward RIGHT. NO open book anywhere (will be held separately). Clear crouching child slot centered(57%,93%); a free patch of floor RIGHT is where book will be placed. Entire room angle freshly painted.",
+  "actors": [
+    {
+      "pose": "crouch-book",
+      "x": 570,
+      "ground": 930,
+      "scale": 0.8
+    }
+  ],
+  "extras": [
+    "held-book"
+  ],
+  "refs": [
+    "preview/art/sequence/books-11-15/playroom-clear.png",
+    "art-samples/books-16-20-native/open-book.png",
+    "preview/art/sequence/books-06-10/cat.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Moving the book: medium SIDE view from bookshelf looking toward teal cottage door on RIGHT, small linen cushion LEFT, diagonal rug edge sweeping from lower-left to center. Kitten sitting on the OLD reading spot at (24%,85%), looking toward RIGHT. NO open book anywhere (will be held separately). Clear crouching child slot centered(57%,93%); a free patch of floor RIGHT is where book will be placed. Entire room angle freshly painted.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-d572f64f-9e59-43b4-9b01-f6424733f725.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "112f25b01280b9beee566655bdfeb1e6c35b31678c3718f877addaa910262dcc"
+}

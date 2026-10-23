@@ -1,0 +1,1 @@
+<view class="legal-page"><view class="legal-title">{{title}}</view><view class="version">说明版本：{{version}}</view><view wx:for="{{paragraphs}}" wx:key="*this" class="paragraph">{{index + 1}}. {{item}}</view></view>

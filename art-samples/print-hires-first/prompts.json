@@ -1,0 +1,13 @@
+{
+  "mode": "built-in image_gen edit",
+  "attempts": [
+    {
+      "asset": "intro/greeting",
+      "prompt": "Use case: precise-object-edit. Edit target: the attached existing children's story painting. Create an actual 3840x2160 pixel 4K restoration master with newly resolved fine watercolor and paper details, not interpolated blurry enlargement. Keep composition registered exactly to this source at normalized coordinates: same entire framing and 16:9 aspect, same girl at left, same headless yellow sweater child in center, exact same collar position and shape (source collar center x675,y379 on 1672x941), same hands, body and limb proportions, shorts, shoes, all object positions, cottage tree foliage path background boundaries, same warm colors and watercolor brush style, same blank cream paper right third. This is geometry-preserving restoration only. Preserve the empty neck above the sweater: DO NOT add or invent a head, face, hair, or neck; a real child photo will be composited separately later. Do not enlarge or move body, collar, limbs or any prop; no new text, watermarks, frames. Render crisp natural illustrated detail at 3840x2160."
+    },
+    {
+      "asset": "flower/care-closeup",
+      "prompt": "Use case: precise-object-edit. Input: existing illustration edit target, no real portrait present. Produce a separate high resolution close-up illustration master, EXACT OUTPUT 2304 x 2000 pixels. Zoom the rectangle x520,y446,width520,height451 from the input's 1672x941 coordinates to fill the entire new 2304x2000 canvas. This is the existing flower-and-hands close-up, not a new composition. Preserve relative geometry of every visible object: red-orange daisy centered at source (791,563), both child's hands on either side, yellow sweater lower part on left, green shorts and bent knee and red shoe in lower-left, flower stem and two dark leaves, small orange snail on leaf below-left of flower, garden background. All shapes, positions, anatomy and crop edges stay fixed to that crop. Re-render only natural watercolor detail at native high resolution without blur or mere interpolated enlargement. Same warm textured watercolor paper and pastel colors. No head or face or hair visible, no text, no watermark. Important: remove the distant cream blank right third by using precisely the specified close crop; do not retain the wide original framing. Pixel dimensions must be at least 2000 wide and 1735 high."
+    }
+  ]
+}

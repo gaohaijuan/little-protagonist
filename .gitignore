@@ -1,0 +1,11 @@
+node_modules/
+project.private.config.json
+.local/
+preview/qa-*.png
+preview/test-results/
+preview/qa/
+*.log
+server/data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal

@@ -1,0 +1,7 @@
+{
+  "name": "child-sit-draw-v2",
+  "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/books-16-20-native/child-sit-read-v2.png",
+  "alpha": true,
+  "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. MINIMAL LOCAL HAND EDIT ONLY. Lock supplied target canvas1024x1536 and its exact position/scale. CRITICAL EMPTY TRANSPARENT BAND y0..364 must remain EMPTY; neck starts365, collar(501,400), hem930, feet1250; do not move neck to200 or enlarge body! Keep sweater/neck/shoulders/torso/waist/hips/both crossed legs/feet pixels in their original positions. Change image-left palm only to rest on existing knee; change image-right forearm downward with hand gently pinching imaginary pencil at(700,1040), over existing right crossed leg. Fingers natural 3-point drawing grip. No pencil baked in. All body parts retain original size, sneaker length~230px, not300. Same headless neck and alpha, no added head, props, floor or shadow. Preserve empty margins.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-054a5777-6f12-4cc8-9e60-3c11901f35a4.png"
+}

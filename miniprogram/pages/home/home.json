@@ -1,0 +1,5 @@
+{
+  "navigationBarTitleText": "小小故事家",
+  "pageOrientation": "portrait",
+  "usingComponents": { "story-art": "/components/story-art/story-art" }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "b20-p05",
+  "book": 20,
+  "page": 5,
+  "brief": "Paper lands: closer THREEQUARTER view beside low stone bench on RIGHT and cottage step BACK LEFT, dry flat pale flagstone patch foreground at(56%,88%). Child crouching slot LEFT(35%,94%) with hand reaching toward landing paper; no paper/pencil/stone/people painted. A few rain glints at margins, dappled warm light. Different viewpoint, clear story action space.",
+  "actors": [
+    {
+      "pose": "crouch-palm",
+      "x": 350,
+      "ground": 940,
+      "scale": 0.82
+    }
+  ],
+  "extras": [
+    "landed-paper"
+  ],
+  "refs": [
+    "art-samples/books-16-20-native/after-rain-patio.png",
+    "art-samples/books-16-20-native/red-paper.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Paper lands: closer THREEQUARTER view beside low stone bench on RIGHT and cottage step BACK LEFT, dry flat pale flagstone patch foreground at(56%,88%). Child crouching slot LEFT(35%,94%) with hand reaching toward landing paper; no paper/pencil/stone/people painted. A few rain glints at margins, dappled warm light. Different viewpoint, clear story action space.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-995e3b42-184f-44f3-ad96-c0624904bc8c.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "a7833e9f3e34f32874e111c058b9a5da024b5eb6e67aef01746767bc9cae01ad"
+}

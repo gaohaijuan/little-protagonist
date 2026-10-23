@@ -1,0 +1,23 @@
+<view wx:if="{{book}}" class="reader-root">
+  <view wx:if="{{readingNotice}}" class="reading-notice" role="status">{{readingNotice}}</view>
+  <view wx:if="{{!isLandscape}}" class="rotate-screen">
+    <text class="rotate-eyebrow">{{book.group}} · {{book.pages.length}} 页的小故事</text>
+    <view class="rotate-picture"><view class="phone-shape"><view class="phone-dot"></view><text class="phone-flower">✿</text></view><text class="rotate-arrow">↻</text></view>
+    <view class="rotate-title">把手机横过来</view>
+    <view class="rotate-copy"><view>大大的画，大大的字，</view><view>准备好读你的故事啦。</view></view>
+    <view class="rotate-help"><view>横放手机后，故事会自动展开。</view><view>如果没有旋转，请检查手机的屏幕旋转锁定。</view></view>
+    <button class="secondary-button back-home" bindtap="goHome">返回小书架</button>
+  </view>
+  <view wx:elif="{{finished}}" class="completion">
+    <view class="finish-illustration"><story-art book="intro" page="0" avatar-path="{{profile.avatarPath}}" /></view>
+    <view class="finish-copy"><view class="finish-star">✦</view><view class="finish-title">又读完一本！</view><view class="finish-note">{{profile.name}}，故事里见。</view><view class="finish-actions"><button class="primary-button" bindtap="readAgain">再读一遍</button><button class="secondary-button" bindtap="goHome">回到小书架</button></view></view>
+  </view>
+  <view wx:else class="reading-page">
+    <view class="reader-top"><text class="book-label">{{book.group}} · {{book.tag}}</text><text class="page-label">{{pageIndex + 1}} / {{book.pages.length}}</text></view>
+    <view class="story-spread" bindtouchstart="touchStart" bindtouchend="touchEnd">
+      <view class="story-picture"><story-art book="{{book.id}}" page="{{pageIndex}}" avatar-path="{{profile.avatarPath}}" /></view>
+      <view class="story-words"><text wx:for="{{lines}}" wx:key="*this" class="story-line">{{item}}</text></view>
+    </view>
+    <view class="reader-bottom"><button class="turn-button previous" disabled="{{pageIndex === 0}}" bindtap="previousPage">← 上一页</button><view class="page-dots"><view wx:for="{{pageNumbers}}" wx:key="*this" class="page-dot {{item === pageIndex ? 'active' : ''}}"></view></view><button class="turn-button next" bindtap="nextPage">{{pageIndex === book.pages.length - 1 ? '读完啦 ✓' : '下一页 →'}}</button></view>
+  </view>
+</view>

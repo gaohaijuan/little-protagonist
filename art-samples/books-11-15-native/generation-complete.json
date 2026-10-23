@@ -1,0 +1,448 @@
+{
+  "mode": "built-in imagegen",
+  "assets": [
+    {
+      "name": "child-push",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. Edit ONLY the ARMS of this HEADLESS CHILD MASTER. Keep exact native canvas1024x1536, collar center(501,225), same torso size/knit yellow sweater/ivory pocket, shorts, legs, socks, shoes and feet about y1405, original pixel density. Reach both forearms down and toward the child's right, palms gently gripping an imaginary toy-cart push bar near (850,820); no actual cart, bar, stone or other prop in this layer. Keep original shoulder/upper-arm/forearm lengths, do not lengthen limbs to reach target. Empty neck stump; absolutely no head, hair or face. Fully isolated genuine clean alpha, no coloured halo or ground shadow. Do not scale, move, thin or stretch torso or legs.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-b9f8a6aa-2f5f-408e-b89f-1c9a0b6be30c.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        249,
+        199,
+        930,
+        1400
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "child-carry",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. Edit ONLY the ARMS of this HEADLESS CHILD MASTER. Preserve exact1024x1536 canvas/collar(501,225), original torso and leg pixel density, same yellow sweater, pocket, shorts, socks and shoes ending about1405. Bend both elbows naturally so forearms form a cradle in front of lower chest/belly, open curved palms around source (380,600) and (700,600), ready to hold two small play balls. NO BALLS or other props painted here. Same intrinsic arm lengths and hand sizes as master, no longer/thicker limbs, unchanged torso/legs and outfit. Empty neck stump without head/hair/face. Genuine isolated clean transparent background, no glow or ground shadow.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-b7da7d39-fc9c-4f8c-92df-c9e18513bb83.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        179,
+        127,
+        888,
+        1446
+      ],
+      "accepted": false,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "child-crouch-palm",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. Derive ONE anatomically coherent DEEP SQUATTING action from this exact HEADLESS CHILD MASTER, using the SAME underlying child's intrinsic dimensions and source pixel density. Same yellow sweater/ivory pocket/sage shorts/white socks/orange shoes. Keep sweater spine length around490px along torso, shoe lengths around210px, unchanged upper/lower arm and leg lengths; natural bending changes projected extents, never shrink the whole body to fit. Low natural squat with knees bent and torso inclined forward; left hand rests on a knee, right arm reaches gently outward and DOWN with an OPEN UPWARD PALM just above ground level, for an insect to walk onto. Knees/shoes can spread; stance should be physically balanced, no kneeling on impossibly tiny feet, no long arms. Body only, EMPTY collar/neck stump, no head, hair, bug, soil or props. Fit whole pose on a transparent1024x1536 canvas with spare margins, native master density; squatting silhouette shorter than standing. It is okay for collar anchor to move in this action; do not restore standing height by stretching. Genuine clean alpha, no glow/shadow/background.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-25c82d4f-adbb-4174-b0d5-219c5b05e822.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        41,
+        249,
+        990,
+        1301
+      ],
+      "accepted": false,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "child-carry-v2",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "alpha": true,
+      "prompt": "STRICT REGISTERED SPRITE EDIT. Input is the exact1024x1536 HEADLESS child master, NOT a style reference. The result MUST keep the original pixel positions of neckline (center501,225; top about200), torso hem y700, shorts y950, knees/socks and shoes ending about1405. Keep the entire original torso, legs, shoes, pose scale and all margins unchanged. Inpaint ONLY forearms/hands so both hands cup upward in front of lower chest around x400/650,y550, as if receiving two small balls. Do not redraw/lengthen torso, enlarge clothes, raise collar or zoom in. No ball painted. Same watercolor/gouache, empty neck, genuine transparent background. Pixel registration is more important than making asset fill canvas; preserve empty top and bottom margins exactly. No head, hair, face, background, glow, shadows, text.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-bb2293af-cfaa-4efe-a76e-5ba4c30e776b.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        225,
+        200,
+        841,
+        1400
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "child-crouch-palm-v2",
+      "ref": [
+        "art-samples/my-family-production/child-body.png",
+        "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-25c82d4f-adbb-4174-b0d5-219c5b05e822.png"
+      ],
+      "alpha": true,
+      "prompt": "Input1 is the standing child's exact ANATOMY/PIXEL-DENSITY MASTER; input2 is an attempted squatting action to correct. Produce the squat with open upward palm near the ground, but use exactly the smaller intrinsic shoes and leg sizes from input1. Input2 shoes are incorrectly too large (about300px); the finished shoe lengths must be about210px like input1, palms about130px, not giant hands. Keep original child torso intrinsic spine length around490px with a natural forward incline and folded legs, don't inflate torso or limbs. Leave MORE transparent empty canvas below and around the shorter squatting figure; do not zoom the figure to fill1024x1536. Knees naturally bent, low balanced squat, one hand on knee, other open palm near ground; keep warm yellow sweater, ivory pocket, sage shorts, white socks, orange shoes. Headless empty collar. Natural anatomy is mandatory. Output genuine transparent background, no ground, no head/face/hair, no other object, no glow/text. This action will use the same source pixel density as input1, with absolutely no later per-pose scaling correction.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-9aef544a-c9db-4ebf-b7ac-496d6e61898d.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        115,
+        276,
+        939,
+        1191
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "playroom",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": false,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. New SQUARE full-bleed interior playroom scene in the same established picture-book world and style. Warm afternoon light through an open teal French door at back left, glimpse lush garden outside; honey-coloured timber floor, low wooden shelf with a few picture books, woven storage basket, soft folded blanket, small potted plant, terracotta cream cottage walls. Child eye-level slightly downward camera, intimate moderately close room framing with detailed edges, some clear floor foreground for separate toy cart and wooden toy garage. No huge empty floor; shelf and door give depth without clutter. No people, headless bodies, toys, cars, garages, stones, balls or animals baked in. No blank cream fade and no writing.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-acdc6bf3-fd66-4d20-ab3b-785c16a03009.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "accepted": false,
+      "alphaRange": [
+        255,
+        255
+      ]
+    },
+    {
+      "name": "soil-garden",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": false,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. New SQUARE full-bleed close garden-edge scene in the same established picture-book style. Low child's-eye viewpoint beside a flowerbed with crumbly soft brown soil foreground, small thyme leaves and daisies, smooth garden stones near edges, soft warm sunlight, distant cottage wall and teal gate softened behind. Tiny-world observational story setting, rich coherent textures, gentle greens/ochres. Keep a compact working area in lower centre for a separate small soil mound and squatting child, do not create a large empty lawn. NO people, headless bodies, hands, insects, animals, balls or cars. No white fade or text.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-7ee40f08-44fb-4f47-bd72-0771751199b8.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "accepted": true,
+      "alphaRange": [
+        255,
+        255
+      ]
+    },
+    {
+      "name": "play-courtyard",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": false,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. New SQUARE full-bleed intimate cottage courtyard, same warm richly detailed watercolor/gouache picture-book style, but a DIFFERENT VIEW of the existing garden world. Cottage teal door and flowering pots in upper right, low mossy wall and leafy bushes across background, softly sunlit grass and a short stepping-stone path foreground, jasmine vines and daisies framing edges. Child-eye camera, coherent single foreground ground plane at bottom quarter for child, father, sapling and toys as separate layers. No grand distant mountain panorama and no huge empty floor. Absolutely NO people/headless bodies, tree saplings, animals, toy carts, balls, large rocks or vehicles painted in. No blank paper fade or text.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-98607035-5b9a-4185-a392-29d950f8dc26.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "accepted": true,
+      "alphaRange": [
+        255,
+        255
+      ]
+    },
+    {
+      "name": "playroom-clear",
+      "ref": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-acdc6bf3-fd66-4d20-ab3b-785c16a03009.png",
+      "alpha": false,
+      "prompt": "Precise removal edit of this exact square interior picture-book illustration. REMOVE ALL floor objects from the FOREGROUND: the entire left wooden wagon/cart and everything inside it, all blocks and balls, the entire right multi-storey toy car garage and every vehicle, the bottom-right cushion and rug, and isolated blocks near the door. Restore continuous original honey-coloured timber floor and its soft dappled sunlight where they were. Keep room architecture, teal door, bookshelves, plants, baskets on shelf and wall colours EXACTLY unchanged. The foreground floor must be entirely free of objects so separate story-specific assets can be composited later; do not put any substitute objects there. Full square illustrated scene, same watercolour/gouache detail, no people/animals/text or white fade. Highest actual native resolution.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-9bd3cc27-474b-436d-b3c5-f40b772e346b.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "accepted": true,
+      "alphaRange": [
+        255,
+        255
+      ]
+    },
+    {
+      "name": "wagon",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. ONE small low terracotta-red WOODEN TOY PUSH CART / wagon, side-on three-quarter view facing RIGHT, exact picture-book style. Four little charcoal rubber wheels, sturdy shallow rectangular open bed with low rails, unobstructed deck, small upright wooden PUSH BAR at LEFT rear with horizontal handgrip higher than bed. It can carry two little play balls or a small stone. Whole cart, no cargo or person or ground/shadow. Clear physically logical connected wheels/frame, consistent simple geometry. Isolated genuine clean transparent background, generous margins, detailed soft paint and wood grain.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-35c2c223-7d57-4ae8-9151-3df0fac9d8d9.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        109,
+        41,
+        1515,
+        984
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "garage",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. One simple small WOODEN TOY GARAGE for a child's push wagon, front face aimed toward viewer and slightly left, same painterly storybook style. Natural pale honey timber rectangular box with a flat horizontal lintel, wide open doorway and a clearly visible flat floor and dark cosy interior; short side panel recedes to RIGHT. No opening door leaf, no moving door, no wheels, cargo, person or vehicles. Simple clean doorway clear height easy to compare against a tall stone on a cart. Full isolated object on genuine transparent background, no surroundings, shadow, markings or text.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-d3c5139f-4468-4cc6-9324-87fb64f190bc.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        73,
+        139,
+        1479,
+        907
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "mound",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. One very small soft EARTH MOUND in a garden, rounded low hill of crumbly brown soil, tiny clay grains and 2 or 3 short delicate grass shoots near base only. Child's observational macro picture-book prop in the exact gouache/watercolor reference style. Whole mound isolated on genuine transparent background; no rocks, insects, animals, people, hands, ground plane, glow or text. Low domed profile with clear silhouette.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-051ef2fd-e953-4f8c-af80-87801f5c8b55.png",
+      "nativeSize": [
+        1672,
+        941
+      ],
+      "bounds": [
+        139,
+        328,
+        1527,
+        776
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "bug",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. One tiny ordinary smooth-shelled brown/orange garden BEETLE, rounded oval back with subtle central wing seam, six tiny legs and short delicate antennae, side/three-quarter view walking right. Harmless-looking natural insect, no spines, horns, stinger or human face, no cartoon giant eyes. Soft detailed watercolor/gouache matching the reference, cheerful but biologically simple. Whole isolated insect with genuine transparent background, no hands, plants, soil, shadows or text.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8db25a48-1d4e-43ca-8f80-920f9515f479.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        189,
+        200,
+        1422,
+        881
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "sapling",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. One SMALL GARDEN SAPLING, whole tree from compact rounded leafy crown to narrow trunk and roots, exact warm watercolor/gouache reference style. Slender young trunk, a few thin branches, beautiful detailed sage and yellow-green leaves, crown modest rather than sprawling giant tree, ratio total height to width about1.7. It is for comparing height with a preschool child, fixed height across story. Isolated genuine transparent background with no soil hill, rocks, figures, sky, scene, shadows, text or signs.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-644489e1-c296-46c2-9d4d-3dddc570ecf5.png",
+      "nativeSize": [
+        962,
+        1635
+      ],
+      "bounds": [
+        19,
+        11,
+        933,
+        1622
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "step-stone",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. One LOW FLAT STABLE garden stepping rock, top surface wide and nearly level for a child's two shoes, softly rounded irregular stone edges, warm grey ochre layered painted texture, a little moss only along one side. About twice as wide as thick, three-quarter child-eye view, not a pointy boulder or dangerous pedestal. Whole rock isolated on genuine transparent background. No child, footprints, ground plane, flowers, shadow, writing or face.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-90b43932-ab9b-440c-a356-5d53efd9c9ae.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        43,
+        261,
+        1492,
+        857
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "red-ball",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. One small plain TERRACOTTA RED play ball, completely round sphere, tactile softly painted rubber texture, delicate warm sunlit upper-left highlight and muted lower-right shade, restrained watercolor/gouache paper detail matching established storybook. No panel lines, numbers, faces, logos, sparkle or hard plastic shine. Whole isolated sphere centered with transparent margins, true clean alpha background, no ground/contact shadow.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-383a271a-7e88-4bf1-8e98-04d787cf43c8.png",
+      "nativeSize": [
+        1349,
+        1166
+      ],
+      "bounds": [
+        244,
+        162,
+        1093,
+        1001
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "dog-return",
+      "ref": "art-samples/my-family-production/courtyard.png",
+      "alpha": true,
+      "prompt": "Premium preschool picture-book production illustration. Match the supplied original reference: warm watercolor and gouache with delicate paper/collage brush detail, ochre yellow, muted sage green, terracotta, ivory, coherent natural light, richly painted small details, friendly proportions. Highest actual native resolution supported. No captions, letters, numerals, logos, frames or watermark. One friendly small cream-and-ochre DOG, child-family pet, floppy ears, soft scruffy coat, dark warm nose, four anatomically clear legs, cheerful alert but no human smile. Three-quarter SIDE VIEW moving LEFT, head at left and tail at right, mouth slightly open ready to gently carry a small ball later composited separately. Same warm watercolor/gouache picture-book style, no plastic 3D. Full body isolated on genuine transparent background, no ball or objects, ground, scene, writing, shadow or glow.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8f135493-8b82-4202-bd54-746d0b58c16b.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        85,
+        50,
+        1510,
+        980
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "yellow-ball",
+      "ref": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-383a271a-7e88-4bf1-8e98-04d787cf43c8.png",
+      "alpha": true,
+      "prompt": "Precise object edit. Keep this exact illustrated ball, round outline, size, position, canvas, watercolor/gouache paper texture, lighting and transparent background. Change ONLY the red pigment to warm golden YELLOW with gentle ochre shadows and creamy pale yellow highlights. No new elements, text, ground or glow. Highest native detail. Genuine alpha transparency.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-24467750-69a6-4f66-a309-41e0b86374a8.png",
+      "nativeSize": [
+        1349,
+        1166
+      ],
+      "bounds": [
+        243,
+        162,
+        1097,
+        1003
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "name": "dog-lookback",
+      "ref": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8f135493-8b82-4202-bd54-746d0b58c16b.png",
+      "alpha": true,
+      "prompt": "Same exact small cream-and-ochre floppy-eared pet DOG, identical anatomy scale, coat markings, head proportions, delicate watercolor/gouache texture and warm light as reference. Change ONLY the pose: full body trotting/running toward the RIGHT, head turned back looking LEFT toward its owner; all four legs clear in natural stride, attentive expression, mouth closed. NO ball, no props, no background, no shadow/glow. Genuine alpha transparency, complete ears/tail/feet with margin. Highest native detail.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-9df0009c-de25-4299-8906-bb40cc5e45a4.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        58,
+        43,
+        1494,
+        938
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "name": "dog-search",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/books-11-15-native/dog-lookback.png",
+      "alpha": true,
+      "prompt": "Pose edit of the SAME cream-and-ochre floppy-eared dog. Preserve exact breed, child-friendly body proportions, physical size, coat colors/markings, soft layered watercolor/gouache painted detail, light and genuine transparent background. Change to searching the ground: standing on all four paws in three-quarter SIDE view, body facing LEFT, neck bends downward, nose lowered to the ground near its front paws, eyes looking at the ground. Tail lifted softly, alert curious posture. Anatomically natural full dog, complete feet and ears. NO ball, NO ground, NO backdrop, NO shadow or glow. Highest native detail.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-ab469d31-e19f-4d23-a10d-8de6efa7c020.png",
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        90,
+        14,
+        1526,
+        973
+      ],
+      "accepted": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    }
+  ]
+}

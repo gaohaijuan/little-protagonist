@@ -1,0 +1,14 @@
+<view class="login-page">
+  <view class="login-mark" aria-hidden="true">阅</view>
+  <text class="eyebrow">小小主角 · 家长账号</text>
+  <view class="login-title">陪孩子，<view>读自己的故事。</view></view>
+  <view class="login-note">一个家长账号，连接孩子的阅读时光。</view>
+  <view class="login-benefits"><view><text>01</text> 为阅读和个性化绘本共用一个账号</view><view><text>02</text> 孩子资料在本机独立保存</view><view><text>03</text> 不申请手机号或微信头像</view></view>
+  <view wx:if="{{!configured}}" class="setup-note">微信登录暂未开通，你仍可以先逛逛书架。</view>
+  <view wx:if="{{closedAccount}}" class="setup-note">此阅读账号已注销。重新注册会建立新的资料空间，不恢复已删除的账号资料。</view>
+  <button class="primary-button login-button" loading="{{busy}}" disabled="{{busy}}" bindtap="login">{{busy ? '正在连接微信…' : closedAccount ? '重新注册阅读账号' : '微信注册 / 登录'}}</button>
+  <view class="consent-row"><checkbox-group bindchange="onConsent"><label class="consent-choice"><checkbox value="agree" checked="{{agreed}}" color="#426751" disabled="{{busy}}" /><text>我已阅读并同意</text></label></checkbox-group><view class="consent-links"><button bindtap="openLegal" data-type="terms">《用户服务说明》</button><button bindtap="openLegal" data-type="privacy">《隐私说明》</button></view></view>
+  <view class="error" role="alert">{{error}}</view>
+  <button class="browse-button" bindtap="goHome">先逛逛书架 →</button>
+  <text class="parent-note">请由家长操作登录。照片和绘本不会随登录上传。</text>
+</view>

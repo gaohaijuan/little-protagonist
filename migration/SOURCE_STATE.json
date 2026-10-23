@@ -1,0 +1,149 @@
+{
+  "source_host": "DESKTOP-O3TF6TU",
+  "source_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读",
+  "created_utc": "20261023T031345Z",
+  "verified_project": {
+    "display": "小小主角 / 分级阅读",
+    "package": "little-story-reader",
+    "projectname": "little-story-reader"
+  },
+  "git": {
+    "branch": "master",
+    "head": null,
+    "tracked_files": 0,
+    "status_entries": 1750,
+    "status": "all untracked",
+    "remotes": []
+  },
+  "nested_repositories": [
+    {
+      "path": "sites/mobile-preview",
+      "head": "21130316b8856ae3c94dfe8ea10d7ae02f66a5cd",
+      "branch": "main",
+      "clean": true,
+      "remotes": []
+    },
+    {
+      "path": "sites/manuscript-review",
+      "head": "70b4b88bfb3d09905d2e8998c6955ad6cc43dfea",
+      "branch": "main",
+      "clean": true,
+      "remotes": []
+    }
+  ],
+  "project_id": "a531d5c2-f9ce-4a75-beb0-a3fda2a35f5e",
+  "evidence_thread": "01a133e7-b04a-7692-a3e6-fc3bb9d81f7c",
+  "sessions_read": false,
+  "source_rules_read": [
+    "project AGENTS.md",
+    "C:/Users/Administrator/.codex/AGENTS.md"
+  ],
+  "related_agents_skills": "No .agents/skills found in project or its user/Documents/ChatGPT ancestors",
+  "memory_reference": "Only memory_summary.md matching lines; no additional project location found",
+  "source_files": 780,
+  "source_bytes": 885446572,
+  "coverage": {
+    ".gitignore": {
+      "files": 1,
+      "bytes": 155
+    },
+    "AGENTS.md": {
+      "files": 1,
+      "bytes": 8309
+    },
+    "package.json": {
+      "files": 1,
+      "bytes": 1916
+    },
+    "project.config.json": {
+      "files": 1,
+      "bytes": 400
+    },
+    "README.md": {
+      "files": 1,
+      "bytes": 35066
+    },
+    "打开本地预览.cmd": {
+      "files": 1,
+      "bytes": 76
+    },
+    "打开管理后台.cmd": {
+      "files": 1,
+      "bytes": 307
+    },
+    "admin": {
+      "files": 7,
+      "bytes": 63594
+    },
+    "art-samples": {
+      "files": 299,
+      "bytes": 463476189
+    },
+    "cloudfunctions": {
+      "files": 6,
+      "bytes": 10943
+    },
+    "content": {
+      "files": 15,
+      "bytes": 353594
+    },
+    "docs": {
+      "files": 1,
+      "bytes": 14569
+    },
+    "miniprogram": {
+      "files": 62,
+      "bytes": 244381
+    },
+    "output": {
+      "files": 37,
+      "bytes": 23401919
+    },
+    "preview": {
+      "files": 230,
+      "bytes": 396802502
+    },
+    "scripts": {
+      "files": 23,
+      "bytes": 127357
+    },
+    "server": {
+      "files": 16,
+      "bytes": 155217
+    },
+    "sites": {
+      "files": 2,
+      "bytes": 200
+    },
+    "tests": {
+      "files": 73,
+      "bytes": 745709
+    },
+    "tmp": {
+      "files": 2,
+      "bytes": 4169
+    }
+  },
+  "publication": {
+    "state": "pending_target_confirmation",
+    "repository": null,
+    "branch_requested": "migration/graded-reading-20261023",
+    "remote_commit": null,
+    "reason": "No source remote; accessible GitHub repositories checked via connector and existing gh authentication; no verified private graded-reading repository"
+  },
+  "private_repository_candidates_checked": [
+    "gaohaijuan/My-Path (unrelated game)",
+    "gaohaijuan/rainbow-cargo (unrelated game)",
+    "gaohaijuan/water-sort (unrelated game)",
+    "gaohaijuan/project-development-standard (shared standards)"
+  ],
+  "public_repositories_checked": [
+    "gaohaijuan/easycut (unrelated)",
+    "gaohaijuan/phonics-speech-game (unrelated English phonics game)"
+  ],
+  "runtime_observed": {
+    "node": "v24.14.1",
+    "python": "3.12.8"
+  },
+  "project_execution": "Not installed, built, tested, launched or deployed during migration; byte/static checks only"
+}

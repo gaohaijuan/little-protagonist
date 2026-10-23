@@ -1,0 +1,39 @@
+{
+  "id": "b18-p04",
+  "book": 18,
+  "page": 4,
+  "brief": "Trying big shoes: LOW FRONT view across hallway floor with teal doorframe LEFT and a small round mirror/coat hook high BACK, warm muted paper wall, baskets only at sides. Leave complete front-facing child slot centered(50%,94%); NO shoes painted anywhere, no feet/people. Bottom-central floor clear for independently added oversized loafers. Slight close camera makes action dominant, new view.",
+  "actors": [
+    {
+      "pose": "barefoot-stand",
+      "x": 500,
+      "ground": 940,
+      "scale": 0.7
+    }
+  ],
+  "extras": [
+    "big-shoes"
+  ],
+  "refs": [
+    "preview/art/sequence/books-11-15/playroom-clear.png",
+    "art-samples/books-16-20-native/adult-shoes.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Trying big shoes: LOW FRONT view across hallway floor with teal doorframe LEFT and a small round mirror/coat hook high BACK, warm muted paper wall, baskets only at sides. Leave complete front-facing child slot centered(50%,94%); NO shoes painted anywhere, no feet/people. Bottom-central floor clear for independently added oversized loafers. Slight close camera makes action dominant, new view.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-c8cae3ec-5672-496b-be5e-37f296a581db.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "a8a8e24de67065ddff1c5822118e7b062c090bbe43ff8f0af63575bd394554e3"
+}

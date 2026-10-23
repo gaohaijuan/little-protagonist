@@ -1,0 +1,22 @@
+{
+  "name": "sit-shoo",
+  "ref": "art-samples/books-16-20-native/child-sit-draw-v2.png",
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. PIXEL REGISTERED small pose edit, same1024x1536 transparent child. Keep large EMPTY y0..364, neck501400, torso/hem930, crossed legs/shoes ending1270, intrinsic anatomy and all source pixel density exactly. Change ONLY image-right arm: extend naturally sideways/right, open palm forward in gentle 'please move aside' gesture, hand near(900,770). Image-left hand rests on existing knee. Same exact clothes/yellow sweater/ivory pocket/sage shorts/socks/orange shoes. Headless, NO prop, floor/shadow/glow. Do NOT enlarge torso or feet or recenter.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-00f62c5a-9def-4546-9676-2978624cb1d4.png",
+  "nativeSize": [
+    1024,
+    1536
+  ],
+  "bounds": [
+    40,
+    365,
+    1014,
+    1271
+  ],
+  "alphaRange": [
+    0,
+    254
+  ],
+  "accepted": true,
+  "sha256": "c246fde7d6be52a6df5cece323f29dbe36034adbb20a0e872f5c619c9ae67860"
+}

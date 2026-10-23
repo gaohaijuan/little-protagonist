@@ -1,0 +1,3137 @@
+{
+  "edition": "reviewed-all-30-v7-remaining-stories",
+  "characters": [
+    {
+      "character": "你",
+      "books": [
+        1,
+        4,
+        5,
+        8,
+        9,
+        10,
+        12,
+        15,
+        16,
+        17,
+        21,
+        22,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 17,
+      "firstStory": 1,
+      "nextStory": 4,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "好",
+      "books": [
+        1,
+        2,
+        3,
+        6,
+        11,
+        13,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        27,
+        29
+      ],
+      "distinctStories": 14,
+      "firstStory": 1,
+      "nextStory": 2,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "我",
+      "books": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 29,
+      "firstStory": 1,
+      "nextStory": 2,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "是",
+      "books": [
+        1,
+        3,
+        4,
+        5,
+        8,
+        11,
+        12,
+        17,
+        18,
+        25,
+        26,
+        28,
+        30
+      ],
+      "distinctStories": 13,
+      "firstStory": 1,
+      "nextStory": 3,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "的",
+      "books": [
+        1,
+        2,
+        4,
+        8,
+        9,
+        10,
+        11,
+        12,
+        15,
+        16,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 22,
+      "firstStory": 1,
+      "nextStory": 2,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "名",
+      "books": [
+        1,
+        21,
+        24,
+        28,
+        30
+      ],
+      "distinctStories": 5,
+      "firstStory": 1,
+      "nextStory": 21,
+      "largestStoryInterval": 20
+    },
+    {
+      "character": "字",
+      "books": [
+        1,
+        21,
+        24,
+        28,
+        30
+      ],
+      "distinctStories": 5,
+      "firstStory": 1,
+      "nextStory": 21,
+      "largestStoryInterval": 20
+    },
+    {
+      "character": "叫",
+      "books": [
+        1,
+        10,
+        21,
+        27,
+        28
+      ],
+      "distinctStories": 5,
+      "firstStory": 1,
+      "nextStory": 10,
+      "largestStoryInterval": 11
+    },
+    {
+      "character": "什",
+      "books": [
+        1,
+        26
+      ],
+      "distinctStories": 2,
+      "firstStory": 1,
+      "nextStory": 26,
+      "largestStoryInterval": 25
+    },
+    {
+      "character": "么",
+      "books": [
+        1,
+        26
+      ],
+      "distinctStories": 2,
+      "firstStory": 1,
+      "nextStory": 26,
+      "largestStoryInterval": 25
+    },
+    {
+      "character": "呢",
+      "books": [
+        1,
+        8,
+        10,
+        24,
+        25,
+        29,
+        30
+      ],
+      "distinctStories": 7,
+      "firstStory": 1,
+      "nextStory": 8,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "五",
+      "books": [
+        1,
+        2,
+        21
+      ],
+      "distinctStories": 3,
+      "firstStory": 1,
+      "nextStory": 2,
+      "largestStoryInterval": 19
+    },
+    {
+      "character": "岁",
+      "books": [
+        1,
+        21,
+        30
+      ],
+      "distinctStories": 3,
+      "firstStory": 1,
+      "nextStory": 21,
+      "largestStoryInterval": 20
+    },
+    {
+      "character": "了",
+      "books": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 28,
+      "firstStory": 1,
+      "nextStory": 3,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "几",
+      "books": [
+        1,
+        3
+      ],
+      "distinctStories": 2,
+      "firstStory": 1,
+      "nextStory": 3,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "上",
+      "books": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 21,
+      "firstStory": 1,
+      "nextStory": 3,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "大",
+      "books": [
+        1,
+        6,
+        11,
+        18,
+        21,
+        23,
+        25,
+        30
+      ],
+      "distinctStories": 8,
+      "firstStory": 1,
+      "nextStory": 6,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "班",
+      "books": [
+        1,
+        21
+      ],
+      "distinctStories": 2,
+      "firstStory": 1,
+      "nextStory": 21,
+      "largestStoryInterval": 20
+    },
+    {
+      "character": "也",
+      "books": [
+        1,
+        8,
+        9,
+        10,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 20,
+      "firstStory": 1,
+      "nextStory": 8,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "吗",
+      "books": [
+        1,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        15,
+        16,
+        22
+      ],
+      "distinctStories": 10,
+      "firstStory": 1,
+      "nextStory": 4,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "小",
+      "books": [
+        2,
+        4,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 24,
+      "firstStory": 2,
+      "nextStory": 4,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "花",
+      "books": [
+        2,
+        4,
+        7,
+        19,
+        28
+      ],
+      "distinctStories": 5,
+      "firstStory": 2,
+      "nextStory": 4,
+      "largestStoryInterval": 12
+    },
+    {
+      "character": "有",
+      "books": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        19,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "distinctStories": 17,
+      "firstStory": 2,
+      "nextStory": 3,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "多",
+      "books": [
+        2,
+        23,
+        27
+      ],
+      "distinctStories": 3,
+      "firstStory": 2,
+      "nextStory": 23,
+      "largestStoryInterval": 21
+    },
+    {
+      "character": "片",
+      "books": [
+        2,
+        17,
+        20,
+        24,
+        25
+      ],
+      "distinctStories": 5,
+      "firstStory": 2,
+      "nextStory": 17,
+      "largestStoryInterval": 15
+    },
+    {
+      "character": "一",
+      "books": [
+        2,
+        3,
+        6,
+        12,
+        13,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        30
+      ],
+      "distinctStories": 18,
+      "firstStory": 2,
+      "nextStory": 3,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "两",
+      "books": [
+        2,
+        3,
+        4,
+        14,
+        24,
+        25
+      ],
+      "distinctStories": 6,
+      "firstStory": 2,
+      "nextStory": 3,
+      "largestStoryInterval": 10
+    },
+    {
+      "character": "三",
+      "books": [
+        2,
+        3,
+        6,
+        21,
+        22,
+        24
+      ],
+      "distinctStories": 6,
+      "firstStory": 2,
+      "nextStory": 3,
+      "largestStoryInterval": 15
+    },
+    {
+      "character": "四",
+      "books": [
+        2,
+        21
+      ],
+      "distinctStories": 2,
+      "firstStory": 2,
+      "nextStory": 21,
+      "largestStoryInterval": 19
+    },
+    {
+      "character": "六",
+      "books": [
+        2,
+        21
+      ],
+      "distinctStories": 2,
+      "firstStory": 2,
+      "nextStory": 21,
+      "largestStoryInterval": 19
+    },
+    {
+      "character": "七",
+      "books": [
+        2,
+        21
+      ],
+      "distinctStories": 2,
+      "firstStory": 2,
+      "nextStory": 21,
+      "largestStoryInterval": 19
+    },
+    {
+      "character": "八",
+      "books": [
+        2,
+        21
+      ],
+      "distinctStories": 2,
+      "firstStory": 2,
+      "nextStory": 21,
+      "largestStoryInterval": 19
+    },
+    {
+      "character": "九",
+      "books": [
+        2,
+        21
+      ],
+      "distinctStories": 2,
+      "firstStory": 2,
+      "nextStory": 21,
+      "largestStoryInterval": 19
+    },
+    {
+      "character": "十",
+      "books": [
+        2,
+        21
+      ],
+      "distinctStories": 2,
+      "firstStory": 2,
+      "nextStory": 21,
+      "largestStoryInterval": 19
+    },
+    {
+      "character": "飞",
+      "books": [
+        2,
+        10,
+        20,
+        27
+      ],
+      "distinctStories": 4,
+      "firstStory": 2,
+      "nextStory": 10,
+      "largestStoryInterval": 10
+    },
+    {
+      "character": "入",
+      "books": [
+        2,
+        9
+      ],
+      "distinctStories": 2,
+      "firstStory": 2,
+      "nextStory": 9,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "草",
+      "books": [
+        2,
+        22,
+        23
+      ],
+      "distinctStories": 3,
+      "firstStory": 2,
+      "nextStory": 22,
+      "largestStoryInterval": 20
+    },
+    {
+      "character": "丛",
+      "books": [
+        2,
+        22
+      ],
+      "distinctStories": 2,
+      "firstStory": 2,
+      "nextStory": 22,
+      "largestStoryInterval": 20
+    },
+    {
+      "character": "都",
+      "books": [
+        2,
+        3,
+        7,
+        14,
+        23,
+        24
+      ],
+      "distinctStories": 6,
+      "firstStory": 2,
+      "nextStory": 3,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "不",
+      "books": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22,
+        23
+      ],
+      "distinctStories": 17,
+      "firstStory": 2,
+      "nextStory": 4,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "见",
+      "books": [
+        2,
+        5,
+        9,
+        28
+      ],
+      "distinctStories": 4,
+      "firstStory": 2,
+      "nextStory": 5,
+      "largestStoryInterval": 19
+    },
+    {
+      "character": "家",
+      "books": [
+        3,
+        4,
+        8,
+        11,
+        14,
+        17,
+        21,
+        23
+      ],
+      "distinctStories": 8,
+      "firstStory": 3,
+      "nextStory": 4,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "口",
+      "books": [
+        3,
+        17,
+        19,
+        25
+      ],
+      "distinctStories": 4,
+      "firstStory": 3,
+      "nextStory": 17,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "人",
+      "books": [
+        3,
+        18,
+        24
+      ],
+      "distinctStories": 3,
+      "firstStory": 3,
+      "nextStory": 18,
+      "largestStoryInterval": 15
+    },
+    {
+      "character": "来",
+      "books": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        24,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 23,
+      "firstStory": 3,
+      "nextStory": 4,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "数",
+      "books": [
+        3,
+        6,
+        21
+      ],
+      "distinctStories": 3,
+      "firstStory": 3,
+      "nextStory": 6,
+      "largestStoryInterval": 15
+    },
+    {
+      "character": "这",
+      "books": [
+        3,
+        6,
+        8,
+        10,
+        11,
+        15,
+        16,
+        20,
+        23,
+        25,
+        26,
+        30
+      ],
+      "distinctStories": 12,
+      "firstStory": 3,
+      "nextStory": 6,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "爸",
+      "books": [
+        3,
+        11,
+        13,
+        18,
+        21,
+        27,
+        28,
+        30
+      ],
+      "distinctStories": 8,
+      "firstStory": 3,
+      "nextStory": 11,
+      "largestStoryInterval": 8
+    },
+    {
+      "character": "妈",
+      "books": [
+        3,
+        6,
+        26,
+        30
+      ],
+      "distinctStories": 4,
+      "firstStory": 3,
+      "nextStory": 6,
+      "largestStoryInterval": 20
+    },
+    {
+      "character": "共",
+      "books": [
+        3
+      ],
+      "distinctStories": 1,
+      "firstStory": 3,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "咦",
+      "books": [
+        3,
+        6,
+        17
+      ],
+      "distinctStories": 3,
+      "firstStory": 3,
+      "nextStory": 6,
+      "largestStoryInterval": 11
+    },
+    {
+      "character": "把",
+      "books": [
+        3,
+        6,
+        9,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21,
+        23,
+        24,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 19,
+      "firstStory": 3,
+      "nextStory": 6,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "谁",
+      "books": [
+        3,
+        10,
+        13,
+        19,
+        21,
+        24,
+        28
+      ],
+      "distinctStories": 7,
+      "firstStory": 3,
+      "nextStory": 10,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "忘",
+      "books": [
+        3
+      ],
+      "distinctStories": 1,
+      "firstStory": 3,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "呀",
+      "books": [
+        3,
+        10,
+        27,
+        28
+      ],
+      "distinctStories": 4,
+      "firstStory": 3,
+      "nextStory": 10,
+      "largestStoryInterval": 17
+    },
+    {
+      "character": "还",
+      "books": [
+        3,
+        6,
+        7,
+        8,
+        9,
+        11,
+        15,
+        23,
+        25,
+        26,
+        27,
+        29,
+        30
+      ],
+      "distinctStories": 13,
+      "firstStory": 3,
+      "nextStory": 6,
+      "largestStoryInterval": 8
+    },
+    {
+      "character": "要",
+      "books": [
+        3,
+        6,
+        8,
+        13,
+        14,
+        17,
+        22,
+        23,
+        29,
+        30
+      ],
+      "distinctStories": 10,
+      "firstStory": 3,
+      "nextStory": 6,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "加",
+      "books": [
+        3
+      ],
+      "distinctStories": 1,
+      "firstStory": 3,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "们",
+      "books": [
+        3,
+        13,
+        24,
+        30
+      ],
+      "distinctStories": 4,
+      "firstStory": 3,
+      "nextStory": 13,
+      "largestStoryInterval": 11
+    },
+    {
+      "character": "在",
+      "books": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        24,
+        27,
+        28,
+        29,
+        30
+      ],
+      "distinctStories": 23,
+      "firstStory": 3,
+      "nextStory": 5,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "只",
+      "books": [
+        4,
+        6,
+        12,
+        23
+      ],
+      "distinctStories": 4,
+      "firstStory": 4,
+      "nextStory": 6,
+      "largestStoryInterval": 11
+    },
+    {
+      "character": "手",
+      "books": [
+        4,
+        6,
+        9,
+        12,
+        15,
+        21
+      ],
+      "distinctStories": 6,
+      "firstStory": 4,
+      "nextStory": 6,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "开",
+      "books": [
+        4,
+        7,
+        11,
+        15,
+        24,
+        30
+      ],
+      "distinctStories": 6,
+      "firstStory": 4,
+      "nextStory": 7,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "关",
+      "books": [
+        4
+      ],
+      "distinctStories": 1,
+      "firstStory": 4,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "去",
+      "books": [
+        4,
+        7,
+        8,
+        11,
+        14,
+        15,
+        17
+      ],
+      "distinctStories": 7,
+      "firstStory": 4,
+      "nextStory": 7,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "再",
+      "books": [
+        4,
+        6,
+        11,
+        13,
+        14,
+        16,
+        19,
+        23,
+        28
+      ],
+      "distinctStories": 9,
+      "firstStory": 4,
+      "nextStory": 6,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "回",
+      "books": [
+        4,
+        6,
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        16,
+        17,
+        20,
+        23,
+        25,
+        26
+      ],
+      "distinctStories": 14,
+      "firstStory": 4,
+      "nextStory": 6,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "山",
+      "books": [
+        5,
+        12
+      ],
+      "distinctStories": 2,
+      "firstStory": 5,
+      "nextStory": 12,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "云",
+      "books": [
+        5,
+        7,
+        8
+      ],
+      "distinctStories": 3,
+      "firstStory": 5,
+      "nextStory": 7,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "里",
+      "books": [
+        5,
+        6,
+        8,
+        10,
+        15,
+        19,
+        23,
+        29,
+        30
+      ],
+      "distinctStories": 9,
+      "firstStory": 5,
+      "nextStory": 6,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "走",
+      "books": [
+        5,
+        7,
+        12,
+        14,
+        17,
+        18,
+        21,
+        27
+      ],
+      "distinctStories": 8,
+      "firstStory": 5,
+      "nextStory": 7,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "出",
+      "books": [
+        5,
+        8,
+        9,
+        13,
+        16,
+        18,
+        22,
+        29
+      ],
+      "distinctStories": 8,
+      "firstStory": 5,
+      "nextStory": 8,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "石",
+      "books": [
+        6,
+        11,
+        13,
+        20
+      ],
+      "distinctStories": 4,
+      "firstStory": 6,
+      "nextStory": 11,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "头",
+      "books": [
+        6,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        20
+      ],
+      "distinctStories": 8,
+      "firstStory": 6,
+      "nextStory": 9,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "下",
+      "books": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        19,
+        20,
+        22,
+        23,
+        26,
+        28
+      ],
+      "distinctStories": 16,
+      "firstStory": 6,
+      "nextStory": 7,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "看",
+      "books": [
+        6,
+        8,
+        9,
+        13,
+        15,
+        16,
+        17,
+        19,
+        25,
+        26,
+        28
+      ],
+      "distinctStories": 11,
+      "firstStory": 6,
+      "nextStory": 8,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "放",
+      "books": [
+        6,
+        9,
+        12,
+        14,
+        15,
+        16,
+        17,
+        20,
+        21,
+        23,
+        24,
+        27,
+        28,
+        29
+      ],
+      "distinctStories": 14,
+      "firstStory": 6,
+      "nextStory": 9,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "中",
+      "books": [
+        6,
+        7,
+        9
+      ],
+      "distinctStories": 3,
+      "firstStory": 6,
+      "nextStory": 7,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "二",
+      "books": [
+        6,
+        21,
+        22
+      ],
+      "distinctStories": 3,
+      "firstStory": 6,
+      "nextStory": 21,
+      "largestStoryInterval": 15
+    },
+    {
+      "character": "吧",
+      "books": [
+        6,
+        14,
+        16,
+        21,
+        24,
+        26,
+        29
+      ],
+      "distinctStories": 7,
+      "firstStory": 6,
+      "nextStory": 14,
+      "largestStoryInterval": 8
+    },
+    {
+      "character": "天",
+      "books": [
+        7,
+        8,
+        9,
+        13,
+        18,
+        19,
+        29,
+        30
+      ],
+      "distinctStories": 8,
+      "firstStory": 7,
+      "nextStory": 8,
+      "largestStoryInterval": 10
+    },
+    {
+      "character": "白",
+      "books": [
+        7,
+        17,
+        26
+      ],
+      "distinctStories": 3,
+      "firstStory": 7,
+      "nextStory": 17,
+      "largestStoryInterval": 10
+    },
+    {
+      "character": "黑",
+      "books": [
+        7,
+        8
+      ],
+      "distinctStories": 2,
+      "firstStory": 7,
+      "nextStory": 8,
+      "largestStoryInterval": 1
+    },
+    {
+      "character": "雨",
+      "books": [
+        7,
+        20
+      ],
+      "distinctStories": 2,
+      "firstStory": 7,
+      "nextStory": 20,
+      "largestStoryInterval": 13
+    },
+    {
+      "character": "伞",
+      "books": [
+        7,
+        20
+      ],
+      "distinctStories": 2,
+      "firstStory": 7,
+      "nextStory": 20,
+      "largestStoryInterval": 13
+    },
+    {
+      "character": "和",
+      "books": [
+        7,
+        10,
+        14,
+        15,
+        23,
+        24,
+        25,
+        26,
+        29
+      ],
+      "distinctStories": 9,
+      "firstStory": 7,
+      "nextStory": 10,
+      "largestStoryInterval": 8
+    },
+    {
+      "character": "外",
+      "books": [
+        7,
+        11,
+        21
+      ],
+      "distinctStories": 3,
+      "firstStory": 7,
+      "nextStory": 11,
+      "largestStoryInterval": 10
+    },
+    {
+      "character": "日",
+      "books": [
+        8,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 8,
+      "nextStory": 30,
+      "largestStoryInterval": 22
+    },
+    {
+      "character": "太",
+      "books": [
+        8,
+        13,
+        22,
+        23
+      ],
+      "distinctStories": 4,
+      "firstStory": 8,
+      "nextStory": 13,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "阳",
+      "books": [
+        8,
+        13,
+        22
+      ],
+      "distinctStories": 3,
+      "firstStory": 8,
+      "nextStory": 13,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "边",
+      "books": [
+        8,
+        16,
+        20,
+        26,
+        29
+      ],
+      "distinctStories": 5,
+      "firstStory": 8,
+      "nextStory": 16,
+      "largestStoryInterval": 8
+    },
+    {
+      "character": "红",
+      "books": [
+        8,
+        14,
+        15,
+        20,
+        29
+      ],
+      "distinctStories": 5,
+      "firstStory": 8,
+      "nextStory": 14,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "又",
+      "books": [
+        8,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        20,
+        23,
+        25,
+        27,
+        28,
+        30
+      ],
+      "distinctStories": 13,
+      "firstStory": 8,
+      "nextStory": 10,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "月",
+      "books": [
+        9,
+        16,
+        23,
+        29
+      ],
+      "distinctStories": 4,
+      "firstStory": 9,
+      "nextStory": 16,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "亮",
+      "books": [
+        9,
+        16,
+        23,
+        29
+      ],
+      "distinctStories": 4,
+      "firstStory": 9,
+      "nextStory": 16,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "水",
+      "books": [
+        9,
+        19,
+        23,
+        25,
+        26,
+        30
+      ],
+      "distinctStories": 6,
+      "firstStory": 9,
+      "nextStory": 19,
+      "largestStoryInterval": 10
+    },
+    {
+      "character": "低",
+      "books": [
+        9,
+        12,
+        17,
+        19
+      ],
+      "distinctStories": 4,
+      "firstStory": 9,
+      "nextStory": 12,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "哪",
+      "books": [
+        9,
+        17,
+        29
+      ],
+      "distinctStories": 3,
+      "firstStory": 9,
+      "nextStory": 17,
+      "largestStoryInterval": 12
+    },
+    {
+      "character": "拿",
+      "books": [
+        9,
+        11,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        24,
+        25,
+        26,
+        29,
+        30
+      ],
+      "distinctStories": 13,
+      "firstStory": 9,
+      "nextStory": 11,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "动",
+      "books": [
+        9,
+        12,
+        21,
+        22,
+        24
+      ],
+      "distinctStories": 5,
+      "firstStory": 9,
+      "nextStory": 12,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "树",
+      "books": [
+        10,
+        13,
+        27
+      ],
+      "distinctStories": 3,
+      "firstStory": 10,
+      "nextStory": 13,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "鸟",
+      "books": [
+        10,
+        27
+      ],
+      "distinctStories": 2,
+      "firstStory": 10,
+      "nextStory": 27,
+      "largestStoryInterval": 17
+    },
+    {
+      "character": "玩",
+      "books": [
+        10,
+        15,
+        23,
+        24,
+        28,
+        29
+      ],
+      "distinctStories": 6,
+      "firstStory": 10,
+      "nextStory": 15,
+      "largestStoryInterval": 8
+    },
+    {
+      "character": "猫",
+      "books": [
+        10,
+        16
+      ],
+      "distinctStories": 2,
+      "firstStory": 10,
+      "nextStory": 16,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "没",
+      "books": [
+        10,
+        24,
+        25,
+        26,
+        28,
+        30
+      ],
+      "distinctStories": 6,
+      "firstStory": 10,
+      "nextStory": 24,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "到",
+      "books": [
+        10,
+        11,
+        16,
+        19,
+        20,
+        21,
+        24,
+        27,
+        29,
+        30
+      ],
+      "distinctStories": 10,
+      "firstStory": 10,
+      "nextStory": 11,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "车",
+      "books": [
+        10,
+        11,
+        14,
+        24,
+        27,
+        29
+      ],
+      "distinctStories": 6,
+      "firstStory": 10,
+      "nextStory": 11,
+      "largestStoryInterval": 10
+    },
+    {
+      "character": "个",
+      "books": [
+        11,
+        14,
+        23,
+        26,
+        28
+      ],
+      "distinctStories": 5,
+      "firstStory": 11,
+      "nextStory": 14,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "门",
+      "books": [
+        11
+      ],
+      "distinctStories": 1,
+      "firstStory": 11,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "推",
+      "books": [
+        11,
+        14,
+        15
+      ],
+      "distinctStories": 3,
+      "firstStory": 11,
+      "nextStory": 14,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "前",
+      "books": [
+        11,
+        15,
+        18,
+        21,
+        24
+      ],
+      "distinctStories": 5,
+      "firstStory": 11,
+      "nextStory": 15,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "进",
+      "books": [
+        11,
+        14
+      ],
+      "distinctStories": 2,
+      "firstStory": 11,
+      "nextStory": 14,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "高",
+      "books": [
+        11,
+        13
+      ],
+      "distinctStories": 2,
+      "firstStory": 11,
+      "nextStory": 13,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "过",
+      "books": [
+        11,
+        14,
+        15,
+        30
+      ],
+      "distinctStories": 4,
+      "firstStory": 11,
+      "nextStory": 14,
+      "largestStoryInterval": 15
+    },
+    {
+      "character": "地",
+      "books": [
+        12,
+        15,
+        17,
+        22
+      ],
+      "distinctStories": 4,
+      "firstStory": 12,
+      "nextStory": 15,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "土",
+      "books": [
+        12,
+        19
+      ],
+      "distinctStories": 2,
+      "firstStory": 12,
+      "nextStory": 19,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "虫",
+      "books": [
+        12,
+        27
+      ],
+      "distinctStories": 2,
+      "firstStory": 12,
+      "nextStory": 27,
+      "largestStoryInterval": 15
+    },
+    {
+      "character": "它",
+      "books": [
+        12,
+        15,
+        16,
+        17,
+        20,
+        22,
+        28,
+        29
+      ],
+      "distinctStories": 8,
+      "firstStory": 12,
+      "nextStory": 15,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "痒",
+      "books": [
+        12
+      ],
+      "distinctStories": 1,
+      "firstStory": 12,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "笑",
+      "books": [
+        12,
+        21,
+        25,
+        26,
+        28,
+        30
+      ],
+      "distinctStories": 6,
+      "firstStory": 12,
+      "nextStory": 21,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "快",
+      "books": [
+        12,
+        15,
+        29,
+        30
+      ],
+      "distinctStories": 4,
+      "firstStory": 12,
+      "nextStory": 15,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "今",
+      "books": [
+        13,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 13,
+      "nextStory": 30,
+      "largestStoryInterval": 17
+    },
+    {
+      "character": "早",
+      "books": [
+        13,
+        15
+      ],
+      "distinctStories": 2,
+      "firstStory": 13,
+      "nextStory": 15,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "问",
+      "books": [
+        13,
+        15,
+        21,
+        26
+      ],
+      "distinctStories": 4,
+      "firstStory": 13,
+      "nextStory": 15,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "比",
+      "books": [
+        13,
+        25
+      ],
+      "distinctStories": 2,
+      "firstStory": 13,
+      "nextStory": 25,
+      "largestStoryInterval": 12
+    },
+    {
+      "character": "站",
+      "books": [
+        13,
+        22
+      ],
+      "distinctStories": 2,
+      "firstStory": 13,
+      "nextStory": 22,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "长",
+      "books": [
+        13,
+        18,
+        30
+      ],
+      "distinctStories": 3,
+      "firstStory": 13,
+      "nextStory": 18,
+      "largestStoryInterval": 12
+    },
+    {
+      "character": "明",
+      "books": [
+        13,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 13,
+      "nextStory": 30,
+      "largestStoryInterval": 17
+    },
+    {
+      "character": "球",
+      "books": [
+        14,
+        15,
+        29
+      ],
+      "distinctStories": 3,
+      "firstStory": 14,
+      "nextStory": 15,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "黄",
+      "books": [
+        14,
+        23
+      ],
+      "distinctStories": 2,
+      "firstStory": 14,
+      "nextStory": 23,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "抱",
+      "books": [
+        14,
+        28
+      ],
+      "distinctStories": 2,
+      "firstStory": 14,
+      "nextStory": 28,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "滚",
+      "books": [
+        14,
+        15
+      ],
+      "distinctStories": 2,
+      "firstStory": 14,
+      "nextStory": 15,
+      "largestStoryInterval": 1
+    },
+    {
+      "character": "跑",
+      "books": [
+        14,
+        15,
+        20
+      ],
+      "distinctStories": 3,
+      "firstStory": 14,
+      "nextStory": 15,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "喜",
+      "books": [
+        14,
+        28,
+        30
+      ],
+      "distinctStories": 3,
+      "firstStory": 14,
+      "nextStory": 28,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "欢",
+      "books": [
+        14,
+        28,
+        30
+      ],
+      "distinctStories": 3,
+      "firstStory": 14,
+      "nextStory": 28,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "狗",
+      "books": [
+        15,
+        29
+      ],
+      "distinctStories": 2,
+      "firstStory": 15,
+      "nextStory": 29,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "叼",
+      "books": [
+        15,
+        17,
+        29
+      ],
+      "distinctStories": 3,
+      "firstStory": 15,
+      "nextStory": 17,
+      "largestStoryInterval": 12
+    },
+    {
+      "character": "面",
+      "books": [
+        15,
+        18,
+        19,
+        21,
+        24
+      ],
+      "distinctStories": 5,
+      "firstStory": 15,
+      "nextStory": 18,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "起",
+      "books": [
+        15,
+        17,
+        18,
+        23,
+        26,
+        28,
+        30
+      ],
+      "distinctStories": 7,
+      "firstStory": 15,
+      "nextStory": 17,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "想",
+      "books": [
+        15,
+        29,
+        30
+      ],
+      "distinctStories": 3,
+      "firstStory": 15,
+      "nextStory": 29,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "着",
+      "books": [
+        15,
+        17,
+        25,
+        26,
+        29,
+        30
+      ],
+      "distinctStories": 6,
+      "firstStory": 15,
+      "nextStory": 17,
+      "largestStoryInterval": 8
+    },
+    {
+      "character": "找",
+      "books": [
+        15,
+        21,
+        27
+      ],
+      "distinctStories": 3,
+      "firstStory": 15,
+      "nextStory": 21,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "坐",
+      "books": [
+        16,
+        22,
+        24
+      ],
+      "distinctStories": 3,
+      "firstStory": 16,
+      "nextStory": 22,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "书",
+      "books": [
+        16,
+        18,
+        29,
+        30
+      ],
+      "distinctStories": 4,
+      "firstStory": 16,
+      "nextStory": 18,
+      "largestStoryInterval": 11
+    },
+    {
+      "character": "说",
+      "books": [
+        16,
+        21,
+        26,
+        30
+      ],
+      "distinctStories": 4,
+      "firstStory": 16,
+      "nextStory": 21,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "让",
+      "books": [
+        16,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 16,
+      "nextStory": 30,
+      "largestStoryInterval": 14
+    },
+    {
+      "character": "点",
+      "books": [
+        16,
+        17,
+        19,
+        23
+      ],
+      "distinctStories": 4,
+      "firstStory": 16,
+      "nextStory": 17,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "会",
+      "books": [
+        16,
+        22
+      ],
+      "distinctStories": 2,
+      "firstStory": 16,
+      "nextStory": 22,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "睡",
+      "books": [
+        16,
+        29
+      ],
+      "distinctStories": 2,
+      "firstStory": 16,
+      "nextStory": 29,
+      "largestStoryInterval": 13
+    },
+    {
+      "character": "菜",
+      "books": [
+        17,
+        26
+      ],
+      "distinctStories": 2,
+      "firstStory": 17,
+      "nextStory": 26,
+      "largestStoryInterval": 9
+    },
+    {
+      "character": "叶",
+      "books": [
+        17
+      ],
+      "distinctStories": 1,
+      "firstStory": 17,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "兔",
+      "books": [
+        17,
+        22
+      ],
+      "distinctStories": 2,
+      "firstStory": 17,
+      "nextStory": 22,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "给",
+      "books": [
+        17,
+        19,
+        23,
+        28
+      ],
+      "distinctStories": 4,
+      "firstStory": 17,
+      "nextStory": 19,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "吃",
+      "books": [
+        17,
+        25,
+        26
+      ],
+      "distinctStories": 3,
+      "firstStory": 17,
+      "nextStory": 25,
+      "largestStoryInterval": 8
+    },
+    {
+      "character": "少",
+      "books": [
+        17
+      ],
+      "distinctStories": 1,
+      "firstStory": 17,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "瓜",
+      "books": [
+        17,
+        25
+      ],
+      "distinctStories": 2,
+      "firstStory": 17,
+      "nextStory": 25,
+      "largestStoryInterval": 8
+    },
+    {
+      "character": "冷",
+      "books": [
+        18
+      ],
+      "distinctStories": 1,
+      "firstStory": 18,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "穿",
+      "books": [
+        18
+      ],
+      "distinctStories": 1,
+      "firstStory": 18,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "衣",
+      "books": [
+        18,
+        29
+      ],
+      "distinctStories": 2,
+      "firstStory": 18,
+      "nextStory": 29,
+      "largestStoryInterval": 11
+    },
+    {
+      "character": "服",
+      "books": [
+        18,
+        29
+      ],
+      "distinctStories": 2,
+      "firstStory": 18,
+      "nextStory": 29,
+      "largestStoryInterval": 11
+    },
+    {
+      "character": "鞋",
+      "books": [
+        18,
+        29
+      ],
+      "distinctStories": 2,
+      "firstStory": 18,
+      "nextStory": 29,
+      "largestStoryInterval": 11
+    },
+    {
+      "character": "短",
+      "books": [
+        18
+      ],
+      "distinctStories": 1,
+      "firstStory": 18,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "脚",
+      "books": [
+        18,
+        19
+      ],
+      "distinctStories": 2,
+      "firstStory": 18,
+      "nextStory": 19,
+      "largestStoryInterval": 1
+    },
+    {
+      "character": "包",
+      "books": [
+        18,
+        29
+      ],
+      "distinctStories": 2,
+      "firstStory": 18,
+      "nextStory": 29,
+      "largestStoryInterval": 11
+    },
+    {
+      "character": "热",
+      "books": [
+        19,
+        26
+      ],
+      "distinctStories": 2,
+      "firstStory": 19,
+      "nextStory": 26,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "喝",
+      "books": [
+        19,
+        26
+      ],
+      "distinctStories": 2,
+      "firstStory": 19,
+      "nextStory": 26,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "浇",
+      "books": [
+        19
+      ],
+      "distinctStories": 1,
+      "firstStory": 19,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "盆",
+      "books": [
+        19
+      ],
+      "distinctStories": 1,
+      "firstStory": 19,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "洗",
+      "books": [
+        19
+      ],
+      "distinctStories": 1,
+      "firstStory": 19,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "流",
+      "books": [
+        19
+      ],
+      "distinctStories": 1,
+      "firstStory": 19,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "纸",
+      "books": [
+        20,
+        24
+      ],
+      "distinctStories": 2,
+      "firstStory": 20,
+      "nextStory": 24,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "画",
+      "books": [
+        20,
+        23,
+        30
+      ],
+      "distinctStories": 3,
+      "firstStory": 20,
+      "nextStory": 23,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "风",
+      "books": [
+        20
+      ],
+      "distinctStories": 1,
+      "firstStory": 20,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "就",
+      "books": [
+        20
+      ],
+      "distinctStories": 1,
+      "firstStory": 20,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "左",
+      "books": [
+        20
+      ],
+      "distinctStories": 1,
+      "firstStory": 20,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "右",
+      "books": [
+        20
+      ],
+      "distinctStories": 1,
+      "firstStory": 20,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "那",
+      "books": [
+        20,
+        25
+      ],
+      "distinctStories": 2,
+      "firstStory": 20,
+      "nextStory": 25,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "眼",
+      "books": [
+        21
+      ],
+      "distinctStories": 1,
+      "firstStory": 21,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "睛",
+      "books": [
+        21
+      ],
+      "distinctStories": 1,
+      "firstStory": 21,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "话",
+      "books": [
+        21
+      ],
+      "distinctStories": 1,
+      "firstStory": 21,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "后",
+      "books": [
+        21,
+        24
+      ],
+      "distinctStories": 2,
+      "firstStory": 21,
+      "nextStory": 24,
+      "largestStoryInterval": 3
+    },
+    {
+      "character": "耳",
+      "books": [
+        21
+      ],
+      "distinctStories": 1,
+      "firstStory": 21,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "朵",
+      "books": [
+        21
+      ],
+      "distinctStories": 1,
+      "firstStory": 21,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "娃",
+      "books": [
+        21,
+        28,
+        29
+      ],
+      "distinctStories": 3,
+      "firstStory": 21,
+      "nextStory": 28,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "跳",
+      "books": [
+        22,
+        29
+      ],
+      "distinctStories": 2,
+      "firstStory": 22,
+      "nextStory": 29,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "学",
+      "books": [
+        22,
+        28
+      ],
+      "distinctStories": 2,
+      "firstStory": 22,
+      "nextStory": 28,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "影",
+      "books": [
+        22
+      ],
+      "distinctStories": 1,
+      "firstStory": 22,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "子",
+      "books": [
+        22,
+        24,
+        26
+      ],
+      "distinctStories": 3,
+      "firstStory": 22,
+      "nextStory": 24,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "能",
+      "books": [
+        22
+      ],
+      "distinctStories": 1,
+      "firstStory": 22,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "真",
+      "books": [
+        22
+      ],
+      "distinctStories": 1,
+      "firstStory": 22,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "本",
+      "books": [
+        23,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 23,
+      "nextStory": 30,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "新",
+      "books": [
+        23,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 23,
+      "nextStory": 30,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "鱼",
+      "books": [
+        23,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 23,
+      "nextStory": 30,
+      "largestStoryInterval": 7
+    },
+    {
+      "character": "做",
+      "books": [
+        23,
+        24,
+        26,
+        30
+      ],
+      "distinctStories": 4,
+      "firstStory": 23,
+      "nextStory": 24,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "绿",
+      "books": [
+        23
+      ],
+      "distinctStories": 1,
+      "firstStory": 23,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "住",
+      "books": [
+        23
+      ],
+      "distinctStories": 1,
+      "firstStory": 23,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "心",
+      "books": [
+        23,
+        28
+      ],
+      "distinctStories": 2,
+      "firstStory": 23,
+      "nextStory": 28,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "朋",
+      "books": [
+        24,
+        25,
+        26
+      ],
+      "distinctStories": 3,
+      "firstStory": 24,
+      "nextStory": 25,
+      "largestStoryInterval": 1
+    },
+    {
+      "character": "友",
+      "books": [
+        24,
+        25,
+        26
+      ],
+      "distinctStories": 3,
+      "firstStory": 24,
+      "nextStory": 25,
+      "largestStoryInterval": 1
+    },
+    {
+      "character": "火",
+      "books": [
+        24
+      ],
+      "distinctStories": 1,
+      "firstStory": 24,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "她",
+      "books": [
+        24,
+        25
+      ],
+      "distinctStories": 2,
+      "firstStory": 24,
+      "nextStory": 25,
+      "largestStoryInterval": 1
+    },
+    {
+      "character": "椅",
+      "books": [
+        24
+      ],
+      "distinctStories": 1,
+      "firstStory": 24,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "张",
+      "books": [
+        24
+      ],
+      "distinctStories": 1,
+      "firstStory": 24,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "票",
+      "books": [
+        24
+      ],
+      "distinctStories": 1,
+      "firstStory": 24,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "写",
+      "books": [
+        24,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 24,
+      "nextStory": 30,
+      "largestStoryInterval": 6
+    },
+    {
+      "character": "果",
+      "books": [
+        25,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 25,
+      "nextStory": 30,
+      "largestStoryInterval": 5
+    },
+    {
+      "character": "米",
+      "books": [
+        26
+      ],
+      "distinctStories": 1,
+      "firstStory": 26,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "饭",
+      "books": [
+        26
+      ],
+      "distinctStories": 1,
+      "firstStory": 26,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "豆",
+      "books": [
+        26
+      ],
+      "distinctStories": 1,
+      "firstStory": 26,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "蛋",
+      "books": [
+        26,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 26,
+      "nextStory": 30,
+      "largestStoryInterval": 4
+    },
+    {
+      "character": "他",
+      "books": [
+        26,
+        28
+      ],
+      "distinctStories": 2,
+      "firstStory": 26,
+      "nextStory": 28,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "嘴",
+      "books": [
+        26,
+        28
+      ],
+      "distinctStories": 2,
+      "firstStory": 26,
+      "nextStory": 28,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "听",
+      "books": [
+        27,
+        28
+      ],
+      "distinctStories": 2,
+      "firstStory": 27,
+      "nextStory": 28,
+      "largestStoryInterval": 1
+    },
+    {
+      "character": "羊",
+      "books": [
+        27
+      ],
+      "distinctStories": 1,
+      "firstStory": 27,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "背",
+      "books": [
+        27
+      ],
+      "distinctStories": 1,
+      "firstStory": 27,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "牛",
+      "books": [
+        27
+      ],
+      "distinctStories": 1,
+      "firstStory": 27,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "马",
+      "books": [
+        27
+      ],
+      "distinctStories": 1,
+      "firstStory": 27,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "具",
+      "books": [
+        28
+      ],
+      "distinctStories": 1,
+      "firstStory": 28,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "很",
+      "books": [
+        28,
+        30
+      ],
+      "distinctStories": 2,
+      "firstStory": 28,
+      "nextStory": 30,
+      "largestStoryInterval": 2
+    },
+    {
+      "character": "床",
+      "books": [
+        28,
+        29
+      ],
+      "distinctStories": 2,
+      "firstStory": 28,
+      "nextStory": 29,
+      "largestStoryInterval": 1
+    },
+    {
+      "character": "哭",
+      "books": [
+        28
+      ],
+      "distinctStories": 1,
+      "firstStory": 28,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "声",
+      "books": [
+        28
+      ],
+      "distinctStories": 1,
+      "firstStory": 28,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "晚",
+      "books": [
+        29
+      ],
+      "distinctStories": 1,
+      "firstStory": 29,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "刷",
+      "books": [
+        29
+      ],
+      "distinctStories": 1,
+      "firstStory": 29,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "牙",
+      "books": [
+        29
+      ],
+      "distinctStories": 1,
+      "firstStory": 29,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "先",
+      "books": [
+        29
+      ],
+      "distinctStories": 1,
+      "firstStory": 29,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "生",
+      "books": [
+        30
+      ],
+      "distinctStories": 1,
+      "firstStory": 30,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "糕",
+      "books": [
+        30
+      ],
+      "distinctStories": 1,
+      "firstStory": 30,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "打",
+      "books": [
+        30
+      ],
+      "distinctStories": 1,
+      "firstStory": 30,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "乐",
+      "books": [
+        30
+      ],
+      "distinctStories": 1,
+      "firstStory": 30,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "爱",
+      "books": [
+        30
+      ],
+      "distinctStories": 1,
+      "firstStory": 30,
+      "nextStory": null,
+      "largestStoryInterval": null
+    },
+    {
+      "character": "年",
+      "books": [
+        30
+      ],
+      "distinctStories": 1,
+      "firstStory": 30,
+      "nextStory": null,
+      "largestStoryInterval": null
+    }
+  ]
+}

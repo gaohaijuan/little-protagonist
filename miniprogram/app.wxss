@@ -1,0 +1,7 @@
+page { background: #fbf8f0; color: #304c41; font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; }
+view, button, input, text { box-sizing: border-box; }
+button { font: inherit; }
+button::after { border: 0; }
+.primary-button { border-radius: 30rpx; background: #426751; color: #fffdf7; font-weight: 600; padding: 23rpx 28rpx; line-height: 1.4; font-size: 30rpx; }
+.secondary-button { border-radius: 26rpx; background: #edf0e5; color: #3e634e; padding: 22rpx 28rpx; line-height: 1.4; font-size: 28rpx; }
+.muted { color: #7f897a; }

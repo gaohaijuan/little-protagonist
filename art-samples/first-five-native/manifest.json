@@ -1,0 +1,128 @@
+{
+  "method": "built-in image_gen only; no API",
+  "storySource": "content/level1-stories-reviewed-30.json",
+  "edition": "reviewed-all-30-v8-personalized",
+  "bodyPages": 31,
+  "compositePixels": [
+    1672,
+    1711
+  ],
+  "compositeNote": "Separate native layers, with overlap blending; not a single native 1672x1711 generation. No claim of 4K or print certification.",
+  "assets": [
+    {
+      "file": "dad.png",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "sha256": "90c7e73de3c834ca1d34ca523e2cd4e81956437966661a1a07435aabdf78d619",
+      "used": true
+    },
+    {
+      "file": "flower-stem.png",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "sha256": "6d340bbc955f121780392ab712ad7d0506baee0c5dedef08eff97bc5e8173df9",
+      "used": true
+    },
+    {
+      "file": "garden-lower.png",
+      "pixels": [
+        1672,
+        940
+      ],
+      "mode": "RGBA",
+      "sha256": "a725ca69abaa3d1821134d0bfabd06d365cfb9717b5d7cf99e35cccc1bf001aa",
+      "used": true
+    },
+    {
+      "file": "garden-mask.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "c88bbd1b35de5034c2ab478102fca49192b919ade02c52b4a4143c24403a977b",
+      "used": true
+    },
+    {
+      "file": "garden-upper.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "sha256": "523bd0abc71374a3caf9121a23aedb5fc8779f01026c14ba5167c7cb62277b74",
+      "used": true
+    },
+    {
+      "file": "hands-closed.png",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "sha256": "e5be1ad3a67d79d3494c7932e80c6018a6d79ac299af40aab06bfd50dbb1f7a8",
+      "used": true
+    },
+    {
+      "file": "hands-open.png",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "sha256": "3fbd26683b1d550e0098f34490b747f81bf768eb9d49d4e11114d543576b316d",
+      "used": true
+    },
+    {
+      "file": "room-lower-wood.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "6579c2edac29175f6bc56e5c0d77d738280f53f483cf98794a2a68c0ff486d46",
+      "used": true
+    },
+    {
+      "file": "room-lower.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "041a70ca80c129fed6914f6618f020dc17a84b13db623b386d39e6b64f8b8438",
+      "used": false
+    },
+    {
+      "file": "room-upper-wood.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "sha256": "fdc2c43d7b4fa21ad3d0cd96c12262a2574060965e26f46adbe9ba7181038e8d",
+      "used": true
+    },
+    {
+      "file": "room-upper.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "sha256": "2716c256f86c41d030abada43bf4286e09de4b9fc8fe95d4819b8315fef7c56c",
+      "used": false
+    }
+  ],
+  "rejectedVersions": {
+    "room-upper.png": "Superseded by wood version for seamless compositing",
+    "room-lower.png": "Superseded by wood version; tile mismatch at join"
+  },
+  "photoPolicy": "Actual child face is read and composited only locally; never sent to image generator."
+}

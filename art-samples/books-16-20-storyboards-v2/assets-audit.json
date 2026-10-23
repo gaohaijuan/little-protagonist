@@ -1,0 +1,1548 @@
+{
+  "assets": [
+    {
+      "id": "b16-p01",
+      "book": 16,
+      "page": 1,
+      "brief": "Quiet reading: wide diagonal WINDOW-CORNER view, teal window at RIGHT, soft linen curtain and a few windowsill daisies, low bookcase at LEFT, honey timber boards and a soft small sage rug. Floor open book with sage cover lies flat at (66%,83%), left page clearly large golden moon on blue sky, right page clouds. NO cat yet. Leave complete floor seat slot at (32%,90%) for child; don't put rug/books in that slot. Room feels inhabited, not an empty stage.",
+      "actors": [
+        {
+          "pose": "sit-read",
+          "x": 320,
+          "ground": 900,
+          "scale": 0.75
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Quiet reading: wide diagonal WINDOW-CORNER view, teal window at RIGHT, soft linen curtain and a few windowsill daisies, low bookcase at LEFT, honey timber boards and a soft small sage rug. Floor open book with sage cover lies flat at (66%,83%), left page clearly large golden moon on blue sky, right page clouds. NO cat yet. Leave complete floor seat slot at (32%,90%) for child; don't put rug/books in that slot. Room feels inhabited, not an empty stage.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-20304f62-22d7-4368-aa96-bc7e1ea2b601.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "7a20270f96d02b05158bd88977bb5347eabb2bc469bb676921392fb1eacad433"
+    },
+    {
+      "id": "b16-p02",
+      "book": 16,
+      "page": 2,
+      "brief": "Cat interrupts: LOW FLOOR-LEVEL angle looking past a small stack of closed books at extreme LEFT foreground toward the reading rug and bookcase along BACK wall, with teal window now only at upper-left edge. SAME orange-white kitten is clambering onto the SAME open moon book at (68%,84%), one front paw obscures moon, tail curved, alert ears. Clear floor seat slot at (30%,91%). Cat/book are big enough to read, no new pets.",
+      "actors": [
+        {
+          "pose": "sit-read",
+          "x": 300,
+          "ground": 910,
+          "scale": 0.72
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Cat interrupts: LOW FLOOR-LEVEL angle looking past a small stack of closed books at extreme LEFT foreground toward the reading rug and bookcase along BACK wall, with teal window now only at upper-left edge. SAME orange-white kitten is clambering onto the SAME open moon book at (68%,84%), one front paw obscures moon, tail curved, alert ears. Clear floor seat slot at (30%,91%). Cat/book are big enough to read, no new pets.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8e0145dd-d38b-4517-bb15-38e272aeb470.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "b41cb5a4555bec6891d49be6e6b4599701d32254351fd8ee15ccd6ef0ae252dc"
+    },
+    {
+      "id": "b16-p03",
+      "book": 16,
+      "page": 3,
+      "brief": "Please let me see: medium CLOSE composition from opposite end of rug, cream wall and framed pressed flowers BACK, soft low armchair RIGHT edge, angled sunlight bands. Moon book and kitten occupy RIGHT foreground (72%,85%), kitten sitting squarely on spread and turning curious gaze toward LEFT. It covers the moon image. Leave sitting child space at (32%,94%) with enough head clearance. Do not copy previous camera or background layout.",
+      "actors": [
+        {
+          "pose": "sit-shoo",
+          "x": 320,
+          "ground": 940,
+          "scale": 0.82
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Please let me see: medium CLOSE composition from opposite end of rug, cream wall and framed pressed flowers BACK, soft low armchair RIGHT edge, angled sunlight bands. Moon book and kitten occupy RIGHT foreground (72%,85%), kitten sitting squarely on spread and turning curious gaze toward LEFT. It covers the moon image. Leave sitting child space at (32%,94%) with enough head clearance. Do not copy previous camera or background layout.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-27b8918f-c454-4ed4-b7e6-876dd3a24fad.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "a7f57241e9b161e4f5abc11b47cccf346950856075bd67f7b31d3a6c7afc571e"
+    },
+    {
+      "id": "b16-p04",
+      "book": 16,
+      "page": 4,
+      "brief": "Moving the book: medium SIDE view from bookshelf looking toward teal cottage door on RIGHT, small linen cushion LEFT, diagonal rug edge sweeping from lower-left to center. Kitten sitting on the OLD reading spot at (24%,85%), looking toward RIGHT. NO open book anywhere (will be held separately). Clear crouching child slot centered(57%,93%); a free patch of floor RIGHT is where book will be placed. Entire room angle freshly painted.",
+      "actors": [
+        {
+          "pose": "crouch-book",
+          "x": 570,
+          "ground": 930,
+          "scale": 0.8
+        }
+      ],
+      "extras": [
+        "held-book"
+      ],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Moving the book: medium SIDE view from bookshelf looking toward teal cottage door on RIGHT, small linen cushion LEFT, diagonal rug edge sweeping from lower-left to center. Kitten sitting on the OLD reading spot at (24%,85%), looking toward RIGHT. NO open book anywhere (will be held separately). Clear crouching child slot centered(57%,93%); a free patch of floor RIGHT is where book will be placed. Entire room angle freshly painted.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-d572f64f-9e59-43b4-9b01-f6424733f725.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "112f25b01280b9beee566655bdfeb1e6c35b31678c3718f877addaa910262dcc"
+    },
+    {
+      "id": "b16-p05",
+      "book": 16,
+      "page": 5,
+      "brief": "Cat follows the book: view toward DOORWAY from far RIGHT corner, low bookcase receding diagonally LEFT, teal door and sunlit garden in BACK center. The open moon book is now on bare floor at (75%,85%), away from rug; kitten just settles onto it with one hind paw still on floor, smug cat-like relaxed pose, not human smile. Child slot on LEFT at(27%,92%). New broad action composition with diagonal floorboards leading toward cat.",
+      "actors": [
+        {
+          "pose": "sit-shoo",
+          "x": 270,
+          "ground": 920,
+          "scale": 0.72
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Cat follows the book: view toward DOORWAY from far RIGHT corner, low bookcase receding diagonally LEFT, teal door and sunlit garden in BACK center. The open moon book is now on bare floor at (75%,85%), away from rug; kitten just settles onto it with one hind paw still on floor, smug cat-like relaxed pose, not human smile. Child slot on LEFT at(27%,92%). New broad action composition with diagonal floorboards leading toward cat.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-c5b593d2-1b07-46f2-ba98-84b7d12c1db1.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "dc954cfb885d185057ef5772f84253881d0ea29bd358622963a363914ea72be0"
+    },
+    {
+      "id": "b16-p06",
+      "book": 16,
+      "page": 6,
+      "brief": "PAYOFF CLOSE-UP: kitten curled ASLEEP on the open moon book, whole book and complete kitten, soft closed eyes and tucked paws, moon peeks from beneath its flank. They fill central70% of image on warm textured rug edge, LOW close camera, distant bookshelf softly blurred. No human, no human body parts, no other animal. Gentle paw/book weight and contact shadows, lyrical painted detail.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. PAYOFF CLOSE-UP: kitten curled ASLEEP on the open moon book, whole book and complete kitten, soft closed eyes and tucked paws, moon peeks from beneath its flank. They fill central70% of image on warm textured rug edge, LOW close camera, distant bookshelf softly blurred. No human, no human body parts, no other animal. Gentle paw/book weight and contact shadows, lyrical painted detail.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-4d80beb5-545e-48f2-9255-37211b557839.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "aedc24e7782ae6200621763782d269a6b52fcc6b598bbf639c14b0738a2ceedb"
+    },
+    {
+      "id": "b16-p07",
+      "book": 16,
+      "page": 7,
+      "brief": "Warm ending WIDE shot framed from OPEN TEAL DOOR looking into room: back cream wall, low shelf, linen cushion and soft late-afternoon bands of light across floor. Sleeping kitten on open book at RIGHT foreground (72%,85%), quiet curled pose. Leave child sitting comfortably at LEFT (31%,91%), watching cat. Make this a distinct tableau and environment perspective, not an enlargement of page6.",
+      "actors": [
+        {
+          "pose": "sit-read",
+          "x": 310,
+          "ground": 910,
+          "scale": 0.7
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/open-book.png",
+        "preview/art/sequence/books-06-10/cat.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Warm ending WIDE shot framed from OPEN TEAL DOOR looking into room: back cream wall, low shelf, linen cushion and soft late-afternoon bands of light across floor. Sleeping kitten on open book at RIGHT foreground (72%,85%), quiet curled pose. Leave child sitting comfortably at LEFT (31%,91%), watching cat. Make this a distinct tableau and environment perspective, not an enlargement of page6.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-e5aa76a3-eb5b-484c-a47d-223a1b32b70e.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "d007e5b1afd8b75d4810ce4805c739165b318b7aafe91c17c595e782806f5e92",
+      "correction": {
+        "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8022db7d-2467-42f5-ba03-40111a8ac335.png",
+        "purpose": "Remove extra kitten; keep exactly one sleeping kitten."
+      }
+    },
+    {
+      "id": "b17-p01",
+      "book": 17,
+      "page": 1,
+      "brief": "Offer a leaf: view from cottage STEP into garden, a little low stone wall RIGHT and a narrow path receding diagonally toward a simple wooden rabbit hutch BACK RIGHT. One cream-brown rabbit sits beside hutch at(79%,74%), ears up. No cabbage leaf anywhere (held separately). Clear standing child slot LEFT foreground(32%,94%). Early bright garden sunlight and rich daisy/clover detail at margins.",
+      "actors": [
+        {
+          "pose": "carry-play",
+          "x": 320,
+          "ground": 940,
+          "scale": 0.65
+        }
+      ],
+      "extras": [
+        "held-leaf"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Offer a leaf: view from cottage STEP into garden, a little low stone wall RIGHT and a narrow path receding diagonally toward a simple wooden rabbit hutch BACK RIGHT. One cream-brown rabbit sits beside hutch at(79%,74%), ears up. No cabbage leaf anywhere (held separately). Clear standing child slot LEFT foreground(32%,94%). Early bright garden sunlight and rich daisy/clover detail at margins.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-6f01121d-38a7-4494-9e20-dd42f80fa1d9.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "16bd62385737662eb3af3feb5be1f5df6d31acd324db5342c54cbaf0dd43c021"
+    },
+    {
+      "id": "b17-p02",
+      "book": 17,
+      "page": 2,
+      "brief": "Rabbit doesn't come: REVERSE garden angle, wooden hutch small at BACK LEFT with same rabbit sitting near doorway(25%,67%) ignoring food, pale warm stone paving in foreground. A single light cabbage leaf laid on ground at RIGHT center(63%,84%). Clear child slot LEFT foreground(36%,95%). Cottage wall only at RIGHT edge, flowering peas hang above; fresh viewpoint, no second rabbit.",
+      "actors": [
+        {
+          "pose": "crouch-palm",
+          "x": 360,
+          "ground": 950,
+          "scale": 0.8
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Rabbit doesn't come: REVERSE garden angle, wooden hutch small at BACK LEFT with same rabbit sitting near doorway(25%,67%) ignoring food, pale warm stone paving in foreground. A single light cabbage leaf laid on ground at RIGHT center(63%,84%). Clear child slot LEFT foreground(36%,95%). Cottage wall only at RIGHT edge, flowering peas hang above; fresh viewpoint, no second rabbit.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-7df5f0b6-de97-4d74-ae55-782e584a3e25.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "adb5a12b11c2209ef0f2bfa0b8cff77fb39bd7fb1df0a36f66ae016f7d2179c2"
+    },
+    {
+      "id": "b17-p03",
+      "book": 17,
+      "page": 3,
+      "brief": "The leaf moves: EXTREME LOW grazing view along flowerbed border. Single cabbage leaf dominates center foreground, blade facing viewer, stem toward RIGHT. Same rabbit carries stem in its mouth BEHIND leaf, its head and most body physically hidden by leaf and a little natural foreground clover; just tiny paws or one ear-tip may hint. Leaf is lifted slightly above ground by rabbit, never floats alone. Wood hutch blurred in far RIGHT, no people. New suspense composition, not crop of earlier scene.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. The leaf moves: EXTREME LOW grazing view along flowerbed border. Single cabbage leaf dominates center foreground, blade facing viewer, stem toward RIGHT. Same rabbit carries stem in its mouth BEHIND leaf, its head and most body physically hidden by leaf and a little natural foreground clover; just tiny paws or one ear-tip may hint. Leaf is lifted slightly above ground by rabbit, never floats alone. Wood hutch blurred in far RIGHT, no people. New suspense composition, not crop of earlier scene.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-a214a9ef-4017-4655-852c-72cdd0dfd250.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "2898aecb71a8b20bd7ec689034a12be662d8f4a8054096751a4a74fe6af77300",
+      "correction": {
+        "id": "b17-p03",
+        "prompt": "Local precise edit: keep this exact whole square watercolor/gouache scene and cabbage leaf. Hide rabbit's eye, face and BOTH long ears BEHIND the cabbage leaf by modestly repositioning rabbit behind blade; only tiny cream paws below leaf and a little cream fur behind edge may hint. Rabbit must remain physically holding stem behind blade, no magic floating. Do not enlarge leaf or change camera, hutch, flowers, lighting. This is BEFORE mystery reveal, NO visible face/eye/ear. No new animals/people.",
+        "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-cd4d5352-e999-4807-8759-ae8fa5b6a81a.png"
+      }
+    },
+    {
+      "id": "b17-p04",
+      "book": 17,
+      "page": 4,
+      "brief": "Where is leaf going: SIDE-ON path view at LOW height, cabbage leaf now moving RIGHT toward hutch across pale stepping stone. Only a little rabbit hind paw and cream fur peek beneath trailing leaf; mouth holds stem but head remains behind blade. Foreground tall grass partly occludes rabbit naturally. Hutch is near RIGHT edge, cottage gone from this angle. No people, no extra rabbit, no magic floating leaf.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Where is leaf going: SIDE-ON path view at LOW height, cabbage leaf now moving RIGHT toward hutch across pale stepping stone. Only a little rabbit hind paw and cream fur peek beneath trailing leaf; mouth holds stem but head remains behind blade. Foreground tall grass partly occludes rabbit naturally. Hutch is near RIGHT edge, cottage gone from this angle. No people, no extra rabbit, no magic floating leaf.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-4dc61ad6-a1d9-4009-b4b0-8939098cb301.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "fb571ad803b3aa47a96431bf7fea9a75864270fb2d51389659bc0a4d9486a88e"
+    },
+    {
+      "id": "b17-p05",
+      "book": 17,
+      "page": 5,
+      "brief": "Reveal from ABOVE: gentle HIGH ANGLE looking down at complete SAME cream-brown rabbit at RIGHT(70%,78%), unmistakably gripping single cabbage leaf by stem. Leaf blade trails LEFT across paw, same small physical sizes. Low hutch at upperRIGHT, loose clover and soft earth, cottage step lowerLEFT. Leave crouching child slot LEFT(30%,94%). Rich full scene, rabbit must be clear, eye/body not covered by leaf now.",
+      "actors": [
+        {
+          "pose": "crouch-palm",
+          "x": 300,
+          "ground": 940,
+          "scale": 0.8
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Reveal from ABOVE: gentle HIGH ANGLE looking down at complete SAME cream-brown rabbit at RIGHT(70%,78%), unmistakably gripping single cabbage leaf by stem. Leaf blade trails LEFT across paw, same small physical sizes. Low hutch at upperRIGHT, loose clover and soft earth, cottage step lowerLEFT. Leave crouching child slot LEFT(30%,94%). Rich full scene, rabbit must be clear, eye/body not covered by leaf now.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8e085b8d-ee76-4127-a145-0889d2a23ba3.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "56089c6a5b7284dd110f7002d9723d855969698d6be6f58618d2fc5616b02a13"
+    },
+    {
+      "id": "b17-p06",
+      "book": 17,
+      "page": 6,
+      "brief": "Rabbit goes home: LOW THREE-QUARTER VIEW of the hutch front filling RIGHT half, warm straw/open doorway clear, same rabbit approaching doorway from LEFT while carrying light cabbage leaf in mouth. Hind legs slightly extended in a little hop, ears angled back, anatomically natural. Path and white daisies foreground, back wall softly recedes, no people. The hutch entrance big enough for this rabbit; consistent sizes.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Rabbit goes home: LOW THREE-QUARTER VIEW of the hutch front filling RIGHT half, warm straw/open doorway clear, same rabbit approaching doorway from LEFT while carrying light cabbage leaf in mouth. Hind legs slightly extended in a little hop, ears angled back, anatomically natural. Path and white daisies foreground, back wall softly recedes, no people. The hutch entrance big enough for this rabbit; consistent sizes.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-f38d6fbe-6a1e-4565-bd67-2a8525c36697.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "55e83a8f985d47a2eb749a75deaeca2344f135fc296fc89e52bb75dc127d826f",
+      "correction": {
+        "id": "b17-p06",
+        "prompt": "Local precise edit: preserve same hopping rabbit, pose, hutch, camera, garden. Replace tiny cabbage morsel in its mouth with the SAME whole long pale cabbage leaf from earlier scenes, about rabbit's BODY length(roughly450 native pixels). Rabbit grips thin end of long WHITE STEM in mouth, blade curves DOWN and trails BACK toward LEFT across its front torso; natural light leaf weight. Whole leaf blade broad green/pale textured and extends leftward below body, not eaten yet. Keep complete rabbit ears/back/feet visible, only one rabbit. No people. Maintain all style and native square detail.",
+        "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-5068387c-f5f6-40ce-b808-7bcbe1ef792e.png"
+      }
+    },
+    {
+      "id": "b17-p07",
+      "book": 17,
+      "page": 7,
+      "brief": "Eating CLOSE-UP: same rabbit seated at its straw doorway, face threequarter to viewer, chewing leaf from its paws/mouth; leaf partly eaten with natural scalloped bite edges and much smaller blade but original-sized central rib. Whole rabbit and hutch doorway edge, soft straw, worn wood, nearby clover fill frame. No humans/hands, no extra leaf/food. Delightful tactile gouache detail, no graphic bite symbols.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Eating CLOSE-UP: same rabbit seated at its straw doorway, face threequarter to viewer, chewing leaf from its paws/mouth; leaf partly eaten with natural scalloped bite edges and much smaller blade but original-sized central rib. Whole rabbit and hutch doorway edge, soft straw, worn wood, nearby clover fill frame. No humans/hands, no extra leaf/food. Delightful tactile gouache detail, no graphic bite symbols.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-7233505b-c80d-452a-8ea1-130aa0e903a8.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "8f546446e6c679ad9c057f4654b9c7f0fb7df3f8f0b9249961a5cfefe9228549"
+    },
+    {
+      "id": "b17-p08",
+      "book": 17,
+      "page": 8,
+      "brief": "I go home too: WIDE view FROM GARDEN TOWARD COTTAGE DOOR on LEFT, clear diagonal stepping-stone path foreground. Hutch small at BACK RIGHT with same rabbit eating remaining little cabbage leaf at doorway. Child slot RIGHT foreground(64%,94%), on path toward cottage; no melon anywhere (held separately). A different closing environment view, warm intimate cottage flowers.",
+      "actors": [
+        {
+          "pose": "carry-play",
+          "x": 640,
+          "ground": 940,
+          "scale": 0.65
+        }
+      ],
+      "extras": [
+        "held-melon"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/rabbit.png",
+        "art-samples/books-16-20-native/cabbage-leaf.png",
+        "art-samples/books-16-20-native/rabbit-hutch.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. I go home too: WIDE view FROM GARDEN TOWARD COTTAGE DOOR on LEFT, clear diagonal stepping-stone path foreground. Hutch small at BACK RIGHT with same rabbit eating remaining little cabbage leaf at doorway. Child slot RIGHT foreground(64%,94%), on path toward cottage; no melon anywhere (held separately). A different closing environment view, warm intimate cottage flowers.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-74338724-b491-4996-b8e4-c8f3d1b9c26c.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "38bcaba828c916140133cf3d06e58112449482f9fdb0d420d7aa49577eb8bb55"
+    },
+    {
+      "id": "b18-p01",
+      "book": 18,
+      "page": 1,
+      "brief": "Cold morning entry: intimate cottage room with CLOSED TEAL WINDOW at LEFT, cool pale-blue morning sky through glass, a little coat rail and soft scarf BACK RIGHT, woven basket and cream plaster wall; honey floor warm indoors. Adult brown loafers rest together at RIGHT lower edge(80%,88%). Child standing slot LEFT center(39%,94%). Distinct quiet composition, no snowstorm, no people.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 390,
+          "ground": 940,
+          "scale": 0.68
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Cold morning entry: intimate cottage room with CLOSED TEAL WINDOW at LEFT, cool pale-blue morning sky through glass, a little coat rail and soft scarf BACK RIGHT, woven basket and cream plaster wall; honey floor warm indoors. Adult brown loafers rest together at RIGHT lower edge(80%,88%). Child standing slot LEFT center(39%,94%). Distinct quiet composition, no snowstorm, no people.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-4383fb4b-2e14-47ba-8993-51cc8429306b.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "b42d6628412399e7139e33d2457e181577b4111847d11553281f6cc8a3243cef"
+    },
+    {
+      "id": "b18-p02",
+      "book": 18,
+      "page": 2,
+      "brief": "Dressed and ready: fresh WARDROBE-SIDE view, open low wooden clothes cupboard at LEFT with neatly folded warm sweaters, door leading to hall at BACK RIGHT, sunlit timber floor and tiny round woven mat. Brown adult loafers still unworn near RIGHT foreground(79%,88%). Clear standing child slot at(47%,94%) proud of clothing. Same home but do not repeat window composition.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 470,
+          "ground": 940,
+          "scale": 0.68
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Dressed and ready: fresh WARDROBE-SIDE view, open low wooden clothes cupboard at LEFT with neatly folded warm sweaters, door leading to hall at BACK RIGHT, sunlit timber floor and tiny round woven mat. Brown adult loafers still unworn near RIGHT foreground(79%,88%). Clear standing child slot at(47%,94%) proud of clothing. Same home but do not repeat window composition.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-840e9344-a42b-4956-bca0-e48ea41ab6e9.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "9b21ab62eb129509c141da6b9b85fb37b39ebd8204910c2061009f7ccd9eff56"
+    },
+    {
+      "id": "b18-p03",
+      "book": 18,
+      "page": 3,
+      "brief": "SIZE COMPARISON STILL LIFE, no humans/feet/legs: top-threequarter view of two pairs of shoes on warm wood floor. Adult brown loafers at RIGHT with each shoe about1.6 times CHILD orange sneaker physical length, small orange sneakers/cream laces at LEFT. Same shoe designs as references, both pairs complete and clear, aligned parallel on same floor plane, low wood skirting and basket edge at top. Fill frame with tactile shoe detail, no ruler/numbers/text.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. SIZE COMPARISON STILL LIFE, no humans/feet/legs: top-threequarter view of two pairs of shoes on warm wood floor. Adult brown loafers at RIGHT with each shoe about1.6 times CHILD orange sneaker physical length, small orange sneakers/cream laces at LEFT. Same shoe designs as references, both pairs complete and clear, aligned parallel on same floor plane, low wood skirting and basket edge at top. Fill frame with tactile shoe detail, no ruler/numbers/text.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-855ee7d1-0d05-4334-ac89-e2bf137567c7.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "e4f81ffc3e6f496339d345c54cd1b60cca7e54674193d9dc607463704fc54722"
+    },
+    {
+      "id": "b18-p04",
+      "book": 18,
+      "page": 4,
+      "brief": "Trying big shoes: LOW FRONT view across hallway floor with teal doorframe LEFT and a small round mirror/coat hook high BACK, warm muted paper wall, baskets only at sides. Leave complete front-facing child slot centered(50%,94%); NO shoes painted anywhere, no feet/people. Bottom-central floor clear for independently added oversized loafers. Slight close camera makes action dominant, new view.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 500,
+          "ground": 940,
+          "scale": 0.7
+        }
+      ],
+      "extras": [
+        "big-shoes"
+      ],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Trying big shoes: LOW FRONT view across hallway floor with teal doorframe LEFT and a small round mirror/coat hook high BACK, warm muted paper wall, baskets only at sides. Leave complete front-facing child slot centered(50%,94%); NO shoes painted anywhere, no feet/people. Bottom-central floor clear for independently added oversized loafers. Slight close camera makes action dominant, new view.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-c8cae3ec-5672-496b-be5e-37f296a581db.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "a8a8e24de67065ddff1c5822118e7b062c090bbe43ff8f0af63575bd394554e3"
+    },
+    {
+      "id": "b18-p05",
+      "book": 18,
+      "page": 5,
+      "brief": "One step, shoes stay: long DIAGONAL HALLWAY view toward open teal garden door BACK LEFT, floorboard perspective leads from lowerRIGHT to upperLEFT. Adult brown loafers remain empty at LEFT foreground(34%,89%) at fixed adult physical size. Clear stepping child slot at RIGHT(64%,94%), having stepped out forward. No other shoes or people. Show free floor around stuck shoes, not same page4 view.",
+      "actors": [
+        {
+          "pose": "barefoot-step",
+          "x": 640,
+          "ground": 940,
+          "scale": 0.7
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. One step, shoes stay: long DIAGONAL HALLWAY view toward open teal garden door BACK LEFT, floorboard perspective leads from lowerRIGHT to upperLEFT. Adult brown loafers remain empty at LEFT foreground(34%,89%) at fixed adult physical size. Clear stepping child slot at RIGHT(64%,94%), having stepped out forward. No other shoes or people. Show free floor around stuck shoes, not same page4 view.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-55298090-4d84-4b6d-8b4e-6f8f4706351d.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "7ea2f99620769ba5ca0fa7eb31b70aed3fae40884bd325334a0de0859cf590d0"
+    },
+    {
+      "id": "b18-p06",
+      "book": 18,
+      "page": 6,
+      "brief": "FEET DETAIL scene plate: warm floor at ground level, adult brown loafers left BACK(24%,57%) and empty unobstructed honey wood FOREGROUND RIGHT for a child's bare feet to be composited. Camera is close to floor; wood grain, soft rug edge and low skirting only, NO humans/feet/legs. Brown shoes are farther behind foreground feet slot, natural perspective. New close drawing, no head/face.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 620,
+          "ground": 950,
+          "scale": 1.75,
+          "detail": true
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. FEET DETAIL scene plate: warm floor at ground level, adult brown loafers left BACK(24%,57%) and empty unobstructed honey wood FOREGROUND RIGHT for a child's bare feet to be composited. Camera is close to floor; wood grain, soft rug edge and low skirting only, NO humans/feet/legs. Brown shoes are farther behind foreground feet slot, natural perspective. New close drawing, no head/face.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-b6fd9bd9-2ab7-4b04-a65b-b8c7acde9f56.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "95168c25e3c3f473dab1674bbe3796c1d02de2ab2eea49b2877c33b4886ad3d6"
+    },
+    {
+      "id": "b18-p07",
+      "book": 18,
+      "page": 7,
+      "brief": "Own shoes and school bag: view beside low HALL BENCH at LEFT, small coat rail with hanging sun hat, open teal door at RIGHT spilling sunlight; textured timber floor. Clear child slot centered(51%,94%) wearing own shoes via separate actor; no bag/people/shoes painted. Bench and basket frame the action, different composition from wardrobe/window. Child will hold small sage schoolbag.",
+      "actors": [
+        {
+          "pose": "carry-play",
+          "x": 510,
+          "ground": 940,
+          "scale": 0.7
+        }
+      ],
+      "extras": [
+        "held-bag"
+      ],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Own shoes and school bag: view beside low HALL BENCH at LEFT, small coat rail with hanging sun hat, open teal door at RIGHT spilling sunlight; textured timber floor. Clear child slot centered(51%,94%) wearing own shoes via separate actor; no bag/people/shoes painted. Bench and basket frame the action, different composition from wardrobe/window. Child will hold small sage schoolbag.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-82dc541b-5714-47b2-95de-7019f700e7b2.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "be10bf3d0e04ba10dc066fe4a13b8e91e4b8173885dde76a9ca7e986874785b5"
+    },
+    {
+      "id": "b18-p08",
+      "book": 18,
+      "page": 8,
+      "brief": "Off we go: EXTERIOR VIEW FROM SUNNY GARDEN looking into open teal cottage door BACK LEFT. Diagonal stepping-stone path leads toward RIGHT foreground through daisies. Clear adult slot LEFT(28%,94%) just outside door and child slot RIGHT(65%,94%) farther ahead on path. NO people, bags or shoes baked. Bright leafy overhead framing, coherent cottage architecture, broad cheerful ending.",
+      "actors": [
+        {
+          "pose": "carry-play",
+          "x": 650,
+          "ground": 940,
+          "scale": 0.66
+        },
+        {
+          "adult": true,
+          "x": 280,
+          "ground": 940,
+          "height": 770
+        }
+      ],
+      "extras": [
+        "held-bag"
+      ],
+      "refs": [
+        "preview/art/sequence/books-11-15/playroom-clear.png",
+        "art-samples/books-16-20-native/adult-shoes.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Off we go: EXTERIOR VIEW FROM SUNNY GARDEN looking into open teal cottage door BACK LEFT. Diagonal stepping-stone path leads toward RIGHT foreground through daisies. Clear adult slot LEFT(28%,94%) just outside door and child slot RIGHT(65%,94%) farther ahead on path. NO people, bags or shoes baked. Bright leafy overhead framing, coherent cottage architecture, broad cheerful ending.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-d54fd15a-f6a6-417f-979f-16f3b9fe0c6f.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "f43bfcf4621c5c698c6852d7ee410766c4a1bcb975cf2df36f9c487a9082866e"
+    },
+    {
+      "id": "b19-p01",
+      "book": 19,
+      "page": 1,
+      "brief": "Hot day water break: SUNLIT garden corner beside stone bench LEFT, a few pebbles and thyme lower edge, cottage wall/teal shutter BACK RIGHT. Small orange flower in terracotta pot on a low pale-wood stool RIGHT(77%,90%), same reference design, visible soil. Child slot LEFT(34%,94%) for drinking. No cup/can/people painted. Dappled summer light with pale warm sky, full rich scene.",
+      "actors": [
+        {
+          "pose": "drink-water",
+          "x": 340,
+          "ground": 940,
+          "scale": 0.68
+        }
+      ],
+      "extras": [
+        "held-cup"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Hot day water break: SUNLIT garden corner beside stone bench LEFT, a few pebbles and thyme lower edge, cottage wall/teal shutter BACK RIGHT. Small orange flower in terracotta pot on a low pale-wood stool RIGHT(77%,90%), same reference design, visible soil. Child slot LEFT(34%,94%) for drinking. No cup/can/people painted. Dappled summer light with pale warm sky, full rich scene.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-970fdf0a-b434-4db6-a1b7-79ea6c94b09e.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "818cadf2cf3a11a33bc5dba550dbddd21f03b787b75eb396782cda8517f1c9d5"
+    },
+    {
+      "id": "b19-p02",
+      "book": 19,
+      "page": 2,
+      "brief": "Watering the flower: THREEQUARTER FRONT view of working corner, old stone wall diagonal BACK LEFT, bright geraniums at far sides, usable flagstones. Exact terracotta flowerpot/low wooden stool at RIGHT(76%,94%), orange flower/stem and soil visible; left-side lower pot drainage hole, no saucer. Child slot LEFT(40%,94%) holding can separately, no can/water/people painted. Soil landing point around(73%,65%).",
+      "actors": [
+        {
+          "pose": "water-pour",
+          "x": 400,
+          "ground": 940,
+          "scale": 0.68
+        }
+      ],
+      "extras": [
+        "held-can"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Watering the flower: THREEQUARTER FRONT view of working corner, old stone wall diagonal BACK LEFT, bright geraniums at far sides, usable flagstones. Exact terracotta flowerpot/low wooden stool at RIGHT(76%,94%), orange flower/stem and soil visible; left-side lower pot drainage hole, no saucer. Child slot LEFT(40%,94%) holding can separately, no can/water/people painted. Soil landing point around(73%,65%).",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-0a367324-2c8b-43c6-ac44-5282431fd5f5.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "3eb30db610d6c08fa37a3e862a0f5ccf060f9e13432933ae201c5b6df50b3fa8",
+      "correction": {
+        "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-57d0cf84-72ad-4322-a60e-eb0c95671e0e.png",
+        "prompt": "Precise object removal only. Remove the entire BIG sage watering can in LEFT foreground, including handle/body/spout. Repaint its occupied area with continuous warm pale flagstones and natural small thyme clumps. Keep flowerpot/stool at RIGHT, soil level, cottage, stonewall, daylight, exact camera, all other pixels unchanged. No wateringcan remains anywhere. No human/body parts. Child and held can will be composited separately. Square fullbleed warm gouache original resolution."
+      }
+    },
+    {
+      "id": "b19-p03",
+      "book": 19,
+      "page": 3,
+      "brief": "Just a little more: HIGH ANGLE CLOSE-UP of terracotta pot's DARK SOIL, orange flower stem/leaves near upperRIGHT, low stool edge visible below pot. SAGE WATERING CAN rose enters from upperLEFT, gently pouring a few small sunlit droplets onto SOIL, not petals. Same compact can/pot designs, no human hands/body, no flood. Diagonal composition, believable delicate water physically entering pot.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Just a little more: HIGH ANGLE CLOSE-UP of terracotta pot's DARK SOIL, orange flower stem/leaves near upperRIGHT, low stool edge visible below pot. SAGE WATERING CAN rose enters from upperLEFT, gently pouring a few small sunlit droplets onto SOIL, not petals. Same compact can/pot designs, no human hands/body, no flood. Diagonal composition, believable delicate water physically entering pot.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-e180dde0-ffc7-4792-b166-bb4da96558c6.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "18934473e83fb0e47b692b2cded3f81a47ce289509459d2774f69cad10134c52"
+    },
+    {
+      "id": "b19-p04",
+      "book": 19,
+      "page": 4,
+      "brief": "Surprise wet foot DETAIL plate: LOW ANGLE across flagstones toward LOW WOOD STOOL at RIGHT; terracotta pot cropped at top but its drain area remains visible. Thin NATURAL trickle drips from lower pot hole past left stool edge to small shallow puddle flowing toward EMPTY FOREGROUND LEFT foot slot. No people/feet/legs/can. Real watery droplets/highlights, no blue pipe or schematic lines. Flower shadow across paving, warm garden texture.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 400,
+          "ground": 950,
+          "scale": 1.7,
+          "detail": true
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Surprise wet foot DETAIL plate: LOW ANGLE across flagstones toward LOW WOOD STOOL at RIGHT; terracotta pot cropped at top but its drain area remains visible. Thin NATURAL trickle drips from lower pot hole past left stool edge to small shallow puddle flowing toward EMPTY FOREGROUND LEFT foot slot. No people/feet/legs/can. Real watery droplets/highlights, no blue pipe or schematic lines. Flower shadow across paving, warm garden texture.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-c7b6bea9-077d-46e0-9a47-7bc1bbbeed78.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "50ebc2a2cd6300b1f1a259628bc8992bbcb77435576128acf0130f6ca7599f54"
+    },
+    {
+      "id": "b19-p05",
+      "book": 19,
+      "page": 5,
+      "brief": "Find the source: MACRO SIDE VIEW of lower terracotta flowerpot resting on low wooden stool corner, clearly visible little drainage hole at lowerLEFT of pot. Natural small drops bead at hole, trickle down outside stool leg to flagstones. Pot texture, stool wood and thyme plant softly frame, no people/body/feet. Water must look transparent liquid, not a tube or drawn dashed line. Fresh full painting.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Find the source: MACRO SIDE VIEW of lower terracotta flowerpot resting on low wooden stool corner, clearly visible little drainage hole at lowerLEFT of pot. Natural small drops bead at hole, trickle down outside stool leg to flagstones. Pot texture, stool wood and thyme plant softly frame, no people/body/feet. Water must look transparent liquid, not a tube or drawn dashed line. Fresh full painting.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-dc07628d-401f-40b0-8a9a-ada1c3d768f2.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "d7be0a2446c2f1605c5de4622f0cab251b220b9cce8ea292b4e1d9a66cc5dc04"
+    },
+    {
+      "id": "b19-p06",
+      "book": 19,
+      "page": 6,
+      "brief": "Follow the whole water path: DIAGONAL LOW VIEW from beside flowerpot at RIGHT upper-half down to wet paving in LEFT foreground. Same terracotta pot/low stool, visible drainhole and single gentle runoff trickle that flows across stone toward EMPTY child foot slot LEFT(30%,94%). Leave room for one complete child at LEFT, keep background wall low/uncluttered. Water natural highlights/shallow puddle, no human painted, can set down far RIGHT edge.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 300,
+          "ground": 940,
+          "scale": 0.76
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Follow the whole water path: DIAGONAL LOW VIEW from beside flowerpot at RIGHT upper-half down to wet paving in LEFT foreground. Same terracotta pot/low stool, visible drainhole and single gentle runoff trickle that flows across stone toward EMPTY child foot slot LEFT(30%,94%). Leave room for one complete child at LEFT, keep background wall low/uncluttered. Water natural highlights/shallow puddle, no human painted, can set down far RIGHT edge.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-9756618d-1880-4f1d-b068-91b83cbb6fa7.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "eaca88a2eac1e3fc9d30ecec037e963f2773d4da54a9e43b592c0465572e1369"
+    },
+    {
+      "id": "b19-p07",
+      "book": 19,
+      "page": 7,
+      "brief": "Playful ending WIDE shot from SHADED TEAL DOORWAY looking into bright flowering garden: orange flower/terracotta pot/low stool at RIGHT(75%,92%) with small puddle at its feet, sage wateringcan now set down on paving nearby and no pouring. Clear child slot LEFT(37%,94%), open-hand 'aha' gesture will be separate. Varied leafy foreground frames sides, sunny airy happy scene, no people. Not same camera as page1.",
+      "actors": [
+        {
+          "pose": "barefoot-stand",
+          "x": 370,
+          "ground": 940,
+          "scale": 0.68
+        }
+      ],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/garden-nook.png",
+        "art-samples/books-16-20-native/plant-stool.png",
+        "art-samples/books-16-20-native/watering-can.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Playful ending WIDE shot from SHADED TEAL DOORWAY looking into bright flowering garden: orange flower/terracotta pot/low stool at RIGHT(75%,92%) with small puddle at its feet, sage wateringcan now set down on paving nearby and no pouring. Clear child slot LEFT(37%,94%), open-hand 'aha' gesture will be separate. Varied leafy foreground frames sides, sunny airy happy scene, no people. Not same camera as page1.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-fd0b9b81-c12c-478a-8af1-5be1d0bf6a58.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "fdb03023da0832eee472f81d151676141a853bf0df3e2b066f1587e0ecdc6bff"
+    },
+    {
+      "id": "b20-p01",
+      "book": 20,
+      "page": 1,
+      "brief": "Start drawing after rain: intimate view of cottage PATIO beneath jasmine shade, low stone bench recedes at BACK LEFT, teal window at RIGHT, wet stone glints near margins but dry drawing patch central foreground. Clear seated child slot LEFT(35%,93%), unobstructed drawing paper area RIGHT of knees(56%,88%). No paper/pencil/people/stone painted (all separate). Fresh diagonal composition.",
+      "actors": [
+        {
+          "pose": "sit-draw",
+          "x": 350,
+          "ground": 930,
+          "scale": 0.75
+        }
+      ],
+      "extras": [
+        "drawing-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Start drawing after rain: intimate view of cottage PATIO beneath jasmine shade, low stone bench recedes at BACK LEFT, teal window at RIGHT, wet stone glints near margins but dry drawing patch central foreground. Clear seated child slot LEFT(35%,93%), unobstructed drawing paper area RIGHT of knees(56%,88%). No paper/pencil/people/stone painted (all separate). Fresh diagonal composition.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-b4f4a31f-1f3d-45e3-adc7-d62356be5cc1.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "bba9b3c99d465b3199c1dc6f121c8dc95a84a498e99a02db751adb1c612de20c"
+    },
+    {
+      "id": "b20-p02",
+      "book": 20,
+      "page": 2,
+      "brief": "GUST ARRIVES: LOW wide patio view toward cottage door at BACK RIGHT; overhead tree leaves sweep diagonally LEFT-to-RIGHT, scarf-like branch shadows across pale wet paving. Clear standing child slot LEFT(33%,94%) and airborne paper space at RIGHT center(72%,57%). No paper/pencil/people painted. Lively curved botanical shapes and wind direction from foliage, not text or graphic arrows.",
+      "actors": [
+        {
+          "pose": "hands-flower-open",
+          "x": 330,
+          "ground": 940,
+          "scale": 0.67
+        }
+      ],
+      "extras": [
+        "flying-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. GUST ARRIVES: LOW wide patio view toward cottage door at BACK RIGHT; overhead tree leaves sweep diagonally LEFT-to-RIGHT, scarf-like branch shadows across pale wet paving. Clear standing child slot LEFT(33%,94%) and airborne paper space at RIGHT center(72%,57%). No paper/pencil/people painted. Lively curved botanical shapes and wind direction from foliage, not text or graphic arrows.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-ccfe30ba-af51-4700-b183-dbb7b71788db.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "f771474bf24297c98e2fb3865dc3aa1f9130c4b9ea308f057fe821436eb3c8f0"
+    },
+    {
+      "id": "b20-p03",
+      "book": 20,
+      "page": 3,
+      "brief": "Chase LEFT: long garden path sweeps strongly toward OPEN LOW GATE on LEFT, cottage now mostly on RIGHT edge, daisies and clover rush past foreground, leaves blown leftward. Clear running child slot RIGHT of center(57%,94%), airborne paper slot LEFT(18%,55%). Ground child-eye camera, action composition with directional diagonals. No people/paper/pencil or motion text painted.",
+      "actors": [
+        {
+          "pose": "run-left",
+          "x": 570,
+          "ground": 940,
+          "scale": 0.68,
+          "rotation": -0.07
+        }
+      ],
+      "extras": [
+        "flying-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Chase LEFT: long garden path sweeps strongly toward OPEN LOW GATE on LEFT, cottage now mostly on RIGHT edge, daisies and clover rush past foreground, leaves blown leftward. Clear running child slot RIGHT of center(57%,94%), airborne paper slot LEFT(18%,55%). Ground child-eye camera, action composition with directional diagonals. No people/paper/pencil or motion text painted.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-5ae939c9-48d0-4909-aaa8-9a6608fafe72.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "52a910003bf90fd3eb915be7e32b9a9d427f293d32e94ecd4f4644203e593a3b"
+    },
+    {
+      "id": "b20-p04",
+      "book": 20,
+      "page": 4,
+      "brief": "Chase RIGHT: REVERSE ANGLE from near gate looking toward LOW STONE BENCH and teal window at RIGHT, path now sweeps rightward, loose leaves drift right, strong opposite directional composition. Child running slot LEFT of center(43%,94%), airborne paper slot RIGHT(83%,55%). Same patio after rain but a newly painted scene and camera, no people/paper/pencil.",
+      "actors": [
+        {
+          "pose": "run-right",
+          "x": 430,
+          "ground": 940,
+          "scale": 0.68,
+          "rotation": 0.07
+        }
+      ],
+      "extras": [
+        "flying-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Chase RIGHT: REVERSE ANGLE from near gate looking toward LOW STONE BENCH and teal window at RIGHT, path now sweeps rightward, loose leaves drift right, strong opposite directional composition. Child running slot LEFT of center(43%,94%), airborne paper slot RIGHT(83%,55%). Same patio after rain but a newly painted scene and camera, no people/paper/pencil.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-6aa2e629-e746-42be-b211-7546ce549d38.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "435ff7545d73e927c8c4e68f73bc29d099f9ea48766a60c377500e07ca1e2129"
+    },
+    {
+      "id": "b20-p05",
+      "book": 20,
+      "page": 5,
+      "brief": "Paper lands: closer THREEQUARTER view beside low stone bench on RIGHT and cottage step BACK LEFT, dry flat pale flagstone patch foreground at(56%,88%). Child crouching slot LEFT(35%,94%) with hand reaching toward landing paper; no paper/pencil/stone/people painted. A few rain glints at margins, dappled warm light. Different viewpoint, clear story action space.",
+      "actors": [
+        {
+          "pose": "crouch-palm",
+          "x": 350,
+          "ground": 940,
+          "scale": 0.82
+        }
+      ],
+      "extras": [
+        "landed-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Paper lands: closer THREEQUARTER view beside low stone bench on RIGHT and cottage step BACK LEFT, dry flat pale flagstone patch foreground at(56%,88%). Child crouching slot LEFT(35%,94%) with hand reaching toward landing paper; no paper/pencil/stone/people painted. A few rain glints at margins, dappled warm light. Different viewpoint, clear story action space.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-995e3b42-184f-44f3-ad96-c0624904bc8c.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "a7833e9f3e34f32874e111c058b9a5da024b5eb6e67aef01746767bc9cae01ad"
+    },
+    {
+      "id": "b20-p06",
+      "book": 20,
+      "page": 6,
+      "brief": "Try a stone: GROUND-LEVEL medium view along patio border, terra-cotta plant pots/back window high in distance, BIG flat dry flagstone foreground. Child crouching slot RIGHT(68%,94%), hands toward paper area LEFT(40%,85%). No paper/pencil/stone/people painted (all added consistently). Clear diagonal reaching action setup, rich painted stone detail, no blank stage.",
+      "actors": [
+        {
+          "pose": "crouch-book",
+          "x": 680,
+          "ground": 940,
+          "scale": 0.8
+        }
+      ],
+      "extras": [
+        "anchored-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Try a stone: GROUND-LEVEL medium view along patio border, terra-cotta plant pots/back window high in distance, BIG flat dry flagstone foreground. Child crouching slot RIGHT(68%,94%), hands toward paper area LEFT(40%,85%). No paper/pencil/stone/people painted (all added consistently). Clear diagonal reaching action setup, rich painted stone detail, no blank stage.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-09534669-6c3c-4636-8506-fb5fd345def6.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "4451d402e135d8010a1b5016b707e53d97277c8dd9ee4bc4e8347eb8b077b14b"
+    },
+    {
+      "id": "b20-p07",
+      "book": 20,
+      "page": 7,
+      "brief": "Wind test CLOSE-UP: small same terracotta-red drawing sheet lies FLAT on pale flagstone, broadside threequarter view, one small rounded grey pebble weighs down ONLY its LEFT edge. Paper has only one pale simple incomplete umbrella-canopy arc near center, rest blank no letters. A loose corner curls slightly in breeze but stays down, several tree leaves blow past in BACK, pencil set beside paper, stone does not cover drawing area. Full tactile composition, no people/hands/body.",
+      "actors": [],
+      "extras": [],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Wind test CLOSE-UP: small same terracotta-red drawing sheet lies FLAT on pale flagstone, broadside threequarter view, one small rounded grey pebble weighs down ONLY its LEFT edge. Paper has only one pale simple incomplete umbrella-canopy arc near center, rest blank no letters. A loose corner curls slightly in breeze but stays down, several tree leaves blow past in BACK, pencil set beside paper, stone does not cover drawing area. Full tactile composition, no people/hands/body.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-2f9e046c-ea12-4ab3-b3de-289497fc3cd0.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "593fd8dbd7539a113a560bbf61c854e86ce5b0d2adc94a0e1e91eae21bd84923",
+      "correction": {
+        "id": "b20-p07",
+        "prompt": "Precise local edit to drawing on red paper ONLY: remove umbrella ribs/scallops, keep only a single thin ivory INCOMPLETE umbrella canopy arc, matching one simple semicircular curved line. NO handle/stem/ribs yet. Leave paper, stone weighing LEFT edge, pencil on ground, camera, wind leaves, garden and all lighting unchanged. Highest native resolution square. No people or extra objects.",
+        "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-9e548765-d367-49d3-8e07-da986948595b.png"
+      }
+    },
+    {
+      "id": "b20-p08",
+      "book": 20,
+      "page": 8,
+      "brief": "Finally drawing: WIDE CALM ending from cottage porch toward sunlit patio bench/garden flowers, teal shutters at LEFT, overhead leafy arch RIGHT, warm damp paving with a dry drawing patch foreground. Seated child slot LEFT(36%,94%) and paper patch RIGHT of knees(57%,88%). No paper/pencil/stone/people painted. Leaves settle, gentle late light, new closing scene orientation distinct from page1.",
+      "actors": [
+        {
+          "pose": "sit-draw",
+          "x": 360,
+          "ground": 940,
+          "scale": 0.75
+        }
+      ],
+      "extras": [
+        "finished-paper"
+      ],
+      "refs": [
+        "art-samples/books-16-20-native/after-rain-patio.png",
+        "art-samples/books-16-20-native/red-paper.png"
+      ],
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Finally drawing: WIDE CALM ending from cottage porch toward sunlit patio bench/garden flowers, teal shutters at LEFT, overhead leafy arch RIGHT, warm damp paving with a dry drawing patch foreground. Seated child slot LEFT(36%,94%) and paper patch RIGHT of knees(57%,88%). No paper/pencil/stone/people painted. Leaves settle, gentle late light, new closing scene orientation distinct from page1.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-4cbe0ec0-e07d-41bf-890a-d1ec946600d6.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "accepted": true,
+      "sha256": "28f07c7b53c85f7ea29785805e8bcaba191b0fd1cbc3452f66162a7a0eb86207"
+    },
+    {
+      "name": "barefoot-step",
+      "ref": "art-samples/books-16-20-native/child-barefoot-v2.png",
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. Pixel-calibrated1024x1536 headless child body, same master intrinsic anatomy/pixel density: collar501225, sweater hem730, shorts955, large empty top194px, right bare foot1355. One small forward STEP: image-left leg lifts slightly forward/left, knee naturally bent, bare left foot stepping to(320,1260); right leg remains planted at(735,1355). Both arms a little out for balance. Keep actual thigh/calf/foot physical lengths/thickness, no giant foot or stretched legs; don't scale torso. Exact yellow/sage/ivory clothes, transparent alpha, no shoe/props/background/shadow/glow.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-ef54c212-2dd5-429e-a00b-218db7a04595.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        103,
+        190,
+        1007,
+        1372
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true,
+      "sha256": "3a2e713939ce4c543bde34133aa57665c9544ee8d4090e542a9a4b5c1cac74da"
+    },
+    {
+      "name": "crouch-book",
+      "ref": "art-samples/books-11-15-native/child-crouch-palm-v2.png",
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. PIXEL REGISTERED pose edit same1024x1536 child: neck anchor510320, headless neck top276, torso hem735, knees/feet bottom1191 stay in place and unchanged size. Only adjust forearms/hands: BOTH hands gently extend forward, palms up around(390,800) and(680,800), ready to lift an open book added separately. Same natural deep squat, exact small shoe size220px, same torso/limbs/sage shorts/yellow sweater. No book/props/head/floor/shadow/glow; true alpha. Do not zoom or enlarge body.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-42762ac7-9487-4527-ab10-ccbc09565560.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        167,
+        244,
+        963,
+        1244
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true,
+      "sha256": "ea9bc6bb4ba9308320dea207e50a73be2ea483427e9eec2472492006ce791627"
+    },
+    {
+      "name": "run-left-clean",
+      "prompt": "Use case: background-extraction. EDIT exact reference, remove ALL blurred yellow/brown halo and black/cream background. Output genuine fully transparent alpha everywhere outside the headless child's silhouette. Keep child's pose, sweater, shorts, socks, shoes, dimensions, exact original position/pixel density and1024x1536 canvas unchanged. No halo, no shadows, no floor, no glow. Do not enlarge/shrink/recenter or add head. CRITICAL preserve empty upper canvas and toe shape. Only crisp soft antialias edge pixels, clear empty space between limbs and above neck.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-54a7d1b6-9e3b-46ca-a5d7-67ccd3c68a90.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        136,
+        194,
+        989,
+        1373
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true,
+      "sha256": "d6dbf3c14131027506eb00b4d26e36cd5ae58d57594a9d21409b6f47eebc04a4"
+    },
+    {
+      "name": "run-right-v2",
+      "prompt": "Use case precise-object-edit. Keep exact reference headless child at exact current1024x1536 canvas position and pixel density. ONLY shorten the image-RIGHT front sneaker toe by about55 pixels: keep ankle and heel aroundx680, move rightmost toe edge fromx980 tox925. Keep shoe height, sole/laces style and natural shape. Do NOT change torso/legs/hands/left back shoe, no recenter or scale, no head. Preserve genuine transparent alpha background completely, no opaque texture, no halo or glow. Highest native fidelity.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-0ddc07c0-3d58-4cfb-b126-551ed379500f.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        44,
+        180,
+        929,
+        1398
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true,
+      "sha256": "6aef9a712143ad3d195cb07ba06638db2f302bc569eaa4f780723488b196fe91"
+    },
+    {
+      "name": "sit-shoo",
+      "ref": "art-samples/books-16-20-native/child-sit-draw-v2.png",
+      "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. PIXEL REGISTERED small pose edit, same1024x1536 transparent child. Keep large EMPTY y0..364, neck501400, torso/hem930, crossed legs/shoes ending1270, intrinsic anatomy and all source pixel density exactly. Change ONLY image-right arm: extend naturally sideways/right, open palm forward in gentle 'please move aside' gesture, hand near(900,770). Image-left hand rests on existing knee. Same exact clothes/yellow sweater/ivory pocket/sage shorts/socks/orange shoes. Headless, NO prop, floor/shadow/glow. Do NOT enlarge torso or feet or recenter.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-00f62c5a-9def-4546-9676-2978624cb1d4.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "bounds": [
+        40,
+        365,
+        1014,
+        1271
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "accepted": true,
+      "sha256": "c246fde7d6be52a6df5cece323f29dbe36034adbb20a0e872f5c619c9ae67860"
+    }
+  ]
+}

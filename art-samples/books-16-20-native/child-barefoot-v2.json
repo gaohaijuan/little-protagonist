@@ -1,0 +1,7 @@
+{
+  "name": "child-barefoot-v2",
+  "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-family-production/child-body.png",
+  "alpha": true,
+  "prompt": "Use case: illustration-story. Match the supplied approved Chinese preschool picture-book reference precisely: premium warm watercolor/gouache with fine layered paper/collage brush texture, honey ochre yellow, muted sage, terracotta, ivory, gentle coherent natural light and richly observed small details, friendly anatomy. Highest available actual native resolution and detail. No text, letters, numbers, labels, logos, borders, watermark or 3D plastic. EXACT PIXEL-REGISTERED MINIMAL EDIT. Input is a 1024x1536 transparent master. Retain exact same canvas and framing; do not zoom or recenter. All pixels ABOVE y1150 must remain in original positions: neck stump top y202, neck/collar anchor(501,225), sweater hem y730, shorts hem y955, knees y1000. Only replace the socks and orange shoes BELOW y1150 with natural child bare ankles/feet. Left foot centered around(427,1320), right foot around(729,1320), sole baseline y1395. Bare feet width about180px each, same child's small anatomy. No head, no new pose, no resizing of any body part. Leave original huge empty transparent space above headless neck (y0..199). Match source painting. True alpha.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-eea1e91b-882a-4102-888e-42ba69b186d2.png"
+}

@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "width": 1672,
+  "height": 941,
+  "paper": "#fbf6e9",
+  "files": {
+    "sky": "rain-sky.webp",
+    "alone": "rain-alone.webp",
+    "flowerWide": "rain-alone.webp",
+    "flowerClose": "rain-alone.webp",
+    "walk": "rain-walk.webp",
+    "shelter": "rain-shelter.webp"
+  },
+  "heads": {
+    "childHead": {
+      "url": "../../family/child-head.webp",
+      "metrics": {
+        "bounds": {
+          "left": 51,
+          "top": 17,
+          "right": 1298,
+          "bottom": 1167
+        },
+        "faceBounds": {
+          "left": 207,
+          "top": 391,
+          "right": 1096,
+          "bottom": 1165
+        },
+        "chin": {
+          "x": 654,
+          "y": 1164
+        }
+      }
+    },
+    "curiousHead": {
+      "url": "curious-head.webp",
+      "metrics": {
+        "bounds": {
+          "left": 42,
+          "top": 18,
+          "right": 1317,
+          "bottom": 1177
+        },
+        "faceBounds": {
+          "left": 220,
+          "top": 420,
+          "right": 1100,
+          "bottom": 1175
+        },
+        "chin": {
+          "x": 655,
+          "y": 1173
+        }
+      }
+    }
+  },
+  "scenes": {
+    "sky": {
+      "head": false
+    },
+    "alone": {
+      "head": "curiousHead",
+      "neck": {
+        "x": 516,
+        "y": 459
+      },
+      "face": {
+        "width": 185,
+        "height": 180
+      },
+      "rotation": 0.02,
+      "photoPose": {
+        "neck": {
+          "x": 516,
+          "y": 459
+        },
+        "face": {
+          "width": 211,
+          "height": 185
+        },
+        "rotation": 0.02,
+        "headFrame": {
+          "crownHeight": 270,
+          "faceToCrown": 1.7
+        }
+      }
+    },
+    "flowerWide": {
+      "head": false
+    },
+    "flowerClose": {
+      "head": false
+    },
+    "walk": {
+      "head": "curiousHead",
+      "neck": {
+        "x": 553,
+        "y": 467
+      },
+      "face": {
+        "width": 185,
+        "height": 180
+      },
+      "rotation": 0.06,
+      "photoPose": {
+        "neck": {
+          "x": 553,
+          "y": 467
+        },
+        "face": {
+          "width": 211,
+          "height": 185
+        },
+        "rotation": 0.06,
+        "headFrame": {
+          "crownHeight": 270,
+          "faceToCrown": 1.7
+        }
+      }
+    },
+    "shelter": {
+      "head": "curiousHead",
+      "neck": {
+        "x": 374,
+        "y": 571
+      },
+      "face": {
+        "width": 230,
+        "height": 200
+      },
+      "rotation": 0.04,
+      "photoPose": {
+        "neck": {
+          "x": 374,
+          "y": 571
+        },
+        "face": {
+          "width": 230,
+          "height": 205
+        },
+        "rotation": 0.04,
+        "headFrame": {
+          "crownHeight": 285,
+          "faceToCrown": 1.7
+        }
+      }
+    }
+  },
+  "pages": [
+    {
+      "scene": "sky",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      }
+    },
+    {
+      "scene": "flowerWide",
+      "crop": {
+        "x": 745,
+        "y": 325,
+        "width": 300,
+        "height": 570
+      }
+    },
+    {
+      "scene": "alone",
+      "crop": {
+        "x": 100,
+        "y": 0,
+        "width": 985,
+        "height": 941
+      }
+    },
+    {
+      "scene": "flowerClose",
+      "crop": {
+        "x": 755,
+        "y": 470,
+        "width": 280,
+        "height": 420
+      }
+    },
+    {
+      "scene": "alone",
+      "crop": {
+        "x": 130,
+        "y": 0,
+        "width": 960,
+        "height": 941
+      }
+    },
+    {
+      "scene": "walk",
+      "crop": {
+        "x": 145,
+        "y": 0,
+        "width": 940,
+        "height": 941
+      }
+    },
+    {
+      "scene": "shelter",
+      "crop": {
+        "x": 130,
+        "y": 0,
+        "width": 960,
+        "height": 941
+      }
+    },
+    {
+      "scene": "shelter",
+      "crop": {
+        "x": 185,
+        "y": 30,
+        "width": 860,
+        "height": 890
+      }
+    }
+  ],
+  "cover": {
+    "scene": "shelter",
+    "crop": {
+      "x": 190,
+      "y": 0,
+      "width": 850,
+      "height": 910
+    }
+  }
+}

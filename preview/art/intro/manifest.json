@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "width": 1672,
+  "height": 941,
+  "paper": "#fbf6e9",
+  "files": {
+    "greeting": "greeting.webp",
+    "play": "play.webp",
+    "school": "school.webp"
+  },
+  "head": {
+    "asset": "childHead",
+    "url": "../family/child-head.webp",
+    "metrics": {
+      "bounds": {
+        "left": 51,
+        "top": 17,
+        "right": 1298,
+        "bottom": 1167
+      },
+      "faceBounds": {
+        "left": 207,
+        "top": 391,
+        "right": 1096,
+        "bottom": 1165
+      },
+      "chin": {
+        "x": 654,
+        "y": 1164
+      }
+    }
+  },
+  "scenes": {
+    "greeting": {
+      "neck": {
+        "x": 675,
+        "y": 379
+      },
+      "face": {
+        "width": 240,
+        "height": 210
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 675,
+          "y": 379
+        },
+        "face": {
+          "width": 220,
+          "height": 205
+        },
+        "rotation": 0,
+        "headFrame": {
+          "crownHeight": 285,
+          "faceToCrown": 1.7
+        }
+      }
+    },
+    "play": {
+      "neck": {
+        "x": 591,
+        "y": 321
+      },
+      "face": {
+        "width": 240,
+        "height": 210
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 591,
+          "y": 321
+        },
+        "face": {
+          "width": 220,
+          "height": 205
+        },
+        "rotation": 0,
+        "headFrame": {
+          "crownHeight": 285,
+          "faceToCrown": 1.7
+        }
+      }
+    },
+    "school": {
+      "neck": {
+        "x": 535,
+        "y": 327
+      },
+      "face": {
+        "width": 240,
+        "height": 210
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 535,
+          "y": 327
+        },
+        "face": {
+          "width": 220,
+          "height": 205
+        },
+        "rotation": 0,
+        "headFrame": {
+          "crownHeight": 285,
+          "faceToCrown": 1.7
+        }
+      }
+    }
+  },
+  "crops": {
+    "0": {
+      "x": 450,
+      "y": 0,
+      "width": 1087,
+      "height": 941
+    },
+    "1": {
+      "x": 280,
+      "y": 0,
+      "width": 720,
+      "height": 625
+    },
+    "2": {
+      "x": 35,
+      "y": 0,
+      "width": 1052,
+      "height": 941
+    },
+    "3": {
+      "x": 0,
+      "y": 0,
+      "width": 1087,
+      "height": 941
+    },
+    "4": {
+      "x": 245,
+      "y": 0,
+      "width": 1087,
+      "height": 941
+    },
+    "5": {
+      "x": 325,
+      "y": 0,
+      "width": 750,
+      "height": 650
+    }
+  },
+  "cover": {
+    "x": 450,
+    "y": 0,
+    "width": 730,
+    "height": 875
+  },
+  "hero": {
+    "x": 450,
+    "y": 0,
+    "width": 760,
+    "height": 875
+  }
+}

@@ -1,0 +1,12 @@
+# Append these patterns to a future publication ignore list if needed.
+.env
+.env.*
+!.env.example
+node_modules/
+.local/
+**/dist/
+preview/index.html
+preview/drafts/
+preview/qa/
+output/pdf/
+tmp/pdfs/

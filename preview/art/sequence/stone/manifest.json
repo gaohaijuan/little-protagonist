@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "width": 1672,
+  "height": 941,
+  "paper": "#fbf6e9",
+  "files": {
+    "stone-home": "stone-home.webp",
+    "stone-hold": "stone-hold.webp",
+    "stone-walk": "stone-walk.webp",
+    "stone-return": "stone-return.webp",
+    "stone-leave": "stone-leave.webp",
+    "stone-home-detail": "stone-home.webp",
+    "stone-return-detail": "stone-return.webp"
+  },
+  "heads": {
+    "childHead": {
+      "url": "../../family/child-head.webp",
+      "metrics": {
+        "bounds": {
+          "left": 51,
+          "top": 17,
+          "right": 1298,
+          "bottom": 1167
+        },
+        "faceBounds": {
+          "left": 207,
+          "top": 391,
+          "right": 1096,
+          "bottom": 1165
+        },
+        "chin": {
+          "x": 654,
+          "y": 1164
+        }
+      }
+    },
+    "curiousHead": {
+      "url": "stone-curious-head.webp",
+      "metrics": {
+        "bounds": {
+          "left": 53,
+          "top": 14,
+          "right": 1311,
+          "bottom": 1168
+        },
+        "faceBounds": {
+          "left": 208,
+          "top": 400,
+          "right": 1080,
+          "bottom": 1166
+        },
+        "chin": {
+          "x": 655,
+          "y": 1166
+        }
+      }
+    }
+  },
+  "scenes": {
+    "stone-home": {
+      "head": "curiousHead",
+      "neck": {
+        "x": 590,
+        "y": 351
+      },
+      "face": {
+        "width": 240,
+        "height": 210
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 604,
+          "y": 361
+        },
+        "face": {
+          "width": 220,
+          "height": 205
+        },
+        "rotation": -0.15,
+        "headFrame": {
+          "crownHeight": 330,
+          "faceToCrown": 1.7
+        }
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      }
+    },
+    "stone-hold": {
+      "head": "curiousHead",
+      "neck": {
+        "x": 560,
+        "y": 296
+      },
+      "face": {
+        "width": 240,
+        "height": 210
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 560,
+          "y": 296
+        },
+        "face": {
+          "width": 220,
+          "height": 205
+        },
+        "rotation": -0.03,
+        "headFrame": {
+          "crownHeight": 285,
+          "faceToCrown": 1.7
+        }
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      }
+    },
+    "stone-walk": {
+      "head": "childHead",
+      "neck": {
+        "x": 585,
+        "y": 298
+      },
+      "face": {
+        "width": 230,
+        "height": 200
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 585,
+          "y": 298
+        },
+        "face": {
+          "width": 220,
+          "height": 205
+        },
+        "rotation": 0.025,
+        "headFrame": {
+          "crownHeight": 285,
+          "faceToCrown": 1.7
+        }
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      }
+    },
+    "stone-return": {
+      "head": "curiousHead",
+      "neck": {
+        "x": 581,
+        "y": 358
+      },
+      "face": {
+        "width": 240,
+        "height": 210
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 593,
+          "y": 369
+        },
+        "face": {
+          "width": 220,
+          "height": 205
+        },
+        "rotation": -0.14,
+        "headFrame": {
+          "crownHeight": 330,
+          "faceToCrown": 1.7
+        }
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      }
+    },
+    "stone-leave": {
+      "head": "childHead",
+      "neck": {
+        "x": 589,
+        "y": 298
+      },
+      "face": {
+        "width": 230,
+        "height": 200
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 589,
+          "y": 298
+        },
+        "face": {
+          "width": 220,
+          "height": 205
+        },
+        "rotation": 0.015,
+        "headFrame": {
+          "crownHeight": 285,
+          "faceToCrown": 1.7
+        }
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      }
+    },
+    "stone-home-detail": {
+      "head": false,
+      "crop": {
+        "x": 0,
+        "y": 390,
+        "width": 440,
+        "height": 390
+      }
+    },
+    "stone-return-detail": {
+      "head": false,
+      "crop": {
+        "x": 0,
+        "y": 390,
+        "width": 440,
+        "height": 390
+      }
+    }
+  },
+  "pages": [
+    {
+      "scene": "stone-home"
+    },
+    {
+      "scene": "stone-home-detail"
+    },
+    {
+      "scene": "stone-hold",
+      "crop": {
+        "x": 220,
+        "y": 0,
+        "width": 780,
+        "height": 875
+      }
+    },
+    {
+      "scene": "stone-walk"
+    },
+    {
+      "scene": "stone-walk",
+      "crop": {
+        "x": 230,
+        "y": 0,
+        "width": 820,
+        "height": 900
+      }
+    },
+    {
+      "scene": "stone-return"
+    },
+    {
+      "scene": "stone-return-detail"
+    },
+    {
+      "scene": "stone-leave"
+    }
+  ],
+  "cover": {
+    "scene": "stone-home",
+    "crop": {
+      "x": 70,
+      "y": 0,
+      "width": 850,
+      "height": 941
+    }
+  }
+}

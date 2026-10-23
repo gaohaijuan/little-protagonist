@@ -1,0 +1,22 @@
+{
+  "name": "run-left-v3",
+  "ref": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-016b15d5-709e-4227-a888-eb7bf7f21a89.png",
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. Extremely local correction of ONLY the forward LEFT orange sneaker (bottom-left shoe). Current shoe is too long from x95 tox400. SHORTEN its toe so painted shoe now spans x175..400 =225px width, keeping heel/ankle at same x370 and same y1200..1370. It must be the same small shoe size as the other shoe. Do NOT move ankle, leg, body, neck, clothes, canvas, other shoe or camera. Keep exact1024x1536 framing and alpha. Only erase excess forward toe extent and repaint a proportionate rounded toe80px nearer heel, natural sole. Everything else identical.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-b74e39e1-8ebf-44ac-a31a-2a96de063c3e.png",
+  "nativeSize": [
+    1024,
+    1536
+  ],
+  "bounds": [
+    0,
+    0,
+    1024,
+    1536
+  ],
+  "alphaRange": [
+    0,
+    254
+  ],
+  "accepted": false,
+  "sha256": "7e13915130b48fbfa458d4d74cc1701ea1fe6225c8c4aa1afe2ef7a0dcf1965b"
+}
