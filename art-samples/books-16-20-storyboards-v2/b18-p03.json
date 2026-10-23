@@ -1,0 +1,30 @@
+{
+  "id": "b18-p03",
+  "book": 18,
+  "page": 3,
+  "brief": "SIZE COMPARISON STILL LIFE, no humans/feet/legs: top-threequarter view of two pairs of shoes on warm wood floor. Adult brown loafers at RIGHT with each shoe about1.6 times CHILD orange sneaker physical length, small orange sneakers/cream laces at LEFT. Same shoe designs as references, both pairs complete and clear, aligned parallel on same floor plane, low wood skirting and basket edge at top. Fill frame with tactile shoe detail, no ruler/numbers/text.",
+  "actors": [],
+  "extras": [],
+  "refs": [
+    "preview/art/sequence/books-11-15/playroom-clear.png",
+    "art-samples/books-16-20-native/adult-shoes.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. SIZE COMPARISON STILL LIFE, no humans/feet/legs: top-threequarter view of two pairs of shoes on warm wood floor. Adult brown loafers at RIGHT with each shoe about1.6 times CHILD orange sneaker physical length, small orange sneakers/cream laces at LEFT. Same shoe designs as references, both pairs complete and clear, aligned parallel on same floor plane, low wood skirting and basket edge at top. Fill frame with tactile shoe detail, no ruler/numbers/text.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-855ee7d1-0d05-4334-ac89-e2bf137567c7.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "e4f81ffc3e6f496339d345c54cd1b60cca7e54674193d9dc607463704fc54722"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "b20-p02",
+  "book": 20,
+  "page": 2,
+  "brief": "GUST ARRIVES: LOW wide patio view toward cottage door at BACK RIGHT; overhead tree leaves sweep diagonally LEFT-to-RIGHT, scarf-like branch shadows across pale wet paving. Clear standing child slot LEFT(33%,94%) and airborne paper space at RIGHT center(72%,57%). No paper/pencil/people painted. Lively curved botanical shapes and wind direction from foliage, not text or graphic arrows.",
+  "actors": [
+    {
+      "pose": "hands-flower-open",
+      "x": 330,
+      "ground": 940,
+      "scale": 0.67
+    }
+  ],
+  "extras": [
+    "flying-paper"
+  ],
+  "refs": [
+    "art-samples/books-16-20-native/after-rain-patio.png",
+    "art-samples/books-16-20-native/red-paper.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. GUST ARRIVES: LOW wide patio view toward cottage door at BACK RIGHT; overhead tree leaves sweep diagonally LEFT-to-RIGHT, scarf-like branch shadows across pale wet paving. Clear standing child slot LEFT(33%,94%) and airborne paper space at RIGHT center(72%,57%). No paper/pencil/people painted. Lively curved botanical shapes and wind direction from foliage, not text or graphic arrows.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-ccfe30ba-af51-4700-b183-dbb7b71788db.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "f771474bf24297c98e2fb3865dc3aa1f9130c4b9ea308f057fe821436eb3c8f0"
+}

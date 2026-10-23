@@ -1,0 +1,32 @@
+{
+  "id": "b17-p07",
+  "book": 17,
+  "page": 7,
+  "brief": "Eating CLOSE-UP: same rabbit seated at its straw doorway, face threequarter to viewer, chewing leaf from its paws/mouth; leaf partly eaten with natural scalloped bite edges and much smaller blade but original-sized central rib. Whole rabbit and hutch doorway edge, soft straw, worn wood, nearby clover fill frame. No humans/hands, no extra leaf/food. Delightful tactile gouache detail, no graphic bite symbols.",
+  "actors": [],
+  "extras": [],
+  "refs": [
+    "art-samples/books-16-20-native/garden-nook.png",
+    "art-samples/books-16-20-native/rabbit.png",
+    "art-samples/books-16-20-native/cabbage-leaf.png",
+    "art-samples/books-16-20-native/rabbit-hutch.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Eating CLOSE-UP: same rabbit seated at its straw doorway, face threequarter to viewer, chewing leaf from its paws/mouth; leaf partly eaten with natural scalloped bite edges and much smaller blade but original-sized central rib. Whole rabbit and hutch doorway edge, soft straw, worn wood, nearby clover fill frame. No humans/hands, no extra leaf/food. Delightful tactile gouache detail, no graphic bite symbols.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-7233505b-c80d-452a-8ea1-130aa0e903a8.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "8f546446e6c679ad9c057f4654b9c7f0fb7df3f8f0b9249961a5cfefe9228549"
+}

@@ -1,0 +1,1907 @@
+{
+  "schemaVersion": 1,
+  "measurement": {
+    "renderer": "existing family-art.js / sequence-art.js via affine Canvas draw spy",
+    "storyCanvasPx": [
+      1400,
+      788
+    ],
+    "printedArtPanelMm": [
+      128.5,
+      111.27252747252747
+    ],
+    "extractedCanvasRegionPx": [
+      0,
+      0,
+      910,
+      788
+    ],
+    "targetPpi": 300,
+    "runtimeUserPhotos": "excluded: must measure actual decoded source, metrics and final camera per user; authoredCameraBackground records conservative max background magnification without optional avatar camera expansion",
+    "familyDefault": "child + dad + mom",
+    "familyEnumeration": "every adult subset, 1..12 children, max 12 total; all photographed child roles share same painted sprite"
+  },
+  "pages": {
+    "family": [
+      {
+        "page": 1,
+        "scene": "group",
+        "minEffectivePpi": 214.82272373540854,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/family/courtyard.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.82272373540854,
+            "requiredLinearScale": 1.3965003086428698,
+            "requiredWidth": 2335,
+            "requiredHeight": 1315,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/child-body.webp",
+            "width": 1024,
+            "height": 1536,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1024,
+              "height": 1536
+            },
+            "effectivePpi": 1081.715155055041,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1024,
+            "requiredHeight": 1536,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 1202.5369808472528,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/bodies.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 627
+            },
+            "effectivePpi": 261.9805424585815,
+            "requiredLinearScale": 1.145123211001173,
+            "requiredWidth": 1436,
+            "requiredHeight": 1436,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/heads.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 610
+            },
+            "effectivePpi": 517.2364506722369,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1254,
+            "requiredHeight": 1254,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "scene": "member",
+        "minEffectivePpi": 176.15463346303503,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/family/courtyard.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 167.20000000000002,
+              "y": 75.28,
+              "width": 1371.04,
+              "height": 771.62
+            },
+            "effectivePpi": 176.15463346303503,
+            "requiredLinearScale": 1.7030491568815485,
+            "requiredWidth": 2848,
+            "requiredHeight": 1603,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/bodies.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 627,
+              "height": 627
+            },
+            "effectivePpi": 259.72506471344764,
+            "requiredLinearScale": 1.155067572438522,
+            "requiredWidth": 1449,
+            "requiredHeight": 1449,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/heads.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 627,
+              "height": 627
+            },
+            "effectivePpi": 524.8389828104057,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1254,
+            "requiredHeight": 1254,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-body.webp",
+            "width": 1024,
+            "height": 1536,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1024,
+              "height": 1536
+            },
+            "effectivePpi": 1023.1593458408545,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1024,
+            "requiredHeight": 1536,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 1137.4407993854036,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "scene": "member",
+        "minEffectivePpi": 176.15463346303503,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/family/courtyard.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 167.20000000000002,
+              "y": 75.28,
+              "width": 1371.04,
+              "height": 771.62
+            },
+            "effectivePpi": 176.15463346303503,
+            "requiredLinearScale": 1.7030491568815485,
+            "requiredWidth": 2848,
+            "requiredHeight": 1603,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/bodies.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 627
+            },
+            "effectivePpi": 249.7253609194214,
+            "requiredLinearScale": 1.2013197173706385,
+            "requiredWidth": 1507,
+            "requiredHeight": 1507,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/heads.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 610
+            },
+            "effectivePpi": 493.0406531232925,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1254,
+            "requiredHeight": 1254,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-body.webp",
+            "width": 1024,
+            "height": 1536,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1024,
+              "height": 1536
+            },
+            "effectivePpi": 1031.1136276497905,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1024,
+            "requiredHeight": 1536,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 1146.283532138685,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "scene": "count",
+        "minEffectivePpi": 214.82272373540854,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/family/courtyard.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.82272373540854,
+            "requiredLinearScale": 1.3965003086428698,
+            "requiredWidth": 2335,
+            "requiredHeight": 1315,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/bodies.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 627
+            },
+            "effectivePpi": 239.5369130346881,
+            "requiredLinearScale": 1.2524165741275795,
+            "requiredWidth": 1571,
+            "requiredHeight": 1571,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/heads.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 610
+            },
+            "effectivePpi": 472.92528068038337,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1254,
+            "requiredHeight": 1254,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "scene": "remember",
+        "minEffectivePpi": 214.82272373540854,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/family/courtyard.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.82272373540854,
+            "requiredLinearScale": 1.3965003086428698,
+            "requiredWidth": 2335,
+            "requiredHeight": 1315,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/bodies.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 627
+            },
+            "effectivePpi": 342.1955900495545,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1254,
+            "requiredHeight": 1254,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/heads.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 610
+            },
+            "effectivePpi": 675.60754998019,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1254,
+            "requiredHeight": 1254,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-body.webp",
+            "width": 1024,
+            "height": 1536,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1024,
+              "height": 1536
+            },
+            "effectivePpi": 1412.9223196342,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1024,
+            "requiredHeight": 1536,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 1570.7382229826978,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "scene": "remember",
+        "minEffectivePpi": 214.82272373540854,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/family/courtyard.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.82272373540854,
+            "requiredLinearScale": 1.3965003086428698,
+            "requiredWidth": 2335,
+            "requiredHeight": 1315,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/bodies.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 627
+            },
+            "effectivePpi": 360.205884262689,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1254,
+            "requiredHeight": 1254,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/heads.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 610
+            },
+            "effectivePpi": 711.1658420844107,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1254,
+            "requiredHeight": 1254,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-body.webp",
+            "width": 1024,
+            "height": 1536,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1024,
+              "height": 1536
+            },
+            "effectivePpi": 1487.2866522465265,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1024,
+            "requiredHeight": 1536,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 1653.408655771261,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "scene": "group",
+        "minEffectivePpi": 214.82272373540854,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/family/courtyard.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.82272373540854,
+            "requiredLinearScale": 1.3965003086428698,
+            "requiredWidth": 2335,
+            "requiredHeight": 1315,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/child-body.webp",
+            "width": 1024,
+            "height": 1536,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1024,
+              "height": 1536
+            },
+            "effectivePpi": 1139.0968496886244,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1024,
+            "requiredHeight": 1536,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/child-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 1266.327905378635,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          },
+          {
+            "source": "preview/art/family/bodies.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 627
+            },
+            "effectivePpi": 275.8778123794545,
+            "requiredLinearScale": 1.0874379400521228,
+            "requiredWidth": 1364,
+            "requiredHeight": 1364,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/heads.webp",
+            "width": 1254,
+            "height": 1254,
+            "sourceRect": {
+              "x": 627,
+              "y": 0,
+              "width": 627,
+              "height": 610
+            },
+            "effectivePpi": 544.6742691470299,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1254,
+            "requiredHeight": 1254,
+            "passes300": true
+          }
+        ]
+      }
+    ],
+    "rain": [
+      {
+        "page": 1,
+        "scene": "sky",
+        "minEffectivePpi": 214.8622568093385,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-sky.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.8622568093385,
+            "requiredLinearScale": 1.3962433628639108,
+            "requiredWidth": 2335,
+            "requiredHeight": 1314,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "scene": "flowerWide",
+        "minEffectivePpi": 130.11297872760673,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-alone.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 130.11297872760673,
+            "requiredLinearScale": 2.305688509584075,
+            "requiredWidth": 3856,
+            "requiredHeight": 2170,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "scene": "alone",
+        "minEffectivePpi": 214.80054909241738,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-alone.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.80054909241738,
+            "requiredLinearScale": 1.3966444744558162,
+            "requiredWidth": 2336,
+            "requiredHeight": 1315,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/sequence/rain/curious-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 1021.7539632504178,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "scene": "flowerClose",
+        "minEffectivePpi": 95.87272116771021,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-alone.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 95.87272116771021,
+            "requiredLinearScale": 3.1291486915783877,
+            "requiredWidth": 5232,
+            "requiredHeight": 2945,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "scene": "alone",
+        "minEffectivePpi": 214.80054909241738,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-alone.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.80054909241738,
+            "requiredLinearScale": 1.3966444744558162,
+            "requiredWidth": 2336,
+            "requiredHeight": 1315,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/sequence/rain/curious-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 1021.7539632504178,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "scene": "walk",
+        "minEffectivePpi": 214.80054909241738,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-walk.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.80054909241738,
+            "requiredLinearScale": 1.3966444744558162,
+            "requiredWidth": 2336,
+            "requiredHeight": 1315,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/sequence/rain/curious-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 1021.7539632504178,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "scene": "shelter",
+        "minEffectivePpi": 214.80054909241738,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-shelter.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.80054909241738,
+            "requiredLinearScale": 1.3966444744558162,
+            "requiredWidth": 2336,
+            "requiredHeight": 1315,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/sequence/rain/curious-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 821.8455791362056,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "scene": "shelter",
+        "minEffectivePpi": 203.15886152205258,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-shelter.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 203.15886152205258,
+            "requiredLinearScale": 1.4766769106324977,
+            "requiredWidth": 2470,
+            "requiredHeight": 1390,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/sequence/rain/curious-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 777.3034701713316,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      }
+    ],
+    "stone": [
+      {
+        "page": 1,
+        "scene": "stone-home",
+        "minEffectivePpi": 214.8622568093385,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-home.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.8622568093385,
+            "requiredLinearScale": 1.3962433628639108,
+            "requiredWidth": 2335,
+            "requiredHeight": 1314,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/sequence/stone/stone-curious-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 783.7356605521586,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "scene": "stone-home-detail",
+        "minEffectivePpi": 89.0246696557309,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-home.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 89.0246696557309,
+            "requiredLinearScale": 3.369852437084418,
+            "requiredWidth": 5635,
+            "requiredHeight": 3172,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "scene": "stone-hold",
+        "minEffectivePpi": 209.6296890998962,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-hold.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 209.6296890998962,
+            "requiredLinearScale": 1.4310950003701004,
+            "requiredWidth": 2393,
+            "requiredHeight": 1347,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/sequence/stone/stone-curious-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 764.6492469072405,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "scene": "stone-walk",
+        "minEffectivePpi": 219.80132248841872,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-walk.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 219.80132248841872,
+            "requiredLinearScale": 1.3648689489382255,
+            "requiredWidth": 2283,
+            "requiredHeight": 1285,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/child-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 850.6311180301806,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "scene": "stone-walk",
+        "minEffectivePpi": 210.4423187553803,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-walk.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 210.4423187553803,
+            "requiredLinearScale": 1.4255687818604688,
+            "requiredWidth": 2384,
+            "requiredHeight": 1342,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/child-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 814.4117735833219,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "scene": "stone-return",
+        "minEffectivePpi": 214.8622568093385,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-return.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.8622568093385,
+            "requiredLinearScale": 1.3962433628639108,
+            "requiredWidth": 2335,
+            "requiredHeight": 1314,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/sequence/stone/stone-curious-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 783.7356605521586,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "scene": "stone-return-detail",
+        "minEffectivePpi": 89.0246696557309,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-return.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 89.0246696557309,
+            "requiredLinearScale": 3.369852437084418,
+            "requiredWidth": 5635,
+            "requiredHeight": 3172,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "scene": "stone-leave",
+        "minEffectivePpi": 219.80132248841872,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-leave.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 219.80132248841872,
+            "requiredLinearScale": 1.3648689489382255,
+            "requiredWidth": 2283,
+            "requiredHeight": 1285,
+            "passes300": false
+          },
+          {
+            "source": "preview/art/family/child-head.webp",
+            "width": 1317,
+            "height": 1194,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1317,
+              "height": 1194
+            },
+            "effectivePpi": 850.6311180301806,
+            "requiredLinearScale": 1,
+            "requiredWidth": 1317,
+            "requiredHeight": 1194,
+            "passes300": true
+          }
+        ]
+      }
+    ]
+  },
+  "authoredCameraBackground": {
+    "rain": [
+      {
+        "page": 1,
+        "scene": "sky",
+        "minEffectivePpi": 214.8622568093385,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-sky.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.8622568093385,
+            "requiredLinearScale": 1.3962433628639108,
+            "requiredWidth": 2335,
+            "requiredHeight": 1314,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "scene": "flowerWide",
+        "minEffectivePpi": 130.11297872760673,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-alone.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 130.11297872760673,
+            "requiredLinearScale": 2.305688509584075,
+            "requiredWidth": 3856,
+            "requiredHeight": 2170,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "scene": "alone",
+        "minEffectivePpi": 214.80054909241738,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-alone.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.80054909241738,
+            "requiredLinearScale": 1.3966444744558162,
+            "requiredWidth": 2336,
+            "requiredHeight": 1315,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "scene": "flowerClose",
+        "minEffectivePpi": 95.87272116771021,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-alone.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 95.87272116771021,
+            "requiredLinearScale": 3.1291486915783877,
+            "requiredWidth": 5232,
+            "requiredHeight": 2945,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "scene": "alone",
+        "minEffectivePpi": 214.80054909241738,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-alone.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.80054909241738,
+            "requiredLinearScale": 1.3966444744558162,
+            "requiredWidth": 2336,
+            "requiredHeight": 1315,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "scene": "walk",
+        "minEffectivePpi": 214.80054909241738,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-walk.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.80054909241738,
+            "requiredLinearScale": 1.3966444744558162,
+            "requiredWidth": 2336,
+            "requiredHeight": 1315,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "scene": "shelter",
+        "minEffectivePpi": 214.80054909241738,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-shelter.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.80054909241738,
+            "requiredLinearScale": 1.3966444744558162,
+            "requiredWidth": 2336,
+            "requiredHeight": 1315,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "scene": "shelter",
+        "minEffectivePpi": 203.15886152205258,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/rain/rain-shelter.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 203.15886152205258,
+            "requiredLinearScale": 1.4766769106324977,
+            "requiredWidth": 2470,
+            "requiredHeight": 1390,
+            "passes300": false
+          }
+        ]
+      }
+    ],
+    "stone": [
+      {
+        "page": 1,
+        "scene": "stone-home",
+        "minEffectivePpi": 214.8622568093385,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-home.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.8622568093385,
+            "requiredLinearScale": 1.3962433628639108,
+            "requiredWidth": 2335,
+            "requiredHeight": 1314,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "scene": "stone-home-detail",
+        "minEffectivePpi": 89.0246696557309,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-home.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 89.0246696557309,
+            "requiredLinearScale": 3.369852437084418,
+            "requiredWidth": 5635,
+            "requiredHeight": 3172,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "scene": "stone-hold",
+        "minEffectivePpi": 199.73483576606296,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-hold.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 199.73483576606296,
+            "requiredLinearScale": 1.5019913719576259,
+            "requiredWidth": 2512,
+            "requiredHeight": 1414,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "scene": "stone-walk",
+        "minEffectivePpi": 214.8622568093385,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-walk.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.8622568093385,
+            "requiredLinearScale": 1.3962433628639108,
+            "requiredWidth": 2335,
+            "requiredHeight": 1314,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "scene": "stone-walk",
+        "minEffectivePpi": 205.44154535937903,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-walk.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 205.44154535937903,
+            "requiredLinearScale": 1.4602693894032475,
+            "requiredWidth": 2442,
+            "requiredHeight": 1375,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "scene": "stone-return",
+        "minEffectivePpi": 214.8622568093385,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-return.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.8622568093385,
+            "requiredLinearScale": 1.3962433628639108,
+            "requiredWidth": 2335,
+            "requiredHeight": 1314,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "scene": "stone-return-detail",
+        "minEffectivePpi": 89.0246696557309,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-return.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 89.0246696557309,
+            "requiredLinearScale": 3.369852437084418,
+            "requiredWidth": 5635,
+            "requiredHeight": 3172,
+            "passes300": false
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "scene": "stone-leave",
+        "minEffectivePpi": 214.8622568093385,
+        "passes300": false,
+        "components": [
+          {
+            "source": "preview/art/sequence/stone/stone-leave.webp",
+            "width": 1672,
+            "height": 941,
+            "sourceRect": {
+              "x": 0,
+              "y": 0,
+              "width": 1672,
+              "height": 941
+            },
+            "effectivePpi": 214.8622568093385,
+            "requiredLinearScale": 1.3962433628639108,
+            "requiredWidth": 2335,
+            "requiredHeight": 1314,
+            "passes300": false
+          }
+        ]
+      }
+    ]
+  },
+  "sourceWorst": [
+    {
+      "source": "preview/art/sequence/rain/rain-sky.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "effectivePpi": 214.8622568093385,
+      "requiredLinearScale": 1.3962433628639108,
+      "requiredWidth": 2335,
+      "requiredHeight": 1314,
+      "passes300": false,
+      "book": "rain",
+      "page": 1,
+      "scene": "sky",
+      "configuration": "generic illustrated head, authored camera"
+    },
+    {
+      "source": "preview/art/sequence/rain/rain-alone.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "effectivePpi": 95.87272116771021,
+      "requiredLinearScale": 3.1291486915783877,
+      "requiredWidth": 5232,
+      "requiredHeight": 2945,
+      "passes300": false,
+      "book": "rain",
+      "page": 4,
+      "scene": "flowerClose",
+      "configuration": "generic illustrated head, authored camera"
+    },
+    {
+      "source": "preview/art/sequence/rain/curious-head.webp",
+      "width": 1317,
+      "height": 1194,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1317,
+        "height": 1194
+      },
+      "effectivePpi": 777.3034701713316,
+      "requiredLinearScale": 1,
+      "requiredWidth": 1317,
+      "requiredHeight": 1194,
+      "passes300": true,
+      "book": "rain",
+      "page": 8,
+      "scene": "shelter",
+      "configuration": "generic illustrated head, authored camera"
+    },
+    {
+      "source": "preview/art/sequence/rain/rain-walk.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "effectivePpi": 214.80054909241738,
+      "requiredLinearScale": 1.3966444744558162,
+      "requiredWidth": 2336,
+      "requiredHeight": 1315,
+      "passes300": false,
+      "book": "rain",
+      "page": 6,
+      "scene": "walk",
+      "configuration": "generic illustrated head, authored camera"
+    },
+    {
+      "source": "preview/art/sequence/rain/rain-shelter.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "effectivePpi": 203.15886152205258,
+      "requiredLinearScale": 1.4766769106324977,
+      "requiredWidth": 2470,
+      "requiredHeight": 1390,
+      "passes300": false,
+      "book": "rain",
+      "page": 8,
+      "scene": "shelter",
+      "configuration": "generic illustrated head, authored camera"
+    },
+    {
+      "source": "preview/art/sequence/stone/stone-home.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "effectivePpi": 89.0246696557309,
+      "requiredLinearScale": 3.369852437084418,
+      "requiredWidth": 5635,
+      "requiredHeight": 3172,
+      "passes300": false,
+      "book": "stone",
+      "page": 2,
+      "scene": "stone-home-detail",
+      "configuration": "generic illustrated head, authored camera"
+    },
+    {
+      "source": "preview/art/sequence/stone/stone-curious-head.webp",
+      "width": 1317,
+      "height": 1194,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1317,
+        "height": 1194
+      },
+      "effectivePpi": 764.6492469072405,
+      "requiredLinearScale": 1,
+      "requiredWidth": 1317,
+      "requiredHeight": 1194,
+      "passes300": true,
+      "book": "stone",
+      "page": 3,
+      "scene": "stone-hold",
+      "configuration": "generic illustrated head, authored camera"
+    },
+    {
+      "source": "preview/art/sequence/stone/stone-hold.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "effectivePpi": 199.73483576606296,
+      "requiredLinearScale": 1.5019913719576259,
+      "requiredWidth": 2512,
+      "requiredHeight": 1414,
+      "passes300": false,
+      "book": "stone",
+      "page": 3,
+      "scene": "stone-hold",
+      "configuration": "authored camera before optional head-extents expansion; conservative maximum background magnification"
+    },
+    {
+      "source": "preview/art/sequence/stone/stone-walk.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "effectivePpi": 205.44154535937903,
+      "requiredLinearScale": 1.4602693894032475,
+      "requiredWidth": 2442,
+      "requiredHeight": 1375,
+      "passes300": false,
+      "book": "stone",
+      "page": 5,
+      "scene": "stone-walk",
+      "configuration": "authored camera before optional head-extents expansion; conservative maximum background magnification"
+    },
+    {
+      "source": "preview/art/family/child-head.webp",
+      "width": 1317,
+      "height": 1194,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1317,
+        "height": 1194
+      },
+      "effectivePpi": 696.0865321664069,
+      "requiredLinearScale": 1,
+      "requiredWidth": 1317,
+      "requiredHeight": 1194,
+      "passes300": true,
+      "book": "family",
+      "page": 1,
+      "scene": "group",
+      "configuration": {
+        "adults": [],
+        "children": 1
+      }
+    },
+    {
+      "source": "preview/art/sequence/stone/stone-return.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "effectivePpi": 89.0246696557309,
+      "requiredLinearScale": 3.369852437084418,
+      "requiredWidth": 5635,
+      "requiredHeight": 3172,
+      "passes300": false,
+      "book": "stone",
+      "page": 7,
+      "scene": "stone-return-detail",
+      "configuration": "generic illustrated head, authored camera"
+    },
+    {
+      "source": "preview/art/sequence/stone/stone-leave.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "effectivePpi": 214.8622568093385,
+      "requiredLinearScale": 1.3962433628639108,
+      "requiredWidth": 2335,
+      "requiredHeight": 1314,
+      "passes300": false,
+      "book": "stone",
+      "page": 8,
+      "scene": "stone-leave",
+      "configuration": "authored camera before optional head-extents expansion; conservative maximum background magnification"
+    },
+    {
+      "source": "preview/art/family/courtyard.webp",
+      "width": 1672,
+      "height": 941,
+      "sourceRect": {
+        "x": 167.20000000000002,
+        "y": 75.28,
+        "width": 1371.04,
+        "height": 771.62
+      },
+      "effectivePpi": 176.15463346303503,
+      "requiredLinearScale": 1.7030491568815485,
+      "requiredWidth": 2848,
+      "requiredHeight": 1603,
+      "passes300": false,
+      "book": "family",
+      "page": 2,
+      "scene": "member",
+      "configuration": {
+        "adults": [],
+        "children": 1
+      }
+    },
+    {
+      "source": "preview/art/family/child-body.webp",
+      "width": 1024,
+      "height": 1536,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "effectivePpi": 626.1490191707901,
+      "requiredLinearScale": 1,
+      "requiredWidth": 1024,
+      "requiredHeight": 1536,
+      "passes300": true,
+      "book": "family",
+      "page": 1,
+      "scene": "group",
+      "configuration": {
+        "adults": [],
+        "children": 1
+      }
+    },
+    {
+      "source": "preview/art/family/bodies.webp",
+      "width": 1254,
+      "height": 1254,
+      "sourceRect": {
+        "x": 627,
+        "y": 0,
+        "width": 627,
+        "height": 627
+      },
+      "effectivePpi": 239.5369130346881,
+      "requiredLinearScale": 1.2524165741275795,
+      "requiredWidth": 1571,
+      "requiredHeight": 1571,
+      "passes300": false,
+      "book": "family",
+      "page": 1,
+      "scene": "group",
+      "configuration": {
+        "adults": [
+          "mom"
+        ],
+        "children": 1
+      }
+    },
+    {
+      "source": "preview/art/family/heads.webp",
+      "width": 1254,
+      "height": 1254,
+      "sourceRect": {
+        "x": 627,
+        "y": 0,
+        "width": 627,
+        "height": 610
+      },
+      "effectivePpi": 472.92528068038337,
+      "requiredLinearScale": 1,
+      "requiredWidth": 1254,
+      "requiredHeight": 1254,
+      "passes300": true,
+      "book": "family",
+      "page": 1,
+      "scene": "group",
+      "configuration": {
+        "adults": [
+          "mom"
+        ],
+        "children": 1
+      }
+    }
+  ]
+}

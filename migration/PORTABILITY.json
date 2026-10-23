@@ -1,0 +1,1774 @@
+{
+  "absolute_path_references": [
+    {
+      "path": "art-samples/books-04-06/stone/prompts.json",
+      "line": 14,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-04-06/stone/prompts.json",
+      "line": 19,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-04-06/stone/prompts.json",
+      "line": 24,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 9,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 16,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 30,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 37,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 44,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 48,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 51,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 58,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 65,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 72,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 79,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 83,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 86,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 90,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 93,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 97,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 100,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 104,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 107,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 111,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/generation-records.json",
+      "line": 114,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 9,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 16,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 30,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 37,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 44,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 48,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 51,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 58,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 65,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 72,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 79,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 83,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-06-10-native/prompts.json",
+      "line": 86,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 9,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 31,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 53,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 75,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 96,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 100,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 122,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 144,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 166,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 185,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 188,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 210,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 232,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 254,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 276,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 298,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 320,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 342,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 364,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 383,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 386,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 405,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 408,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 427,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-complete.json",
+      "line": 430,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-extra.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-11-15-native/generation-extra.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/adult-shoes.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/after-rain-patio.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/cabbage-leaf.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/cat-sleep-v2.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/cat-sleep-v2.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/cat-sleep.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-barefoot-v2.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-barefoot-v2.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-barefoot.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-drink.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-drink.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-sit-draw-v2.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-sit-draw-v2.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-sit-draw.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-sit-draw.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-sit-read-v2.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-sit-read-v2.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-sit-read.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-water-pour.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/child-water-pour.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/garden-nook.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 9,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 31,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 50,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 53,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 72,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 75,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 97,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 119,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 141,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 163,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 185,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 207,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 229,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 251,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 273,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 295,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 317,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 339,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 361,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 383,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 405,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 424,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 427,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 446,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 449,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 468,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 471,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 490,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 493,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 512,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 515,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 534,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/generation-complete.json",
+      "line": 537,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/melon.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/open-book.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/pencil.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/plant-stool.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/rabbit-hutch.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/rabbit-low.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/rabbit-low.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/rabbit.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/red-paper.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/satchel.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/water-cup.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-native/watering-can.json",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 61,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 99,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 139,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 177,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 208,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 246,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 264,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 291,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 330,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 362,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 382,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 399,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 438,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 470,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 490,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 507,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 548,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 585,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 622,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 652,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 691,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 728,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 766,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 805,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 850,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 890,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 930,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 948,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 965,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1004,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1035,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1073,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1111,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1150,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1189,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1229,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1269,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1308,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1347,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1377,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1397,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1421,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1443,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1465,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1486,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1507,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/assets-audit.json",
+      "line": 1529,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b16-p01.json",
+      "line": 21,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b16-p02.json",
+      "line": 21,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b16-p03.json",
+      "line": 21,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b16-p04.json",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b16-p05.json",
+      "line": 21,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b16-p06.json",
+      "line": 14,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b16-p07-correction.json",
+      "line": 2,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b16-p07.json",
+      "line": 21,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b16-p07.json",
+      "line": 39,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p01.json",
+      "line": 24,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p02.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p03-correction.json",
+      "line": 4,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p03.json",
+      "line": 15,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p03.json",
+      "line": 35,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p04.json",
+      "line": 15,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p05.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p06-correction.json",
+      "line": 4,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p06.json",
+      "line": 15,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p06.json",
+      "line": 35,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p07.json",
+      "line": 15,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b17-p08.json",
+      "line": 24,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b18-p01.json",
+      "line": 20,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b18-p02.json",
+      "line": 20,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b18-p03.json",
+      "line": 13,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b18-p04.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b18-p05.json",
+      "line": 20,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b18-p06.json",
+      "line": 21,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b18-p07.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b18-p08.json",
+      "line": 28,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b19-p01.json",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b19-p02-correction.json",
+      "line": 2,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b19-p02.json",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b19-p02.json",
+      "line": 41,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b19-p03.json",
+      "line": 14,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b19-p04.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b19-p05.json",
+      "line": 14,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b19-p06.json",
+      "line": 21,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b19-p07.json",
+      "line": 21,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p01.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p02.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p03.json",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p04.json",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p05.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p06.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p07-correction.json",
+      "line": 4,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p07.json",
+      "line": 13,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p07.json",
+      "line": 33,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/b20-p08.json",
+      "line": 22,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/barefoot-step.json",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/crouch-book.json",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/run-left-clean.json",
+      "line": 4,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/run-left-v2.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/run-left-v2.json",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/run-left-v3.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/run-left-v3.json",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/run-left.json",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/run-right-v2.json",
+      "line": 4,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/run-right.json",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/run-right.json",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/books-16-20-storyboards-v2/sit-shoo.json",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/my-family-production/prompts.json",
+      "line": 8,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/my-flower-production/prompts.json",
+      "line": 10,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/my-flower-production/prompts.json",
+      "line": 15,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/my-flower-production/prompts.json",
+      "line": 20,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/my-flower-production/prompts.json",
+      "line": 27,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/my-flower-production/prompts.json",
+      "line": 32,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/my-flower-production/prompts.json",
+      "line": 37,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/my-flower-production/prompts.json",
+      "line": 42,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 7,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 14,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 20,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 26,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 32,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 38,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 44,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 50,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 56,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 62,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "art-samples/original-style-five-v2/prompts.json",
+      "line": 68,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "output/illustration-samples/rain-v1/render-samples.cjs",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "output/illustration-samples/rain-v1/render-samples.cjs",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "output/illustration-samples/rain-v1/verify-mobile.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "output/illustration-samples/rain-v1/verify-mobile.cjs",
+      "line": 8,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "output/text/verify-reviewed-layout.cjs",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "output/text/verify-reviewed-layout.cjs",
+      "line": 27,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "scripts/audit-print-resolution.cjs",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "scripts/audit-print-resolution.cjs",
+      "line": 45,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "scripts/benchmark-composition.cjs",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "scripts/benchmark-composition.cjs",
+      "line": 9,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/account-backup.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/account-backup.browser.cjs",
+      "line": 7,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/admin.browser.cjs",
+      "line": 8,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/admin.browser.cjs",
+      "line": 17,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/art-transition.browser.cjs",
+      "line": 7,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/art-transition.browser.cjs",
+      "line": 202,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/auth.browser.cjs",
+      "line": 7,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/auth.browser.cjs",
+      "line": 13,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/backup-transfer.browser.cjs",
+      "line": 8,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/backup-transfer.browser.cjs",
+      "line": 15,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/billing.browser.cjs",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/billing.browser.cjs",
+      "line": 14,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/books-06-10.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/books-06-10.browser.cjs",
+      "line": 10,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/books-11-15.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/books-11-15.browser.cjs",
+      "line": 10,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/books-16-20.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/books-16-20.browser.cjs",
+      "line": 10,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/character-standard.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/character-standard.browser.cjs",
+      "line": 11,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/collection-orders.browser.cjs",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/collection-orders.browser.cjs",
+      "line": 11,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/covers.browser.cjs",
+      "line": 8,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/covers.browser.cjs",
+      "line": 35,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/download-print.browser.cjs",
+      "line": 2,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/download-print.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/download-print.browser.cjs",
+      "line": 4,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/download-print.browser.cjs",
+      "line": 9,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/face.browser.cjs",
+      "line": 13,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/face.browser.cjs",
+      "line": 28,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/family-art.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/family-art.browser.cjs",
+      "line": 25,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/family.browser.cjs",
+      "line": 7,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/family.browser.cjs",
+      "line": 16,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/flower.browser.cjs",
+      "line": 7,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/flower.browser.cjs",
+      "line": 13,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/hairline.browser.cjs",
+      "line": 11,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/hairline.browser.cjs",
+      "line": 31,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/illustration-review.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/illustration-review.browser.cjs",
+      "line": 12,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/intro-art.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/intro-art.browser.cjs",
+      "line": 13,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/intro-ui.browser.cjs",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/intro-ui.browser.cjs",
+      "line": 32,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/long-hair.browser.cjs",
+      "line": 10,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/long-hair.browser.cjs",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/mountain-art.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/mountain-art.browser.cjs",
+      "line": 9,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/original-style-five.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/original-style-five.browser.cjs",
+      "line": 11,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/platform-sdk.browser.cjs",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/platform-sdk.browser.cjs",
+      "line": 11,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/portrait-resolution.browser.cjs",
+      "line": 9,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/portrait-resolution.browser.cjs",
+      "line": 17,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/pose.browser.cjs",
+      "line": 11,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/pose.browser.cjs",
+      "line": 28,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/preview.browser.cjs",
+      "line": 7,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/preview.browser.cjs",
+      "line": 31,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/print-book.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/print-book.browser.cjs",
+      "line": 10,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/print-book.browser.cjs",
+      "line": 34,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/print-orders.browser.cjs",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/print-orders.browser.cjs",
+      "line": 16,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/print-service-orders.browser.cjs",
+      "line": 4,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/print-service-orders.browser.cjs",
+      "line": 13,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/print-service.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/print-service.browser.cjs",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/reading.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/reading.browser.cjs",
+      "line": 6,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/sequence-art.browser.cjs",
+      "line": 3,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/sequence-art.browser.cjs",
+      "line": 23,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/six-books.browser.cjs",
+      "line": 5,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/six-books.browser.cjs",
+      "line": 177,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/system-admin.browser.cjs",
+      "line": 4,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    },
+    {
+      "path": "tests/system-admin.browser.cjs",
+      "line": 10,
+      "issue": "absolute machine-specific path; review before running optional scripts/tests"
+    }
+  ],
+  "test_credential_review": [
+    {
+      "path": "tests/admin.browser.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    },
+    {
+      "path": "tests/admin.test.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    },
+    {
+      "path": "tests/billing.browser.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    },
+    {
+      "path": "tests/billing.test.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    },
+    {
+      "path": "tests/platform-sdk.browser.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    },
+    {
+      "path": "tests/platform-sdk.test.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    },
+    {
+      "path": "tests/print-orders.browser.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    },
+    {
+      "path": "tests/print-orders.test.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    },
+    {
+      "path": "tests/print-service-orders.browser.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    },
+    {
+      "path": "tests/system-admin.test.cjs",
+      "classification": "synthetic test fixture; test context reviewed; never use for deployment"
+    }
+  ],
+  "business_dependencies": "No root dependencies. Node builtins only for primary build/preview/admin; admin requires node:sqlite in Node 24+.",
+  "optional_dependencies": [
+    "Playwright plus Chrome for browser QA",
+    "pdf-lib, jszip, iconv-lite for some export/testing tools",
+    "Python Pillow and numpy for some image audit/packaging tools",
+    "wx-server-sdk 3.0.1 for optional WeChat account cloud function"
+  ],
+  "installation_performed": false
+}

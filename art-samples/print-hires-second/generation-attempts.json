@@ -1,0 +1,83 @@
+{
+  "tool": "built-in image_gen",
+  "productionAcceptedCount": 0,
+  "generatedContent": "Existing painted backgrounds and headless cartoon body only; no user photograph was supplied or repainted.",
+  "attempts": [
+    {
+      "original": "preview/art/family/courtyard.webp",
+      "reference": "art-samples/my-family-production/courtyard.png",
+      "candidate": "art-samples/print-hires-second/courtyard-4k-request-rejected.png",
+      "actualDimensions": [
+        1672,
+        941
+      ],
+      "requestedDimensions": [
+        3840,
+        2160
+      ],
+      "productionPath": null,
+      "passes300": false,
+      "actualStoryWorstPpi": 176.14923108031616,
+      "reason": "Tool returned the original-size 1672x941 raster despite native 4K request. Detail repaint cannot substitute for sufficient native sampling. Existing member-scene camera remains below 300ppi.",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied empty courtyard illustration. Re-create this exact illustration at genuine native 4K 3840x2160 pixels with newly resolved fine painted details, not a blurry enlarged raster. Preserve exact 16:9 composition and all object locations, sizes, silhouettes, colors and painterly gouache cut-paper medium: cottage and doorway upper left, tricycle and cat near wall, broad empty grassy patio lower left and center, quiet cream right third. Keep the scene completely empty of people. Add only appropriate high resolution paper fibers, crisp leaf edges, roof-tile paint detail and small grass marks corresponding to existing objects. No new objects, text, captions, frames, watermark or photographic people. Native 3840x2160 output requested for physical printing."
+    },
+    {
+      "original": "preview/art/sequence/stone/stone-home.webp",
+      "reference": "art-samples/books-04-06/stone/stone-home.png",
+      "originalCrop": {
+        "x": 0,
+        "y": 390,
+        "width": 440,
+        "height": 390
+      },
+      "candidate": "art-samples/print-hires-second/stone-home-detail-rejected.png",
+      "actualDimensions": [
+        1332,
+        1181
+      ],
+      "requestedDimensions": [
+        1792,
+        1584
+      ],
+      "minimumRequestedDimensions": [
+        1536,
+        1360
+      ],
+      "productionPath": null,
+      "passes300": false,
+      "bestCaseFullPanelPpi": 263.2918287937743,
+      "reason": "1332x1181 is insufficient for 128.5mm full-width panel at 300ppi. Additionally pebble and pointing fingertip positions drifted within closeup; simple scale/translation cannot be accepted as exact original crop registration.",
+      "cropMappingAccepted": false,
+      "prompt": "Use case: precise-object-edit. Edit target: original supplied headless-child garden illustration. Make a NEW separate close-up print illustration of the little stone's home only: precisely the region x=0,y=390,width=440,height=390 in the supplied 1672x941 image. Expand and newly PAINT all details of this region over the entire new output canvas; output aspect ratio 440:390, requested native 1792x1584 or at least 1536x1360, no cream blank right third. Preserve the exact original crop's composition: mossy big boulder fills upper left through center; small cream rounded pebble at 62.7% across and 85% down beneath the same rock overhang; the child's pointing hand enters from upper right, fingertip at 75% across 70% down. Child's red shoes and torso are outside this crop and MUST NOT appear. Original leaf and soil positions and original painted gouache/paper-collage medium, original palette. Higher resolution fine moss, paper fibers and soil marks. No head, no photo, no extra stones, no text, no frames. Fill the entire image with only this exact close-up region, not the original wide scene."
+    },
+    {
+      "original": "preview/art/sequence/rain/rain-alone.webp",
+      "reference": "art-samples/books-04-06/rain/rain-alone.png",
+      "originalCrop": {
+        "x": 0,
+        "y": 0,
+        "width": 1087,
+        "height": 941
+      },
+      "candidate": "art-samples/print-hires-second/rain-panel-rejected.png",
+      "actualDimensions": [
+        1348,
+        1167
+      ],
+      "requestedDimensions": [
+        3584,
+        3104
+      ],
+      "minimumRequestedDimensions": [
+        1792,
+        1552
+      ],
+      "productionPath": null,
+      "passes300": false,
+      "bestCaseFullPanelPpi": 266.4544747081712,
+      "reason": "1348x1167 remains below full-panel 300ppi; independently generated details cannot make the existing narrow flower crops high resolution. Body geometry has no approved exact registration and must not silently replace the existing model.",
+      "cropMappingAccepted": false,
+      "prompt": "Use case: precise-object-edit. Edit this cartoon scene, no real photograph is supplied. Create a print-resolution master of exactly its LEFT art panel x=0..1087,y=0..941 only, without the empty right third. Native output MUST be at least 1792x1552 pixels, preferably 3584x3104; do not return a 1.57 megapixel preview as the full deliverable. New frame aspect 1087:941. Repaint fine native detail at this high resolution preserving identical relative geometry of EVERY silhouette: umbrella above at original x145..747,y45..300, headless body original collar at516,459 and feet near y860, orange flower at x880,y600, house to right. Repaint fine watercolor and cut-paper details without changing body anatomy, garment proportions, limb positions, collar or headless space, props or their positions. Keep original pale blue/sage/ochre palette. Child remains completely headless with uninterrupted garden above neck, no new head, no face, no photo, no extra objects, no text. Entire requested left panel fills new image, no new cream margins."
+    }
+  ]
+}

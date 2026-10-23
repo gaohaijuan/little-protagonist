@@ -1,0 +1,41 @@
+{
+  "id": "b17-p01",
+  "book": 17,
+  "page": 1,
+  "brief": "Offer a leaf: view from cottage STEP into garden, a little low stone wall RIGHT and a narrow path receding diagonally toward a simple wooden rabbit hutch BACK RIGHT. One cream-brown rabbit sits beside hutch at(79%,74%), ears up. No cabbage leaf anywhere (held separately). Clear standing child slot LEFT foreground(32%,94%). Early bright garden sunlight and rich daisy/clover detail at margins.",
+  "actors": [
+    {
+      "pose": "carry-play",
+      "x": 320,
+      "ground": 940,
+      "scale": 0.65
+    }
+  ],
+  "extras": [
+    "held-leaf"
+  ],
+  "refs": [
+    "art-samples/books-16-20-native/garden-nook.png",
+    "art-samples/books-16-20-native/rabbit.png",
+    "art-samples/books-16-20-native/cabbage-leaf.png",
+    "art-samples/books-16-20-native/rabbit-hutch.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Offer a leaf: view from cottage STEP into garden, a little low stone wall RIGHT and a narrow path receding diagonally toward a simple wooden rabbit hutch BACK RIGHT. One cream-brown rabbit sits beside hutch at(79%,74%), ears up. No cabbage leaf anywhere (held separately). Clear standing child slot LEFT foreground(32%,94%). Early bright garden sunlight and rich daisy/clover detail at margins.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-6f01121d-38a7-4494-9e20-dd42f80fa1d9.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "16bd62385737662eb3af3feb5be1f5df6d31acd324db5342c54cbaf0dd43c021"
+}

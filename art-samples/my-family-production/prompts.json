@@ -1,0 +1,33 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "name": "courtyard",
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读/art-samples/my-flower-production/care.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Create a new empty environment plate for a Chinese preschool family picture book, using the provided garden illustration as the exact medium and palette reference. Keep the tactile cut-paper collage, soft gouache brushwork, sun-dappled green trees, honey sunlight and cream paper grain. Replace the headless child, large flower and foreground scene with a warm family house courtyard: old cream house and terra-cotta roof receding in upper LEFT, open welcoming doorway, potted flowers, a little stool and a red tricycle by the wall, friendly cat asleep in distant shade. NO humans, no faces, no silhouettes, no detached clothes. Keep a broad clear grassy stone patio on lower LEFT and CENTER (x about 10%-65%, y about 30%-90%) for separately composited family figures. Rightmost 30% fades very gradually into almost-empty warm cream paper for later typeset reading text. Landscape 16:9, composition must have depth and painterly small discoveries, high quality published children's picture-book illustration, absolutely no words, lettering, numbers, logos, watermark. This is an empty scenery layer, not a finished page."
+    },
+    {
+      "name": "bodies",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. Production sprite ATLAS for a premium tactile gouache and cut-paper collage Chinese preschool picture book. One large square transparent PNG, precisely 2 by 2 equal cells, four ISOLATED HEADLESS fully clothed grown-up character BODY sprites, one centered in each cell, with generous empty transparent margins and zero touching between cells. No labels, no grid lines, no heads, hair or faces. Neck opening/collar at top of each torso, tiny natural warm skin neck inside collar only. Full body including both shoes visible. All four upright facing forward with gentle relaxed gestures, subtle handmade paper edges and painterly folds. Upper-left DAD: teal overshirt over cream tee, warm brown full-length trousers, tan sneakers, one palm welcoming gently outward. Upper-right MOM: muted terracotta cardigan over cream blouse, sage calf-length skirt, comfortable cream shoes, one gentle open hand at hip height. Lower-left GRANDPA: ochre knitted vest over pale cream long-sleeve shirt, blue-gray full trousers, brown shoes, hands relaxed one holding a small watering can low. Lower-right GRANDMA: muted plum cardigan, dusty green long skirt, simple flats, one hand holding a tiny woven basket low. Clear grown-up shoulders, torso and substantial legs, not toddler tunics or infant stubs. These bodies will receive oversized photo heads; body from collar to sole should look good at roughly 2 face-heights, cute stylized adult doll proportions, all four same body scale. Warm sun from upper left. Rich paper fiber, delicate gouache texture, high-end editorial picture-book charm, NOT flat vector, NOT generic 3D, NOT photorealistic bodies. Genuine alpha transparency, no background, floor, frame, checkerboard or ground shadow. Four distinct isolated sprites only, no extra objects outside their cells."
+    },
+    {
+      "name": "heads",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. A precisely 2 by 2 equal-cell square sprite ATLAS of four isolated adult CARTOON HEADS on genuine transparent alpha, no necks, no shoulders or bodies. Each centered with generous empty transparent margin, full hair intact, no overlap or grid lines, no labels or text. Match warm premium gouache and tactile cut-paper collage, subtle watercolor textures, gentle East Asian character designs, sophisticated children's book warmth, not vector clipart. Top-left dad: adult male head, short dark hair, kind attentive expression, slight natural smile. Top-right mom: adult woman head, dark tidy medium hair tucked behind ears, soft attentive smile. Bottom-left grandpa: elderly male, wispy gray-white hair, small round glasses, warm expressive brows. Bottom-right grandma: elderly female, gray hair in tidy bun visible completely, soft smile and fine laugh lines. All front view, upright, ears and complete hairstyle included. Smooth illustrated warm skin, delicate blush, no exaggerated shiny giant anime eyes. Heads are for cute large-head dolls but clearly age-specific. Each head a separate cutout with no white sticker outline, no shadow outside edge, no background or checkerboard. Large square image."
+    },
+    {
+      "name": "child-body",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. One isolated HEADLESS child full-body clothing sprite on transparent alpha for a premium handmade gouache and cut-paper picture book. No head, hair or face: only a tiny warm skin neck inside the open collar at top, ready to receive a separate large photograph head. Neutral yellow knit sweatshirt with small cream patch pocket, sage green shorts, cream socks and burnt orange little sneakers. Stands facing forward, weight a little on one foot, one arm gently open inviting a family hug, other bent with small hand close to own chest as if saying 'me'. Full shoes intact, arms below neck. Cute large-head-compatible body with a fuller rounded torso and believable legs, body height from collar to shoes around 1.3 face-heights. Warm sunlight, visibly layered textured paper pieces and soft painterly shaded folds, beautiful sophisticated children's picture book craft, not flat vector. Centered single sprite with generous transparent margin on all sides. No ground, background, captions, numbers, logo, watermark, border or checkerboard, true transparent alpha."
+    },
+    {
+      "name": "child-head",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. One isolated friendly preschool child cartoon HEAD for a premium warm gouache cut-paper picture book, front view upright, gender-neutral short soft dark hair with full intact crown and ears. Warm East Asian features, curious bright expression with a gentle small open smile, delicate natural blush, small expressive eyes and tactile layered paper textures; sophisticated published picture-book art, not flat vector and not anime. This head will be attached to a yellow clothed large-head doll. Entire head and hair only, no neck, no clothing or shoulders, no accessories, no white outline or shadow. Generous transparent margins. Genuine transparent alpha background, no checkerboard, no text, no labels."
+    }
+  ]
+}

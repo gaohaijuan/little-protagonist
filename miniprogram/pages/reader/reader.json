@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "读故事",
+  "pageOrientation": "auto",
+  "disableScroll": true,
+  "usingComponents": { "story-art": "/components/story-art/story-art" }
+}

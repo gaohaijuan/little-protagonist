@@ -1,0 +1,13 @@
+const fs = require('node:fs');
+const { indexCharacters } = require('../../scripts/manuscript-series-audit.cjs');
+const { uniqueHan } = require('../../miniprogram/lib/literacy');
+const file = 'content/level1-reviewed-manuscript-source.json';
+const d = JSON.parse(fs.readFileSync(file, 'utf8'));
+d.books[13].pages[1] = ['我抱好红球，', '再抱黄球。'];
+d.books[16].pages[0] = ['我拿来一片白菜叶。'];
+d.books[16].pages[1] = ['小兔，给你！', '它不来，我把菜叶放在地上。'];
+const plan = new Set(JSON.parse(fs.readFileSync('content/level1-character-plan.json', 'utf8')).characters);
+d.auxiliaryCharacters = uniqueHan(d.books.flatMap(b => b.pages.flat()).join('')).filter(c => !plan.has(c)).join('');
+fs.writeFileSync(file, JSON.stringify(d, null, 2) + '\n');
+const before = JSON.parse(fs.readFileSync('output/text/manuscript-before-series-v4.json', 'utf8'));
+fs.writeFileSync('content/level1-series-recurrence-baseline.json', JSON.stringify({ edition: before.edition, characters: indexCharacters(before.books) }, null, 2) + '\n');

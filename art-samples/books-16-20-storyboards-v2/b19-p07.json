@@ -1,0 +1,38 @@
+{
+  "id": "b19-p07",
+  "book": 19,
+  "page": 7,
+  "brief": "Playful ending WIDE shot from SHADED TEAL DOORWAY looking into bright flowering garden: orange flower/terracotta pot/low stool at RIGHT(75%,92%) with small puddle at its feet, sage wateringcan now set down on paving nearby and no pouring. Clear child slot LEFT(37%,94%), open-hand 'aha' gesture will be separate. Varied leafy foreground frames sides, sunny airy happy scene, no people. Not same camera as page1.",
+  "actors": [
+    {
+      "pose": "barefoot-stand",
+      "x": 370,
+      "ground": 940,
+      "scale": 0.68
+    }
+  ],
+  "extras": [],
+  "refs": [
+    "art-samples/books-16-20-native/garden-nook.png",
+    "art-samples/books-16-20-native/plant-stool.png",
+    "art-samples/books-16-20-native/watering-can.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Playful ending WIDE shot from SHADED TEAL DOORWAY looking into bright flowering garden: orange flower/terracotta pot/low stool at RIGHT(75%,92%) with small puddle at its feet, sage wateringcan now set down on paving nearby and no pouring. Clear child slot LEFT(37%,94%), open-hand 'aha' gesture will be separate. Varied leafy foreground frames sides, sunny airy happy scene, no people. Not same camera as page1.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-fd0b9b81-c12c-478a-8af1-5be1d0bf6a58.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "fdb03023da0832eee472f81d151676141a853bf0df3e2b066f1587e0ecdc6bff"
+}

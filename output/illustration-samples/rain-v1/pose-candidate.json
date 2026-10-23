@@ -1,0 +1,21 @@
+{
+  "status": "sample-only-not-registered-in-production",
+  "pose": {
+    "id": "sample-stand-hold",
+    "version": 1,
+    "model": "child-v1",
+    "bodyUrl": "child-body-hold-v2.png",
+    "collar": {
+      "x": 501,
+      "y": 225
+    },
+    "bounds": {
+      "left": 88,
+      "top": 199,
+      "right": 972,
+      "bottom": 1405
+    },
+    "headRotation": 0
+  },
+  "model": "child-v1"
+}

@@ -1,0 +1,43 @@
+{
+  "kind": "picture-book-art-direction",
+  "generationMode": "built-in image_gen",
+  "character": "Fictional AI-generated child; no user photo supplied.",
+  "artifactType": "Static visual samples; expressions are illustrative and are not implemented by the app.",
+  "designRules": {
+    "medium": "Warm gouache / cut-paper collage with photographic head and illustrated rounded body.",
+    "outfit": {
+      "genderSelection": false,
+      "top": "warm golden yellow crewneck",
+      "pocket": "cream",
+      "shorts": "sage green",
+      "shoes": "terracotta"
+    },
+    "emotion": "Eyes and action attend to the story. Quiet care, excited catching, then puzzled searching; do not default every page to smiling at the camera.",
+    "photoIdentity": "The user's face and complete original hairstyle remain source pixels. Do not replace hair with template hair, crop crown/tails, stretch the face, or invent a new face.",
+    "sizing": "Calibrate head proportions using facial landmarks, with extra room for long hair and braids; do not shrink the face merely to fit a larger hairstyle.",
+    "compositing": "Separate photo and illustration layers. Use a consistent chin anchor, suitable pose, collar contact shadow and deliberate front/back hair occlusion. Keep originals unchanged.",
+    "expressionPolicy": "Single-photo runtime preserves the supplied expression. Body pose, framing and a small question mark can express searching. Exact additional facial expressions require suitable extra photos or a separately designed identity-preserving feature; never imply the current app changes expression.",
+    "longHairAcceptance": "Long hair, tied hair, braids and hair accessories require dedicated extraction and composition validation before declaring the photo integration complete.",
+    "countContinuity": "Page 1 has 11 petals, page 3 has 7 attached plus 4 airborne, page 6 has none visible."
+  },
+  "pages": [
+    {
+      "storyPage": 1,
+      "file": "page-01-my-flower.png",
+      "reference": "../my-flower-v1/page-01-my-flower.png",
+      "prompt": "Use case: identity-preserve / precise-object-edit. Edit the supplied picture-book page. Keep the SAME fictional five-year-old East Asian child's identity, recognizable facial features, age, full black hairstyle, natural hairline and ears. Preserve photographic skin/hair on the head and illustrated paper-doll body. Keep the full crown intact, large-head proportions, no sticker border, natural contact at the collar. Same landscape 16:9 dimensions, garden composition, tactile cut-paper/gouache quality, readable exact Chinese text and single tiny snail.\nUNIFY CLOTHING: replace the green top with a warm BUTTERY GOLDEN YELLOW unisex long-sleeve crewneck top (#E2B34F feel, not neon), retaining the cream square patch pocket. Replace ochre shorts with muted SAGE GREEN shorts. Preserve cream socks and terracotta shoes. All clothing/hands/limbs remain rounded illustrated cut-paper, not photographic. This outfit must look suitable for any child regardless of gender.\nKeep kneeling pose and hands sheltering flower. Make the child's gaze directed gently DOWN AND RIGHT toward their flower, with a soft delighted small CLOSED-mouth smile; eyes focus on the flower rather than the viewer/camera. Keep the same facial identity and black hair, do not invent bangs or change hairstyle. Keep the flower's exact ELEVEN coral-orange petals: one top, five down right, five down left. Preserve original size/position, individual gaps, stem and two leaves, no new petals or flowers. Text unchanged exactly \"我的小花。\". The story beat is quiet affectionate attention to one's flower. Otherwise change nothing."
+    },
+    {
+      "storyPage": 3,
+      "file": "page-03-catching-petals.png",
+      "reference": "../my-flower-v1/page-03-catching-petals.png",
+      "prompt": "Use case: identity-preserve / precise-object-edit. Edit the supplied picture-book page. Keep the SAME fictional five-year-old East Asian child's identity, recognizable facial features, age, full black hairstyle, natural hairline and ears. Preserve photographic skin/hair on the head and illustrated paper-doll body. Keep the full crown intact, large-head proportions, no sticker border, natural contact at the collar. Same landscape 16:9 dimensions, garden composition, tactile cut-paper/gouache quality, readable exact Chinese text and single tiny snail.\nUNIFY CLOTHING: replace the green top with a warm BUTTERY GOLDEN YELLOW unisex long-sleeve crewneck top (#E2B34F feel, not neon), retaining the cream square patch pocket. Replace ochre shorts with muted SAGE GREEN shorts. Preserve cream socks and terracotta shoes. All clothing/hands/limbs remain rounded illustrated cut-paper, not photographic. This outfit must look suitable for any child regardless of gender.\nKeep the playful tiptoe reaching pose and all limb anatomy. Direct the child's eyes toward the FOUR floating orange petals at upper right, with an engaged happy smile; not staring at the viewer/camera. Preserve the same facial identity and hair. EXACTLY FOUR orange airborne petals and SEVEN petals still attached to the left flower, unchanged positions. No extra petals or flowers. Preserve the two lines of text exactly \"一片两片\" / \"三四片，\". The story beat is excited concentration on catching petals, not posing for a portrait. Otherwise change nothing."
+    },
+    {
+      "storyPage": 6,
+      "file": "page-06-searching-grass.png",
+      "reference": "../my-flower-v1/page-06-searching-grass.png",
+      "prompt": "Use case: identity-preserve / precise-object-edit. Edit the supplied picture-book page. Keep the SAME fictional five-year-old East Asian child's identity, recognizable facial features, age, full black hairstyle, natural hairline and ears. Preserve photographic skin/hair on the head and illustrated paper-doll body. Keep the full crown intact, large-head proportions, no sticker border, natural contact at the collar. Same landscape 16:9 dimensions, garden composition, tactile cut-paper/gouache quality, readable exact Chinese text and single tiny snail.\nUNIFY CLOTHING: replace the green top with a warm BUTTERY GOLDEN YELLOW unisex long-sleeve crewneck top (#E2B34F feel, not neon), retaining the cream square patch pocket. Replace ochre shorts with muted SAGE GREEN shorts. Preserve cream socks and terracotta shoes. All clothing/hands/limbs remain rounded illustrated cut-paper, not photographic. This outfit must look suitable for any child regardless of gender.\nPRIORITY change this page from camera-facing grin to genuinely CURIOUS, PUZZLED SEARCHING:\nThe same child bends forward among grass, head slightly inclined downward and tipped to one side. Eyes visibly look DOWN into the opening between the grass leaves, NOT at the viewer. Brows gently asymmetrical/raised with a slight inner brow crease; mouth CLOSED in a small neutral puzzled line, no visible teeth, no grin, not angry, sad or crying. Retain all identity traits and full natural hairstyle. Both rounded cut-paper hands part the grass and the body leans toward the search. Place ONE small hand-drawn dark sage-green \"?\" just beside the child's upper-right temple in available garden space, separated from the story text, so the emotion is legible on a phone. Do not obscure hair, face or text.\nKeep ground-level leafy composition and all petals COMPLETELY HIDDEN. No orange flowers or petals anywhere. Story text remains exactly two lines \"飞入草丛\" / \"都不见。\". The warm curious ending reads 'Where did they go?' without adding any other words. Preserve the garden layout and textures, never crop head."
+    }
+  ]
+}

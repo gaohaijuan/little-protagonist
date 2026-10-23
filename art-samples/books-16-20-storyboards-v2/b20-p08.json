@@ -1,0 +1,39 @@
+{
+  "id": "b20-p08",
+  "book": 20,
+  "page": 8,
+  "brief": "Finally drawing: WIDE CALM ending from cottage porch toward sunlit patio bench/garden flowers, teal shutters at LEFT, overhead leafy arch RIGHT, warm damp paving with a dry drawing patch foreground. Seated child slot LEFT(36%,94%) and paper patch RIGHT of knees(57%,88%). No paper/pencil/stone/people painted. Leaves settle, gentle late light, new closing scene orientation distinct from page1.",
+  "actors": [
+    {
+      "pose": "sit-draw",
+      "x": 360,
+      "ground": 940,
+      "scale": 0.75
+    }
+  ],
+  "extras": [
+    "finished-paper"
+  ],
+  "refs": [
+    "art-samples/books-16-20-native/after-rain-patio.png",
+    "art-samples/books-16-20-native/red-paper.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Finally drawing: WIDE CALM ending from cottage porch toward sunlit patio bench/garden flowers, teal shutters at LEFT, overhead leafy arch RIGHT, warm damp paving with a dry drawing patch foreground. Seated child slot LEFT(36%,94%) and paper patch RIGHT of knees(57%,88%). No paper/pencil/stone/people painted. Leaves settle, gentle late light, new closing scene orientation distinct from page1.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-4cbe0ec0-e07d-41bf-890a-d1ec946600d6.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "28f07c7b53c85f7ea29785805e8bcaba191b0fd1cbc3452f66162a7a0eb86207"
+}

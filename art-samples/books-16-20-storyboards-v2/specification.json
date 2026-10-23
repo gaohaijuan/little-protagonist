@@ -1,0 +1,43 @@
+{
+  "purpose": "Replace repetitive local edits with page-specific illustrated scenes and narrative composition; preserve real-photo identity and the registered child anatomy.",
+  "sourceEdition": "reviewed-all-30-v8-personalized",
+  "books": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "pageCounts": [
+    7,
+    8,
+    8,
+    7,
+    8
+  ],
+  "output": "A5 illustration proof; each page has a newly rendered scene angle, distinct staging, same story text and literacy counts.",
+  "characterPolicy": "Use registered complete transparent actors only; photo exposure/temperature adaptation only; no changed expression or face shape.",
+  "style": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. ",
+  "poses": [
+    {
+      "name": "sit-shoo",
+      "ref": "art-samples/books-16-20-native/child-sit-draw-v2.png",
+      "prompt": "PIXEL REGISTERED small pose edit, same1024x1536 transparent child. Keep large EMPTY y0..364, neck501400, torso/hem930, crossed legs/shoes ending1270, intrinsic anatomy and all source pixel density exactly. Change ONLY image-right arm: extend naturally sideways/right, open palm forward in gentle 'please move aside' gesture, hand near(900,770). Image-left hand rests on existing knee. Same exact clothes/yellow sweater/ivory pocket/sage shorts/socks/orange shoes. Headless, NO prop, floor/shadow/glow. Do NOT enlarge torso or feet or recenter."
+    },
+    {
+      "name": "crouch-book",
+      "ref": "art-samples/books-11-15-native/child-crouch-palm-v2.png",
+      "prompt": "PIXEL REGISTERED pose edit same1024x1536 child: neck anchor510320, headless neck top276, torso hem735, knees/feet bottom1191 stay in place and unchanged size. Only adjust forearms/hands: BOTH hands gently extend forward, palms up around(390,800) and(680,800), ready to lift an open book added separately. Same natural deep squat, exact small shoe size220px, same torso/limbs/sage shorts/yellow sweater. No book/props/head/floor/shadow/glow; true alpha. Do not zoom or enlarge body."
+    },
+    {
+      "name": "barefoot-step",
+      "ref": "art-samples/books-16-20-native/child-barefoot-v2.png",
+      "prompt": "Pixel-calibrated1024x1536 headless child body, same master intrinsic anatomy/pixel density: collar501225, sweater hem730, shorts955, large empty top194px, right bare foot1355. One small forward STEP: image-left leg lifts slightly forward/left, knee naturally bent, bare left foot stepping to(320,1260); right leg remains planted at(735,1355). Both arms a little out for balance. Keep actual thigh/calf/foot physical lengths/thickness, no giant foot or stretched legs; don't scale torso. Exact yellow/sage/ivory clothes, transparent alpha, no shoe/props/background/shadow/glow."
+    },
+    {
+      "name": "run-left",
+      "ref": "art-samples/my-family-production/child-body.png",
+      "prompt": "Create native pixel-calibrated RUNNING LEFT action for SAME child BODY. Canvas1024x1536, collar stays501225, empty top199px, sweater torso collar-to-hem500px, same anatomical thigh/calf/arm/foot lengths and SOURCE PIXEL DENSITY. Slight forward leaning torso, left leg reaching diagonally forward-left with sneaker near(300,1360), right leg bent behind with sneaker near(800,1160); opposite arms bent naturally for running. Whole body fits canvas, shoes each220px (not giant). Same yellow sweater/ivory pocket on IMAGE RIGHT, sage shorts, cream socks/orange sneakers. Headless neck stump only, no props/floor/shadow/glow, actual alpha. Do not zoom/recenter/enlarge anatomy."
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "model": "child-v1",
+  "version": 6,
+  "poses": {
+    "stand-wave": {
+      "id": "stand-wave",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/family/child-body.webp",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 180,
+        "top": 199,
+        "right": 968,
+        "bottom": 1405
+      },
+      "headRotation": 0
+    },
+    "hands-flower-open": {
+      "id": "hands-flower-open",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/first-five/hands-open.webp",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 247,
+        "top": 201,
+        "right": 840,
+        "bottom": 1399
+      },
+      "headRotation": 0
+    },
+    "hold-umbrella": {
+      "id": "hold-umbrella",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-06-10/child-umbrella.png",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 180,
+        "top": 199,
+        "right": 968,
+        "bottom": 1405
+      },
+      "headRotation": 0
+    },
+    "reach-water": {
+      "id": "reach-water",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-06-10/child-water-reach.png",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 180,
+        "top": 199,
+        "right": 968,
+        "bottom": 1405
+      },
+      "headRotation": 0.08
+    },
+    "hands-flower-closed": {
+      "id": "hands-flower-closed",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/first-five/hands-closed.webp",
+      "collar": {
+        "x": 501,
+        "y": 195
+      },
+      "bounds": {
+        "left": 245,
+        "top": 172,
+        "right": 843,
+        "bottom": 1368
+      },
+      "headRotation": 0
+    },
+    "push-cart": {
+      "id": "push-cart",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-11-15/child-push.png",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 249,
+        "top": 199,
+        "right": 930,
+        "bottom": 1400
+      },
+      "headRotation": 0,
+      "attachments": {
+        "grip": {
+          "x": 760,
+          "y": 630
+        }
+      }
+    },
+    "carry-play": {
+      "id": "carry-play",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-11-15/child-carry-v2.png",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 225,
+        "top": 200,
+        "right": 841,
+        "bottom": 1400
+      },
+      "headRotation": 0,
+      "attachments": {
+        "leftPalm": {
+          "x": 425,
+          "y": 495
+        },
+        "rightPalm": {
+          "x": 610,
+          "y": 495
+        }
+      }
+    },
+    "crouch-palm": {
+      "id": "crouch-palm",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-11-15/child-crouch-palm-v2.png",
+      "collar": {
+        "x": 510,
+        "y": 320
+      },
+      "bounds": {
+        "left": 115,
+        "top": 276,
+        "right": 939,
+        "bottom": 1191
+      },
+      "headRotation": -0.07,
+      "attachments": {
+        "palm": {
+          "x": 200,
+          "y": 970
+        }
+      }
+    },
+    "sit-read": {
+      "id": "sit-read",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20/child-sit-read-v2.png",
+      "collar": {
+        "x": 501,
+        "y": 400
+      },
+      "bounds": {
+        "left": 141,
+        "top": 365,
+        "right": 922,
+        "bottom": 1251
+      },
+      "headRotation": 0,
+      "attachments": {
+        "leftPalm": {
+          "x": 230,
+          "y": 850
+        },
+        "rightPalm": {
+          "x": 840,
+          "y": 850
+        },
+        "lap": {
+          "x": 520,
+          "y": 920
+        }
+      }
+    },
+    "barefoot-stand": {
+      "id": "barefoot-stand",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20/child-barefoot-v2.png",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 178,
+        "top": 195,
+        "right": 965,
+        "bottom": 1355
+      },
+      "headRotation": 0,
+      "attachments": {
+        "palm": {
+          "x": 875,
+          "y": 540
+        },
+        "leftFoot": {
+          "x": 420,
+          "y": 1310
+        },
+        "rightFoot": {
+          "x": 735,
+          "y": 1310
+        }
+      }
+    },
+    "water-pour": {
+      "id": "water-pour",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20/child-water-pour.png",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 178,
+        "top": 195,
+        "right": 947,
+        "bottom": 1357
+      },
+      "headRotation": 0,
+      "attachments": {
+        "grip": {
+          "x": 900,
+          "y": 360
+        },
+        "leftFoot": {
+          "x": 420,
+          "y": 1310
+        },
+        "rightFoot": {
+          "x": 735,
+          "y": 1310
+        }
+      }
+    },
+    "drink-water": {
+      "id": "drink-water",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20/child-drink.png",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 169,
+        "top": 162,
+        "right": 966,
+        "bottom": 1356
+      },
+      "headRotation": 0,
+      "attachments": {
+        "cup": {
+          "x": 370,
+          "y": 225
+        }
+      }
+    },
+    "sit-draw": {
+      "id": "sit-draw",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20/child-sit-draw-v2.png",
+      "collar": {
+        "x": 501,
+        "y": 400
+      },
+      "bounds": {
+        "left": 131,
+        "top": 364,
+        "right": 894,
+        "bottom": 1270
+      },
+      "headRotation": -0.04,
+      "attachments": {
+        "pencil": {
+          "x": 710,
+          "y": 960
+        }
+      }
+    },
+    "sit-shoo": {
+      "id": "sit-shoo",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20-storyboards-v2/sit-shoo.png",
+      "collar": {
+        "x": 425,
+        "y": 400
+      },
+      "bounds": {
+        "left": 40,
+        "top": 365,
+        "right": 1014,
+        "bottom": 1271
+      },
+      "headRotation": -0.08,
+      "attachments": {
+        "leftPalm": {
+          "x": 135,
+          "y": 910
+        },
+        "rightPalm": {
+          "x": 950,
+          "y": 570
+        }
+      }
+    },
+    "crouch-book": {
+      "id": "crouch-book",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20-storyboards-v2/crouch-book.png",
+      "collar": {
+        "x": 540,
+        "y": 285
+      },
+      "bounds": {
+        "left": 167,
+        "top": 244,
+        "right": 963,
+        "bottom": 1244
+      },
+      "headRotation": -0.04,
+      "attachments": {
+        "leftPalm": {
+          "x": 260,
+          "y": 715
+        },
+        "rightPalm": {
+          "x": 850,
+          "y": 715
+        }
+      }
+    },
+    "barefoot-step": {
+      "id": "barefoot-step",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20-storyboards-v2/barefoot-step.png",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 103,
+        "top": 190,
+        "right": 1007,
+        "bottom": 1372
+      },
+      "headRotation": 0,
+      "attachments": {}
+    },
+    "run-left": {
+      "id": "run-left",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20-storyboards-v2/run-left-clean.png",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 136,
+        "top": 194,
+        "right": 989,
+        "bottom": 1373
+      },
+      "headRotation": 0,
+      "attachments": {}
+    },
+    "run-right": {
+      "id": "run-right",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-16-20-storyboards-v2/run-right-v2.png",
+      "collar": {
+        "x": 540,
+        "y": 225
+      },
+      "bounds": {
+        "left": 44,
+        "top": 180,
+        "right": 929,
+        "bottom": 1398
+      },
+      "headRotation": 0,
+      "attachments": {}
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "version": 1,
+  "width": 1672,
+  "height": 941,
+  "paper": "#fbf6e9",
+  "files": {
+    "show": "hands-show.webp",
+    "open": "hands-open.webp",
+    "closed": "hands-closed.webp",
+    "closedDetail": "hands-closed.webp",
+    "openDetail": "hands-open.webp"
+  },
+  "heads": {
+    "childHead": {
+      "url": "../../family/child-head.webp",
+      "metrics": {
+        "bounds": {
+          "left": 51,
+          "top": 17,
+          "right": 1298,
+          "bottom": 1167
+        },
+        "faceBounds": {
+          "left": 207,
+          "top": 391,
+          "right": 1096,
+          "bottom": 1165
+        },
+        "chin": {
+          "x": 654,
+          "y": 1164
+        }
+      }
+    },
+    "curiousHead": {
+      "url": "curious-head.webp",
+      "metrics": {
+        "bounds": {
+          "left": 42,
+          "top": 18,
+          "right": 1317,
+          "bottom": 1177
+        },
+        "faceBounds": {
+          "left": 220,
+          "top": 420,
+          "right": 1100,
+          "bottom": 1175
+        },
+        "chin": {
+          "x": 655,
+          "y": 1173
+        }
+      }
+    }
+  },
+  "scenes": {
+    "show": {
+      "head": "childHead",
+      "neck": {
+        "x": 601,
+        "y": 296
+      },
+      "face": {
+        "width": 195,
+        "height": 190
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 601,
+          "y": 296
+        },
+        "face": {
+          "width": 234,
+          "height": 200
+        },
+        "rotation": 0,
+        "headFrame": {
+          "crownHeight": 300,
+          "faceToCrown": 1.7
+        }
+      }
+    },
+    "open": {
+      "head": "curiousHead",
+      "neck": {
+        "x": 602,
+        "y": 297
+      },
+      "face": {
+        "width": 195,
+        "height": 190
+      },
+      "rotation": 0,
+      "photoPose": {
+        "neck": {
+          "x": 602,
+          "y": 297
+        },
+        "face": {
+          "width": 234,
+          "height": 200
+        },
+        "rotation": 0,
+        "headFrame": {
+          "crownHeight": 300,
+          "faceToCrown": 1.7
+        }
+      }
+    },
+    "closed": {
+      "head": "curiousHead",
+      "neck": {
+        "x": 602,
+        "y": 297
+      },
+      "face": {
+        "width": 195,
+        "height": 190
+      },
+      "rotation": 0.025,
+      "photoPose": {
+        "neck": {
+          "x": 602,
+          "y": 297
+        },
+        "face": {
+          "width": 234,
+          "height": 200
+        },
+        "rotation": 0.025,
+        "headFrame": {
+          "crownHeight": 300,
+          "faceToCrown": 1.7
+        }
+      }
+    },
+    "closedDetail": {
+      "head": false
+    },
+    "openDetail": {
+      "head": false
+    }
+  },
+  "pages": [
+    {
+      "scene": "show",
+      "crop": {
+        "x": 250,
+        "y": 0,
+        "width": 860,
+        "height": 941
+      }
+    },
+    {
+      "scene": "open",
+      "crop": {
+        "x": 250,
+        "y": 0,
+        "width": 860,
+        "height": 941
+      }
+    },
+    {
+      "scene": "closed",
+      "crop": {
+        "x": 250,
+        "y": 0,
+        "width": 860,
+        "height": 941
+      }
+    },
+    {
+      "scene": "closed",
+      "crop": {
+        "x": 340,
+        "y": 0,
+        "width": 720,
+        "height": 640
+      }
+    },
+    {
+      "scene": "open",
+      "crop": {
+        "x": 315,
+        "y": 0,
+        "width": 795,
+        "height": 830
+      }
+    },
+    {
+      "scene": "open",
+      "crop": {
+        "x": 340,
+        "y": 0,
+        "width": 720,
+        "height": 635
+      }
+    }
+  ],
+  "cover": {
+    "scene": "open",
+    "crop": {
+      "x": 335,
+      "y": 0,
+      "width": 560,
+      "height": 915
+    }
+  }
+}

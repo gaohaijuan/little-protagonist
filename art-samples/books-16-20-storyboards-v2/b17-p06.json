@@ -1,0 +1,37 @@
+{
+  "id": "b17-p06",
+  "book": 17,
+  "page": 6,
+  "brief": "Rabbit goes home: LOW THREE-QUARTER VIEW of the hutch front filling RIGHT half, warm straw/open doorway clear, same rabbit approaching doorway from LEFT while carrying light cabbage leaf in mouth. Hind legs slightly extended in a little hop, ears angled back, anatomically natural. Path and white daisies foreground, back wall softly recedes, no people. The hutch entrance big enough for this rabbit; consistent sizes.",
+  "actors": [],
+  "extras": [],
+  "refs": [
+    "art-samples/books-16-20-native/garden-nook.png",
+    "art-samples/books-16-20-native/rabbit.png",
+    "art-samples/books-16-20-native/cabbage-leaf.png",
+    "art-samples/books-16-20-native/rabbit-hutch.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Rabbit goes home: LOW THREE-QUARTER VIEW of the hutch front filling RIGHT half, warm straw/open doorway clear, same rabbit approaching doorway from LEFT while carrying light cabbage leaf in mouth. Hind legs slightly extended in a little hop, ears angled back, anatomically natural. Path and white daisies foreground, back wall softly recedes, no people. The hutch entrance big enough for this rabbit; consistent sizes.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-f38d6fbe-6a1e-4565-bd67-2a8525c36697.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "55e83a8f985d47a2eb749a75deaeca2344f135fc296fc89e52bb75dc127d826f",
+  "correction": {
+    "id": "b17-p06",
+    "prompt": "Local precise edit: preserve same hopping rabbit, pose, hutch, camera, garden. Replace tiny cabbage morsel in its mouth with the SAME whole long pale cabbage leaf from earlier scenes, about rabbit's BODY length(roughly450 native pixels). Rabbit grips thin end of long WHITE STEM in mouth, blade curves DOWN and trails BACK toward LEFT across its front torso; natural light leaf weight. Whole leaf blade broad green/pale textured and extends leftward below body, not eaten yet. Keep complete rabbit ears/back/feet visible, only one rabbit. No people. Maintain all style and native square detail.",
+    "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-5068387c-f5f6-40ce-b808-7bcbe1ef792e.png"
+  }
+}

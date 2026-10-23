@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "file": "hands-open.png",
+      "prompt": "Use case: illustration-story. Create ONE new 16:9 finished children's picture-book illustration matching the attached style references, not a collage or storyboard. Image 1 is style/outfit/body-layer reference only; Image 2 style texture reference. Beautiful artisanal watercolor and torn-paper collage textures, cream paper, muted sage and warm ochre, tactile yellow knitted top, terracotta shoes, delicate natural light. New scene: 'My Little Hands', a preschool child standing on a woven rug in the warm sunlit reading nook. ONE child body, neutral mustard-yellow sweater with cream patch pocket, sage shorts, white socks, red shoes. Both hands held at chest level making a clearly readable flower gesture: wrists touching, the two palms facing up/out and fingers spreading as petals, two natural hands with five fingers each. Calm balanced pose facing mostly forward, not waving. The hands are the flower, NO physical flower, no magical flower, no floating props. Production layer constraint: render complete body with short natural neck and collar but OMIT the entire head, face, ears and hair; above collar paint the uninterrupted room background, no white silhouette, no hole. Leave enough empty room above the collar for a large head later. Collar near x=35% canvas,y=43%; complete feet above bottom edge. Main body and room illustration occupies left 62%, rightmost 35% fades naturally to empty warm cream paper for book text (do not render text). Window left, low shelf and watercolor paper textures, coherent with reference but a new action. No captions, no writing, no logos, no decorative flowers in child's hands. Keep child hands below collar so they do not obscure future photo face."
+    },
+    {
+      "file": "hands-closed.png",
+      "prompt": "Use case: precise-object-edit. Edit this children's book production body-and-room layer. Keep EXACT room, crop, child clothing, body proportions, collar position, feet, warm textured watercolor torn-paper collage style, cream negative-space right third. Change ONLY hands/forearms: the two hands now fold CLOSED together into a gentle small flower bud, fingers curled in softly together, two hands meeting at chest level. The open hand-flower has disappeared because hands closed. Two anatomically clear hands, no extra fingers. Body leans a tiny bit forward curiously without moving collar location. No real flowers, no added objects, no text. Essential preserve HEADLESS compositing layer: no head, face, hair, ears or white head placeholder; above neck remains room background. Body+hands fully visible, 16:9 image."
+    },
+    {
+      "file": "hands-show.png",
+      "prompt": "Use case: precise-object-edit. Change ONLY the bear applique on the child's yellow sweater: remove the bear's head, ears, eyes, nose, mouth and all bear decoration, replacing that whole chest applique with a plain small rectangular cream fabric patch pocket like a simple neutral sweater. Preserve all other pixels/appearance as closely as possible: two raised separated open hands and fingers, sleeves, full body, room, neck/collar, headless area, right cream whitespace, 16:9 watercolor paper collage. No head, no new objects, no words. The pocket should be a small quiet square on the child's left chest, not a large animal outline."
+    },
+    {
+      "file": "curious-head.png",
+      "prompt": "Use case: precise-object-edit. Create a transparent isolated HEAD of the SAME cute illustrated preschool child in the reference, preserving the handmade torn-paper hair and watercolor-paper skin, same facial identity, warm skin, short dark tousled hair, and chubby cheeks. Change expression ONLY: soft curious concentration, mouth gently closed, eyebrows slightly raised, both pupils looking subtly downward and slightly to viewer's right toward their own hands/a flower. Face remains almost frontal, not profile; tiny natural tilt. NOT smiling at camera. Only entire head including ALL hair and ears and full chin, no neck, no torso, no clothes, no border, no shadow, no text. True transparent background. Generous transparent margin around every hair tip. Do not become a photograph or a realistic adult; preserve the exact paper-collage cartoon style of reference."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "b19-p01",
+  "book": 19,
+  "page": 1,
+  "brief": "Hot day water break: SUNLIT garden corner beside stone bench LEFT, a few pebbles and thyme lower edge, cottage wall/teal shutter BACK RIGHT. Small orange flower in terracotta pot on a low pale-wood stool RIGHT(77%,90%), same reference design, visible soil. Child slot LEFT(34%,94%) for drinking. No cup/can/people painted. Dappled summer light with pale warm sky, full rich scene.",
+  "actors": [
+    {
+      "pose": "drink-water",
+      "x": 340,
+      "ground": 940,
+      "scale": 0.68
+    }
+  ],
+  "extras": [
+    "held-cup"
+  ],
+  "refs": [
+    "art-samples/books-16-20-native/garden-nook.png",
+    "art-samples/books-16-20-native/plant-stool.png",
+    "art-samples/books-16-20-native/watering-can.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Hot day water break: SUNLIT garden corner beside stone bench LEFT, a few pebbles and thyme lower edge, cottage wall/teal shutter BACK RIGHT. Small orange flower in terracotta pot on a low pale-wood stool RIGHT(77%,90%), same reference design, visible soil. Child slot LEFT(34%,94%) for drinking. No cup/can/people painted. Dappled summer light with pale warm sky, full rich scene.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-970fdf0a-b434-4db6-a1b7-79ea6c94b09e.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "818cadf2cf3a11a33bc5dba550dbddd21f03b787b75eb396782cda8517f1c9d5"
+}

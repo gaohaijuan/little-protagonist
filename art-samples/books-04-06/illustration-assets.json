@@ -1,0 +1,31 @@
+{
+  "tool": "built-in image_gen",
+  "style": "水彩与纸拼贴质感，暖黄色中性上衣，独立场景与可替换头部",
+  "books": [
+    {
+      "number": 4,
+      "title": "我的小手",
+      "sourceDirectory": "hands",
+      "promptFile": "hands/prompts.json",
+      "runtimeManifest": "../../../preview/art/sequence/hands/manifest.json"
+    },
+    {
+      "number": 5,
+      "title": "下雨了",
+      "sourceDirectory": "rain",
+      "promptFile": "rain/root-prompts.json",
+      "additionalPromptBriefs": {
+        "rain-sky.png": "同一花园雨前全景，云在天上，树叶随风；无孩子、伞或雨水。保留珊瑚橙小花，右侧奶油纸留白。",
+        "rain-shelter.png": "同一花园下雨后，孩子蹲在橙花左侧，伞同时遮住两者。黄色上衣、奶油口袋、绿色短裤、白袜红鞋。合成底图不画头部，伞柄位于头部右侧，领口下移以留完整头发空间。"
+      },
+      "runtimeManifest": "../../../preview/art/sequence/rain/manifest.json"
+    },
+    {
+      "number": 6,
+      "title": "小石头回家",
+      "sourceDirectory": "stone",
+      "promptFile": "stone/prompts.json",
+      "runtimeManifest": "../../../preview/art/sequence/stone/manifest.json"
+    }
+  ]
+}

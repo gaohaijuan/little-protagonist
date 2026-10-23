@@ -1,0 +1,35 @@
+{
+  "id": "b20-p07",
+  "book": 20,
+  "page": 7,
+  "brief": "Wind test CLOSE-UP: small same terracotta-red drawing sheet lies FLAT on pale flagstone, broadside threequarter view, one small rounded grey pebble weighs down ONLY its LEFT edge. Paper has only one pale simple incomplete umbrella-canopy arc near center, rest blank no letters. A loose corner curls slightly in breeze but stays down, several tree leaves blow past in BACK, pencil set beside paper, stone does not cover drawing area. Full tactile composition, no people/hands/body.",
+  "actors": [],
+  "extras": [],
+  "refs": [
+    "art-samples/books-16-20-native/after-rain-patio.png",
+    "art-samples/books-16-20-native/red-paper.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Wind test CLOSE-UP: small same terracotta-red drawing sheet lies FLAT on pale flagstone, broadside threequarter view, one small rounded grey pebble weighs down ONLY its LEFT edge. Paper has only one pale simple incomplete umbrella-canopy arc near center, rest blank no letters. A loose corner curls slightly in breeze but stays down, several tree leaves blow past in BACK, pencil set beside paper, stone does not cover drawing area. Full tactile composition, no people/hands/body.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-2f9e046c-ea12-4ab3-b3de-289497fc3cd0.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "593fd8dbd7539a113a560bbf61c854e86ce5b0d2adc94a0e1e91eae21bd84923",
+  "correction": {
+    "id": "b20-p07",
+    "prompt": "Precise local edit to drawing on red paper ONLY: remove umbrella ribs/scallops, keep only a single thin ivory INCOMPLETE umbrella canopy arc, matching one simple semicircular curved line. NO handle/stem/ribs yet. Leave paper, stone weighing LEFT edge, pencil on ground, camera, wind leaves, garden and all lighting unchanged. Highest native resolution square. No people or extra objects.",
+    "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-9e548765-d367-49d3-8e07-da986948595b.png"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "b17-p02",
+  "book": 17,
+  "page": 2,
+  "brief": "Rabbit doesn't come: REVERSE garden angle, wooden hutch small at BACK LEFT with same rabbit sitting near doorway(25%,67%) ignoring food, pale warm stone paving in foreground. A single light cabbage leaf laid on ground at RIGHT center(63%,84%). Clear child slot LEFT foreground(36%,95%). Cottage wall only at RIGHT edge, flowering peas hang above; fresh viewpoint, no second rabbit.",
+  "actors": [
+    {
+      "pose": "crouch-palm",
+      "x": 360,
+      "ground": 950,
+      "scale": 0.8
+    }
+  ],
+  "extras": [],
+  "refs": [
+    "art-samples/books-16-20-native/garden-nook.png",
+    "art-samples/books-16-20-native/rabbit.png",
+    "art-samples/books-16-20-native/cabbage-leaf.png",
+    "art-samples/books-16-20-native/rabbit-hutch.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Rabbit doesn't come: REVERSE garden angle, wooden hutch small at BACK LEFT with same rabbit sitting near doorway(25%,67%) ignoring food, pale warm stone paving in foreground. A single light cabbage leaf laid on ground at RIGHT center(63%,84%). Clear child slot LEFT foreground(36%,95%). Cottage wall only at RIGHT edge, flowering peas hang above; fresh viewpoint, no second rabbit.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-7df5f0b6-de97-4d74-ae55-782e584a3e25.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "adb5a12b11c2209ef0f2bfa0b8cff77fb39bd7fb1df0a36f66ae016f7d2179c2"
+}

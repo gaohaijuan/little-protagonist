@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "width": 1672,
+  "height": 941,
+  "paper": "#fbf6e9",
+  "background": "courtyard",
+  "body": {
+    "dad": {
+      "asset": "bodies",
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 627,
+        "height": 627
+      },
+      "bounds": {
+        "left": 150,
+        "top": 18,
+        "right": 526,
+        "bottom": 621
+      },
+      "collar": {
+        "x": 382,
+        "y": 30
+      },
+      "foot": {
+        "x": 376,
+        "y": 618
+      },
+      "face": {
+        "width": 230.67692307692306,
+        "height": 226.15384615384613
+      },
+      "rotation": 0
+    },
+    "mom": {
+      "asset": "bodies",
+      "sourceRect": {
+        "x": 627,
+        "y": 0,
+        "width": 627,
+        "height": 627
+      },
+      "bounds": {
+        "left": 90,
+        "top": 42,
+        "right": 435,
+        "bottom": 618
+      },
+      "collar": {
+        "x": 288,
+        "y": 54
+      },
+      "foot": {
+        "x": 291,
+        "y": 615
+      },
+      "face": {
+        "width": 220.0846153846154,
+        "height": 215.76923076923077
+      },
+      "rotation": 0
+    },
+    "grandpa": {
+      "asset": "bodies",
+      "sourceRect": {
+        "x": 0,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
+      "bounds": {
+        "left": 163,
+        "top": 9,
+        "right": 524,
+        "bottom": 605
+      },
+      "collar": {
+        "x": 378,
+        "y": 24
+      },
+      "foot": {
+        "x": 387,
+        "y": 602
+      },
+      "face": {
+        "width": 226.75384615384615,
+        "height": 222.3076923076923
+      },
+      "rotation": 0
+    },
+    "grandma": {
+      "asset": "bodies",
+      "sourceRect": {
+        "x": 627,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
+      "bounds": {
+        "left": 94,
+        "top": 49,
+        "right": 445,
+        "bottom": 607
+      },
+      "collar": {
+        "x": 279,
+        "y": 62
+      },
+      "foot": {
+        "x": 297,
+        "y": 604
+      },
+      "face": {
+        "width": 212.63076923076923,
+        "height": 208.46153846153845
+      },
+      "rotation": 0
+    },
+    "child": {
+      "asset": "childBody",
+      "bounds": {
+        "left": 180,
+        "top": 199,
+        "right": 968,
+        "bottom": 1405
+      },
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "foot": {
+        "x": 574,
+        "y": 1401
+      },
+      "face": {
+        "width": 799.6800000000001,
+        "height": 784
+      },
+      "rotation": 0,
+      "photoHeadFrame": {
+        "crownHeight": 950,
+        "faceToCrown": 1.7
+      }
+    }
+  },
+  "heads": {
+    "dad": {
+      "asset": "heads",
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 627,
+        "height": 627
+      },
+      "metrics": {
+        "bounds": {
+          "left": 87,
+          "top": 28,
+          "right": 566,
+          "bottom": 615
+        },
+        "faceBounds": {
+          "left": 145,
+          "top": 156,
+          "right": 518,
+          "bottom": 613
+        },
+        "chin": {
+          "x": 335,
+          "y": 612
+        }
+      }
+    },
+    "mom": {
+      "asset": "heads",
+      "sourceRect": {
+        "x": 627,
+        "y": 0,
+        "width": 627,
+        "height": 610
+      },
+      "metrics": {
+        "bounds": {
+          "left": 26,
+          "top": 39,
+          "right": 569,
+          "bottom": 599
+        },
+        "faceBounds": {
+          "left": 105,
+          "top": 171,
+          "right": 494,
+          "bottom": 597
+        },
+        "chin": {
+          "x": 300,
+          "y": 596
+        }
+      }
+    },
+    "grandpa": {
+      "asset": "heads",
+      "sourceRect": {
+        "x": 0,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
+      "metrics": {
+        "bounds": {
+          "left": 71,
+          "top": 12,
+          "right": 590,
+          "bottom": 596
+        },
+        "faceBounds": {
+          "left": 145,
+          "top": 117,
+          "right": 534,
+          "bottom": 594
+        },
+        "chin": {
+          "x": 341,
+          "y": 593
+        }
+      }
+    },
+    "grandma": {
+      "asset": "heads",
+      "sourceRect": {
+        "x": 627,
+        "y": 610,
+        "width": 627,
+        "height": 644
+      },
+      "metrics": {
+        "bounds": {
+          "left": 57,
+          "top": 7,
+          "right": 561,
+          "bottom": 616
+        },
+        "faceBounds": {
+          "left": 113,
+          "top": 204,
+          "right": 512,
+          "bottom": 614
+        },
+        "chin": {
+          "x": 312,
+          "y": 613
+        }
+      }
+    },
+    "child": {
+      "asset": "childHead",
+      "metrics": {
+        "bounds": {
+          "left": 51,
+          "top": 17,
+          "right": 1298,
+          "bottom": 1167
+        },
+        "faceBounds": {
+          "left": 207,
+          "top": 391,
+          "right": 1096,
+          "bottom": 1165
+        },
+        "chin": {
+          "x": 654,
+          "y": 1164
+        }
+      }
+    }
+  }
+}

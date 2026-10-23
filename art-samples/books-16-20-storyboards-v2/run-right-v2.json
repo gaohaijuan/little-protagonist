@@ -1,0 +1,21 @@
+{
+  "name": "run-right-v2",
+  "prompt": "Use case precise-object-edit. Keep exact reference headless child at exact current1024x1536 canvas position and pixel density. ONLY shorten the image-RIGHT front sneaker toe by about55 pixels: keep ankle and heel aroundx680, move rightmost toe edge fromx980 tox925. Keep shoe height, sole/laces style and natural shape. Do NOT change torso/legs/hands/left back shoe, no recenter or scale, no head. Preserve genuine transparent alpha background completely, no opaque texture, no halo or glow. Highest native fidelity.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-0ddc07c0-3d58-4cfb-b126-551ed379500f.png",
+  "nativeSize": [
+    1024,
+    1536
+  ],
+  "bounds": [
+    44,
+    180,
+    929,
+    1398
+  ],
+  "alphaRange": [
+    0,
+    254
+  ],
+  "accepted": true,
+  "sha256": "6aef9a712143ad3d195cb07ba06638db2f302bc569eaa4f780723488b196fe91"
+}

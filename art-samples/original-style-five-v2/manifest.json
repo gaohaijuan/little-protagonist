@@ -1,0 +1,105 @@
+{
+  "method": "Built-in imagegen fidelity edits; no API; no interpolation upscale",
+  "files": [
+    {
+      "name": "intro-greeting",
+      "source": "my-introduction-production/greeting.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "0895a5577c7e1ea2ea053ad7c38163bc011e0f1650f2b92613953a8e6246860d"
+    },
+    {
+      "name": "intro-play",
+      "source": "my-introduction-production/play.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "b5d53c94e528037282b38801d697206e7a2a01ad8b08230ff03462726e96c401"
+    },
+    {
+      "name": "intro-school",
+      "source": "my-introduction-production/school.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "785f95808150276d2229c4e6926f9b35508f41cc248363eb6ccb5cf1efd17948"
+    },
+    {
+      "name": "flower-care",
+      "source": "my-flower-production/care.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "afad1b0366048a7bebc8480c3f78df033a14cf4428aa1abea783208be86e40d9"
+    },
+    {
+      "name": "flower-wind",
+      "source": "my-flower-production/wind.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "99e95a6cff54029427408a83e2e1c0c714657198a073de2fc7b4ae5a20432239"
+    },
+    {
+      "name": "flower-search",
+      "source": "my-flower-production/search.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "419a1ca5790569896f6801493922159f240c23355a9bb0900430ea86b972c2f5"
+    },
+    {
+      "name": "hands-show",
+      "source": "books-04-06/hands/hands-show.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "5c12b0e80e1eea8353476caefcf9c0a3890d6b119863564b723a0dfd36e7d50d"
+    },
+    {
+      "name": "hands-open",
+      "source": "books-04-06/hands/hands-open.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "717b2126b59ae3681922df5833e8ec6dc0e2e58d5d52c2304c68fc7bb9ce082a"
+    },
+    {
+      "name": "hands-closed",
+      "source": "books-04-06/hands/hands-closed.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "762b956a604ebc4bb0fb7d0c97703e6125150ac80f95bf0e0c111b5f201d1f81"
+    },
+    {
+      "name": "family-courtyard",
+      "source": "my-family-production/courtyard.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "e96e91ec80f0cd5ec6797bdc85f911f05556f20095dec348621def6224f18e7a"
+    },
+    {
+      "name": "mountain-clear",
+      "source": "mountain-production/clear.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "sha256": "7cfbbcde0cbb44746163823c3949028ebbc7f6b46aaf2034b912127323ef72bf"
+    }
+  ],
+  "printCertified": false
+}

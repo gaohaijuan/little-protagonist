@@ -1,0 +1,42 @@
+{
+  "id": "b16-p07",
+  "book": 16,
+  "page": 7,
+  "brief": "Warm ending WIDE shot framed from OPEN TEAL DOOR looking into room: back cream wall, low shelf, linen cushion and soft late-afternoon bands of light across floor. Sleeping kitten on open book at RIGHT foreground (72%,85%), quiet curled pose. Leave child sitting comfortably at LEFT (31%,91%), watching cat. Make this a distinct tableau and environment perspective, not an enlargement of page6.",
+  "actors": [
+    {
+      "pose": "sit-read",
+      "x": 310,
+      "ground": 910,
+      "scale": 0.7
+    }
+  ],
+  "extras": [],
+  "refs": [
+    "preview/art/sequence/books-11-15/playroom-clear.png",
+    "art-samples/books-16-20-native/open-book.png",
+    "preview/art/sequence/books-06-10/cat.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Warm ending WIDE shot framed from OPEN TEAL DOOR looking into room: back cream wall, low shelf, linen cushion and soft late-afternoon bands of light across floor. Sleeping kitten on open book at RIGHT foreground (72%,85%), quiet curled pose. Leave child sitting comfortably at LEFT (31%,91%), watching cat. Make this a distinct tableau and environment perspective, not an enlargement of page6.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-e5aa76a3-eb5b-484c-a47d-223a1b32b70e.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "d007e5b1afd8b75d4810ce4805c739165b318b7aafe91c17c595e782806f5e92",
+  "correction": {
+    "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-8022db7d-2467-42f5-ba03-40111a8ac335.png",
+    "purpose": "Remove extra kitten; keep exactly one sleeping kitten."
+  }
+}

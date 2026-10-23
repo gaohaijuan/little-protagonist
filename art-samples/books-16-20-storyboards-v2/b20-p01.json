@@ -1,0 +1,39 @@
+{
+  "id": "b20-p01",
+  "book": 20,
+  "page": 1,
+  "brief": "Start drawing after rain: intimate view of cottage PATIO beneath jasmine shade, low stone bench recedes at BACK LEFT, teal window at RIGHT, wet stone glints near margins but dry drawing patch central foreground. Clear seated child slot LEFT(35%,93%), unobstructed drawing paper area RIGHT of knees(56%,88%). No paper/pencil/people/stone painted (all separate). Fresh diagonal composition.",
+  "actors": [
+    {
+      "pose": "sit-draw",
+      "x": 350,
+      "ground": 930,
+      "scale": 0.75
+    }
+  ],
+  "extras": [
+    "drawing-paper"
+  ],
+  "refs": [
+    "art-samples/books-16-20-native/after-rain-patio.png",
+    "art-samples/books-16-20-native/red-paper.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Start drawing after rain: intimate view of cottage PATIO beneath jasmine shade, low stone bench recedes at BACK LEFT, teal window at RIGHT, wet stone glints near margins but dry drawing patch central foreground. Clear seated child slot LEFT(35%,93%), unobstructed drawing paper area RIGHT of knees(56%,88%). No paper/pencil/people/stone painted (all separate). Fresh diagonal composition.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-b4f4a31f-1f3d-45e3-adc7-d62356be5cc1.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "bba9b3c99d465b3199c1dc6f121c8dc95a84a498e99a02db751adb1c612de20c"
+}

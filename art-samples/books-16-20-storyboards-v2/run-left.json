@@ -1,0 +1,22 @@
+{
+  "name": "run-left",
+  "ref": "art-samples/my-family-production/child-body.png",
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. Create native pixel-calibrated RUNNING LEFT action for SAME child BODY. Canvas1024x1536, collar stays501225, empty top199px, sweater torso collar-to-hem500px, same anatomical thigh/calf/arm/foot lengths and SOURCE PIXEL DENSITY. Slight forward leaning torso, left leg reaching diagonally forward-left with sneaker near(300,1360), right leg bent behind with sneaker near(800,1160); opposite arms bent naturally for running. Whole body fits canvas, shoes each220px (not giant). Same yellow sweater/ivory pocket on IMAGE RIGHT, sage shorts, cream socks/orange sneakers. Headless neck stump only, no props/floor/shadow/glow, actual alpha. Do not zoom/recenter/enlarge anatomy.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-e4068f16-af4e-4ee0-940a-1b5163836634.png",
+  "nativeSize": [
+    1024,
+    1536
+  ],
+  "bounds": [
+    106,
+    159,
+    947,
+    1415
+  ],
+  "alphaRange": [
+    0,
+    254
+  ],
+  "accepted": false,
+  "sha256": "147e128d1d0363f86012076e71c4c523166cc463b558f79adaed36f7f2df1ee4"
+}

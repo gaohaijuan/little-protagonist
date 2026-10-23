@@ -1,0 +1,39 @@
+{
+  "id": "b20-p06",
+  "book": 20,
+  "page": 6,
+  "brief": "Try a stone: GROUND-LEVEL medium view along patio border, terra-cotta plant pots/back window high in distance, BIG flat dry flagstone foreground. Child crouching slot RIGHT(68%,94%), hands toward paper area LEFT(40%,85%). No paper/pencil/stone/people painted (all added consistently). Clear diagonal reaching action setup, rich painted stone detail, no blank stage.",
+  "actors": [
+    {
+      "pose": "crouch-book",
+      "x": 680,
+      "ground": 940,
+      "scale": 0.8
+    }
+  ],
+  "extras": [
+    "anchored-paper"
+  ],
+  "refs": [
+    "art-samples/books-16-20-native/after-rain-patio.png",
+    "art-samples/books-16-20-native/red-paper.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Try a stone: GROUND-LEVEL medium view along patio border, terra-cotta plant pots/back window high in distance, BIG flat dry flagstone foreground. Child crouching slot RIGHT(68%,94%), hands toward paper area LEFT(40%,85%). No paper/pencil/stone/people painted (all added consistently). Clear diagonal reaching action setup, rich painted stone detail, no blank stage.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-09534669-6c3c-4636-8506-fb5fd345def6.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "4451d402e135d8010a1b5016b707e53d97277c8dd9ee4bc4e8347eb8b077b14b"
+}

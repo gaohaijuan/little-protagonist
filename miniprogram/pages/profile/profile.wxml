@@ -1,0 +1,35 @@
+<view class="profile-page">
+  <view wx:if="{{!editingPhoto}}">
+    <text class="page-title">故事里的小主角</text>
+    <text class="subtitle">每个故事，都有你。</text>
+    <view class="hero-preview"><story-art book="intro" page="0" avatar-path="{{draftAvatarPath}}" /></view>
+    <view class="photo-actions">
+      <button class="secondary" bindtap="choosePhoto" disabled="{{saving}}">{{draftAvatarPath ? '更换照片' : '选择孩子照片'}}</button>
+      <button wx:if="{{draftAvatarPath}}" class="text-button" bindtap="removePhoto" disabled="{{saving}}">使用示意头像</button>
+    </view>
+    <text class="hint">选一张正面照片，调整后就能变成绘本里的大头娃娃。</text>
+    <view class="field">
+      <label for="hero-name">主角名字</label>
+      <input id="hero-name" value="{{name}}" maxlength="32" bindinput="onName" placeholder="给小主角一个名字" disabled="{{saving}}" />
+      <text class="hint">1–8 个字，封面和正文会一起更新。</text>
+    </view>
+    <view class="field-row">
+      <view class="field"><text>年龄</text><picker range="{{ageOptions}}" value="{{ageIndex}}" bindchange="onAge" disabled="{{saving}}"><view class="picker-value">{{ageOptions[ageIndex]}} 岁 <text>⌄</text></view></picker></view>
+      <view class="field"><text>班级</text><picker range="{{classOptions}}" value="{{classIndex}}" bindchange="onClass" disabled="{{saving}}"><view class="picker-value">{{classOptions[classIndex]}} <text>⌄</text></view></picker></view>
+    </view>
+    <text wx:if="{{error}}" class="error" role="alert">{{error}}</text>
+    <button class="primary save-button" bindtap="save" loading="{{saving}}" disabled="{{saving}}">{{saving ? '正在保存' : '保存我的小主角'}}</button>
+    <text class="privacy-note">照片和名字保存在本机，不会上传。</text>
+  </view>
+  <view wx:else class="photo-editor">
+    <text class="page-title">把小脸放在中间</text>
+    <text class="subtitle">拖动照片或使用滑块调整。</text>
+    <view class="crop-wrap"><canvas type="2d" id="crop-canvas" class="crop-canvas" bindtouchstart="startDrag" catchtouchmove="moveDrag" bindtouchend="endDrag" bindtouchcancel="endDrag" /></view>
+    <view class="crop-control"><text>照片大小</text><slider min="100" max="300" value="{{zoomPercent}}" bindchanging="changeZoom" bindchange="changeZoom" activeColor="#426950" /></view>
+    <view class="crop-control"><text>左右位置</text><slider min="0" max="100" value="{{panX}}" bindchanging="changeX" bindchange="changeX" activeColor="#426950" /></view>
+    <view class="crop-control"><text>上下位置</text><slider min="0" max="100" value="{{panY}}" bindchanging="changeY" bindchange="changeY" activeColor="#426950" /></view>
+    <text wx:if="{{error}}" class="error">{{error}}</text>
+    <view class="editor-actions"><button class="secondary" bindtap="cancelCrop" disabled="{{applyingPhoto}}">取消</button><button class="primary" bindtap="applyCrop" loading="{{applyingPhoto}}" disabled="{{!photoReady || applyingPhoto}}">用这张头像</button></view>
+  </view>
+  <canvas type="2d" id="export-canvas" class="export-canvas" />
+</view>

@@ -1,0 +1,38 @@
+{
+  "id": "b18-p06",
+  "book": 18,
+  "page": 6,
+  "brief": "FEET DETAIL scene plate: warm floor at ground level, adult brown loafers left BACK(24%,57%) and empty unobstructed honey wood FOREGROUND RIGHT for a child's bare feet to be composited. Camera is close to floor; wood grain, soft rug edge and low skirting only, NO humans/feet/legs. Brown shoes are farther behind foreground feet slot, natural perspective. New close drawing, no head/face.",
+  "actors": [
+    {
+      "pose": "barefoot-stand",
+      "x": 620,
+      "ground": 950,
+      "scale": 1.75,
+      "detail": true
+    }
+  ],
+  "extras": [],
+  "refs": [
+    "preview/art/sequence/books-11-15/playroom-clear.png",
+    "art-samples/books-16-20-native/adult-shoes.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. FEET DETAIL scene plate: warm floor at ground level, adult brown loafers left BACK(24%,57%) and empty unobstructed honey wood FOREGROUND RIGHT for a child's bare feet to be composited. Camera is close to floor; wood grain, soft rug edge and low skirting only, NO humans/feet/legs. Brown shoes are farther behind foreground feet slot, natural perspective. New close drawing, no head/face.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-b6fd9bd9-2ab7-4b04-a65b-b8c7acde9f56.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "95168c25e3c3f473dab1674bbe3796c1d02de2ab2eea49b2877c33b4886ad3d6"
+}

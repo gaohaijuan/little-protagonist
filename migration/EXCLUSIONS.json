@@ -1,0 +1,49 @@
+{
+  "scope": "Only the verified source project root; no system/user-profile directories included",
+  "categories": {
+    "git metadata and history (source untouched)": {
+      "files": 2132,
+      "bytes": 2232397399
+    },
+    "local databases, photos, private test data, dependency caches": {
+      "files": 5705,
+      "bytes": 1940977348
+    },
+    "art QA renders; original assets retained": {
+      "files": 25,
+      "bytes": 15805843
+    },
+    "runtime data and logs": {
+      "files": 2,
+      "bytes": 161
+    },
+    "rebuildable book renders, archives, audit outputs and screenshots": {
+      "files": 651,
+      "bytes": 1734807874
+    },
+    "personalized PDFs, print packages and generated layout outputs": {
+      "files": 187,
+      "bytes": 670247132
+    },
+    "rebuildable distribution outputs": {
+      "files": 65,
+      "bytes": 82997194
+    },
+    "rebuildable generated preview HTML": {
+      "files": 2,
+      "bytes": 796505
+    },
+    "test screenshots and QA outputs, possibly personalized": {
+      "files": 371,
+      "bytes": 129516901
+    },
+    "temporary rendered/print outputs": {
+      "files": 103,
+      "bytes": 60985265
+    }
+  },
+  "sensitive_material": "Local admin database, face fixtures, browser data, personalized PDF/print outputs remain only in original source. Their contents were not copied. A broad API-key scan also flagged excluded output/pdf/layout-study/layout-study.html; value not displayed, validity not checked, excluded in full.",
+  "historical_git": "Git metadata/history excluded to avoid historical secrets and to prevent altering source repositories",
+  "no_sensitive_transfer": "No private data transfer attempted; ask separately if any private records must migrate",
+  "retained_output_exception": "output/illustration-samples/rain-v1 contains authored concept prototype and original generated layers using illustrated default heads. output/text retains editing scripts and historical manuscript JSON only. Other bulk outputs are excluded."
+}

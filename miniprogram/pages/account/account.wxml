@@ -1,0 +1,82 @@
+<view class="account-page">
+  <view class="account-eyebrow">小小主角 · 家长中心</view>
+  <view class="account-title">陪伴，从一个故事开始。</view>
+  <view class="account-card">
+    <view class="account-avatar" aria-hidden="true">阅</view>
+    <view class="account-name">{{auth.user ? '你好，' + auth.user.displayName : auth.status === 'loading' ? '正在恢复登录…' : '欢迎来到小小主角'}}</view>
+    <view class="account-description">{{auth.user ? '家长账号 · ' + accountNumber : '登录家长账号，开启你和孩子的阅读时光。'}}</view>
+    <button wx:if="{{!auth.user}}" class="primary-button" bindtap="login" disabled="{{auth.status === 'loading' || busy}}">微信登录</button>
+    <view wx:else class="signed-in">已登录 · 本机资料</view>
+    <view wx:if="{{auth.error}}" class="error" role="alert">{{auth.error}}</view>
+    <button wx:if="{{auth.status === 'offline'}}" class="text-button" bindtap="retry">重新连接</button>
+  </view>
+  <view wx:if="{{auth.user && !auth.user.onboardingCompleted}}" class="guide-card">
+    <view class="guide-title">第一次见面，先认识一下</view><text class="local-note">家长称呼和孩子名字分开设置。照片可稍后添加，阅读不受影响。</text>
+    <button class="account-row" bindtap="editNickname" disabled="{{busy}}"><view>1. 设置家长称呼<text>{{auth.user.nickname || '也可以继续使用“家长”'}}</text></view><text>›</text></button>
+    <button class="account-row" bindtap="editProfile" disabled="{{busy}}"><view>2. 设置故事里的小主角<text>{{hasChild ? '本机资料已保存' : '填写孩子名字、年龄和班级'}}</text></view><text>›</text></button>
+    <button class="primary-button" bindtap="finishOnboarding" disabled="{{busy}}">{{hasChild ? '完成引导，去书架' : '去设置小主角'}}</button><button class="text-button" bindtap="goHome" disabled="{{busy}}">稍后设置，先读故事</button>
+  </view>
+  <view wx:if="{{auth.user}}" class="section-label">家长资料</view>
+  <button wx:if="{{auth.user}}" class="account-row" bindtap="editNickname" disabled="{{busy}}"><view>家长称呼<text>{{auth.user.displayName}} · 不会替换孩子的名字</text></view><text>›</text></button>
+  <view wx:if="{{editingNickname}}" class="edit-card"><label for="account-nickname">家长称呼（1至16个字）</label><input id="account-nickname" maxlength="64" value="{{nicknameDraft}}" bindinput="changeNickname" disabled="{{busy}}" placeholder="例如：豆豆妈妈" /><button class="primary-button" bindtap="saveNickname" disabled="{{busy}}" loading="{{busy}}">保存称呼</button><button class="text-button" bindtap="cancelNickname" disabled="{{busy}}">取消修改</button></view>
+  <view class="section-label">孩子与阅读</view>
+  <view class="guide-card child-card" aria-label="本机孩子资料">
+    <view class="guide-title">故事里的小主角</view>
+    <view wx:if="{{childError}}" class="error" role="alert">{{childError}}</view>
+    <button wx:if="{{childError}}" class="text-button" bindtap="refresh" disabled="{{busy}}">重新读取孩子资料</button>
+    <view wx:elif="{{childProfile}}" class="child-details">
+      <image wx:if="{{childProfile.avatarPath && !childAvatarError}}" class="child-photo" src="{{childProfile.avatarPath}}" mode="aspectFit" aria-label="已保存的孩子头像" binderror="childAvatarFailed" data-path="{{childProfile.avatarPath}}" />
+      <view wx:else class="child-placeholder" aria-hidden="true">阅</view>
+      <view class="child-copy"><view class="child-name">{{childProfile.name}}</view><view>{{childProfile.age}} 岁 · {{childProfile.className}}</view><view>{{childAvatarError ? '头像暂时无法显示，请在小主角设置中重新选择照片' : childProfile.avatarPath ? '已保存头像' : '使用默认卡通形象，照片可稍后添加'}}</view></view>
+    </view>
+    <view wx:else class="local-note">尚未保存孩子资料。填写名字后，故事里的主角就会使用孩子的名字。</view>
+    <view class="local-note">{{auth.user ? '当前家长账号的本机资料' : '本机游客资料'}} · 仅在当前设备保存</view>
+  </view>
+  <button class="account-row" bindtap="editProfile" disabled="{{busy || auth.status === 'loading'}}"><view>我的小主角<text>设置姓名和故事里的形象</text></view><text>›</text></button>
+  <button class="account-row" bindtap="goHome" disabled="{{busy}}"><view>我的书架<text>打开故事，和孩子一起读</text></view><text>›</text></button>
+  <view class="guide-card reading-card" aria-label="本机阅读记录">
+    <view class="guide-title">阅读足迹</view>
+    <view class="reading-stats">读过 {{readingCount}} 本 · 已读完 {{completedCount}} 本</view>
+    <view wx:if="{{readingError}}" class="error" role="alert">{{readingError}}</view>
+    <button wx:if="{{readingError}}" class="text-button" bindtap="refreshReading">重新读取记录</button>
+    <view wx:elif="{{!readingRecords.length}}" class="local-note">还没有阅读记录，打开一本故事就开始记录。</view>
+    <button wx:for="{{readingRecords}}" wx:key="bookId" class="account-row" bindtap="continueReading" data-book="{{item.bookId}}" disabled="{{busy || auth.status === 'loading' || auth.status === 'closing'}}"><view>{{item.title}}<text>{{item.finished ? '已读完 · 再读一遍' : item.progress + ' · 继续阅读'}}</text></view><text>›</text></button>
+    <view class="local-note">只记录翻页进度和是否读完，不代表孩子已经掌握本书汉字。记录仅在本机保存。</view>
+  </view>
+  <button wx:if="{{auth.user && hasGuest}}" class="account-row" bindtap="importGuest" disabled="{{busy || auth.status !== 'authenticated'}}"><view>导入本机游客资料<text>确认后复制已有小主角，游客原资料保留</text></view><text>›</text></button>
+  <view wx:if="{{guestError}}" class="error" role="alert">{{guestError}}</view><button wx:if="{{guestError}}" class="text-button" bindtap="refresh" disabled="{{busy}}">重新读取游客资料</button>
+  <view class="local-note">孩子资料和照片仅在本机保存，暂不跨设备同步。家长账号与孩子形象分开管理。</view>
+  <view class="section-label">服务与隐私</view>
+  <button class="account-row" bindtap="openLegal" data-type="terms"><view>用户服务说明</view><text>›</text></button>
+  <button class="account-row" bindtap="openLegal" data-type="privacy"><view>隐私说明</view><text>›</text></button>
+  <view class="section-label">资料与账号管理</view>
+  <button class="account-row" bindtap="openBackup" data-action="export" disabled="{{busy || auth.status === 'loading' || auth.status === 'closing'}}"><view>导出本机备份<text>保存当前小主角、头像和阅读记录</text></view><text>›</text></button>
+  <button class="account-row" bindtap="openBackup" data-action="restore" disabled="{{busy || auth.status === 'loading' || auth.status === 'closing'}}"><view>从备份恢复<text>选择本程序微信版导出的JSON文件</text></view><text>›</text></button>
+  <view wx:if="{{backupMode}}" class="guide-card backup-card">
+    <view class="guide-title">{{backupMode === 'export' ? '导出本机备份' : '从备份恢复'}}</view>
+    <view wx:if="{{backupMode === 'export'}}" class="local-note">备份包含当前小主角的姓名、年龄、班级、照片和阅读记录，不含家长账号、登录凭证或订单。文件未加密，请妥善保管。确认后由你选择微信接收人（可选文件传输助手），不会自动发送给任何人或上传到本项目服务器。</view>
+    <button wx:if="{{backupMode === 'export'}}" class="primary-button" bindtap="exportBackup" disabled="{{busy}}">确认导出备份文件</button>
+    <view wx:if="{{backupMode === 'choose'}}" class="local-note">请选择微信版导出的备份，浏览器试用版文件需在浏览器中恢复。选择文件只会读取预览，确认前不会覆盖本机资料。</view>
+    <button wx:if="{{backupMode === 'choose'}}" class="primary-button" bindtap="chooseBackup" disabled="{{busy}}">选择JSON备份文件</button>
+    <view wx:if="{{backupMode === 'restore'}}">
+      <view class="local-note">备份小主角：{{backupSummary.name}} · {{backupSummary.age}}岁 · {{backupSummary.className}}；{{backupSummary.hasPhoto ? '含已保存照片' : '默认形象'}}；{{backupSummary.readingCount}}本阅读记录。</view>
+      <view class="local-note">{{backupSummary.targetName ? '将替换当前“' + backupSummary.targetName + '”的孩子资料、头像和阅读记录。' : '将恢复到当前本机资料空间。'}}不会修改家长账号、{{auth.user ? '其他账号与游客原资料' : '其他账号资料'}}或订单。请先备份需要保留的旧资料。</view>
+      <view wx:if="{{backupPartial}}" class="error">孩子资料已恢复；阅读记录尚未恢复，可重试。关闭此面板不会撤销已恢复的孩子资料。</view>
+      <label for="backup-word">请输入“恢复”确认</label><input id="backup-word" value="{{backupWord}}" bindinput="changeBackupWord" disabled="{{busy}}" />
+      <button class="primary-button" bindtap="restoreBackup" disabled="{{busy || backupWord !== '恢复'}}">{{backupPartial ? '重试恢复阅读记录' : '确认替换并恢复'}}</button>
+    </view>
+    <button class="text-button" bindtap="cancelBackup" disabled="{{busy}}">{{backupPartial ? '关闭' : '取消，保留现有资料'}}</button>
+  </view>
+  <button class="account-row" bindtap="requestDanger" data-action="delete-child" disabled="{{busy}}"><view>删除本机孩子资料<text>{{auth.user ? '仅当前账号在本机的小主角' : '仅本机游客的小主角'}}，不影响其他账号</text></view><text>›</text></button>
+  <button wx:if="{{auth.user}}" class="account-row" bindtap="requestDanger" data-action="close-account" disabled="{{busy}}"><view>注销阅读账号<text>清除云端称呼、引导资料及本机该账号孩子资料</text></view><text>›</text></button>
+  <view wx:if="{{dangerAction}}" class="danger-card">
+    <view class="guide-title">{{dangerAction === 'close-account' ? '确认注销阅读账号' : '确认删除本机孩子资料'}}</view>
+    <view class="local-note">{{dangerAction === 'close-account' ? '注销后阅读账号的云端会话失效，当前设备该账号的孩子姓名、年龄、班级、头像和阅读记录会被清除。重新注册不会恢复这些资料。' : '将清除当前资料空间内的孩子姓名、年龄、班级、保存的头像及本机阅读记录，无法撤销；家长账号和其他账号的本机资料保留。'}}</view>
+    <view class="local-note">其他设备资料、已下载文件、已提交运营方的打印文件及订单不在本次删除范围；如需处理，请联系运营方。</view>
+    <label for="account-danger-input">请输入“{{dangerAction === 'close-account' ? '注销' : '删除'}}”确认</label><input id="account-danger-input" value="{{dangerInput}}" bindinput="changeDangerInput" disabled="{{busy}}" />
+    <button class="danger-button" bindtap="confirmDanger" disabled="{{busy || dangerInput !== (dangerAction === 'close-account' ? '注销' : '删除')}}" loading="{{busy}}">{{dangerAction === 'close-account' ? '确认注销阅读账号' : '确认删除本机资料'}}</button><button class="text-button" bindtap="cancelDanger" disabled="{{busy}}">取消，保留资料</button>
+  </view>
+  <button wx:if="{{cleanupPending}}" class="secondary-button" bindtap="retryCleanup" disabled="{{busy}}">重试清理本机资料</button>
+  <button wx:if="{{auth.user || auth.status === 'offline'}}" class="secondary-button logout-button" bindtap="logout" disabled="{{busy}}" loading="{{busy}}">{{auth.status === 'offline' ? '清除本机登录状态' : '退出登录'}}</button>
+  <view class="error" role="alert">{{error}}</view><view class="local-note" role="status">{{notice}}</view>
+</view>

@@ -1,0 +1,39 @@
+{
+  "id": "b18-p07",
+  "book": 18,
+  "page": 7,
+  "brief": "Own shoes and school bag: view beside low HALL BENCH at LEFT, small coat rail with hanging sun hat, open teal door at RIGHT spilling sunlight; textured timber floor. Clear child slot centered(51%,94%) wearing own shoes via separate actor; no bag/people/shoes painted. Bench and basket frame the action, different composition from wardrobe/window. Child will hold small sage schoolbag.",
+  "actors": [
+    {
+      "pose": "carry-play",
+      "x": 510,
+      "ground": 940,
+      "scale": 0.7
+    }
+  ],
+  "extras": [
+    "held-bag"
+  ],
+  "refs": [
+    "preview/art/sequence/books-11-15/playroom-clear.png",
+    "art-samples/books-16-20-native/adult-shoes.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Own shoes and school bag: view beside low HALL BENCH at LEFT, small coat rail with hanging sun hat, open teal door at RIGHT spilling sunlight; textured timber floor. Clear child slot centered(51%,94%) wearing own shoes via separate actor; no bag/people/shoes painted. Bench and basket frame the action, different composition from wardrobe/window. Child will hold small sage schoolbag.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-82dc541b-5714-47b2-95de-7019f700e7b2.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "be10bf3d0e04ba10dc066fe4a13b8e91e4b8173885dde76a9ca7e986874785b5"
+}

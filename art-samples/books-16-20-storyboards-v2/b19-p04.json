@@ -1,0 +1,39 @@
+{
+  "id": "b19-p04",
+  "book": 19,
+  "page": 4,
+  "brief": "Surprise wet foot DETAIL plate: LOW ANGLE across flagstones toward LOW WOOD STOOL at RIGHT; terracotta pot cropped at top but its drain area remains visible. Thin NATURAL trickle drips from lower pot hole past left stool edge to small shallow puddle flowing toward EMPTY FOREGROUND LEFT foot slot. No people/feet/legs/can. Real watery droplets/highlights, no blue pipe or schematic lines. Flower shadow across paving, warm garden texture.",
+  "actors": [
+    {
+      "pose": "barefoot-stand",
+      "x": 400,
+      "ground": 950,
+      "scale": 1.7,
+      "detail": true
+    }
+  ],
+  "extras": [],
+  "refs": [
+    "art-samples/books-16-20-native/garden-nook.png",
+    "art-samples/books-16-20-native/plant-stool.png",
+    "art-samples/books-16-20-native/watering-can.png"
+  ],
+  "prompt": "Use case: illustration-story production art. Keep approved warm Chinese preschool picture-book art direction exactly: richly hand-painted watercolor/gouache layered paper-collage brush detail, honey yellow, muted sage, terracotta, ivory, coherent natural daylight, soft material texture, appealing authentic small details. Highest available native resolution. NO writing/letters/numbers/logo/watermark, no 3D/plastic, no comic borders. A NEW full-bleed SQUARE 1:1 painted scene, not a crop, zoom, or local edit of reference. Image1 is only the environment/style reference; following images only lock recurring prop/animal designs. Compose the WHOLE scene freshly for this storyboard. NO HUMAN or human body parts anywhere; reserve the specified child area as ordinary painted floor, not blank white or silhouette. Exactly one animal if this scene calls for one; no duplicates. Surprise wet foot DETAIL plate: LOW ANGLE across flagstones toward LOW WOOD STOOL at RIGHT; terracotta pot cropped at top but its drain area remains visible. Thin NATURAL trickle drips from lower pot hole past left stool edge to small shallow puddle flowing toward EMPTY FOREGROUND LEFT foot slot. No people/feet/legs/can. Real watery droplets/highlights, no blue pipe or schematic lines. Flower shadow across paving, warm garden texture.",
+  "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a133e7-b04a-7692-a3e6-fc3bb9d81f7c\\exec-c7b6bea9-077d-46e0-9a47-7bc1bbbeed78.png",
+  "nativeSize": [
+    1254,
+    1254
+  ],
+  "bounds": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "alphaRange": [
+    255,
+    255
+  ],
+  "accepted": true,
+  "sha256": "50ebc2a2cd6300b1f1a259628bc8992bbcb77435576128acf0130f6ca7599f54"
+}

@@ -1,0 +1,17 @@
+.login-page { max-width: 860rpx; margin: auto; padding: 52rpx 46rpx calc(40rpx + env(safe-area-inset-bottom)); }
+.login-mark { width: 108rpx; height: 108rpx; border-radius: 32rpx 32rpx 32rpx 8rpx; display: flex; align-items: center; justify-content: center; background: #e9eddf; color: #426751; font-size: 54rpx; margin-bottom: 36rpx; }
+.eyebrow { color: #7c8875; letter-spacing: 4rpx; font-size: 22rpx; }
+.login-title { margin-top: 24rpx; font-size: 58rpx; line-height: 1.5; font-weight: 600; }
+.login-note { font-size: 25rpx; line-height: 1.8; color: #7a8573; margin-top: 22rpx; }
+.login-benefits { margin: 44rpx 0; padding: 25rpx; background: #f3f0e6; border-radius: 26rpx; font-size: 24rpx; line-height: 2.5; }
+.login-benefits text { color: #8c987c; font-size: 21rpx; margin-right: 15rpx; }
+.login-button { width: 100%; }
+.setup-note { color: #796a4e; font-size: 23rpx; line-height: 1.8; margin-bottom: 20rpx; }
+.consent-row { margin: 25rpx 0 0; font-size: 22rpx; color: #7f897a; }
+.consent-choice { display: flex; align-items: center; }
+.consent-choice checkbox { transform: scale(.75); transform-origin: left center; width: 50rpx; }
+.consent-links { display: flex; flex-wrap: wrap; margin-left: 50rpx; }
+.consent-links button { background: transparent; color: #426751; font-size: 22rpx; margin: 0; padding: 8rpx 0; line-height: 1.6; }
+.error { color: #a24b39; font-size: 24rpx; line-height: 1.8; min-height: 44rpx; margin-top: 14rpx; }
+.browse-button { background: transparent; color: #426751; font-size: 26rpx; padding: 16rpx; }
+.parent-note { display: block; text-align: center; color: #949b8a; font-size: 21rpx; line-height: 1.8; margin-top: 25rpx; }
