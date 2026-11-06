@@ -5,7 +5,7 @@
 | 编号 | 任务 | 状态 | 负责 | 证据 |
 | --- | --- | --- | --- | --- |
 | T000 | 确认 `docs/WORKFLOW.md` 开发流程与 `docs/ART-STYLE.md` 画风锁定 | 完成 | 用户 | 2026-11-06 用户确认 |
-| T001 | 试派发：验证 Windows Codex 能通过 Orca 接收任务、访问本仓库并回报（只读，跑 `npm run check`、`npm test`） | 阻塞 | Claude→Codex | 2026-11-06 首次派发失败：Orca 仅有本机 Linux 主机（workstation-252），其 Codex 未登录（停在登录选择页）；未连接 Windows 主机 |
+| T001 | 试派发：验证 Windows Codex 能通过 Orca 接收任务、访问本仓库并回报（只读，跑 `npm run check`、`npm test`） | 完成 | Claude→Codex | 2026-11-06 Windows Codex 回报：Windows 原生、Node v24.16.0、HEAD 48cbd74；`npm run check` 通过；`npm test` 407 项 406 通过、1 失败（已知 `layered-art.test.cjs:36`）；具备 `image_gen.imagegen`；Playwright 1.62.1 + 系统 Chrome 可用 |
 | T002 | 修复 `tests/layered-art.test.cjs:36` 的 `Invalid pose body` 回归（10月28日起持续失败），完整回归通过 | 待派发 | Codex | — |
 | T003 | 同步 `docs/browser-trial.md` 中过时的117/118页、401项通过等记录，使之与当前132页版本一致 | 待派发 | Codex | — |
 
