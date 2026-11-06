@@ -1,0 +1,75 @@
+{
+  "method": "Built-in imagegen only; no image API or CLI",
+  "date": "2026-10-27",
+  "scope": "Only four missing assets; existing child action library and father standing composite reused.",
+  "jobs": [
+    {
+      "key": "morning-dad-bed",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-08a34054-850d-4850-81a6-e5785439624a.png",
+      "transparent": true,
+      "prompt": "Use case: illustration-story isolated layered scene prop. References: image1 shows the established warm gouache/oak/sage bed materials; image2 shows the SAME illustrated father identity, short side-parted dark hair, adult slim build. Produce a SQUARE image on TRUE TRANSPARENT BACKGROUND: one complete low oak adult bed seen at gentle 3/4 angle, headboard at back RIGHT, footboard toward front LEFT. On it the same father is sleeping on his SIDE FACING AWAY from viewer: only the BACK of his short dark hair above an ivory pillow is visible, his face is fully turned away and not drawn. Shoulders and entire adult body comfortably UNDER a sage green quilt with cream reverse up to shoulder, no exposed limbs or feet. A subtle adult body outline under quilt, natural sleeping pose, no eyes/nose/mouth visible. Match the established bed illustration's warm textured watercolor/gouache paper-cut tactile finish, believable adult proportions, soft morning light from upper left. Include the entire bed frame, mattress, pillow and father-with-quilt as one transparent isolated layer, tightly but safely framed with clear margins, no room, floor, shadows outside silhouette, child, other characters, text, captions, borders or watermark. This layer will be cached and placed whole, not modified per page.",
+      "refs": [
+        "preview/art/sequence/book-20/sleep-bedroom.png",
+        "../output/level1-complete-15-20261027/qa/a5-017.png"
+      ],
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-first-three-native\\morning-dad-bed.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-first-three\\morning-dad-bed.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "65e1b59931adfa797b9e8102fc459e2bf5b357a72c166f961590f671468efa43"
+    },
+    {
+      "key": "morning-child-room",
+      "prompt": "Use case: lighting-weather illustration edit. This is the SAME child's cozy cottage bedroom as the reference. Change ONLY evening to EARLY MORNING: clear pale blue morning sky and sunlit green leaves outside the closed teal window, gentle sunlight from left on honey oak floor, bedside lamp OFF. Preserve bed on RIGHT, ivory patterned pillow, sage-green quilt, oak shelves on LEFT, cream plaster, plants, botanical pictures and the same rich hand-painted gouache/watercolor paper texture. No people, heads, bodies, animals, toys, slippers or lettering: the complete child will be placed separately in the clear LEFT foreground. Keep the entire square room composition, all four edges filled by scenery, no border; highest native detail, square 1:1.",
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/book-20/sleep-bedroom.png"
+      ],
+      "transparent": false,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-e48ae965-6315-42dc-9782-87ec531f2ee1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-e48ae965-6315-42dc-9782-87ec531f2ee1.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-first-three-native\\morning-child-room.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-first-three\\morning-child-room.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "711307fefd5ade942c7e21ed5c4b3e5994530daeefcb7712b8929f65fa8f1310"
+    },
+    {
+      "key": "morning-parent-room",
+      "prompt": "Use case: illustration-story complete background plate for the same Chinese preschool picture-book. Reference is style/material continuity only. NEW camera at the doorway of the PARENT'S bedroom in the same cottage on a clear early morning. Cream textured plaster, closed teal window high at BACK LEFT with blue sky and green leaves, small oak wardrobe and botanical print at BACK RIGHT. Bright gentle sun from upper left. Broad continuous honey oak floor across lower two thirds. Reserve completely EMPTY space RIGHT (x35–98%, y25–95%) for a separate full adult bed layer, and LEFT foreground x20%,y95% for a separate standing child. DO NOT draw any bed, mattress, quilt, pillow, people, body parts, heads, animals, toys, shoes or text; only the fully furnished surrounding room and clear floor. Room perspective eye level about a child's head, floor recedes naturally to the back wall at y40%. Rich hand-painted gouache/watercolor paper texture matching reference, no photorealism, full SQUARE 1:1 canvas with no border, highest native detail.",
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/book-20/sleep-bedroom.png"
+      ],
+      "transparent": false,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-a39338c9-75cf-488f-a7df-3f7ce58a2d6a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-a39338c9-75cf-488f-a7df-3f7ce58a2d6a.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-first-three-native\\morning-parent-room.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-first-three\\morning-parent-room.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "4cc5863c3dd65a343a04efebd00a6c98c86cd5be487b59206bf18eb315924a8d"
+    },
+    {
+      "key": "morning-outside",
+      "prompt": "Use case: illustration-story complete NEW ending background plate, same warm cottage and watercolor/gouache layered-paper picture-book style as reference. NEW camera OUTSIDE the familiar cream stone cottage, looking toward its OPEN muted TEAL front door on the BACK RIGHT. The same small oak shoe bench and woven basket can be glimpsed inside. Gentle early morning sun from LEFT, blue sky, green climbing vines and tiny cream flowers frame upper edges, a few terracotta pots against house wall, no new story props. Broad level pale flagstone path fills lower TWO THIRDS, exits toward LEFT foreground. Leave clear, flat, unobstructed walking space for two separately composited figures: preschool child at x32%, ground92%, adult father at x66%,ground92%, adult head clearance y15%. Door threshold is flush with path, no tall steps. DO NOT paint any people, heads, body parts, animals, shoes, toys, text, numbers, borders or watermark. A full SQUARE 1:1 edge-to-edge detailed illustration, native highest detail. Distinct exterior viewpoint, not the previous interior cropped.",
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20-storyboards-v2/b18-p07.png"
+      ],
+      "transparent": false,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-f8d3cd4f-ee5c-4e2c-8a95-6923d4d07b48.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-f8d3cd4f-ee5c-4e2c-8a95-6923d4d07b48.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-first-three-native\\morning-outside.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-first-three\\morning-outside.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "fc20f0053015361d75608af8f3f3dcaf80fab87ae3e362cd71a409e8c58dcc72"
+    }
+  ]
+}

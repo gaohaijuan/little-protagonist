@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-28",
+  "method": "Built-in imagegen; no image API or CLI. Existing faces, bodies, cup, watering can, flower and wagon reused.",
+  "jobs": [
+    {
+      "key": "warm-water-room",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-accd17a0-5073-405a-9edf-76df2f7564d5.png",
+      "accepted": true,
+      "transparent": false,
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-14-16/wagon-side.webp"
+      ],
+      "prompt": "Use case: illustration-story. Asset type: complete square story background for the established personalized Chinese children's picture-book series. Reference image is STYLE and SAME HOME reference, not an edit target. Keep its rich soft watercolor/gouache on textured paper, sunlit cream cottage walls, sage-green open garden window/door, honey wood and cozy child-scale room. New composition for a child waiting for drinking water to cool: low eye level, a small sturdy honey-colored wooden side table at SCREEN RIGHT. The visible tabletop must be clear and EMPTY, top surface at about 70 percent image height, extending from x60 percent to x95 percent; table feet planted on the wood floor near y95 percent. Keep the LEFT and CENTER clear for a separately composited child, with floor visible down to the bottom. Same cream wall and open green window in back, a basket and ONE red toy ball far back beside a shelf to suggest play has just ended. Strong readable geometry, natural perspective. No cup, people, heads, hands, writing, steam, clocks, extra characters or watermark. The cup, child and steam are separate layers added later. Square high-detail A5 print illustration, full composition to all edges. Do not produce a collage or scene sheet.",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-next-three-native\\warm-water-room.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-next-three\\warm-water-room.webp"
+    },
+    {
+      "key": "warm-water-table-close",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-a383ee1c-fde7-48e8-894f-397f304353c1.png",
+      "accepted": true,
+      "transparent": false,
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-14-16/wagon-side.webp"
+      ],
+      "prompt": "Use case: illustration-story. Asset type: complete square first-person tabletop close-up background. Reference image defines the exact established warm watercolor/gouache children's book medium, textured paper, honey wood, cream cottage interior and green window. A child looks down at a low honey-colored wooden table beside the same sunny green open garden window. The tabletop fills the lower 80 percent, with a clearly visible front edge near the bottom. The top 20 percent shows softly receding cream wall, green window frame and tiny garden flowers outside. Keep the tabletop completely EMPTY and legible, suitable for placing one cream cup with sage rim at x60 percent,y60 percent as an independent prop later. Perspective is looking downward at about forty degrees, not a flat diagram. Coherent warm lighting, crisp hand-painted wood grain and edges, no people, hands, cup, steam, food, text, numbers, clock, watermark or collage. Square complete high-detail A5 print illustration.",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-next-three-native\\warm-water-table-close.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-next-three\\warm-water-table-close.webp"
+    },
+    {
+      "key": "flower-leaf-shelter",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-31313196-8e58-459e-9f4c-623aec12aa84.png",
+      "accepted": true,
+      "transparent": false,
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20-storyboards-v2/b19-p03.png"
+      ],
+      "prompt": "Use case: precise-object-edit / illustration-story. Asset type: new complete square close-up scene in the SAME existing courtyard. Reference is the exact flower pot, plant species, orange flower, green-and-yellow watercolor leaves, clay pot, low pale wooden stool and rich warm gouache-paper style to preserve. Change the camera to low plant level looking at the SIDE of the same pot and its lower leaves, so a small caterpillar could shelter under a leaf and climb out later. Show the terracotta pot occupying the lower-right half, a piece of its soil top and rim visible. One broad low leaf extends from the plant stem at upper-right toward middle-left, its tip pointing left around x42 percent,y55 percent; a clear shaded gap UNDER this leaf and above the pot rim is visible around center. The orange flower appears at upper-right, partially cropped naturally. Sunlit cottage garden and stool remain coherent in background. REMOVE watering can and water streams entirely; this frame is after watering has just stopped. Keep a few clear water droplets resting on leaf edges, but no falling water and no flooded soil. No caterpillar, people, fingers, faces, writing or watermark: original green caterpillar will be composited independently, with the same leaf occluding it when hiding. Make the shelter space and leaf silhouette unmistakable, sharp tactile detail suitable for A5 printing. One complete scene, no montage.",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-next-three-native\\flower-leaf-shelter.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-next-three\\flower-leaf-shelter.webp"
+    }
+  ]
+}

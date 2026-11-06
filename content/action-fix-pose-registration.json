@@ -1,0 +1,211 @@
+{
+  "model": "child-v1",
+  "sourcePixelsPerUnit": 1.8375,
+  "headPixelsModified": false,
+  "transforms": {
+    "walk-carry-right": {
+      "id": "walk-carry-right",
+      "collar": [
+        535,
+        170
+      ],
+      "target": [
+        501,
+        225
+      ],
+      "scale": 0.9370517928286852,
+      "canvas": [
+        1280,
+        1536
+      ],
+      "rotation": 0.08,
+      "attachments": {
+        "leftPalm": [
+          675,
+          500
+        ],
+        "rightPalm": [
+          710,
+          500
+        ],
+        "frontSole": [
+          830,
+          1425
+        ],
+        "rearSole": [
+          280,
+          1320
+        ]
+      }
+    },
+    "crouch-reach-right-safe": {
+      "id": "crouch-reach-right",
+      "collar": [
+        660,
+        225
+      ],
+      "target": [
+        720,
+        320
+      ],
+      "scale": 0.9455292908530318,
+      "canvas": [
+        1536,
+        1536
+      ],
+      "rotation": 0.35,
+      "attachments": {
+        "fingertips": [
+          1205,
+          1135
+        ],
+        "rightPalm": [
+          1110,
+          1050
+        ],
+        "leftPalm": [
+          245,
+          650
+        ],
+        "feet": [
+          700,
+          1198
+        ]
+      }
+    },
+    "invite-up-right": {
+      "id": "invite-up-right",
+      "collar": [
+        480,
+        290
+      ],
+      "target": [
+        501,
+        225
+      ],
+      "scale": 1.009442060085837,
+      "canvas": [
+        1280,
+        1536
+      ],
+      "rotation": 0.18,
+      "attachments": {
+        "rightPalm": [
+          950,
+          155
+        ],
+        "leftPalm": [
+          185,
+          725
+        ],
+        "feet": [
+          690,
+          1455
+        ]
+      }
+    }
+  },
+  "poses": [
+    {
+      "id": "walk-carry-right",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/action-fixes/walk-carry-right.webp",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 123,
+        "top": 192,
+        "right": 884,
+        "bottom": 1404
+      },
+      "headRotation": 0.08,
+      "attachments": {
+        "leftPalm": {
+          "x": 632.187,
+          "y": 534.227
+        },
+        "rightPalm": {
+          "x": 664.984,
+          "y": 534.227
+        },
+        "frontSole": {
+          "x": 777.43,
+          "y": 1401.0
+        },
+        "rearSole": {
+          "x": 262.052,
+          "y": 1302.61
+        }
+      }
+    },
+    {
+      "id": "crouch-reach-right",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/action-fixes/crouch-reach-right-safe.webp",
+      "collar": {
+        "x": 720,
+        "y": 320
+      },
+      "bounds": {
+        "left": 152,
+        "top": 250,
+        "right": 1271,
+        "bottom": 1238
+      },
+      "headRotation": 0.35,
+      "attachments": {
+        "fingertips": {
+          "x": 1235.313,
+          "y": 1180.432
+        },
+        "rightPalm": {
+          "x": 1145.488,
+          "y": 1100.062
+        },
+        "leftPalm": {
+          "x": 327.605,
+          "y": 721.85
+        },
+        "feet": {
+          "x": 757.821,
+          "y": 1240.0
+        }
+      }
+    },
+    {
+      "id": "invite-up-right",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/action-fixes/invite-up-right.webp",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 141,
+        "top": 22,
+        "right": 1035,
+        "bottom": 1401
+      },
+      "headRotation": 0.18,
+      "attachments": {
+        "rightPalm": {
+          "x": 975.438,
+          "y": 88.725
+        },
+        "leftPalm": {
+          "x": 203.215,
+          "y": 664.107
+        },
+        "feet": {
+          "x": 712.983,
+          "y": 1401.0
+        }
+      }
+    }
+  ]
+}

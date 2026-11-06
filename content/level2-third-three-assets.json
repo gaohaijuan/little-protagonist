@@ -1,0 +1,47 @@
+{
+  "pretend-cat": {
+    "url": "./art/sequence/level2-third-three/pretend-cat.webp",
+    "size": [
+      1536,
+      2560
+    ],
+    "bounds": [
+      472,
+      950,
+      1107,
+      2271
+    ],
+    "nativePixelsExact": false,
+    "sha256": "9b3ba6e97fd4e56b6b1f2e4b231b405e8f43fa59aeef6d2984ce3eb17b56db65"
+  },
+  "dad-seated-back": {
+    "url": "./art/sequence/level2-third-three/dad-seated-back.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "bounds": [
+      103,
+      88,
+      956,
+      1482
+    ],
+    "nativePixelsExact": true,
+    "sha256": "6be0dc72db7314eb99f9b6f36c329f2d6b5198307903118319336fd95948fb13"
+  },
+  "pretend-bunny": {
+    "url": "./art/sequence/level2-third-three/pretend-bunny.webp",
+    "size": [
+      1536,
+      2560
+    ],
+    "bounds": [
+      331,
+      587,
+      1197,
+      2276
+    ],
+    "nativePixelsExact": false,
+    "sha256": "f804cc289993dcc0d95323d86b0bfc10f27f9d0357aba3f595e55b1e36e41997"
+  }
+}

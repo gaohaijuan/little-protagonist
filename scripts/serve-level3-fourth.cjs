@@ -1,0 +1,3 @@
+'use strict';
+const http=require('http'),fs=require('fs'),path=require('path'),root=path.resolve(__dirname,'../preview');
+http.createServer((req,res)=>{let p=decodeURIComponent(new URL(req.url,'http://localhost').pathname);if(p==='/')p='/level3-fourth.html';const f=path.resolve(root,'.'+p);if(!f.startsWith(root+path.sep)||!fs.existsSync(f)||!fs.statSync(f).isFile()){res.writeHead(404);res.end();return}res.setHeader('Content-Type',({'.html':'text/html; charset=utf-8','.js':'text/javascript','.png':'image/png','.webp':'image/webp','.ttf':'font/ttf'})[path.extname(f)]||'application/octet-stream');res.setHeader('Cache-Control','no-store');fs.createReadStream(f).pipe(res)}).listen(4177,'127.0.0.1',()=>console.log('http://127.0.0.1:4177/'));

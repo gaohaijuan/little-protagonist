@@ -1,0 +1,151 @@
+{
+  "counter-detail": {
+    "url": "./art/sequence/level3-fourth-book/counter-detail.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ]
+  },
+  "garden-chase": {
+    "url": "./art/sequence/level3-fourth-book/garden-chase.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ]
+  },
+  "garden-tree": {
+    "url": "./art/sequence/level3-fourth-book/garden-tree.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ]
+  },
+  "garden-wide": {
+    "url": "./art/sequence/level3-fourth-book/garden-wide.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ]
+  },
+  "leaf": {
+    "url": "./art/sequence/level3-fourth-book/leaf.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      198,
+      52,
+      1353,
+      986
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ]
+  },
+  "mother-apple": {
+    "url": "./art/sequence/level3-fourth-book/mother-apple.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "bounds": [
+      92,
+      11,
+      831,
+      1531
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ]
+  },
+  "shop-counter-sold": {
+    "url": "./art/sequence/level3-fourth-book/shop-counter-sold.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      71,
+      111,
+      1475,
+      985
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ]
+  },
+  "shop-counter": {
+    "url": "./art/sequence/level3-fourth-book/shop-counter.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      71,
+      111,
+      1475,
+      984
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ]
+  },
+  "garden-chase-clean": {
+    "url": "./art/sequence/level3-fourth-book/garden-chase-clean.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ]
+  }
+}

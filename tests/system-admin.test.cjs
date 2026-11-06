@@ -5,7 +5,7 @@ const PDF=Buffer.from('%PDF-1.7\n1 0 obj <</Type/Catalog>> endobj\n%%EOF');
 async function setup(t){
   const directory=fs.mkdtempSync(path.join(os.tmpdir(),'little-story-system-'));let clock=Date.now();const errors=[];
   const app=createApplication({adminPassword:'system-test-password',dataDir:directory,now:()=>clock,quotaBytes:4096,onError:e=>errors.push(e.message)});
-  app.server.listen(20000+crypto.randomInt(40000),'127.0.0.1');await once(app.server,'listening');const base='http://127.0.0.1:'+app.server.address().port;
+  app.server.listen(0,'127.0.0.1');await once(app.server,'listening');const base='http://127.0.0.1:'+app.server.address().port;
   const post=(route,value,headers={})=>fetch(base+route,{method:'POST',headers:{'Content-Type':'application/json',...headers},body:JSON.stringify(value)});
   const login=await post('/api/admin/login',{password:'system-test-password'}),admin={Cookie:login.headers.get('set-cookie').split(';')[0],'X-Admin-CSRF':(await login.json()).csrf},session=app.store.userSession(),auth={Authorization:'Bearer '+session.token};
   async function receipt(){const response=await fetch(base+'/api/prints?book=level-1&title='+encodeURIComponent('第1级合集'),{method:'POST',headers:{...auth,'Content-Type':'application/pdf','X-Print-Consent':'operator-file-v1','Idempotency-Key':crypto.randomUUID()},body:PDF});assert.equal(response.status,201);return(await response.json()).id;}

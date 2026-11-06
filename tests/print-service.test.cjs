@@ -5,8 +5,9 @@ const {listBooks}=require('../miniprogram/lib/stories');
 test('print service lists only actual illustrated content and keeps 10 levels honest',()=>{
   const books=listBooks({name:'豆包',age:4,className:'中班'},undefined,{includeApproved:true});
   const plan=createServicePlan(books,1);
-  assert.equal(plan.storyCount,6);assert.equal(plan.volumeCount,1);assert.equal(plan.sample,true);
-  assert.deepEqual(plan.volumes[0].books,books);assert.equal(plan.volumes[0].firstStory,1);assert.equal(plan.volumes[0].lastStory,6);
+  assert.equal(plan.storyCount,20);assert.equal(plan.volumeCount,2);assert.equal(plan.sample,true);
+  assert.deepEqual(plan.volumes[0].books,books.slice(0,10));assert.equal(plan.volumes[0].firstStory,1);assert.equal(plan.volumes[0].lastStory,10);
+  assert.deepEqual(plan.volumes[1].books,books.slice(10));assert.equal(plan.volumes[1].firstStory,11);assert.equal(plan.volumes[1].lastStory,20);
   for(let level=2;level<=10;level++){const pending=createServicePlan(books,level);assert.equal(pending.available,false);assert.deepEqual(pending.volumes,[]);}
 });
 test('30 stories become three ordered ten-story volumes without duplication or filler',()=>{

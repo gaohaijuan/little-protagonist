@@ -2,7 +2,7 @@
 #little-story-preview .ls-reader-cover-stage .ls-book-cover{width:49.83%;height:100%;margin:auto;aspect-ratio:148/210}
 #little-story-preview .ls-reader-end-stage .ls-learning-end{width:49.83%;height:100%;margin:auto;position:relative}
 </style></head><body><div id="little-story-preview" >
-  <div class="ls-preview-label"><span>小小主角 · 本地开发版</span><span id="ls-mode-label">竖屏 · 选一本故事</span></div>
+  <div class="ls-preview-label"><span>小小主角 · 本地开发版</span><a href="./?view=level1-complete" style="color:inherit">查看第一级别 · 完整15篇审核版</a><a href="./?view=level2-first-twelve" style="color:inherit">查看第二级 · 前十二本校样</a><span id="ls-mode-label">竖屏 · 选一本故事</span></div>
   <div id="ls-device" aria-label="小小主角阅读小程序">
     <div class="ls-system"><span>9:41</span><span class="ls-system-right">▮▮▮ <span aria-hidden="true">⌁</span> ▰</span></div>
     <div id="ls-screen"></div>
@@ -354,5 +354,34 @@
 #little-story-preview .ls-print-volume ol{padding-left:23px;font-size:13px;line-height:2;color:var(--ls-ink)}
 #little-story-preview .ls-print-includes{padding-left:18px;margin:18px 0}
 #little-story-preview .ls-print-rule{border-top:1px solid var(--ls-line);padding-top:12px}
+</style>
+<style>
+/* Screen reading uses the viewport; printed pages keep their own paper layout. */
+@media screen{
+  #little-story-preview.ls-reader-open{height:100vh;height:100dvh;padding:8px 10px;display:flex;flex-direction:column;gap:6px}
+  #little-story-preview.ls-reader-open .ls-preview-label{flex:none;margin:0 auto;width:100%;padding:0;line-height:16px}
+  #little-story-preview.ls-reader-open #ls-device{flex:1;min-height:0;width:100%;max-width:1100px;display:flex;flex-direction:column;padding:6px;transition:none}
+  #little-story-preview.ls-reader-open #ls-screen{flex:1;min-height:0}
+  #little-story-preview.ls-reader-open .ls-home-indicator{flex:none;margin:4px auto 0}
+  #little-story-preview.ls-reader-open .ls-reader{height:100%;display:grid;grid-template-areas:"header" "content" "controls";grid-template-rows:auto minmax(0,1fr) auto}
+  #little-story-preview.ls-reader-open .ls-reader-top{grid-area:header;height:40px;padding:0 10px}
+  #little-story-preview.ls-reader-open .ls-reader.ls-illustrated .ls-reader-content{grid-area:content;min-height:0;width:100%;height:100%;aspect-ratio:auto;container-type:size;display:flex;align-items:center;justify-content:center;background:#eaeade}
+  #little-story-preview.ls-reader-open .ls-reader-controls{grid-area:controls;padding:6px 9px;gap:8px}
+  #little-story-preview.ls-reader-open .ls-flip{min-height:44px}
+  #little-story-preview.ls-reader-open .ls-reading-leaf{position:relative;flex:none;width:min(100cqw,70.4762cqh);height:min(100cqh,141.8919cqw);container-type:inline-size;background:#fbf6e9;overflow:hidden}
+  #little-story-preview.ls-reader-open .ls-leaf-title,#little-story-preview.ls-reader-open .ls-leaf-folio{position:absolute;left:var(--leaf-left);width:var(--leaf-width);text-align:center;font-size:2.1622cqw;line-height:1.4;color:var(--ls-ink)}
+  #little-story-preview.ls-reader-open .ls-leaf-title{top:4.5%}
+  #little-story-preview.ls-reader-open .ls-leaf-folio{bottom:4%;font-size:2.027cqw}
+  #little-story-preview.ls-reader-open .ls-reader .ls-reader-art{position:absolute;inset:var(--leaf-art-top) auto auto var(--leaf-left);width:var(--leaf-width);height:var(--leaf-art-height);border-radius:0;background:#fbf6e9}
+  #little-story-preview.ls-reader-open .ls-reader .ls-page-text{position:absolute;inset:var(--leaf-text-top) auto auto var(--leaf-left);width:var(--leaf-width);height:var(--leaf-text-height);padding:0;align-items:center;text-align:center;font-size:6.0811cqw;line-height:1.55}
+  #little-story-preview.ls-reader-open .ls-reader .ls-page-text p{margin:0}
+  #little-story-preview.ls-reader-open .ls-reader.ls-illustrated .ls-reader-cover-stage,#little-story-preview.ls-reader-open .ls-reader.ls-illustrated .ls-reader-end-stage{display:flex;align-items:center;justify-content:center}
+  #little-story-preview.ls-reader-open .ls-reader-cover-stage .ls-book-cover,#little-story-preview.ls-reader-open .ls-reader-end-stage .ls-learning-end{flex:none;width:min(100cqw,70.4762cqh);height:min(100cqh,141.8919cqw);margin:auto;position:relative;inset:auto;container-type:inline-size}
+  #little-story-preview.ls-reader-open .ls-book-cover[data-cover-variant="reader"] .ls-cover-copy{gap:3px;padding:5px 8px 0}
+  #little-story-preview.ls-reader-open .ls-book-cover[data-cover-variant="reader"] .ls-cover-title{font-size:clamp(14px,10cqw,32px)}
+  #little-story-preview.ls-reader-open .ls-book-cover[data-cover-variant="reader"] .ls-cover-series,#little-story-preview.ls-reader-open .ls-book-cover[data-cover-variant="reader"] .ls-cover-edition{font-size:clamp(7px,3cqw,12px)}
+  #little-story-preview.ls-reader-open .ls-reader .ls-art-notice{bottom:35%;left:5%;right:5%;max-height:50%;overflow:auto}
+  @media(orientation:portrait){#little-story-preview.ls-reader-open{padding:6px 4px}}
+}
 </style>
 <script>/* BUNDLE */</script></body></html>

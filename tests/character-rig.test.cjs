@@ -47,3 +47,12 @@ test('portrait or body replacement invalidates only the relevant composites',()=
   const other=composer.prepare({...photo,image:{...photo.image}});assert.notEqual(composer.compose({portrait:other,body,poseId:base.id}),a);
   assert.equal(composer.compose({portrait:p,body,poseId:base.id}),a);
 });
+test('print-density composites preserve character units and the original portrait geometry',()=>{
+  function factory(){const c={};for(const name of ['scale','translate','rotate','drawImage','save','restore'])c[name]=()=>{};return {width:0,height:0,getContext:()=>c};}
+  const low=createComposer(factory,[base]),high=createComposer(factory,[base],{pixelDensity:4});
+  const a=low.compose({portrait:low.prepare(photo),body,poseId:base.id}),b=high.compose({portrait:high.prepare(photo),body,poseId:base.id});
+  assert.deepEqual(a.bounds,b.bounds);assert.equal(a.headScale,b.headScale);assert.equal(b.pixelDensity,4);
+  assert.ok(Math.abs(a.image.width-b.image.width/4)<1);assert.ok(Math.abs(a.image.height-b.image.height/4)<1);
+  let args;high.place({save(){},restore(){},translate(){},rotate(){},drawImage(...v){args=v;}},b,{x:0,y:0,scale:.5});
+  assert.equal(args[3],b.image.width/8);assert.equal(args[4],b.image.height/8);
+});

@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-28",
+  "method": "Built-in imagegen, no API or CLI. No child head, face or expression generated. Existing father face reused unchanged when visible.",
+  "jobs": [
+    {
+      "key": "child-bunny-hands",
+      "kind": "pose",
+      "transparent": true,
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/family/child-body.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset type: independent HEADLESS child-body gesture, for the established personalized picture-book character library. The reference is the edit target and anatomy/clothing/style invariant. Keep the EXACT warm yellow sweater with cream chest pocket, sage cuffed shorts, white socks, red canvas sneakers, skin tone, toddler limb and torso proportions, watercolor/gouache paper detail. Change ONLY both arms into a playful rabbit-ear gesture: elbows bend outward, both hands rest just ABOVE an imaginary child's head, with two upright fingers per hand suggesting bunny ears. Hands are empty. The HEAD IS NOT PRESENT: no face, eyes, hair, ears, animal head or placeholder head shape. Allow transparent empty room above the collar for a separately composited head. Crucial geometry: imaginary head height is about 0.47 times collar-to-sole body height; hands must sit around that imaginary crown, and fingers extend above it. Arms remain anatomically plausible; do not shrink torso or legs to accommodate raised hands. Use a tall portrait canvas with ample transparent margin ABOVE the body: collar around 45 percent canvas height, shoes near 95 percent, all raised fingertips around 14 to 25 percent. Preserve the full collar-to-shoe body and both hands with safe margins. Genuine alpha transparency, no colored fringe, glow, floor, cast-shadow blob, prop, writing or watermark. One single body action, no montage.",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-4d39380c-2a8e-4a6a-9f9f-4d2d714affb5.png",
+      "accepted": false,
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-third-three-native\\child-bunny-hands.png"
+    },
+    {
+      "key": "child-cat-hands",
+      "kind": "pose",
+      "transparent": true,
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/family/child-body.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset type: independent HEADLESS child-body gesture. Reference is the edit target; preserve the exact yellow knit sweater, cream pocket, sage-green cuffed shorts, white socks and red canvas shoes, skin tone, toddler anatomy and warm gouache/watercolor paper texture. Change ONLY arms and hands: both elbows bent, hands raised symmetrically BESIDE the imaginary CHEEKS, fingers gently splayed like a child pretending to be a kitten. Hands softly touch the outer sides of the imaginary cheeks; keep the CENTER of the imaginary face clear. No claw costume or animal paws. There is NO HEAD in this asset: no face, hair, head oval, animal head, expression, ears or whiskers. A separately composited original child's head will fill the transparent area above the collar. Anatomy: imaginary head height is about 0.47 of collar-to-shoe height, and the palms beside cheeks sit about 0.09 body-height above collar. Preserve torso and leg lengths exactly as the reference, don't shrink or stretch the body. Tall portrait canvas with much transparent empty space at the top; collar around 44 percent image height and soles around 95 percent. All five-finger hands, elbows, shoes and collar fully inside margins, genuine alpha, no floor, shadow blob, glow, text or watermark. One single reusable body pose.",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-1ac9c4e5-021f-46f2-a06b-de25abeee8e1.png",
+      "accepted": true,
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-third-three-native\\child-cat-hands.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-third-three\\pretend-cat.webp"
+    },
+    {
+      "key": "dad-seated-back",
+      "kind": "adult-back",
+      "transparent": true,
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/family/bodies.webp",
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/family/heads.webp"
+      ],
+      "prompt": "Use case: identity-preserve / illustration-story. Asset type: full transparent foreground father and low stool, seen FROM BEHIND for an over-the-shoulder scene. References identify ONLY the existing FATHER: top-left teal blue-green jacket, ivory shirt, brown trousers, tan low canvas shoes; top-left adult male short dark slightly wavy hair. Preserve this father's clothing, age, physique, hair color and rich warm watercolor/gouache paper style. Show the father sitting naturally on a simple low honey-wood stool, three-quarter BACK view on the RIGHT side, looking toward a child who will be placed at screen LEFT in the background. Back of head and back of shoulders are visible; absolutely NO face, eyes, mouth, front facial profile or newly generated expression should be visible. Hands rest on thighs, shoulders relaxed, not laughing yet. Entire seated body, stool and shoes in frame with generous margin. Real transparent alpha outside; no room, background, ground rectangle, colored halo, child, extra family members, writing or watermark. One coherent full figure and stool, not a character sheet. The existing original father face will be used separately for later front-view smiling scenes, so do not invent a new face.",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-a090786b-10e6-44cd-ab30-2a9945ec8981.png",
+      "accepted": true,
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-third-three-native\\dad-seated-back.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-third-three\\dad-seated-back.webp"
+    },
+    {
+      "key": "child-bunny-hands-v2",
+      "kind": "pose",
+      "transparent": true,
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-135d5c42-5326-4898-9d36-412b0e6f80b6.png",
+      "accepted": true,
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-third-three-native\\child-bunny-hands-v2.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-third-three\\pretend-bunny.webp",
+      "refs": [
+        "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-4d39380c-2a8e-4a6a-9f9f-4d2d714affb5.png",
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/output/level1-complete-15-20261027/art/intro-complete-01.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Input1 is the HEADLESS yellow-sweater body to correct; input2 is only the EXACT large-child-head/body PROPORTION GUIDE, not a request to generate that head or background. The hands in input1 are TOO LOW: they would lie beside the separately composited face, not on the crown. Output a SQUARE transparent canvas with the WHOLE body shifted into the LOWER HALF and arms raised FAR ABOVE THE COLLAR. Geometry must be visible: collar centered at x50%, y55%; soles at y94%; an imaginary head would extend from y55% up to y37%. Both palms at y36%, with upright V fingers from y35% to y23%, unmistakably ABOVE that head. Elbows lift outward at y48%; upper arms rise from shoulders, forearms continue upward around sides of empty imaginary head. Preserve the SAME yellow knit and cream pocket, sage cuffed shorts, white socks, red shoes, skin, toddler torso and leg proportions from input1, scaling the ENTIRE body uniformly within the square canvas. Do NOT change head/body ratio by squeezing legs. NO HEAD, face, hair, neck oval, head guide lines, animal head, text, background or floor. The upper middle from y37% to y55% must remain TRANSPARENT for the separately composited original BIG child's head. Full fingers and shoes have generous margins. Rich warm gouache/watercolor paper texture, real alpha. One reusable headless body, not a scene or montage."
+    }
+  ]
+}

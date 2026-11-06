@@ -1,0 +1,7 @@
+{
+  "id": "step-own-shoes",
+  "alpha": true,
+  "ref": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\barefoot-step.png",
+  "prompt": "Use case: illustration-story strictly localized footwear edit of the provided registered character body. Preserve the exact original image canvas 1024x1536, existing headless child body, collar at pixel (501,225), yellow sweater/ivory chest patch, sage shorts, arms, legs, knee/ankle positions, all anatomical proportions and brush/paper texture. Change ONLY footwear: add the character's familiar orange-red canvas sneakers with ivory rubber toe caps and cream laces to both existing bare feet. LEFT lifted foot is stepping slowly, RIGHT foot planted; same exact walking pose, not running. Shoes correctly enclose feet and meet ankles; no bare toes remain. Do NOT change torso silhouette, pose, hands, leg lengths, clothing, neck, collar location or transparency. No head, face, background, floor, added objects, lettering. Keep exact 1024x1536 framing and source body scale; genuine transparent background.",
+  "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-ba60312d-2ae5-4597-bbac-3e094ac6cf48.png"
+}

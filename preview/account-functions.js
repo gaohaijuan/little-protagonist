@@ -2,7 +2,7 @@
 const ACCOUNT_DEMO_KEY = 'little-story.preview-demo.v1';
 const ACCOUNT_DEMO_PROFILE_KEY = 'little-story.preview-account-profile.v1';
 const ACCOUNT_DEMO_DURATION = 12 * 60 * 60 * 1000;
-const ACCOUNT_READING_KEY = 'little-story.preview-reading.v1';
+const ACCOUNT_READING_KEY = 'little-story.preview-reading.'+shared.currentEdition.EDITION;
 function readDemoAccount() {
   try {
     const saved = JSON.parse(sessionStorage.getItem(ACCOUNT_DEMO_KEY) || 'null');

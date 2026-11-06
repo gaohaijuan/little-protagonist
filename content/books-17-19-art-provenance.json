@@ -1,0 +1,71 @@
+{
+  "method": "Built-in imagegen only; no image API or CLI",
+  "date": "2026-10-24",
+  "manuscript": "content/level1-stories-11-20.json:17–19",
+  "characterModel": "child-v1; same registered anatomy, one arm-only eat-fruit action",
+  "assets": [
+    {
+      "id": "eat-fruit",
+      "prompt": "Use case: precise-object-edit, registered child-v1 body action for a Chinese preschool picture book. Edit target is the supplied headless child body. Keep exactly the same 1024 x1536 transparent canvas, neck opening centered at (501,225), sweater dimensions and mustard-yellow knit/paper texture, ivory pocket, sage shorts, leg anatomy, cream socks, orange canvas sneakers, foot positions and overall body scale. Change ONLY the arms: raise the hand on the LEFT side of the image towards the absent mouth, fingertips at about (410,115), as if holding a small apple for a bite; other hand relaxed palm-up at (610,495). Do NOT include apple: separate prop will be added. No head, hair, face or new neck. Do not shorten torso or legs, no scenery, no ground/glow, genuine transparency. This is one new eat-fruit action in the same character library, not a new character.",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-11-15/child-carry-v2.png",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-f9002473-4ffe-4eec-9161-5b682d849b02.png"
+    },
+    {
+      "id": "fruit-whole",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story transparent prop for the same warm textured gouache/paper-collage preschool book. One whole ripe red-yellow apple, rounded slightly squat shape with short dark stem and one tiny muted green leaf, three-quarter frontal view, soft warm light from upper left, tactile hand painted paper texture matching a mustard sweater and cozy cottage garden. Fully isolated complete silhouette, no plate, hand, ground, cast-background shadow, letters or face. Genuine alpha transparency. Native high detail. This identical apple will be uniformly scaled into a big apple and a small apple of the same fruit type.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-928ceda0-987b-4a5c-9f6b-d59bebb64693.png"
+    },
+    {
+      "id": "fruit-friend",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story supporting friend character, isolated transparent layer. A friendly illustrated Chinese preschool child with short straight dark-brown bob hair, rounded cheeks, small warm dark eyes and gentle smile, wearing a muted teal knitted cardigan over ivory T-shirt, dusty coral trousers, cream canvas shoes. Full body standing in gentle front-three-quarter view turned slightly towards LEFT, both forearms naturally forward, palms open at waist height, left-side palm extended slightly to receive/pass an apple. NO apple or objects in hands. Warm handmade gouache/watercolor and tactile cut-paper texture, sunlit cozy cottage picture-book palette. Not the protagonist: supporting playmate unspecified family relation. Entire hair and shoes visible, no crop, no scenery, no floor/glow, no text. Genuine transparent alpha, portrait canvas high native resolution.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-5fe9013f-5e71-48e1-9911-52f7c6ee07b4.png"
+    },
+    {
+      "id": "fruit-bitten",
+      "ref": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-928ceda0-987b-4a5c-9f6b-d59bebb64693.png",
+      "prompt": "Use case: precise-object-edit. Edit the reference apple ONLY: same red-yellow apple silhouette, leaf/stem, lighting, hand painted paper texture and frontal perspective, but ONE small fresh bite missing from the UPPER RIGHT apple flesh, with recognizable scalloped tooth bite and pale creamy inside. Keep the rest unchanged. Complete isolated prop on true alpha, no hands, plate, background or text.",
+      "alpha": true,
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-18ae61b0-b3bd-4a62-ae53-9b643d3f0089.png"
+    },
+    {
+      "id": "friend-eating",
+      "ref": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-5fe9013f-5e71-48e1-9911-52f7c6ee07b4.png",
+      "prompt": "Use case: identity-preserve illustration action edit. Same supporting Chinese preschool friend as the reference, EXACT same bob haircut, face, teal cardigan, ivory tee, coral trousers and cream sneakers, same full body proportions and scale, same transparent canvas. Change only the LEFT-image arm: bend elbow and raise palm towards mouth, fingertips around (420,350) to hold an apple at lips. NO apple or object painted: it is a separate prop. Other arm relaxed open palm near waist. Gentle content expression, eyes and face identity unchanged. Entire hair and feet visible, true transparent alpha, no scenery/glow/text.",
+      "alpha": true,
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-68420439-5dee-4b15-b5b6-c6f5f93ee287.png"
+    },
+    {
+      "id": "pet-bed",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-11-15/playroom-clear.png",
+      "prompt": "Use case: illustration-story independent transparent prop matching reference gouache paper-collage cottage playroom. One EMPTY low oval small-cat sleeping cushion, sage-green linen mattress with soft ivory piping and very low plush back rim, shallow horizontal oval shape viewed from gentle front-threequarter at child's eye height. Entire complete cushion fits, no cat/animal, no toys, no bed legs, no human bed, no floor/background/glow, no words. Warm tactile hand-painted fabric detail, true alpha transparency. Leave broad unobstructed mattress surface so a separate cat, toy ball, or toy car can be layered upon it.",
+      "alpha": true,
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-74e075c1-fef7-4910-a529-f4c963c369f2.png"
+    },
+    {
+      "id": "bed-room-wide",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-11-15/playroom-clear.png",
+      "prompt": "Use case: illustration-story full background for layered preschool picture book. Match reference's exact warm gouache/watercolor and tactile paper collage, same sunlit cream cottage playroom, teal door/window, oak furniture, baskets, daisies and plants. Paint a complete rich scene at native 2048-square or highest available resolution, NOT a placeholder stage. No text, people, heads, cats, pet bed, ball, car or other foreground toys: they are separate layers. Lower two-thirds is continuous level warm wooden floor allowing a separate child at LEFT (30%,94%) and a low oval cat cushion at RIGHT (65%,94%). Keep foreground unobstructed. Establishing view from the open doorway looking diagonally toward the bookcase and broad sunlit window BACK RIGHT, leafy shadows fall across floor. Low cushioned reading chair at far left edge, small bookshelves high on rear wall. Cozy familiar home, gentle afternoon.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-faa1293e-b6d4-4cab-be78-6db6035f9897.png"
+    },
+    {
+      "id": "bed-room-low",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-11-15/playroom-clear.png",
+      "prompt": "Use case: illustration-story full background for layered preschool picture book. Match reference's exact warm gouache/watercolor and tactile paper collage, same sunlit cream cottage playroom, teal door/window, oak furniture, baskets, daisies and plants. Paint a complete rich scene at native 2048-square or highest available resolution, NOT a placeholder stage. No text, people, heads, cats, pet bed, ball, car or other foreground toys: they are separate layers. Lower two-thirds is continuous level warm wooden floor allowing a separate child at LEFT (30%,94%) and a low oval cat cushion at RIGHT (65%,94%). Keep foreground unobstructed. NEW LOW viewpoint at the pet's eye level along the floor: teal door BACK LEFT, low oak bookshelf RIGHT BACK, basket and flower pot on shelf, compressed wall area top quarter, richly textured wooden floor broad foreground. Light falls from left, distinct close visual emphasis on cushion-space and child hands, not a crop of the previous image.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-257aad8d-2f1a-42a1-be38-54157df2a538.png"
+    },
+    {
+      "id": "bed-room-end",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-11-15/playroom-clear.png",
+      "prompt": "Use case: illustration-story full background for layered preschool picture book. Match reference's exact warm gouache/watercolor and tactile paper collage, same sunlit cream cottage playroom, teal door/window, oak furniture, baskets, daisies and plants. Paint a complete rich scene at native 2048-square or highest available resolution, NOT a placeholder stage. No text, people, heads, cats, pet bed, ball, car or other foreground toys: they are separate layers. Lower two-thirds is continuous level warm wooden floor allowing a separate child at LEFT (30%,94%) and a low oval cat cushion at RIGHT (65%,94%). Keep foreground unobstructed. NEW WIDE closing viewpoint from beside the low shelf, toward teal window BACK LEFT and distant open door at RIGHT, armchair and knitted throw along BACK RIGHT, flowers outside window. Soft later-afternoon honey light; tranquil resting area lower RIGHT and play area lower LEFT. Newly painted calm ending scene with complete perspective and same room identity.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-1fc8e430-f7d4-49d2-95e6-648bf675b70b.png"
+    },
+    {
+      "id": "cat-drowsy",
+      "prompt": "Use case: identity-preserve animal illustration edit. Keep the SAME orange-and-ivory tabby kitten as reference: identical markings, rounded anatomy, white muzzle/chest/paws, amber-green eyes, fluffy curved tail, exact handmade gouache cut-paper texture. Change ONLY its alert expression to sleepy: gently drooping half-closed eyelids and a small relaxed closed mouth; head slightly lowered but same face and silhouette, seated in same pose. Full kitten including whiskers, paws, ears and tail intact. Genuine transparent background, no cushion, bed, floor, glow, people, props or text.",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-11-13/cat-quiet.webp",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-2d23483e-a1b4-4f47-8a41-e8881647d828.png"
+    }
+  ]
+}

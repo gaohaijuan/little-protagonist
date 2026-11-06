@@ -3,10 +3,10 @@
   const { draw } = shared.art;
   const { DEFAULT_PROFILE, normalizeProfile, validateProfile } = shared.profile;
   const { listBooks, getBook: readBook } = shared.stories;
-  const browserCatalog = Object.freeze({ includeApproved: true });
+  const browserCatalog = Object.freeze({ currentEdition: true });
   const getBook = (id, profile, members) => readBook(id, profile, members, browserCatalog);
   const sequenceBookIds = new Set(['hands', 'rain', 'stone']);
-  const hasLegacyArt = id => ['intro', 'flower', 'family'].includes(id);
+  const hasLegacyArt = () => false;
   const { ROLE_OPTIONS, defaultMembers, normalizeMembers, migrateMembers, participants, memberLabel, canUsePhoto, createSibling, MAX_MEMBERS } = shared.family;
   const root = document.getElementById('little-story-preview');
   const device = root.querySelector('#ls-device');
@@ -20,7 +20,9 @@
   const books = listBooks(DEFAULT_PROFILE, undefined, browserCatalog).map((b, index) => ({ id: b.id, number: b.number || index + 1, short: b.title, group: b.tag, description: b.description, title: (p, members = state.members) => getBook(b.id, p, members).title, pages: (p, members = state.members) => getBook(b.id, p, members).pages }));
   const isIllustratedBook = id => books.some(book => book.id === id);
   const roles = ROLE_OPTIONS;
-  const state = { view: 'home', book: 'intro', page: 0, onCover: true, profile: { ...DEFAULT_PROFILE }, progress: {}, completed: [], avatars: {}, members: defaultMembers() };
+  const state = { view: 'home', book: 'intro-complete', page: 0, onCover: true, profile: { ...DEFAULT_PROFILE }, progress: {}, completed: [], avatars: {}, members: defaultMembers() };
+  const familyCharacters=window.createCharacterArtLoader(shared,/* FAMILY_POSES */,window.LittleFamilyArtLoader,books.map(b=>b.id));
+  window.addEventListener('pagehide',()=>familyCharacters.close(),{once:true});
   const initialAccountView = new URLSearchParams(location.search).get('view');
   if (['account', 'accountLogin'].includes(initialAccountView)) state.view = initialAccountView;
   let draft = null, draftAvatars = {}, draftMembers = [], activeRole = 'child', touchStart = null;
@@ -28,6 +30,7 @@
   let photoController = null;
   let photoRevision = 0, photoBusy = false, saveBusy = false, ready = false, storageNotice = '';
   let databasePromise;
+  const photoTiming={photoReadMs:null,recognitionMs:null,cutoutMs:null,pngEncodeMs:null};
   const book = () => books.find(b => b.id === state.book) || books[0];
   const pageList = () => book().pages(state.profile);
   const activeMember = () => draftMembers.find(member => member.id === activeRole) || { id: 'child', role: 'child', included: true };
@@ -131,11 +134,12 @@
   }
   function render() {
     root.classList.toggle('ls-reading', state.view === 'reader' || state.view === 'done');
+    root.classList.toggle('ls-reader-open', state.view === 'reader');
     device.classList.remove('ls-landscape');
     device.classList.toggle('ls-spread-book', state.view === 'reader' || state.view === 'done');
     device.style.setProperty('--ls-reading-size', '32px');
     screen.innerHTML = ({ home, detail, reader, done, profile, account, accountLogin, accountLegal, printService }[state.view] || home)();
-    modeLabel.textContent = state.view === 'reader' ? '横向 A4 跨页 · 左右翻页' : state.view === 'done' ? '横向 A4 跨页 · 读完一本' : state.view === 'profile' ? '竖屏 · 设置小主角' : '竖屏 · 选一本故事';
+    modeLabel.textContent = state.view === 'reader' ? '竖版 A5 · 图文同页' : state.view === 'done' ? '竖版 A5 · 读完一本' : state.view === 'profile' ? '竖屏 · 设置小主角' : '竖屏 · 选一本故事';
     root.querySelector('.ls-notice')?.remove();
     if (['account', 'accountLogin', 'accountLegal'].includes(state.view)) modeLabel.textContent = '竖屏 · 家长账号';
     if (state.view === 'printService') modeLabel.textContent = '竖屏 · 纸质绘本打印服务';
@@ -148,24 +152,13 @@
     if (state.view === 'reader') live.textContent = book().title(state.profile) + (state.onCover ? '，封面。翻开故事，开始阅读。' : state.page===pageList().length ? '，识字小结结尾页。' : '，第' + (state.page + 1) + '页。' + pageList()[state.page].join(''));
   }
   function releaseFaceAnalysis(){window.LittleFaceProcessor?.release?.(faceAnalysis);faceAnalysis=null;}
-  function artLoaderFor(id) {
-    return sequenceBookIds.has(id) ? window.LittleSequenceArtLoader?.forBook(id) : { intro: window.LittleIntroArtLoader, flower: window.LittleArtLoader, family: window.LittleFamilyArtLoader }[id];
+  function artLoaderFor(id,avatars=state.avatars,members=state.members) {
+    return familyCharacters.forBook(id,avatars,members);
   }
   function drawIllustration(canvas,options,loaded,artwork){
-    if(options.portraitPanel){
-      // Render into the actual illustration frame. Never reserve a second text
-      // column inside a panel that already sits next to the DOM story text.
-      const source=document.createElement('canvas'),height=Math.round(1400*options.height/options.width),sourceRatio=Math.max(.1,Math.min(3,options.width*(options.pixelRatio||1)/1400));
-      const ok=drawIllustration(source,{...options,portraitPanel:false,artPanel:true,width:1400,height,pixelRatio:sourceRatio},loaded,artwork);
-      if(!ok)return false;
-      canvas.width=Math.max(1,Math.round(options.width*(options.pixelRatio||1)));canvas.height=Math.max(1,Math.round(options.height*(options.pixelRatio||1)));
-      canvas.getContext('2d').drawImage(source,0,0,canvas.width,canvas.height);source.width=source.height=1;return true;
-    }
-    const m=loaded.manifest,a=loaded.assets;
-    const scene=sequenceBookIds.has(options.book)?shared.sequenceArt.pagePlan(m,options.page,options)?.scene:options.book==='intro'?shared.introArt.pagePlan(options.cover?0:options.page).scene:options.book==='flower'?shared.flowerArt.pagePlan(options.cover?0:options.page).scene:m.background||'courtyard';
-    const avatars=window.LittlePhotoTone.apply(options.avatars,a[scene]);
-    const child=avatars.child||{};
-    return artwork.draw(canvas,{...options,...loaded,avatars,avatar:child.image||options.avatar});
+    const started=performance.now();
+    const result=artwork.draw(canvas,{...options,...loaded,...(options.book==='family'?{scenePanel:true,artPanel:options.artPanel||options.portraitPanel}:{})});
+    familyCharacters.recordDraw(performance.now()-started);return result;
   }
   /* PRINT_FUNCTIONS */
   const pendingArtCanvases = new WeakMap();
@@ -216,18 +209,19 @@
       const options = { width: rect.width, height: rect.height, pixelRatio: window.devicePixelRatio || 1, book: canvas.dataset.art, page: Number(canvas.dataset.page), cover: canvas.dataset.cover === '1',
         portraitPanel:!!canvas.closest('.ls-reader-art'), avatars, avatar: child.image, avatarKind: child.kind, avatarLayout: child.layout, avatarMetrics: child.metrics,
         members, characterId: member.id, characterRole: member.role, familyScene: familyBook.scenes?.[Number(canvas.dataset.page)],
-        reserveText: canvas.dataset.art === 'intro' && canvas.dataset.cover !== '1' && !!canvas.closest('.ls-reader'),
+        reserveText: canvas.dataset.art === 'intro-complete' && canvas.dataset.cover !== '1' && !!canvas.closest('.ls-reader'),
         framing: canvas.closest('.ls-avatar-preview,.ls-person-button') ? 'avatar' : canvas.closest('.ls-profile-preview') ? 'character' : canvas.closest('.ls-feature') ? 'hero' : undefined };
       if(options.framing==='avatar'){
         options.avatars=window.LittlePhotoTone.apply(avatars);
         options.avatar=options.avatars.child?.image||child.image;
       }
       let illustrated = false;
-      const loader = options.framing === 'avatar' ? null : artLoaderFor(options.book);
-      const artwork = sequenceBookIds.has(options.book) ? shared.sequenceArt : { intro: shared.introArt, flower: shared.flowerArt, family: shared.familyArt }[options.book];
+      const loader = options.framing === 'avatar' ? null : artLoaderFor(options.book,avatars,members);
+      const artwork = options.book==='family'?shared.familyArt:shared.layeredArt;
       if (loader && artwork) {
         const loaded = loader.peek(options.page, options);
         if (loaded) illustrated = drawIllustration(canvas,options,loaded,artwork);
+        if(illustrated)canvas.dataset.characterPipeline='composed-actor-v1';
         const status = loader.status(options.page, options);
         if (!illustrated && (status === 'idle' || status === 'loading')) {
           canvas.dataset.artState = 'loading'; canvas.setAttribute('aria-busy', 'true');
@@ -249,7 +243,7 @@
         }
       }
       if (!illustrated) {
-        if (hasLegacyArt(options.book)) draw(canvas, options);
+        if (options.framing==='avatar') draw(canvas, options);
         else {
           // These new stories have no legacy illustration. Never substitute
           // the old renderer's unrelated family scene for a missing page.
@@ -261,11 +255,13 @@
     });
     root.querySelectorAll('[data-art-status]').forEach(notice => {
       const page = Number(notice.dataset.artStatus), cover = notice.dataset.cover === '1';
-      const loader = artLoaderFor(notice.dataset.artBook || 'flower');
+      const loader = artLoaderFor(notice.dataset.artBook || 'flower',avatars,members);
       const failed = loader?.status(page, { cover, members, familyScene: familyBook.scenes?.[page] }) === 'error' ||
         Array.from(root.querySelectorAll('canvas[data-art]')).some(canvas => canvas.dataset.art === (notice.dataset.artBook || 'flower') && Number(canvas.dataset.page) === page && (canvas.dataset.cover === '1') === cover && canvas.dataset.artState === 'error');
       notice.hidden = !failed;
     });
+    root.dataset.characterSession=JSON.stringify(familyCharacters.snapshot());
+    root.dataset.photoTiming=JSON.stringify(photoTiming);
   }
   let drawingFrame = 0;
   function scheduleDrawing() {
@@ -285,6 +281,7 @@
     render();
   }
   function begin() {
+    familyCharacters.openBook(state.book);
     void trackOperation('read',state.book);
     state.page = Math.min(pageList().length, state.progress[state.book] || 0);
     state.onCover = state.page === 0;
@@ -376,22 +373,22 @@
     }
     if (action === 'book') { state.book = button.dataset.id; navigate('detail'); }
     if (action === 'detail') navigate('detail');
-    if (action === 'start-intro') { state.book = 'intro'; begin(); }
+    if (action === 'start-intro') { state.book = books[0].id; begin(); }
     if (action === 'start') begin();
     if (action === 'previous') flip(-1);
     if (action === 'next') flip(1);
     if (action === 'print-book') { if(operationsEnabled&&button.classList.contains('ls-end-print'))void submitPrint('book');else void printCurrentBook(); }
     if (action === 'download-book-pdf') void downloadPrintFiles('book');
     if (action === 'download-press-pdf') void downloadPrintFiles('book',{format:'package'});
-    if (action === 'download-level') void downloadPrintFiles('level');
-    if (action === 'download-level-package') void downloadPrintFiles('level',{format:'package'});
-    if (action === 'print-level') void printCurrentBook('level');
+    if (action === 'download-level') void downloadPrintFiles('level',selectedPrintVolume(button.dataset.volume));
+    if (action === 'download-level-package') void downloadPrintFiles('level',{...selectedPrintVolume(button.dataset.volume),format:'package'});
+    if (action === 'print-level') void printCurrentBook('level',selectedPrintVolume(button.dataset.volume));
     if (action === 'submit-print') void submitPrint(button.dataset.scope || 'book');
     if (action === 'retry-print-submission') void submitPrint('book',true);
     if (action === 'share-invitation') void shareInvitation();
     if (action === 'reread') { state.page = 0; state.onCover = true; state.progress[state.book] = 0; navigate('reader'); }
     if (action === 'retry-art') {
-      artLoaderFor(button.dataset.book || 'flower')?.retry(); scheduleDrawing();
+      artLoaderFor(button.dataset.book || 'flower',state.view==='profile'?draftAvatars:state.avatars,state.view==='profile'?draftMembers:state.members)?.retry(); scheduleDrawing();
     }
     const canEditPhoto = state.view === 'profile' && canUsePhoto(activeMember().role);
     if (action === 'photo' && canEditPhoto) root.querySelector('#ls-photo-input').click();
@@ -466,11 +463,14 @@
     const currentRevision = revision === undefined ? ++photoRevision : revision;
     photoBusy = true; photoPending = true; photoError = ''; photoStatus = '正在提取脸部和头发…'; render();
     try {
+      const started=performance.now();
       const result = await window.LittleFaceProcessor.cutout(faceAnalysis, selectedFace);
+      photoTiming.cutoutMs=performance.now()-started;
       const { canvas } = result;
       if (currentRevision !== photoRevision || state.view !== 'profile') return;
-      const data = canvas.toDataURL('image/png');
+      const encodeStarted=performance.now(),data=canvas.toDataURL('image/png');photoTiming.pngEncodeMs=performance.now()-encodeStarted;
       draftAvatars[activeRole] = { image: canvas, data, kind: 'cutout', layout: normalizeLayout(), metrics: result.metrics || measureAvatar(canvas) };
+      familyCharacters.openBook(books[0].id);
       photoBusy = false; photoPending = false;
       photoStatus = '真实头像已自动适配，保存后即可进入故事。'; render();
     } catch (error) {
@@ -507,11 +507,14 @@
     releaseFaceAnalysis(); selectedFace = -1; photoError = ''; photoStatus = '正在读取照片…'; render();
     let opened;
     try {
+      const readStarted=performance.now();
       opened = await window.LittlePhotoInput.open(file, { signal: controller.signal });
+      photoTiming.photoReadMs=performance.now()-readStarted;
       if (revision !== photoRevision || state.view !== 'profile') return;
-      const analysis = await window.LittleFaceProcessor.analyze(opened.image, message => {
+      const analysisStarted=performance.now(),analysis = await window.LittleFaceProcessor.analyze(opened.image, message => {
         if (revision === photoRevision && state.view === 'profile') setPhotoStatus(message);
       });
+      photoTiming.recognitionMs=performance.now()-analysisStarted;
       // The processor owns its normalized copy; release the original large photo
       // before segmentation to avoid keeping both in a phone's limited memory.
       opened.dispose();

@@ -1,0 +1,24 @@
+{
+  "method": "Built-in imagegen editing; no image API or CLI",
+  "date": "2026-10-27",
+  "accepted": {
+    "key": "stone-home-close",
+    "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-799494d5-1fff-425e-87e9-a245c1bd2122.png",
+    "prompt": "Use case: precise-object-edit. Create a SQUARE 1:1 edge-to-edge illustration, not a tall portrait. Requested 2048 by 2048 native pixels; highest available native detail. Edit target is the stone-and-pebble illustration in reference 1 (ignore all page typography and margins). Supporting reference 2 gives the wide scene. Match reference 1's nearly square crop exactly: SAME single large gray mossy rock stretching from upper left across to the right, SAME pale oval little pebble under its overhang at lower center-right, with leafy plants and soil. Preserve the gray rock silhouette and pale pebble shape/size and placement, warm yellow-green watercolor/gouache picture-book brushwork, sunny lighting. Improve native painted detail and crisp edges, without sharpening halos, plastic texture or photorealistic restyling. Main rock and little pebble together must fit comfortably within the central square; do NOT make a vertical panorama and do NOT add large foreground. ONLY the square illustration: no caption, no text, no borders, no white margin, no people or animals, no extra pebbles, no watermark. Frame to retain both the entire rock overhang and the whole pebble at the same relative scale as reference 1.",
+    "references": [
+      "output/level1-complete-15-20261027/qa/detail-48.png",
+      "art-samples/layered-v1/stone-home.png"
+    ],
+    "pages": [
+      48,
+      53
+    ]
+  },
+  "discarded": [
+    {
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-35969573-335d-4f30-b27d-693e0a84d469.png",
+      "prompt": "Use case: precise-object-edit. Asset type: print-quality children's picture-book background closeup. Edit target: the stone-and-pebble illustration inside the provided A5 page (reference 1); reference 2 is its original wide scene for exact object identity and painterly style. Produce ONLY the illustration, edge-to-edge, with NO paper border, header, caption or page number. Recreate this same close view with crisp native painted detail: the SAME large low gray rock with moss and lichen sloping down from upper left to right, the SAME single smooth pale cream oval small pebble nestled underneath the rock at lower center-right, same small green leaves, grasses, ocher soil, warm sunlight and green-yellow watercolor/gouache picture-book palette. Preserve the rock silhouette, perspective, relative object size and location; do not redesign the scene. Clarify natural painted rock facets, moss, leaves and pebble edge without halos, plastic texture or photographic style. No characters, no animals, no extra small stones, no text, no watermark. This is one shared establishing/return-home closeup, not two new scenes. Requested native canvas 2048 x 2096 pixels, portrait 128:131 aspect, all pixels devoted to the closeup; maximize actual generated detail, no decorative margin.",
+      "reason": "Tall output unsuitable for nearly square art panel; not used."
+    }
+  ]
+}

@@ -21,8 +21,8 @@ test('personalized name slots are excluded without stripping ordinary story char
   const stats = summarizeBooks(catalog('CHILD'));
   const first = stats[0];
   assert.ok(!first.characters.includes('石'));
-  assert.ok(stats[5].newCharacters.includes('石'), 'stone in the story remains a new character');
-  assert.ok(stats[5].characters.includes('头'));
+  assert.ok(stats.find(b=>b.id==='stone').newCharacters.includes('石'), 'stone in the story remains a new character');
+  assert.ok(stats.find(b=>b.id==='stone').characters.includes('头'));
   assert.notDeepEqual(summarizeBooks(catalog('龙')).map(b=>b.count), stats.map(b=>b.count), 'using literal name text would change the figures');
   assert.ok(first.characters.includes('我'), 'ordinary fixed text is not globally stripped when a name contains 我');
 });

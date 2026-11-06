@@ -1,0 +1,7 @@
+{
+  "key": "shop-counter-sold",
+  "prompt": "Use case: precise-object-edit. Edit target: the isolated watercolor fruit-shop counter. Change ONLY the apple basket from FOUR apples to exactly THREE red apples, with a small visible gap where one apple has been bought. Keep entire table,cloth,all vegetables,all colors,light,perspective,scale,padding and all other pixels/composition as close as possible. Preserve true TRANSPARENT background. No person,no leaf,no text,no added objects.",
+  "refs": [
+    "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/art-samples/level3-fourth-book-native/shop-counter.png"
+  ]
+}

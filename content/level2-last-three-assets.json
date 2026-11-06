@@ -1,0 +1,227 @@
+{
+  "white-rabbit-jump": {
+    "url": "./art/sequence/level2-last-three/white-rabbit-jump.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      54,
+      23,
+      1506,
+      875
+    ],
+    "sha256": "e2eb93022615a3e9d13963662762ebc4112e89852b2f443d1c1b0fbedb6f8901",
+    "nativePixelsExact": true
+  },
+  "jump-forward": {
+    "url": "./art/sequence/level2-last-three/jump-forward.webp",
+    "size": [
+      1536,
+      2048
+    ],
+    "bounds": [
+      153,
+      564,
+      1293,
+      1783
+    ],
+    "sha256": "9e9d2acee0438cab47b54b336b7bec81f25fae2d9b1c50c2a81ad1aefca5c0b2",
+    "nativePixelsExact": false
+  },
+  "sit-draw-active": {
+    "url": "./art/sequence/level2-last-three/sit-draw-active.webp",
+    "size": [
+      1536,
+      1920
+    ],
+    "bounds": [
+      351,
+      565,
+      1221,
+      1519
+    ],
+    "sha256": "152a09e6d97cb944ca44646aa5ce8154ebd2abcebb38f29dd46c151794a2a2a0",
+    "nativePixelsExact": false
+  },
+  "studio-floor": {
+    "url": "./art/sequence/level2-last-three/studio-floor.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "sha256": "f20fa567c21732e19563662b7bf71bacb81e84848d43292d6d36b7b035154ac0",
+    "nativePixelsExact": true
+  },
+  "jump-ground-close": {
+    "url": "./art/sequence/level2-last-three/jump-ground-close.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "sha256": "75c885b335c1cb8feb88421d8fc2b94499c0c228c7c287d71c266bdb26209f67",
+    "nativePixelsExact": true
+  },
+  "toy-train": {
+    "url": "./art/sequence/level2-last-three/toy-train.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      157,
+      82,
+      1468,
+      932
+    ],
+    "sha256": "bbcb3a555bb4d1e46d9b6b5b9073b0523f9e1ed87570c77929c6b8a25883f805",
+    "nativePixelsExact": true
+  },
+  "drawing-fish": {
+    "url": "./art/sequence/level2-last-three/drawing-fish.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      127,
+      112,
+      1481,
+      914
+    ],
+    "sha256": "af08fa0aa6b2046209f6e11a8e934dc2c40abcc30e9dcd2038abd0803de95383",
+    "nativePixelsExact": true
+  },
+  "drawing-water": {
+    "url": "./art/sequence/level2-last-three/drawing-water.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      9,
+      179,
+      1529,
+      899
+    ],
+    "sha256": "79401e824e98907aa0624229eb82a3d36ce5578e12ecafe8d7110024164c4c8b",
+    "nativePixelsExact": true
+  },
+  "drawing-habitat": {
+    "url": "./art/sequence/level2-last-three/drawing-habitat.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      13,
+      494,
+      1522,
+      1004
+    ],
+    "sha256": "2659a12f72f9817d073a6aa629347fdc1f95f4656449f99f65cad630571b5057",
+    "nativePixelsExact": true
+  },
+  "drawing-self": {
+    "url": "./art/sequence/level2-last-three/drawing-self.webp",
+    "size": [
+      1145,
+      1374
+    ],
+    "bounds": [
+      19,
+      14,
+      1129,
+      1326
+    ],
+    "sha256": "a4d07009a9a2134da436377923072cc047b086664b12642bf33f35949b0f096d",
+    "nativePixelsExact": true
+  },
+  "drawing-trees-flowers": {
+    "url": "./art/sequence/level2-last-three/drawing-trees-flowers.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      31,
+      52,
+      1518,
+      687
+    ],
+    "sha256": "6947fa57c2a79c3099d38dbc67979a3c5a0bc319a196a5ca8be4526e09ae475f",
+    "nativePixelsExact": true
+  },
+  "jump-garden-wide": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b20-p05.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "reused": true,
+    "sha256": "a7833e9f3e34f32874e111c058b9a5da024b5eb6e67aef01746767bc9cae01ad"
+  },
+  "white-rabbit-alert": {
+    "url": "./art/sequence/level2-fourth-three/white-rabbit-alert.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      137,
+      9,
+      1352,
+      1006
+    ],
+    "reused": true,
+    "sha256": "a0ebbac5aaba6c5fd74dd9dc676407e5bc6a2fbf898d9eafcbd8988a28f0361a"
+  },
+  "jump-stone": {
+    "url": "./art/sequence/books-06-10/pebble.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      368,
+      289,
+      1169,
+      779
+    ],
+    "reused": true,
+    "sha256": "8983a19f7a70ebac181d40aa5d4a0537589d297e3e64b08ab2b128739c229e0e"
+  },
+  "jump-paper": {
+    "url": "./art/sequence/books-16-20/red-paper.png",
+    "size": [
+      1510,
+      1042
+    ],
+    "bounds": [
+      28,
+      52,
+      1495,
+      1001
+    ],
+    "reused": true,
+    "sha256": "221559d3640ca0367b369fba62ef74f342e89fde462f3b19f8c1cc602615913d"
+  }
+}

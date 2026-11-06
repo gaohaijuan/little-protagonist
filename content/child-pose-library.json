@@ -1,7 +1,34 @@
 {
   "model": "child-v1",
-  "version": 6,
+  "version": 12,
   "poses": {
+    "crouch-touch": {
+      "id": "crouch-touch",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/first-ten/child-crouch-touch.webp",
+      "collar": {
+        "x": 510,
+        "y": 320
+      },
+      "bounds": {
+        "left": 80,
+        "top": 276,
+        "right": 967,
+        "bottom": 1240
+      },
+      "headRotation": -0.07,
+      "attachments": {
+        "fingertips": {
+          "x": 150,
+          "y": 1175
+        },
+        "feet": {
+          "x": 670,
+          "y": 1230
+        }
+      }
+    },
     "stand-wave": {
       "id": "stand-wave",
       "version": 1,
@@ -51,7 +78,13 @@
         "right": 968,
         "bottom": 1405
       },
-      "headRotation": 0
+      "headRotation": 0,
+      "attachments": {
+        "grip": {
+          "x": 803,
+          "y": 425
+        }
+      }
     },
     "reach-water": {
       "id": "reach-water",
@@ -219,6 +252,10 @@
         "rightFoot": {
           "x": 735,
           "y": 1310
+        },
+        "rightInstep": {
+          "x": 735,
+          "y": 1280
         }
       }
     },
@@ -369,7 +406,12 @@
         "bottom": 1372
       },
       "headRotation": 0,
-      "attachments": {}
+      "attachments": {
+        "rightInstep": {
+          "x": 695,
+          "y": 1328
+        }
+      }
     },
     "run-left": {
       "id": "run-left",
@@ -406,6 +448,225 @@
       },
       "headRotation": 0,
       "attachments": {}
+    },
+    "step-own-shoes": {
+      "id": "step-own-shoes",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-14-16/step-own-shoes.webp",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 103,
+        "top": 190,
+        "right": 1007,
+        "bottom": 1396
+      },
+      "headRotation": 0,
+      "attachments": {}
+    },
+    "eat-fruit": {
+      "id": "eat-fruit",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/books-17-19/eat-fruit.webp",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 176,
+        "top": 88,
+        "right": 843,
+        "bottom": 1401
+      },
+      "headRotation": 0,
+      "attachments": {
+        "bite": {
+          "x": 445,
+          "y": 190
+        },
+        "rightPalm": {
+          "x": 610,
+          "y": 495
+        }
+      }
+    },
+    "walk-carry-right": {
+      "id": "walk-carry-right",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/action-fixes/walk-carry-right.webp",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 123,
+        "top": 192,
+        "right": 884,
+        "bottom": 1404
+      },
+      "headRotation": 0.08,
+      "attachments": {
+        "leftPalm": {
+          "x": 632.187,
+          "y": 534.227
+        },
+        "rightPalm": {
+          "x": 664.984,
+          "y": 534.227
+        },
+        "frontSole": {
+          "x": 777.43,
+          "y": 1401.0
+        },
+        "rearSole": {
+          "x": 262.052,
+          "y": 1302.61
+        }
+      }
+    },
+    "crouch-reach-right": {
+      "id": "crouch-reach-right",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/action-fixes/crouch-reach-right-safe.webp",
+      "collar": {
+        "x": 720,
+        "y": 320
+      },
+      "bounds": {
+        "left": 152,
+        "top": 250,
+        "right": 1271,
+        "bottom": 1238
+      },
+      "headRotation": 0.35,
+      "attachments": {
+        "fingertips": {
+          "x": 1235.313,
+          "y": 1180.432
+        },
+        "rightPalm": {
+          "x": 1145.488,
+          "y": 1100.062
+        },
+        "leftPalm": {
+          "x": 327.605,
+          "y": 721.85
+        },
+        "feet": {
+          "x": 757.821,
+          "y": 1240.0
+        }
+      }
+    },
+    "invite-up-right": {
+      "id": "invite-up-right",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/action-fixes/invite-up-right.webp",
+      "collar": {
+        "x": 501,
+        "y": 225
+      },
+      "bounds": {
+        "left": 141,
+        "top": 22,
+        "right": 1035,
+        "bottom": 1401
+      },
+      "headRotation": 0.18,
+      "attachments": {
+        "rightPalm": {
+          "x": 975.438,
+          "y": 88.725
+        },
+        "leftPalm": {
+          "x": 203.215,
+          "y": 664.107
+        },
+        "feet": {
+          "x": 712.983,
+          "y": 1401.0
+        }
+      }
+    },
+    "pretend-cat": {
+      "id": "pretend-cat",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/level2-third-three/pretend-cat.webp",
+      "collar": {
+        "x": 768,
+        "y": 1100
+      },
+      "bounds": {
+        "left": 472,
+        "top": 950,
+        "right": 1107,
+        "bottom": 2271
+      },
+      "headRotation": 0,
+      "foregroundRects": [
+        {
+          "left": 555,
+          "top": 938,
+          "right": 707,
+          "bottom": 1146
+        },
+        {
+          "left": 834,
+          "top": 938,
+          "right": 986,
+          "bottom": 1146
+        }
+      ]
+    },
+    "pretend-bunny": {
+      "id": "pretend-bunny",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/level2-third-three/pretend-bunny.webp",
+      "collar": {
+        "x": 768,
+        "y": 1100
+      },
+      "bounds": {
+        "left": 331,
+        "top": 587,
+        "right": 1197,
+        "bottom": 2276
+      },
+      "headRotation": 0
+    },
+    "sit-doze": {
+      "id": "sit-doze",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/level2-fourth-three/sit-doze.webp",
+      "collar": {
+        "x": 768,
+        "y": 1000
+      },
+      "bounds": {
+        "left": 292,
+        "top": 789,
+        "right": 1263,
+        "bottom": 1822
+      },
+      "headRotation": 1.25,
+      "foregroundRects": [
+        {
+          "left": 0,
+          "top": 0,
+          "right": 1536,
+          "bottom": 2304
+        }
+      ]
     }
   }
 }

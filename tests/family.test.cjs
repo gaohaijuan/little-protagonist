@@ -131,28 +131,40 @@ test('story numbers support every allowed family size', () => {
   for (const invalid of [-1, 13, 2.1, NaN, '3']) assert.throws(() => numberWord(invalid), RangeError);
 });
 
-test('a single-parent sibling story introduces only selected relatives and remembers the child', () => {
+test('a single-parent sibling story introduces only selected relatives and includes the child in its total', () => {
   const members = createSibling(selected('mom', 'youngerBrother'), 'youngerBrother');
   const { pages, scenes } = familyBook({ name: '小花' }, members);
   assert.equal(pages.length, scenes.length);
   const text = pages.flat().join('');
   assert.match(text, /妈妈/);
   assert.equal((text.match(/这是弟弟。/g) || []).length, 2);
-  assert.doesNotMatch(text, /爸爸|爷爷|奶奶|弟弟 2|“你呢？”/);
-  assert.deepEqual(pages.at(-1), ['我家有四口人。', '我们都在家！']);
+  assert.doesNotMatch(text, /爸爸|爷爷|奶奶|弟弟 2|“你呢？”|数|咦|忘/);
+  assert.deepEqual(pages.at(-2), ['我家有四口人。']);
+  assert.deepEqual(pages.at(-1), ['我们都在家！']);
   const count = scenes.find((scene) => scene.kind === 'count');
-  assert.equal(count.count, 3);
-  assert.equal(count.memberIds.includes('child'), false);
+  assert.equal(count.count, 4);
+  assert.deepEqual(count.memberIds, includedIds(members));
   assert.equal(scenes.at(-1).memberIds.includes('child'), true);
   assert.equal(scenes.at(-1).count, 4);
 });
 
 test('only-child selection has a short natural story without a nonexistent speaker or zero people', () => {
   const { pages, scenes } = familyBook({}, []);
-  assert.equal(pages.length, 4);
-  assert.doesNotMatch(pages.flat().join(''), /零|0|爸爸|妈妈|爷爷|奶奶/);
+  assert.deepEqual(pages, [['我家有几口人？'], ['这是我。'], ['我家有一口人。'], ['我在家！']]);
+  assert.doesNotMatch(pages.flat().join(''), /零|0|爸爸|妈妈|爷爷|奶奶|数|咦|忘/);
   assert.ok(scenes.every((scene) => scene.memberIds.length === 1 && scene.memberIds[0] === 'child'));
   assert.equal(scenes.find((scene) => scene.kind === 'count').count, 1);
+});
+
+test('the three-person opening uses a direct six-page introduction without a pretend miscount', () => {
+  const book = familyBook({}, defaultMembers());
+  assert.deepEqual(book.pages, [
+    ['我家有几口人？'], ['这是爸爸。'], ['这是妈妈。'],
+    ['还有我！'], ['我家有三口人。'], ['我们都在家！']
+  ]);
+  assert.doesNotMatch(book.pages.flat().join('') + book.description, /数|咦|忘/);
+  assert.equal(book.scenes[3].focusId, 'child');
+  assert.deepEqual(book.scenes[4], { kind: 'count', memberIds: ['child', 'dad', 'mom'], count: 3 });
 });
 
 test('every dynamic page has valid participants and preserves correct counts for one to twelve people', () => {
@@ -161,6 +173,7 @@ test('every dynamic page has valid participants and preserves correct counts for
     const { pages, scenes } = familyBook({}, members);
     const ids = new Set(includedIds(members));
     assert.equal(pages.length, scenes.length);
+    assert.doesNotMatch(pages.flat().join(''), /数|咦|忘/);
     assert.ok(pages.every((lines) => lines.length > 0 && lines.every((line) => typeof line === 'string' && line.length > 0)));
     for (const scene of scenes) {
       assert.ok(['group', 'member', 'count', 'remember'].includes(scene.kind));
@@ -168,6 +181,9 @@ test('every dynamic page has valid participants and preserves correct counts for
       assert.equal(new Set(scene.memberIds).size, scene.memberIds.length);
       if (scene.focusId) assert.ok(scene.memberIds.includes(scene.focusId));
     }
+    const count = scenes.find((scene) => scene.kind === 'count');
+    assert.equal(count.count, total);
+    assert.deepEqual(new Set(count.memberIds), ids);
     if (total > 1) assert.equal(scenes.at(-1).count, total);
     if (total < MAX_MEMBERS) members = createSibling(members, 'olderSister');
   }

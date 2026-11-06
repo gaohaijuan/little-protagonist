@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-27",
+  "mode": "built-in-imagegen",
+  "scope": "3 missing layers only",
+  "jobs": [
+    {
+      "key": "mountain-empty-sky",
+      "refs": [
+        "preview/art/sequence/mountain/clear.png"
+      ],
+      "prompt": "Edit the reference square children’s picture-book background. ONLY remove EVERY white cloud from the blue sky and from behind the mountains, replacing clouds with the same painted blue sky texture. Keep the exact mountain peaks, slopes, villages, stone wall, gate, foreground tree and leaves, grass, flowers, snail, camera and composition unchanged. Do not repaint or shift the mountains or any non-sky detail. This is a layer-preparation correction, not a new scene. No clouds anywhere, no people, no text. Preserve original rich tactile watercolor/gouache brush texture and square size, native high definition. We will add exactly TWO separate clouds later.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-6330bc93-33c4-4865-b8f4-e664de8f6924.png"
+    },
+    {
+      "key": "rain-flower-close",
+      "refs": [
+        "preview/art/sequence/layered-v1/rain-alone.webp"
+      ],
+      "prompt": "One square full-bleed close-up background illustration for the SAME children’s rainy garden story. Reference is the existing garden, flower and tactile watercolor gouache style. Show the SAME one terracotta-red daisy/cosmos-like flower with golden yellow dotted center, leafy green stem rooted in wet soil, enlarged as the natural camera focal point in center-right. Distinct heavy rain falling diagonally around it, water droplets on the petals, familiar low stone wall and cream cottage / sage window blurred by painted rain behind. No umbrella, no child, no people, no other big red flowers, no faces, no text, no faded blank right half. Keep this EXACT flower identity and style. Full native square painted detail; this is a new close camera view of the same flower, not a crop enlargement of the old landscape.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-6f32d4fc-e967-449e-bae2-67e196932c8e.png"
+    },
+    {
+      "key": "call-flying-bird",
+      "refs": [
+        "preview/art/sequence/books-06-10/bird.png"
+      ],
+      "transparent": true,
+      "prompt": "Create ONE transparent separate action layer of the exact small bird in the reference. Same golden-yellow face and chest, creamy white belly, brown cap and orange-brown layered wings, same large dark round eye and tiny orange beak, same tactile watercolor/gouache paper brushwork. Change only pose to flying from upper left toward lower right with both wings raised/open and feet naturally tucked; beak closed, no new expression, preserve bird identity. Isolated entire bird on true transparent alpha background, full feathers and wing tips intact, no scene, no branch, no motion lines, no words, no contact sheet.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-a7cd49b3-43e7-4997-b7b3-f4b1856b5910.png"
+    }
+  ]
+}

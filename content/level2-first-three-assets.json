@@ -1,0 +1,62 @@
+{
+  "morning-dad-bed": {
+    "url": "./art/sequence/level2-first-three/morning-dad-bed.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      49,
+      147,
+      1220,
+      1138
+    ],
+    "nativePixelsExact": true,
+    "sha256": "65e1b59931adfa797b9e8102fc459e2bf5b357a72c166f961590f671468efa43"
+  },
+  "morning-child-room": {
+    "url": "./art/sequence/level2-first-three/morning-child-room.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true,
+    "sha256": "711307fefd5ade942c7e21ed5c4b3e5994530daeefcb7712b8929f65fa8f1310"
+  },
+  "morning-parent-room": {
+    "url": "./art/sequence/level2-first-three/morning-parent-room.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true,
+    "sha256": "4cc5863c3dd65a343a04efebd00a6c98c86cd5be487b59206bf18eb315924a8d"
+  },
+  "morning-outside": {
+    "url": "./art/sequence/level2-first-three/morning-outside.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true,
+    "sha256": "fc20f0053015361d75608af8f3f3dcaf80fab87ae3e362cd71a409e8c58dcc72"
+  }
+}

@@ -16,7 +16,8 @@ function createBilling(store,orders){
   db.exec(`CREATE TABLE IF NOT EXISTS billing_intent_requests(user_id TEXT NOT NULL,request_key TEXT NOT NULL,fingerprint TEXT NOT NULL,intent_id TEXT NOT NULL REFERENCES billing_intents(id),PRIMARY KEY(user_id,request_key));
     INSERT OR IGNORE INTO billing_intent_requests SELECT user_id,request_key,fingerprint,id FROM billing_intents;`);
   if(!all('PRAGMA table_info(billing_refund_requests)').some(c=>c.name==='cancel_reason'))db.exec("ALTER TABLE billing_refund_requests ADD COLUMN cancel_reason TEXT NOT NULL DEFAULT ''");
-  for(const book of listBooks(undefined,undefined,{includeApproved:true}))run('INSERT OR IGNORE INTO billing_products(id,book_id,name,unit_fen,status,updated) VALUES(?,?,?,NULL,?,?)','print-'+book.id,book.id,book.title+' · 绘本打印','draft',now());
+  const edition=require('../miniprogram/lib/current-edition');
+  for(const book of [...listBooks(undefined,undefined,{includeApproved:true}),...edition.listBooks(),{id:edition.PRINT_ID,title:'第1级15篇阅读合集'}])run('INSERT OR IGNORE INTO billing_products(id,book_id,name,unit_fen,status,updated) VALUES(?,?,?,NULL,?,?)','print-'+book.id,book.id,book.title+' · 绘本打印','draft',now());
   run('INSERT OR IGNORE INTO billing_products(id,book_id,name,unit_fen,status,updated) VALUES(?,?,?,NULL,?,?)','print-level-1','level-1','第1级阅读故事集（现有'+listBooks(undefined,undefined,{includeApproved:true}).length+'个故事样册）','draft',now());
   function tx(work){db.exec('BEGIN IMMEDIATE');try{const result=work();db.exec('COMMIT');return result;}catch(error){db.exec('ROLLBACK');throw error;}}
   function requireOrder(id,userId){const order=get('SELECT * FROM print_orders WHERE id=?',id);if(!order||(userId&&order.user_id!==userId))throw failure(404,'打印订单不存在');return order;}

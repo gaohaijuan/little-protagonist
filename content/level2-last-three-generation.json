@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-28",
+  "jobs": [
+    {
+      "key": "studio-floor",
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/layered-v1/hands-room.webp"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE square 1536x1536 story BACKGROUND in exactly this warm detailed watercolor/gouache and layered-paper texture. Same preschool cottage room, viewed from a slightly higher camera looking down toward a large open honey-oak floor. Sage window and low cream wall with small shelf of books only in TOP 25 percent, natural light upper left. LOWER 75 percent is spacious uninterrupted wooden floor, gently visible woodgrain, quiet warm cream honey tones. This is where a separately composited child will sit at upper-left/center and spread a large sheet of drawing paper in lower right. No actual paper, crayons, child, animals or toys in this background; leave the floor open. Full bleed square, rich handcrafted paper texture, soft light, NOT flat vector, NOT 3D plastic. No text, watermark, borders.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-09f4e383-b525-4e82-bfc1-31900e376209.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\studio-floor.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\studio-floor.webp"
+    },
+    {
+      "key": "jump-ground-close",
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20-storyboards-v2/b20-p05.png"
+      ],
+      "prompt": "Use case: illustration-story. New close low-angle BACKGROUND of this exact sunny cottage garden, looking down slightly across a flat broad honey-colored stone path where a child learns to jump. Same rich watercolor gouache layered-paper texture, honey stone, sage grass, tiny daisies. Ground fills lower85%, distant low garden wall and soft foliage only near top. Keep center path completely free of obstacles; a small separate stone, paper, rabbit and child will be composited later. No people, rabbit, toys, paper, large rocks, furniture, text or watermark. Square1536x1536 full-bleed illustration, clear crisp texture, no blurry depth of field.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-7095df94-2f22-4446-97fd-59d9cb781c01.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\jump-ground-close.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\jump-ground-close.webp"
+    },
+    {
+      "key": "toy-train",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. One charming miniature wooden TOY STEAM LOCOMOTIVE, head pointing RIGHT, side view with a slight top-down 3/4 perspective suitable for resting on paper on a floor. Short terracotta red engine, muted teal cab and small brass yellow chimney, THREE ROUND CHARCOAL wheels visible, realistic little wooden toy construction and soft watercolor/gouache paper texture matching premium preschool illustrated picture books. No track, smoke, rails, people or ground; genuinely transparent background, all parts fully in frame, tiny contact shadow only directly below wheels, not a halo. No text, letters, numbers, watermark, borders. Landscape3:2, native crisp rich details.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-cbe99169-a428-4968-949e-8fafeab99fb9.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\toy-train.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\toy-train.webp"
+    },
+    {
+      "key": "drawing-fish",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. A drawing MADE BY A FIVE YEAR OLD: exactly ONE small orange-red fish, facing LEFT, chunky uneven orange wax-crayon oval body, triangular tail, two tiny fins, one black crayon dot eye and a little curved mouth. Naive lively childlike hand-drawn markmaking, richly visible broken wax pigment and rough paper grain INSIDE marks, not vector, not realistic fish, not an adult polished illustration. Fish fully visible in center, no water, paper, bubbles, plants, rocks or text. GENUINE transparent background so this can be layered over a child's drawing-paper scene. Landscape3:2, high native detail.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-e8ca9949-6fe3-4e10-89e4-8c71dd5f82ab.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-fish.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-fish.webp"
+    },
+    {
+      "key": "drawing-water",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. A FIVE YEAR OLD'S WAX-CRAYON DRAWING of a wide little pool of blue water ONLY, for a hand-drawn underwater home. Broad loosely overlapping pale BLUE and TURQUOISE horizontal wavy crayon strokes, an irregular wide roughly oval pond outline, large open center with translucent pale blue broken crayon scumbling, rough paper grain INSIDE the wax marks. Wide landscape3:2. True transparent background outside and in small gaps between marks. NO fish, people, plants, stones, bubbles, paper edge, floor, labels or writing. Naive child artwork, charming imperfect uneven drawing, NOT a photorealistic pond, not gradients or vector clipart. This will be a separate layer on warm ivory paper.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-49463f80-e593-4d28-9b65-41ff405c1100.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-water.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-water.webp"
+    },
+    {
+      "key": "drawing-habitat",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. A FIVE YEAR OLD'S WAX-CRAYON drawing of underwater GRASS AND STONES as one sparse landscape3:2 transparent layer: two little clumps of wavy GREEN water plants at lower-left and lower-right; TWO SMALL rounded grey-brown pebbles along lower-middle; ONE LARGE rounded grey rock at far lower-right. Open empty CENTER and TOP two thirds reserved for a fish and self-portrait layered later. Thick uneven childlike strokes with rich broken wax pigment, modest scribbled coloring, rough paper grain in marks. Genuine transparent background. No fish, water, child, bubbles, paper edges, background, shadows, text or numbers. Naive warm preschool artwork, not a naturalistic landscape or polished vector.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-28add71a-0d4d-4c3e-8b30-de0d547c4fe9.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-habitat.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-habitat.webp"
+    },
+    {
+      "key": "drawing-self",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. One preschool child's own naive SELF PORTRAIT DRAWING in wax crayon: a cheerful stick-figure child with round peach circle face, sparse black hair lines, two black dot eyes, simple curved smile, YELLOW roughly rectangular sweater, two simple green shorts shapes, skinny crayon arms stretched sideways and little red shoes. It should look drawn by a five-year-old on paper, absolutely NOT a realistic or generated portrait of the book protagonist. Full body centrally framed, large empty margins. Bold uneven wavering wax marks, visible pigment and rough paper texture within the marks. GENUINE transparent background, no paper, water, fish, bubbles, stars, scenery, text, borders or labels. Warm charming imperfect crayon doodle, not a polished vector illustration.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-873ddd1e-58c6-42e0-a49c-2d782942b2f6.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-self.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-self.webp"
+    },
+    {
+      "key": "drawing-trees-flowers",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. A five-year-old's naive WAX CRAYON DRAWING, separate transparent layer of THREE SMALL GREEN TREES and FOUR RED FLOWERS along a little roadside. Arrange trees across upper half at x20%,50%,80%, each a scribbly green crown and brown trunk; red flowers as simple little red circles with green stems in a line below, leaving bottom quarter empty. Rich broken wax pigment and rough paper grain visible inside thick uneven marks. Real transparency outside marks, no road, train, paper, floor, people, animals, clouds, lettering, numbers, labels or border. Landscape3:2. Charming very simple child art, NOT grown-up watercolor scenery or smooth clipart.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-d1f640df-e3a5-4419-994b-aa8c533c6228.png",
+      "method": "built-in imagegen",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\drawing-trees-flowers.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\drawing-trees-flowers.webp"
+    }
+  ]
+}

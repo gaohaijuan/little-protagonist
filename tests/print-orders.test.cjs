@@ -7,7 +7,7 @@ async function setup(t,{beforeOpen,...options}={}){
   const directory=fs.mkdtempSync(path.join(os.tmpdir(),'little-story-orders-'));let clock=Date.parse('2026-10-16T09:00:00Z');const errors=[];
   if(beforeOpen)beforeOpen(directory,clock);
   const app=createApplication({adminPassword:'order-test-password',dataDir:directory,now:()=>clock,onError:e=>errors.push(e.message),...options});
-  app.server.listen(20000+crypto.randomInt(40000),'127.0.0.1');await once(app.server,'listening');const base='http://127.0.0.1:'+app.server.address().port;
+  app.server.listen(0,'127.0.0.1');await once(app.server,'listening');const base='http://127.0.0.1:'+app.server.address().port;
   const request=(route,options)=>fetch(base+route,options);
   const post=(route,input,headers={})=>request(route,{method:'POST',headers:{'Content-Type':'application/json',...headers},body:JSON.stringify(input)});
   const account=app.store.userSession(),other=app.store.userSession();
@@ -49,6 +49,19 @@ test('print service saves a canonical story and volume snapshot with the exact r
   assert.deepEqual(own.printPlan,order.printPlan);assert.deepEqual(admin.printPlan,order.printPlan);
   const changed=await (await f.patch(order,{items:[{receiptId:id,copies:3}]})).json();assert.deepEqual(changed.printPlan,order.printPlan);
   const downloaded=await f.request('/api/admin/prints/'+id+'/file',{headers:f.admin});assert.deepEqual(Buffer.from(await downloaded.arrayBuffer()),PDF);
+});
+
+test('15-story edition receives one versioned volume, retries safely and cannot inherit old product prices',async t=>{
+  const current=require('../miniprogram/lib/current-edition'),f=await setup(t),plan=current.orderPlan();
+  const id=await f.receipt('第1级15篇合集',f.account,current.PRINT_ID),input=f.input([id],{printPlan:{edition:current.EDITION,level:1,storyCount:15,volumeCount:1}}),order=await f.create(input);
+  assert.deepEqual(order.printPlan,plan);assert.equal(order.items[0].copies,2);
+  const retry=await f.post('/api/print-orders',input,f.auth);assert.equal(retry.status,200);assert.equal((await retry.json()).id,order.id);
+  for(const changed of [{storyCount:20},{volumeCount:2},{edition:'unknown-edition'},{level:2}])assert.equal((await f.post('/api/print-orders',f.input([id],{printPlan:{...input.printPlan,...changed}}),f.auth)).status,400);
+  const old=await f.receipt('旧六篇样册',f.account,'level-1');
+  assert.equal((await f.post('/api/print-orders',f.input([old],{printPlan:input.printPlan}),f.auth)).status,400);
+  const product=f.billing.productList().rows.find(p=>p.book_id===current.PRINT_ID);assert.ok(product);assert.equal(product.unit_fen,null);assert.equal(product.status,'draft');
+  const downloaded=await f.request('/api/admin/prints/'+id+'/file',{headers:f.admin});assert.deepEqual(Buffer.from(await downloaded.arrayBuffer()),PDF);
+  assert.equal(f.orders.list({days:'all'}).total,1);
 });
 
 test('print service rejects unavailable levels, inflated story counts and mismatched volumes',async t=>{

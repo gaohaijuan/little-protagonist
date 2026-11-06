@@ -1,0 +1,67 @@
+{
+  "method": "Built-in imagegen only; no image API or CLI",
+  "date": "2026-10-23",
+  "manuscript": "content/level1-stories-11-20.json:11–13",
+  "characterModel": "Existing registered child-v1 poses; no new head/body generation",
+  "assets": [
+    {
+      "id": "tree-welcome",
+      "prompt": "Use case: illustration-story. New square children's picture-book background plate in richly detailed warm gouache/watercolor on tactile cream paper, idyllic sunlit stone cottage garden, muted sage door, daisies, yellow flowers, terracotta roof and a rustic low limestone wall, coherent with a handmade Chinese early-reader book. Low child-eye-level establishing view of a small planted garden bed on LEFT and broad clear dry grass/flat paving CENTER and RIGHT for separately composited child, young sapling and low stepping stone. A plain weathered measuring stake stands at far left of planting bed, no writing on it. Fresh morning, welcoming growing garden. No people, body parts, animals or sapling drawn; leave planting patch open. Square full edge-to-edge scene, highest native detail and crisp painting, no text or watermark.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-7e3c1bc8-0f84-451e-8f8d-c1d43d7a2773.png"
+    },
+    {
+      "id": "calling-wide",
+      "prompt": "Use case: illustration-story. New square complete painterly gouache/watercolor children's book garden background, thick textured cream paper, warm sunny cottage garden with cream stone walls, muted sage door at rear right, white/yellow daisies and a low limestone wall. A SMALL young deciduous tree occupies LEFT half, distinctive thin forked trunk at x28% and one clearly readable near-horizontal bare branch at x22..43%,y32%, with green leaves around it. Clear grass/path on lower center/right reserved for separately composited child; clear flat paving at lower right reserved for a small red wooden toy car. Natural child-eye-level wide shot, rich details. Absolutely no people, no birds, no cats, no toy car, no writing. Full square frame at maximum available native resolution, no border or watermark.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-c7a4a488-8078-4310-a1f4-75c2d35a2adf.png"
+    },
+    {
+      "id": "cat-play-wide",
+      "prompt": "Use case: illustration-story. Square full richly painted gouache/watercolor background for a warm children's early reader. Same rustic cream stone cottage, sage green doorway, terracotta pots, white daisies/yellow flowers, honey sunlit small enclosed garden with low limestone back wall. New child-eye-level view toward a simple flat grass and stone PLAY PATCH, broad and clear across lower two-thirds for a separately composited child on LEFT and a small cat on RIGHT with two toy balls between them. Natural organic perspective, flowers frame side edges without covering play space, crisp visible brush and paper texture, warm joyful but quiet mood. No people, body parts, animals, balls or toy cars painted in. Square edge-to-edge highest native detail, no text or watermark.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-d6f89ca1-7f2f-4894-b00c-432c493e4d2e.png"
+    },
+    {
+      "id": "tree-growth-detail",
+      "ref": "tree-welcome",
+      "prompt": "Use case: illustration-story scene continuity edit. Same warm hand-painted gouache/watercolor cottage garden in reference, same white and yellow flowers and cream stone wall. A NEW closer child-eye-level view of the LEFT planting bed and its plain weathered wooden measuring stake, with visible old simple pencil tick marks at two heights but NO letters/numbers. Keep empty planting space at left-center reserved for a separately composited sapling and clear dry ground on right reserved for a child. No tree/sapling in the planting space, no people, faces or body parts, no new stepping stone. This illustrates past and present growth marks, not instantaneous growth. Rich tactile paper brush detail, square complete scene, maximum native resolution, no writing or watermark; new viewpoint, not a mere crop.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-f8451c0c-2101-4583-a231-2f3764ebe0dc.png"
+    },
+    {
+      "id": "calling-up",
+      "ref": "calling-wide",
+      "prompt": "Use case: illustration-story scene continuity edit. NEW upward-looking close shot of the SAME small forked deciduous garden tree in the reference, in same watercolor/gouache paper style and sunlight. Tree's single bare near-horizontal twig crosses center of frame at approximately x25..65%,y48%, with leaves around it, blue sky and white clouds behind, hint of same sage cottage roof low right. A separately composited bird will stand near x45%,y48%; leave its twig visible and bare. No bird, no cat, no child, no lettering. Make a real upward view from below, a distinct complete scene and not a digital crop. Square edge-to-edge crisp native detail.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-cd9e080b-96a2-4c56-9157-8dd89ddb1d24.png"
+    },
+    {
+      "id": "calling-down",
+      "ref": "calling-wide",
+      "prompt": "Use case: illustration-story scene continuity edit. NEW low DOWNWARD eye-level close shot at the BASE of the SAME small forked tree and cottage garden from reference. Tree trunk at left, low limestone wall and sage cottage door behind right, white/yellow daisies. Clear DRY grassy patch across lower half reserved for one separately composited small orange kitten, and a little child on right. Tree roots in soil remain at far left. No kitten, bird, people, toys or body parts in the plate. Detailed warm hand-painted gouache/watercolor paper texture, maximum native clarity, square full frame, new ground-level observation viewpoint, no text/watermark.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-466446e3-d561-4be8-8b5a-30b8e4d92a02.png"
+    },
+    {
+      "id": "cat-offer-close",
+      "ref": "cat-play-wide",
+      "prompt": "Use case: illustration-story scene continuity edit. NEW LOW closer viewpoint over the same cottage play patch in reference: same muted sage green door on LEFT, cream stone wall across back, golden/white daisies, sunny small enclosed home garden. Ground now fills lower three-quarters, clean smooth DRY grass/paving for separately composited child at RIGHT and orange kitten at LEFT with two balls between them. Background door and pots same identity, perspective visibly closer and lower, not just a crop. No people, animals, body parts, balls or cars. Square full edge-to-edge warm thick watercolor/gouache painting, crisp paper texture, maximum native detail, no text.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-e0958bfc-2d69-4c74-9410-6124f634de52.png"
+    },
+    {
+      "id": "cat-quiet",
+      "alpha": true,
+      "refPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-06-10\\cat.png",
+      "prompt": "Use case: precise-object-edit. Keep this EXACT orange-and-ivory paper-textured watercolor kitten, same green eyes, stripes, front-facing sitting pose, same tail and paws, same outline and canvas. Change ONLY its mouth from open/meowing to gently CLOSED, quiet neutral expression. Keep eyes, head size and body proportions unchanged. Preserve genuine transparency, no ground/background, no ball, no text, same full object and margin. This quiet kitten waits while a child offers balls; no added accessories.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-4707e664-e17e-463a-80ff-d2e94a75da5d.png"
+    },
+    {
+      "id": "cat-walk",
+      "alpha": true,
+      "refPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-06-10\\cat.png",
+      "prompt": "Use case: illustration-story identity-preserving animal pose edit. The SAME small orange tabby kitten from reference, identical orange stripes, ivory white muzzle/chest/paws and large green eyes, same youthful proportions and thick tactile watercolor/gouache paper cut texture. New pose: gently WALKING LEFT toward a rolling toy ball, three-quarter side view, one forepaw reaching a little ahead, tail raised loosely, mouth closed, curious friendly expression. Whole kitten fully visible, same anatomical size, no attacking posture or arched aggression. Genuine transparent background, no floor, no ball or other objects, no people or lettering. Square native high detail, full ears/tail/paws with margin.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-b6df663a-8f43-41a0-9a60-33f71339b809.png"
+    },
+    {
+      "id": "cat-rolling-side",
+      "ref": "cat-play-wide",
+      "prompt": "Use case: illustration-story scene continuity edit. New CLEAR SIDE-ON LOW CAMERA view across the SAME cottage garden play patch, for the action of rolling a ball from a child on LEFT toward kitten on RIGHT. Unlike reference's wide view, camera is close to ground and turned 70 degrees to look ALONG the flat path; foreground is a long smooth unbroken flat stone path crossing horizontally left-right across lower half, tall golden/white daisies and low limestone wall run behind, same muted sage cottage door now far in RIGHT background. Crisp handmade watercolor/gouache paper texture, bright warm sunlight. Clear space on LEFT for separate crouching child, clear ground RIGHT for separate walking orange kitten; no figures, animals or balls drawn. Square full scene at highest native resolution, not a crop or the identical wide courtyard camera, no text/watermark.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-3a2c5ce8-02a2-46b7-a3bf-c6c9be75faa7.png"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-28",
+  "method": "Built-in imagegen; approved fictional figures only; no real portrait inputs.",
+  "jobs": [
+    {
+      "key": "child-neutral-head",
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/family/child-head.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit THIS approved ILLUSTRATED child head only; it is a fictional drawing, not a photograph. Preserve exact identity, head shape, black-brown layered paper hair with full crown, ears, peach skin, original large dark eyes, gouache paper texture and ORIGINAL chin-to-crown and width proportions. Change expression only: the child is trying seriously NOT TO LAUGH. Mouth completely CLOSED, a small relaxed nearly horizontal lip line, no upturned corners, no visible teeth or tongue, cheeks relaxed, eyebrows neutral. Pupils look toward the RIGHT side of frame toward the child's father, gaze attentive, no anger or sadness. Retain the same largely frontal head orientation and chin center, no body or neck added. No smiling eyes or grin. Full original hair silhouette, ears and chin entirely inside generous true transparent margins. One head only, no scene, halo, text, watermark or border.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-528815cb-d9d8-4494-9085-40d5dd1d8ac7.png",
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native\\child-neutral-head.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-review-fixes\\child-neutral-head.webp"
+    },
+    {
+      "key": "child-teeth-head",
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/family/child-head.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. This is a fictional ILLUSTRATED child head. Preserve its exact familiar identity, facial proportions, entire black-brown hair, eyes, ears, skin, chin shape and richly detailed gouache cut-paper texture. Change ONLY the small happy open mouth: make a joyful natural small smile with FOUR TINY clearly separate CREAM UPPER FRONT TEETH visible, so a preschool reader can see the child's teeth. Thin darker separations between the little teeth, not giant buck teeth, no fangs, no full adult dentures, no huge mouth. Eye gaze gently toward RIGHT. Keep head nearly frontal, same proportions, original expression otherwise warm. No body/neck or props. Full hair and chin with margins on genuinely transparent background. No lettering, halo or watermark.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-62fbf834-911d-407d-a1c7-be904a862bb5.png",
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native\\child-teeth-head.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-review-fixes\\child-teeth-head.webp"
+    },
+    {
+      "key": "dad-seated-neutral-front",
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/family/heads.webp",
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/level2-third-three/dad-seated-back.webp"
+      ],
+      "prompt": "Use case: illustration-story. One independent transparent seated DAD character for the SAME picture book. Image1 TOP LEFT face is the ONLY father identity reference; ignore the other three faces. Image2 is his SAME clothing, anatomy, stool and seated pose reference, but we now see him from the FRONT in a three-quarter view facing LEFT. Preserve his short dark wavy hair, youthful adult face and medium eyes, teal blue long-sleeved overshirt, brown trousers, beige canvas shoes and round plain wooden stool. He is playing 'don't laugh' with a child to his LEFT: lean gently forward, hands resting naturally on knees, look attentively DOWN-LEFT toward that child at eye level. Mouth CLOSED with a level relaxed line and NO smiling corners; eyebrows calm, NO grin, NO angry frown. Face, both eyes and closed lips clearly readable. Full man including entire head, hands, shoes and entire stool, no clipping. Adult limb proportions coherent with the reference. Genuine alpha background, no floor, shadows cloud, halo, text, props or extra people. Premium warm richly textured watercolor/gouache cut paper, same palette and lighting as references.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-5a768ac9-3a5f-4f1b-b2d1-32c05c9959eb.png",
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native\\dad-seated-neutral-front.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-review-fixes\\dad-seated-neutral-front.webp"
+    },
+    {
+      "key": "morning-empty-bed",
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/level2-first-three/morning-dad-bed.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Change ONLY the person in this isolated bed layer: the father has just got up and is no longer in bed. Remove his entire hair/head and any body form. Preserve this EXACT honey wooden bed, identical three-quarter camera angle, footboard, headboard with finials, legs, sage green floral quilt and cream floral pillow. The blanket lies gently rumpled and lower near the pillow after he got up, pillow empty with subtle shallow depression. Do not change the bed size, perspective, outer silhouette, furniture design or the quilt's flowers. Genuine transparent background as input. One complete bed, no people, text, ground or shadow cloud.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-2d2e1d85-ef6e-4dea-b2ec-f20d79d5827f.png",
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native\\morning-empty-bed.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-review-fixes\\morning-empty-bed.webp"
+    },
+    {
+      "key": "wear-big-shoes-body",
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20/child-barefoot-v2.png",
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20/adult-shoes.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Input1 is the exact approved HEADLESS child's standing body MASTER. Preserve torso, collar, yellow sweater and white pocket, arm gesture, sage shorts, thigh/calf lengths, anatomical size and all upper-body details. Edit ONLY BELOW THE ANKLES: put both little feet genuinely INSIDE the two much-too-large BROWN LEATHER ADULT LOAFERS from input2. Each ankle descends into its own shoe opening; the shoe collar curves IN FRONT of the lower ankle; the small toes are entirely hidden inside the oversized shoes. Shoes remain comically big and extend well in front of toes. Visible inner lining only at heel gaps beside each ankle, never an empty full opening in front of an ankle. Both feet firmly inside, heels planted, consistent perspective as input1. Preserve natural ankle/shoe occlusion and a little loose space around ankle. Same existing body scale, no stretching or shortening legs, no new head or face. Full hands and complete shoes in frame on true transparent background, with generous margins above collar. No floor, props, outline halo or writing. Rich original gouache/paper texture.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-bf8baa55-e627-47a0-a351-22030a18df98.png",
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native\\wear-big-shoes-body.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-review-fixes\\wear-big-shoes-body.webp"
+    },
+    {
+      "key": "fruit-eaten-clear",
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-17-19/fruit-bitten.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Preserve this exact red-yellow apple's warm gouache paper texture, small brown stem and green leaf. Make the eaten state UNMISTAKABLE at small picture-book size: a LARGE rounded scalloped bite removes roughly the upper RIGHT QUARTER of the apple, including a visible missing section in outer silhouette. Broad pale cream juicy flesh face with three shallow natural small tooth scallops along bite edge; no red skin painted over bite. Remaining apple is still clearly red-yellow and fresh, a large bite rather than a whole apple with a tiny nick. Single apple, no hand, no scene, no text, real transparent background.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-534ba4fc-49d9-431e-a071-6a8e9e3b6576.png",
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native\\fruit-eaten-clear.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-review-fixes\\fruit-eaten-clear.webp"
+    },
+    {
+      "key": "pov-rabbit-hands",
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20/child-barefoot-v2.png"
+      ],
+      "prompt": "Use case: illustration-story. Separate transparent FIRST-PERSON gesture layer seen through a small child's OWN eyes while playing rabbit ears with dad. ONLY the two small hands with short yellow textured sweater cuffs at the OUTER TOP LEFT and OUTER TOP RIGHT edges of a wide3:2 frame. Each hand has index and middle finger extended upright together like rabbit ears above the viewer's unseen head, remaining fingers folded naturally. Hands are at the temples/top of viewer's head, seen mostly from inner palms/side, not a separate person standing in frame. Leave CENTER 65percent and lower area entirely transparent for father and room. Same peach skin and yellow paper-knit sweater texture as reference. Five natural fingers per hand, no extra digits. No actual head, child body, face, ears, dad, scenery, labels, speed lines, halo or text. True alpha transparency.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-f4162e6a-b6b2-4248-ba24-8be44ce106e0.png",
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native\\pov-rabbit-hands.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-review-fixes\\pov-rabbit-hands.webp"
+    },
+    {
+      "key": "pov-cat-hands",
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20/child-barefoot-v2.png"
+      ],
+      "prompt": "Use case: illustration-story. One separate transparent FIRST-PERSON gesture layer, seen through a small child's OWN eyes while pretending to be a cat with dad. ONLY two small hands and yellow textured sweater cuffs, close to unseen cheeks at the FAR LEFT and FAR RIGHT sides of a wide3:2 frame. Fingers splay sideways as playful cat whiskers beside the viewer's unseen face. Leave the CENTER 65percent clear and entirely transparent, so dad's expression remains readable. Same peach skin and richly textured yellow paper-knit sleeves as reference. Natural five fingers per hand, correct small child anatomy. No visible child head, cheek, eyes, mouth, body, actual cat, dad, room, props, text, halo, shadow cloud or borders. Genuine alpha transparency.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-a6af3bdb-9cc3-4a63-8890-1b98883fd87b.png",
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native\\pov-cat-hands.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-review-fixes\\pov-cat-hands.webp"
+    },
+    {
+      "key": "dad-seated-smile-front",
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "C:/Users/Administrator/.codex/generated_images/01a18133-f2b0-7bb3-b08e-1804f0206ef5/exec-5a768ac9-3a5f-4f1b-b2d1-32c05c9959eb.png",
+        "C:/Users/Administrator/.codex/generated_images/01a18133-f2b0-7bb3-b08e-1804f0206ef5/exec-82a9c7c3-d53d-4359-9889-797c1e923f2c.png"
+      ],
+      "prompt": "Use case: background-extraction. Image2 is the SMILING DAD target: preserve his exact happy open smile and ALL original figure and wooden stool pixels, no repainting. Image1 shows the clean isolated silhouette of the same father at the same pose; use its outer silhouette to remove the unwanted residual brown/black haze from image2. Output one complete smiling dad and stool on GENUINE ALPHA TRANSPARENCY. Every pixel OUTSIDE father/stool silhouette must have alpha ZERO, especially all four corners and margins. No dark opaque corners, no colored fog around legs, no floor shadow, no checkerboard painted into image. Preserve all hair tips, fingers and shoes. Same1024x1536 composition, no text or other edits.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a18133-f2b0-7bb3-b08e-1804f0206ef5\\exec-323ea08d-cdec-4905-9876-d7643bdb466f.png",
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-review-fixes-native\\dad-seated-smile-front.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-review-fixes\\dad-seated-smile-front.webp"
+    }
+  ]
+}

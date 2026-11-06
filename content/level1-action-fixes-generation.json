@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-27",
+  "method": "Built-in imagegen only; no image API or CLI; no face or head generated.",
+  "scope": "Five reported issues plus directional invitations in calling; manuscript unchanged.",
+  "jobs": [
+    {
+      "key": "walk-carry-right",
+      "prompt": "Use case: precise-object-edit, independent character body action library. Edit target is the HEADLESS child body reference, not a finished page. Keep the EXACT same warm yellow knitted sweater, cream chest pocket, sage-green cuffed shorts, white socks, red canvas sneakers, skin tone, hand size, torso/limb lengths and watercolor/gouache paper texture. Keep the neck/collar at the same source location and same size; NO HEAD, FACE or HAIR. Change only pose: a clear comfortable WALKING STRIDE toward screen RIGHT, right leg stepping forward, left leg behind with heel lifted, both feet visibly at different horizontal and vertical positions. Upper body in slight three-quarter turn right, both cupped hands held together in front of belly as in reference to carry ONE small pebble added later. Hands empty. This must unmistakably be walking rather than standing. Entire body from collar to soles, genuine alpha transparency, no floor, cast-shadow blob, halo, background, object, writing or watermark. Portrait 2:3 canvas, intended registered source1024x1536, same anatomy and collar-to-ground scale as source; leave safe margin around raised foot. Do not change clothing design or anatomy to fill the canvas.",
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-11-15/child-carry-v2.png"
+      ],
+      "kind": "pose",
+      "transparent": true,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-61783806-c98e-4265-bfb5-05205ce4762a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "accepted": true,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-61783806-c98e-4265-bfb5-05205ce4762a.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\action-fixes-native\\walk-carry-right.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\action-fixes\\walk-carry-right.webp"
+    },
+    {
+      "key": "crouch-reach-right",
+      "prompt": "Use case: precise-object-edit, HEADLESS registered child action body. Reference is the existing crouching child body template. Preserve EXACT clothing, tactile watercolor/gouache cut-paper texture, skin tone, body size, torso/limb lengths, green shorts, white socks and red sneakers. No head, face or hair. Change the action to an unmistakable crouching REACH/PUSH TOWARD SCREEN RIGHT. Torso leans right over bent knees, visible neckline tilts slightly down to the right; one hand rests on the nearer knee, the other arm stretches diagonally down and right, with open fingertips hovering just above ground at the far RIGHT edge, ready to gently push a ball rightward. Rightward action must be obvious; no hand reaches to the LEFT. Keep neck/collar and hips anatomy size consistent with reference; do not stretch the crouch into standing. Full entire body and both shoes within frame, headless neck visible, genuinely transparent background, no head/ball/cat/ground/scene/shadow blob/writing. Portrait 2:3 canvas 1024x1536, generous clearance above collar and beside reaching fingers; no face or identity change.",
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/first-ten/child-crouch-touch.webp"
+      ],
+      "kind": "pose",
+      "transparent": true,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-589977ac-64a0-493b-a6d5-2b0cb1acef95.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "accepted": false,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-589977ac-64a0-493b-a6d5-2b0cb1acef95.png"
+    },
+    {
+      "key": "crouch-reach-right-safe",
+      "prompt": "Use case: precise-object-edit. Preserve the SAME HEADLESS crouch-reaching-RIGHT child body from reference pixel design: clothing, anatomy, pose, yellow sweater, green shorts, red sneakers and hand gesture unchanged. Make the canvas SQUARE 1:1 with enough transparent space around the entire body. Reframe/outpaint ONLY the clipped far-right fingertips so ALL FIVE FINGERS and all limbs are fully visible with at least 8% transparent margin to every edge. Do not change the pose or shrink individual body parts; uniformly frame the whole body. Keep the right arm stretched down-right, left hand on knee. NO HEAD, FACE, HAIR, ball or scene. Genuine alpha transparency, remove the diffuse colored glow/shadow around the body, no writing/border/watermark. Full-body source sprite for a reusable character action library; maximum native detail.",
+      "refs": [
+        "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-589977ac-64a0-493b-a6d5-2b0cb1acef95.png"
+      ],
+      "kind": "pose",
+      "transparent": true,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-cfd5a2a4-0d5e-4920-b512-0537934faee4.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "accepted": true,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-cfd5a2a4-0d5e-4920-b512-0537934faee4.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\action-fixes-native\\crouch-reach-right-safe.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\action-fixes\\crouch-reach-right-safe.webp"
+    },
+    {
+      "key": "invite-up-right",
+      "prompt": "Use case: precise-object-edit for an independent HEADLESS child action library. Keep exact same child-v1 body proportions, warm yellow sweater with cream pocket, sage-green cuffed shorts, white socks, red canvas shoes, skin tone and tactile watercolor/gouache cut-paper texture as reference. Change only ARM/TORSO ACTION: body gently turns and leans toward screen RIGHT; right arm is raised UP-RIGHT with an open inviting palm higher than the shoulder, as calling a bird in a tree to come down. Other hand open near waist, relaxed. Preserve torso length and both leg lengths/stance; no walking. The neck slot must be visible for the original unmodified portrait to be composited later. NO HEAD, FACE, HAIR, bird or object. Portrait 2:3 source canvas, entire body, all fingers and shoes with safe margins, TRUE alpha transparency, no diffuse glow, ground or shadows, no text or watermark.",
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/family/child-body.webp"
+      ],
+      "kind": "pose",
+      "transparent": true,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-3af6d974-fcdf-40af-9a29-8cf247c5c00f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "accepted": true,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-3af6d974-fcdf-40af-9a29-8cf247c5c00f.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\action-fixes-native\\invite-up-right.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\action-fixes\\invite-up-right.webp"
+    },
+    {
+      "key": "pov-bare-feet",
+      "prompt": "Use case: illustration-story FIRST-PERSON body-detail layer. Reference establishes SAME preschool child's skin tone, sage green shorts and warm yellow sweater; no face or head is part of this view. Draw what the child sees when bending head STRAIGHT DOWN to look at their own bare feet. Genuine alpha transparency, square1:1. In the lower half, two small BARE FEET and lower legs viewed FROM ABOVE, toes pointing toward upper edge, left foot centered around(34%,62%), right foot around(66%,67%); entire feet visible, realistic five toes per foot, correct top-of-foot anatomy. A little green shorts hem at bottom edge only, yellow sleeve and one pointing hand enter from upper-left toward the RIGHT instep. Keep the central right instep clear at around(66%,65%) for a separate small caterpillar to be composited later; hand should stop safely before this target. Do not draw any insect, ground, grass, stone, face, head, lettering, border or shadow backdrop. Clear painted detail, exact established watercolor/gouache cut-paper texture and child proportions, natural first-person foreshortening, no extra hands/feet. This is a deliberate downward viewpoint, not a cropped standing front portrait.",
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20/child-barefoot-v2.png"
+      ],
+      "kind": "detail",
+      "transparent": true,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-89b85e42-f2c2-41a9-aaa9-11cc95ad491e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "accepted": true,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-89b85e42-f2c2-41a9-aaa9-11cc95ad491e.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\action-fixes-native\\pov-bare-feet.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\action-fixes\\pov-bare-feet.webp"
+    },
+    {
+      "key": "pov-search-hand",
+      "prompt": "Use case: illustration-story isolated FIRST-PERSON hand-detail layer. Same preschool child identity/clothing texture as reference: small natural hand, warm skin, yellow knitted sweater cuff, rich watercolor/gouache paper texture. Draw ONLY one complete forearm and hand, seen from the child's looking-down point of view, sleeve entering from LOWER LEFT, index finger extended diagonally toward UPPER RIGHT to point at an off-image search target. Four other fingers naturally curled with thumb visible; correct anatomy, no extra fingers. Entire fingertips clearly inside frame with safe margin. Genuine transparent background, SQUARE1:1, no face/head/body/legs/feet/cart/ball/ground, no shadow backdrop/glow, text or border. Clear inspect/search gesture, not a front-facing waving palm; arm and hand must form one clean independent layer for reusable first-person scenes.",
+      "refs": [
+        "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-89b85e42-f2c2-41a9-aaa9-11cc95ad491e.png"
+      ],
+      "kind": "detail",
+      "transparent": true,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-db351b6f-3b85-4871-94ab-e93e0a90ed77.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "accepted": true,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-db351b6f-3b85-4871-94ab-e93e0a90ed77.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\action-fixes-native\\pov-search-hand.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\action-fixes\\pov-search-hand.webp"
+    },
+    {
+      "key": "height-comparison-wall",
+      "prompt": "Use case: precise-object-edit, complete background plate for same picture-book garden. Reference is the existing cottage courtyard. Keep SAME warm hand-painted gouache/watercolor paper texture, cream limestone cottage at far RIGHT with muted teal door, terracotta pots, daisies, gentle morning sun, familiar pale flagstones and short grass. For a clear height-comparison scene, change the camera to face a SIMPLE UNBROKEN PALE CREAM GARDEN WALL filling the LEFT TWO THIRDS behind the characters from y15% to75%. No overhanging branches, foliage, bushes, tree silhouettes or wall decorations in this left/center area: a separate small sapling must have its entire crown visually isolated against the pale wall. Sparse plants only at extreme right and bottom margins, ground level and continuous across bottom quarter. No sapling, stone platform, people, heads, toys, animals, shadows resembling trees, text or border baked in; all main story elements are independent layers. Square1:1 edge-to-edge, rich native painted detail, calm naturally furnished garden rather than blank page. Preserve original style, house identity and colors.",
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-11-15/play-courtyard.png"
+      ],
+      "kind": "background",
+      "transparent": false,
+      "resultHint": "Generated images are saved to C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34 as C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-fa335637-bf11-4383-bd52-4147b941feb1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "accepted": true,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-fa335637-bf11-4383-bd52-4147b941feb1.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\action-fixes-native\\height-comparison-wall.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\action-fixes\\height-comparison-wall.webp"
+    }
+  ]
+}

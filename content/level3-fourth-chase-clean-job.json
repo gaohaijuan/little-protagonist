@@ -1,0 +1,4 @@
+{
+  "prompt": "Use case: precise-object-edit. Edit target: the supplied square watercolor garden path. Remove ONLY the one loose airborne leaf at about 58% image width,24% height and its two faint blue motion strokes extending left/down from it. Replace them with matching clear pale blue watercolor sky texture. Preserve all attached tree leaves,flowers,all tree branches,the distant tree,gate,wall,winding pink path,colors,lighting,composition and square dimensions. No new objects or text. This must be a clean background plate with absolutely NO detached leaves floating in the air.",
+  "source": "garden-chase.png"
+}

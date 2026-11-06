@@ -1,0 +1,11 @@
+'use strict';
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const root=path.resolve(__dirname,'..'),source=JSON.parse(fs.readFileSync(path.join(root,'../output/level1-approved-15-20261026/第一级15篇-用户指定文稿.json'),'utf8'));
+const previous=require('../miniprogram/lib/revised-eleven-manuscripts'),numbers=[1,7,9,14];
+const added=source.books.filter(b=>numbers.includes(b.number)).map(b=>({...b,sourceId:b.id,id:b.id+'-complete',pages:b.number===14?[...b.paragraphs.slice(0,6).map(t=>[t]),b.paragraphs.slice(6)]:b.paragraphs.map(t=>[t]),tag:'沿用插画同步文字',group:'第一级审核版',description:'用户指定文案，沿用原有分层插画。'}));
+for(const b of added)assert.deepEqual(b.pages.flat(),b.paragraphs);
+const books=[...previous.books,...added].sort((a,b)=>a.number-b.number),course=source.books.map(b=>({...b,pages:b.paragraphs.map(t=>[t])}));
+const stats=require('../miniprogram/lib/literacy').summarizeBooks(course);
+const result={edition:'level1-complete-15-20261027',scope:'用户指定的第一级完整15篇审核合集。',localNumbers:numbers,books,course,stats:books.map(b=>({...stats.find(s=>s.number===b.number),id:b.id})),statisticsBasis:'按15篇正文顺序；去重、姓名另计，接触不代表掌握。'};
+for(const name of ['content/level1-complete-fifteen.json','miniprogram/lib/complete-fifteen-manuscripts.js'])fs.writeFileSync(path.join(root,name),name.endsWith('.js')?"'use strict';\nmodule.exports="+JSON.stringify(result,null,2)+';\n':JSON.stringify(result,null,2)+'\n');
+console.log('Complete15: '+books.reduce((n,b)=>n+b.pages.length,0)+' exact-text body pages.');

@@ -1,0 +1,56 @@
+[
+  {
+    "pose": "pretend-cat",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "sourceCollar": [
+      510,
+      300
+    ],
+    "sourceSole": 1460,
+    "uniformScale": 1.013793103448276,
+    "offset": [
+      250.9655172413793,
+      795.8620689655172
+    ],
+    "registeredSize": [
+      1536,
+      2560
+    ],
+    "registeredCollar": [
+      768,
+      1100
+    ],
+    "registeredSole": 2276,
+    "headGeometryChanged": false
+  },
+  {
+    "pose": "pretend-bunny",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "sourceCollar": [
+      632,
+      440
+    ],
+    "sourceSole": 1236,
+    "uniformScale": 1.4773869346733668,
+    "offset": [
+      -165.7085427135678,
+      449.9497487437186
+    ],
+    "registeredSize": [
+      1536,
+      2560
+    ],
+    "registeredCollar": [
+      768,
+      1100
+    ],
+    "registeredSole": 2276,
+    "headGeometryChanged": false
+  }
+]

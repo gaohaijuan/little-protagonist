@@ -1,0 +1,55 @@
+{
+  "method": "Built-in imagegen only; no image API or CLI. Existing outputs reused, no further generation.",
+  "date": "2026-10-24",
+  "manuscript": "content/level1-stories-11-20.json:20",
+  "assets": [
+    {
+      "id": "sleep-window",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-17-19/bed-room-end.webp",
+      "generated": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-d0037a05-134f-4de5-84d7-d3e18a0dc0df.png",
+      "prompt": "Use case: illustration-story, complete layered background for the same Chinese preschool picture-book series. Reference image is a STYLE AND ROOM continuity reference. Keep the exact tactile gouache/watercolor cut-paper texture, cream plaster, muted teal window frames, oak furniture and soft foliage shapes. Evening after sunset: indigo-violet outdoors with faint peach horizon and gentle warm indoor lamplight; keep print detail and readable warm midtones, not black darkness. Square full illustration, highest native detail. NO people, heads, cats, birds, toys, shoes, lettering or watermark. All characters and small props will be independent layers. NEW establishing room view from inside: a CLOSED glazed teal window occupies upper RIGHT, outside is the familiar garden tree, a broad near-horizontal branch crossing window at (76%,43%). Back left low oak shelf, closed books and wicker basket. Low lamp casts a warm oval onto broad flat wooden floor. Clear complete child standing space LEFT (33%,94%) and enough head space. Cozy quiet mood, room remains fully indoors; never show an open door leading outside."
+    },
+    {
+      "id": "sleep-catwide",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-17-19/bed-room-end.webp",
+      "generated": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-3b5a7d63-700c-4259-935d-bec30fc125ec.png",
+      "prompt": "Use case: illustration-story, complete layered background for the same Chinese preschool picture-book series. Reference image is a STYLE AND ROOM continuity reference. Keep the exact tactile gouache/watercolor cut-paper texture, cream plaster, muted teal window frames, oak furniture and soft foliage shapes. Evening after sunset: indigo-violet outdoors with faint peach horizon and gentle warm indoor lamplight; keep print detail and readable warm midtones, not black darkness. Square full illustration, highest native detail. NO people, heads, cats, birds, toys, shoes, lettering or watermark. All characters and small props will be independent layers. NEW camera from opposite corner along the room floor: closed teal window BACK LEFT with violet evening sky, oak bookcase BACK RIGHT, a small shaded lamp on shelf. Clear broad floor in foreground, standing child slot LEFT (28%,94%), separate oval cat cushion slot RIGHT (68%,94%). Do NOT paint any cushion or cat. Strong calm diagonal perspective, complete rich room distinct from window establishing view."
+    },
+    {
+      "id": "sleep-bedroom",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-17-19/bed-room-end.webp",
+      "generated": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-34e54fd4-6c05-4ac6-91c0-adfbd15c0732.png",
+      "prompt": "Use case: illustration-story, complete layered background for the same Chinese preschool picture-book series. Reference image is a STYLE AND ROOM continuity reference. Keep the exact tactile gouache/watercolor cut-paper texture, cream plaster, muted teal window frames, oak furniture and soft foliage shapes. Evening after sunset: indigo-violet outdoors with faint peach horizon and gentle warm indoor lamplight; keep print detail and readable warm midtones, not black darkness. Square full illustration, highest native detail. NO people, heads, cats, birds, toys, shoes, lettering or watermark. All characters and small props will be independent layers. NEW final scene in the child's adjacent cozy bedroom. One low child-sized oak bed occupies RIGHT half, ivory pillow at back against wall, softly folded sage-green quilt with ivory reverse ready to lift on mattress, top surface visible from low 3/4 front view. A little bedside table with warm shaded lamp high at far right, CLOSED teal window BACK LEFT showing deep violet-blue sky and a few dim stars. Broad clear wooden floor LEFT foreground at (30%,94%) for a separately composited barefoot child about to get into bed. No child or doll on bed. Bed is clearly a human child's bed, not pet bed. Gentle content ending, preserve same room materials and palette."
+    },
+    {
+      "id": "sleep-branch",
+      "ref": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-d0037a05-134f-4de5-84d7-d3e18a0dc0df.png",
+      "generated": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-30b53b1f-0b85-488e-bb2d-54daf6eb4cc5.png",
+      "prompt": "Use case: illustration-story full scene detail, NEW camera from just INSIDE the same closed teal window in reference, looking at the familiar tree outside at dusk. Teal window jambs only along extreme left/right edges, faint warm indoor reflections on clear glass. One clearly continuous thick near-horizontal brown tree branch extends left to right at 68% image height, top of branch at exact center around y=67%, with a clear bare perch at x=55%. Indigo violet sky and a soft peach horizon behind distant cottage roofs, leafy canopy near upper margins, sparse ivory blossom clusters at edges. No bird, people, heads, animals or lettering. Complete new composition, not a magnified crop. Same warm gouache/watercolor cut-paper texture, native high detail, square, print-readable rich midtones."
+    },
+    {
+      "id": "sleep-bird",
+      "ref": "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-06-10/bird-quiet.png",
+      "generated": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-adfebb6d-d248-4ea1-8b6a-f5b90a03bf4c.png",
+      "prompt": "Use case: identity-preserve animal illustration edit. SAME tiny golden-brown garden bird as reference: identical warm ochre belly with ivory throat, brown layered wing feathers, small orange beak and feet, same tactile hand-painted cut-paper texture. Change only resting pose: eyelid CLOSED in a small soft curve, head comfortably lowered toward shoulder, both feet gently gripping an unseen horizontal branch. Complete bird silhouette with tail and feet, no branch or scenery, true alpha transparency, no text or new accessories. Preserve species and markings, not a new bird."
+    },
+    {
+      "id": "sleep-catclose",
+      "ref": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-3b5a7d63-700c-4259-935d-bec30fc125ec.png",
+      "generated": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-abe91086-3181-43f9-8758-62573df05dc3.png",
+      "prompt": "Use case: illustration-story full scene, NEW LOW pet-eye-height close view of the same cozy cottage room at dusk as reference. View along the warm oak floor, teal CLOSED window BACK LEFT with violet sky, softly glowing shaded lamp on low shelf BACK RIGHT, wicker basket and ivory knitted throw at rear edges. Lower 60% is continuous detailed wooden floor with clear space centered x=50%, y=88% for independently added low oval cat cushion and sleeping orange cat. Do NOT paint cushion, cat, human, toys, shoes or text. Tactile hand-painted gouache and layered paper texture, warm lamplight balanced with cool dusk, not a crop or empty-color stage. Square full composition, highest native detail."
+    },
+    {
+      "id": "sleep-toys",
+      "ref": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-3b5a7d63-700c-4259-935d-bec30fc125ec.png",
+      "prompt": "Use case: illustration-story full layered background. Same cozy cottage at evening as reference, exact warm gouache/watercolor cut-paper texture, cream wall, oak floor, muted teal window, violet-blue dusk outdoors and warm shaded lamplight. Complete square illustration, highest native detail, readable midtones. No people, heads, animals, shoes, toy cars or lettering: these are separate layers. New wide camera toward low toy shelf and wicker storage basket at BACK RIGHT, closed teal window at BACK LEFT. The basket and shelf hold a few closed plain books and small wooden blocks only. Broad clear foreground floor for standing child at LEFT 30%,94%, who is calling for a hidden toy car. Do not show the car or shoes, and no empty frame.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-5e7233ef-cdd6-4553-819b-f116326dc277.png"
+    },
+    {
+      "id": "sleep-shoeclose",
+      "ref": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-3b5a7d63-700c-4259-935d-bec30fc125ec.png",
+      "prompt": "Use case: illustration-story full layered background. Same cozy cottage at evening as reference, exact warm gouache/watercolor cut-paper texture, cream wall, oak floor, muted teal window, violet-blue dusk outdoors and warm shaded lamplight. Complete square illustration, highest native detail, readable midtones. No people, heads, animals, shoes, toy cars or lettering: these are separate layers. New intimate ground-level view of the oak floor near toy storage, woven basket at far BACK LEFT, cream skirting board and base of oak low shelf across TOP quarter; soft warm pool of lamplight across the central and lower floor. Leave ample uncluttered central area from x=15–85%,y=45–94% for separate pair of adult brown loafers containing a small red toy car. Do not paint any shoes or cars. Rich visible wood and paper texture, distinct full close scene rather than enlarged crop.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-5db33df8-706e-4f7e-a379-205cbf0ee53c.png"
+    }
+  ]
+}

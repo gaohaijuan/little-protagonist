@@ -70,6 +70,11 @@ function createCharacterSession({composer,portrait,poses,books,loadBody,schedule
     });kick();return Promise.all(requests);
   }
   function close(){if(closed)return;closed=true;scheduled=false;wanted.clear();visible.clear();for(const e of entries.values())dispose(e);bodies.clear();notifyIdle();}
-  return Object.freeze({start,open,close,pause(){paused=true;if(running&&!visible.has(running.id))running.controller.abort();},resume(){paused=false;kick();},whenIdle(){return !running&&!scheduled&&![...entries.values()].some(e=>e.status==='queued')?Promise.resolve():new Promise(resolve=>idleWaiters.push(resolve));},snapshot(){return {books:windowIds.slice(),poses:[...entries.values()].map(e=>({id:e.id,status:e.status})),loading:running?.id||null};}});
+  function requirePoses(ids){
+    if(closed)return Promise.reject(abortError());if(!started)start();
+    if(ids.some(id=>!wanted.has(id)))return Promise.reject(Error('Pose outside current preparation window'));
+    const requests=ids.map(id=>{visible.add(id);let e=entries.get(id);if(e.status==='error'){entries.delete(id);e=entryFor(id);}return e.promise;});kick();return Promise.all(requests);
+  }
+  return Object.freeze({start,open,require:requirePoses,get:id=>entries.get(id)?.status==='ready'?entries.get(id).actor:null,close,pause(){paused=true;if(running&&!visible.has(running.id))running.controller.abort();},resume(){paused=false;kick();},whenIdle(){return !running&&!scheduled&&![...entries.values()].some(e=>e.status==='queued')?Promise.resolve():new Promise(resolve=>idleWaiters.push(resolve));},snapshot(){return {books:windowIds.slice(),poses:[...entries.values()].map(e=>({id:e.id,status:e.status})),loading:running?.id||null};}});
 }
 module.exports={createCharacterSession};

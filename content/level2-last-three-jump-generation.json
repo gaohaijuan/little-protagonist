@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-28",
+  "method": "Built-in imagegen; no CLI API; genuine transparent layers; new registered poses, shared pose library unchanged.",
+  "jobs": [
+    {
+      "key": "white-rabbit-jump",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a18135-eca2-79c3-9c48-5828792fc9fd/exec-3f696763-e8f7-4de2-87fe-4c8534a7cfba.png",
+      "prompt": "Use case: precise-object-edit. Asset type: isolated transparent rabbit action for the SAME preschool picture book. Edit this exact white albino rabbit into a small graceful LEAP toward the RIGHT, all four feet completely airborne, front paws reaching forward and hind legs gently stretched backward, ears sweeping slightly back. Preserve the same natural small rabbit anatomy, pure white fur, ruby-red eye, pink inner ears and nose, fluffy tail, realistic small paws, delicate layered watercolor and textured paper fur. Entire rabbit visible from nose to tail and both ear tips, with generous transparent margins. A side three-quarter view, not foreshortened. No ground, no rock, no paper, no shadow cloud, no colored halo, no speed marks, no text, no people. Do not change the rabbit into a brown animal, plush toy or cartoon human. Genuine alpha transparency. Landscape composition.",
+      "references": [
+        "preview/art/sequence/level2-fourth-three/white-rabbit-alert.webp"
+      ],
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\white-rabbit-jump.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\white-rabbit-jump.webp",
+      "assetKey": "white-rabbit-jump",
+      "accepted": true,
+      "size": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        54,
+        23,
+        1506,
+        875
+      ]
+    },
+    {
+      "key": "child-jump",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a18135-eca2-79c3-9c48-5828792fc9fd/exec-8d0c4fee-ab48-4a37-a2bc-06239718c498.png",
+      "prompt": "Use case: precise-object-edit. Asset type: same-body transparent CHILD jumping action, without head, for the established layered picture book. Image1 is the exact standing anatomy and clothing MASTER; Image2 is the same child's running body as a pose and limb-length reference. Preserve the SAME torso width and collar-to-hem length, arm lengths, thigh and calf lengths, round toddler anatomy and white chest pocket, yellow textured knit sweater, sage cuffed shorts, white socks, rusty red canvas sneakers. Change pose ONLY: the child makes a small two-foot forward JUMP toward the right. Both shoes are airborne and near the same height, knees gently bent, lower legs tucked slightly backward, arms extended diagonally sideways for balance. Front three-quarter body view, collar near horizontal, chest pocket still visible. The silhouette should read as a modest child jumping over a small paper obstacle, not running, flying, sitting, or split leap. Keep hands with five natural small fingers and both complete shoes; full body including all hands in frame. CRITICAL: NO head, hair, face, eyes, substitute oval, or head-placeholder. Only the short neck meeting the collar exactly as in reference, open blank transparent head space above. Allow generous transparent canvas above the neck for a separately composited head; NEVER shrink torso or limbs to fit a tall headless body canvas. Preserve detailed watercolor/gouache cut-paper fiber texture. No ground, scenery, paper, rock, floor shadow, colored aura or gray/white background. Genuine alpha transparency. Portrait 2:3 canvas, all body inside with margins.",
+      "references": [
+        "preview/art/family/child-body.webp",
+        "preview/art/sequence/books-16-20-storyboards-v2/run-right-v2.png"
+      ],
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\child-jump.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\jump-forward.webp",
+      "assetKey": "jump-forward",
+      "accepted": true,
+      "size": [
+        1536,
+        2048
+      ],
+      "bounds": [
+        153,
+        564,
+        1293,
+        1783
+      ]
+    },
+    {
+      "key": "child-sit-draw-active",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a18135-eca2-79c3-9c48-5828792fc9fd/exec-cc81a0b4-f0e4-4ff3-8fbc-0730aa37df69.png",
+      "prompt": "Use case: precise-object-edit. Edit ONLY the right arm of this exact headless seated child body. Keep the same yellow knit sweater, cream chest pocket, sage cuffed shorts, white socks, red sneakers, crossed legs, torso shape, collar location, arm and leg lengths, detailed watercolor paper texture, and original proportions. The child is DRAWING ON PAPER ON THE FLOOR in front: the RIGHT ARM (on the viewer's RIGHT side) reaches FORWARD and DOWN toward lower-right foreground; its small hand holds ONE short blue wax crayon in a natural tripod drawing grip. Crayon tip points diagonally down and touches the invisible paper surface in front-right of the child's shoes, visibly lower than the knee, so the pose clearly reads as drawing. The left hand rests on the left knee exactly as original. Keep the original crossed legs and both shoes, not kneeling. NO HEAD, hair, face or oval placeholder, blank alpha above the short neck and collar exactly as reference. Include complete crayon tip and all fingers with adequate room; extend transparent canvas to right or below if necessary, do not shrink or stretch torso/limbs. NO paper, painted lines, floor, surface, rug, background, glow, halo or ground shadow. Genuine alpha transparency. No text, extra arms, extra fingers or other objects.",
+      "references": [
+        "preview/art/sequence/books-16-20/child-sit-draw-v2.png"
+      ],
+      "nativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-last-three-native\\child-sit-draw-active.png",
+      "webPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-last-three\\sit-draw-active.webp",
+      "assetKey": "sit-draw-active",
+      "accepted": true,
+      "size": [
+        1536,
+        1920
+      ],
+      "bounds": [
+        351,
+        565,
+        1221,
+        1519
+      ]
+    }
+  ]
+}

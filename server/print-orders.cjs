@@ -28,8 +28,14 @@ function items(value) {
 }
 function printPlan(value) {
   if(value===undefined)return null;
-  // Only the six illustrated stories are currently exportable. Future catalogue
-  // changes must add a new plan; existing orders retain their original snapshot.
+  const current=require('../miniprogram/lib/current-edition');
+  if(value?.edition===current.EDITION){
+    if(value.level!==1||value.storyCount!==15||value.volumeCount!==1)throw error(400,'当前第1级为15个故事、1册合集，请刷新打印清单');
+    return current.orderPlan();
+  }
+  if(value?.edition)throw error(400,'打印版本已变化，请刷新打印清单');
+  // Keep the unversioned six-story plan for legacy clients and order retries.
+  // The current fifteen-story edition above has a separate product and snapshot.
   if(!value||value.level!==1||value.storyCount!==6||value.volumeCount!==1)throw error(400,'当前仅开放第1级6个故事、1册样册的打印清单');
   return {level:1,storyCount:6,volumeCount:1,sample:true,volumes:[{number:1,firstStory:1,lastStory:6,storyCount:6,bookId:'level-1'}]};
 }

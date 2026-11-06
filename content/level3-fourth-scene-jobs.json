@@ -1,0 +1,27 @@
+[
+  {
+    "key": "garden-chase",
+    "alpha": false,
+    "refs": [
+      "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/art-samples/level3-fourth-book-native/garden-wide.png"
+    ],
+    "prompt": "Use case: illustration-story. Create a genuinely NEW camera view of the SAME watercolor garden in reference:coral pink low wall,white gate,mature broadleaf tree with oval leaves,sage grass,dusty blue shrubbery,soft sky blue and mauve shadows. A dynamic low child's-eye view ALONG a winding PALE PINK path that bends LEFT in foreground then RIGHT toward the large tree in distant right background. Strong diagonal depth, foliage frames corners, left side white gate is farther away, a sliver of coral garden wall is seen through foliage. Center path and foreground grass unobstructed for separate running child and ONE flying leaf. Tree clearly further along the path. Loose watercolor and gouache,visible paper grain,airy blue-green atmosphere,coral accents,no golden wash,not photorealistic. Square image,no people,no animals,no flying leaves,no fruit shop,no lettering,no borders or watermark. Do NOT crop/recolor original: redraw perspective for an energetic pursuit scene."
+  },
+  {
+    "key": "garden-tree",
+    "alpha": false,
+    "refs": [
+      "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/art-samples/level3-fourth-book-native/garden-wide.png"
+    ],
+    "prompt": "Use case: illustration-story. SAME garden/style as reference but NEW CLOSE LOW view at the base of the SAME mature tree, trunk on RIGHT third, roots meeting a soft sage moss/grass patch in lower half, one broad leafy branch hanging across upper half with large oval green leaves. Pale coral garden wall in soft far background left, small visible glimpse of white garden gate far back, atmospheric dusty blue distant shrubs. A clean empty patch of pale pink path near lower center for child to crouch and pick a leaf. Sense of gentle breeze in branches but NO detached leaves yet. Quiet magical freshness with mint greens,dusty teal,pale mauve bark and pink accents, luminous neutral daylight,visible loose watercolor washes,paper grain,gouache highlights. Square composition, no people,no creatures,no fruit shop,no lettering or watermark or borders. Re-draw new low close perspective,not a crop."
+  },
+  {
+    "key": "counter-detail",
+    "alpha": false,
+    "refs": [
+      "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/art-samples/level3-fourth-book-native/garden-wide.png",
+      "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/art-samples/level3-fourth-book-native/shop-counter.png"
+    ],
+    "prompt": "Use case: illustration-story. ONE NEW watercolor close-up illustration viewed slightly from above of the SAME seafoam fabric-covered pretend market counter in reference2, in garden from reference1. Foreground table fills lower two thirds with its muted coral scalloped front edge visible. At far left a partially visible shallow basket of FOUR red apples; at far right a shallow basket with TWO carrots and ONE round small cabbage. Main center tabletop EMPTY clean pale mint cloth for exactly one separate leaf to be added. Soft-focus coral garden wall and pale blue sage garden foliage at upper third; background no tree trunks needed. Gently painted paper-grain watercolor/gouache,neutral daylight,cool sage/mint withcoral accents,no sepia or yellow cast. No people,no hands,no faces,no coins,no money,no leaves,no text,no labels,no border,no watermark. Keep clear visual focus on empty space between baskets for the leaf-currency rule."
+  }
+]

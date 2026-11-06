@@ -1,0 +1,162 @@
+[
+  {
+    "file": "preview/art/sequence/layered-v1/flower-care.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2635412,
+    "webp_bytes": 1905934,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/flower-search.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2635543,
+    "webp_bytes": 1884806,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/flower-wind.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2538198,
+    "webp_bytes": 1807238,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/hands-room.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2672058,
+    "webp_bytes": 1893982,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/intro-greeting.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2855540,
+    "webp_bytes": 2030548,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/intro-play.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2511382,
+    "webp_bytes": 1794606,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/intro-school.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2292584,
+    "webp_bytes": 1682298,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/rain-alone.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2637249,
+    "webp_bytes": 1852342,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/rain-shelter.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2857317,
+    "webp_bytes": 1988614,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/rain-umbrella.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 563088,
+    "webp_bytes": 342504,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/rain-walk.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2621982,
+    "webp_bytes": 1814038,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/stone-hold.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2566309,
+    "webp_bytes": 1791164,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/stone-home.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2608491,
+    "webp_bytes": 1803068,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/stone-leave.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2674671,
+    "webp_bytes": 1825574,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/stone-return.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2688191,
+    "webp_bytes": 1836238,
+    "visible_rgba_exact": true
+  },
+  {
+    "file": "preview/art/sequence/layered-v1/stone-walk.webp",
+    "native_size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2656925,
+    "webp_bytes": 1841538,
+    "visible_rgba_exact": true
+  }
+]

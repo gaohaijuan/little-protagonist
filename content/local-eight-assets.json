@@ -1,0 +1,47 @@
+{
+  "mountain-empty-sky": {
+    "url": "./art/sequence/local-eight/mountain-empty-sky.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true,
+    "sha256": "bee8f170ee043bfc510d58e337c48d15246b88f1d1ee287bd5ca44323ac8e600"
+  },
+  "rain-flower-close": {
+    "url": "./art/sequence/local-eight/rain-flower-close.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true,
+    "sha256": "e4af93fb9cb46667d6b832242107303d2bc599a8f02b357b82f750f07f437587"
+  },
+  "call-flying-bird": {
+    "url": "./art/sequence/local-eight/call-flying-bird.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      63,
+      19,
+      1219,
+      1160
+    ],
+    "nativePixelsExact": true,
+    "sha256": "3ad83a433f656090bd16809790f054feaaceaec839cc3771ae9193321c0648d1"
+  }
+}

@@ -1,0 +1,223 @@
+[
+  {
+    "id": "water-reflection-bank",
+    "file": "preview/art/sequence/first-ten/water-reflection-bank.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "child-crouch-touch",
+    "file": "preview/art/sequence/first-ten/child-crouch-touch.webp",
+    "nativePixels": [
+      1024,
+      1536
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "car-room-wide",
+    "file": "preview/art/sequence/first-ten/car-room-wide.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "ball-yard-wide",
+    "file": "preview/art/sequence/first-ten/ball-yard-wide.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "water-bank-wide",
+    "file": "preview/art/sequence/first-ten/water-bank-wide.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "toy-car",
+    "file": "preview/art/sequence/first-ten/toy-car.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "garage-open",
+    "file": "preview/art/sequence/first-ten/garage-open.webp",
+    "nativePixels": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "ball-mound-detail",
+    "file": "preview/art/sequence/first-ten/ball-mound-detail.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "water-puddle-detail",
+    "file": "preview/art/sequence/first-ten/water-puddle-detail.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "car-room-door",
+    "file": "preview/art/sequence/first-ten/car-room-door.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "ball-cart-detail",
+    "file": "preview/art/sequence/first-ten/ball-cart-detail.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "ball-home-reveal",
+    "file": "preview/art/sequence/first-ten/ball-home-reveal.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "toy-ball",
+    "file": "preview/art/sequence/first-ten/toy-ball.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "garage-closed",
+    "file": "preview/art/sequence/first-ten/garage-closed.webp",
+    "nativePixels": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "car-room-floor",
+    "file": "preview/art/sequence/first-ten/car-room-floor.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "water-side-view",
+    "file": "preview/art/sequence/first-ten/water-side-view.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  },
+  {
+    "id": "water-touch-bank",
+    "file": "preview/art/sequence/first-ten/water-touch-bank.webp",
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "visiblePixelsExact": true
+  }
+]

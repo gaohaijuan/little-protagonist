@@ -1,0 +1,22 @@
+[
+  {
+    "pose": "sit-doze",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "sourceCollar": [
+      510,
+      555
+    ],
+    "sourceSole": 1377,
+    "uniformScale": 1.035279805352798,
+    "offset": [
+      240.00729927007296,
+      425.41970802919707
+    ],
+    "registeredSoleMinusCollar": 851,
+    "basis": "Existing seated pose sole minus collar851; standing density unchanged. Final whole-actor comparison required.",
+    "headGeometryChanged": false
+  }
+]

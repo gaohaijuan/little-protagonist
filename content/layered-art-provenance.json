@@ -1,0 +1,137 @@
+{
+  "method": "Built-in imagegen editing; no image API or CLI",
+  "date": "2026-10-23",
+  "purpose": "Remove the protagonist's baked body from existing scenes; retain original style, composition, props and supporting characters. Characters use the existing approved child-v1 transparent pose library.",
+  "resolutionNote": "All 16 new layers are native 1672x941. No upscaling or print-readiness claim.",
+  "promptSet": "content/layered-art-prompts.json",
+  "files": [
+    {
+      "id": "intro-greeting",
+      "file": "preview/art/sequence/layered-v1/intro-greeting.webp",
+      "originalPng": "art-samples/layered-v1/intro-greeting.png",
+      "generation": "exec-23d0a411-8a1a-4b4d-ab59-06245c8f49b0.png",
+      "reference": "preview/art/sequence/original-style-five/intro-greeting.png",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "intro-play",
+      "file": "preview/art/sequence/layered-v1/intro-play.webp",
+      "originalPng": "art-samples/layered-v1/intro-play.png",
+      "generation": "exec-957e4d91-1c46-45cd-90d4-7f3d11b36519.png",
+      "reference": "preview/art/sequence/original-style-five/intro-play.png",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "intro-school",
+      "file": "preview/art/sequence/layered-v1/intro-school.webp",
+      "originalPng": "art-samples/layered-v1/intro-school.png",
+      "generation": "exec-eb7ace8f-2328-4fc8-845b-ab0958bde856.png",
+      "reference": "preview/art/sequence/original-style-five/intro-school.png",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "flower-care",
+      "file": "preview/art/sequence/layered-v1/flower-care.webp",
+      "originalPng": "art-samples/layered-v1/flower-care.png",
+      "generation": "exec-9edd1c69-8f55-4311-95e8-0f3dfd605dbf.png",
+      "reference": "preview/art/sequence/original-style-five/flower-care.png",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "flower-wind",
+      "file": "preview/art/sequence/layered-v1/flower-wind.webp",
+      "originalPng": "art-samples/layered-v1/flower-wind.png",
+      "generation": "exec-989a475a-0a22-4d4b-b55a-05143a55210c.png",
+      "reference": "preview/art/sequence/original-style-five/flower-wind.png",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "flower-search",
+      "file": "preview/art/sequence/layered-v1/flower-search.webp",
+      "originalPng": "art-samples/layered-v1/flower-search.png",
+      "generation": "exec-04d601f9-a747-4e75-aad0-b62b656620de.png",
+      "reference": "preview/art/sequence/original-style-five/flower-search.png",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "hands-room",
+      "file": "preview/art/sequence/layered-v1/hands-room.webp",
+      "originalPng": "art-samples/layered-v1/hands-room.png",
+      "generation": "exec-64b37996-4ff8-4d91-b7a6-162c2d49f461.png",
+      "reference": "preview/art/sequence/original-style-five/hands-show.png",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "rain-alone",
+      "file": "preview/art/sequence/layered-v1/rain-alone.webp",
+      "originalPng": "art-samples/layered-v1/rain-alone.png",
+      "generation": "exec-797e30e3-a2eb-49d4-a286-23c5044c4d0a.png",
+      "reference": "preview/art/sequence/rain/rain-alone.webp",
+      "edit": "Remove the headless protagonist and umbrella; keep the original flower, rain, garden and architecture."
+    },
+    {
+      "id": "rain-walk",
+      "file": "preview/art/sequence/layered-v1/rain-walk.webp",
+      "originalPng": "art-samples/layered-v1/rain-walk.png",
+      "generation": "exec-6a513818-72b0-4cc3-92e7-ba59ede6bb6f.png",
+      "reference": "preview/art/sequence/rain/rain-walk.webp",
+      "edit": "Remove the headless protagonist and umbrella; keep the original flower, rain, garden and architecture."
+    },
+    {
+      "id": "rain-shelter",
+      "file": "preview/art/sequence/layered-v1/rain-shelter.webp",
+      "originalPng": "art-samples/layered-v1/rain-shelter.png",
+      "generation": "exec-6247943f-255a-42a2-8c46-c617a1fc49bb.png",
+      "reference": "preview/art/sequence/rain/rain-shelter.webp",
+      "edit": "Remove the headless protagonist and umbrella; keep the original flower, rain, garden and architecture."
+    },
+    {
+      "id": "stone-home",
+      "file": "preview/art/sequence/layered-v1/stone-home.webp",
+      "originalPng": "art-samples/layered-v1/stone-home.png",
+      "generation": "exec-b3a7266f-88fc-4544-b515-3ebd33bcf8e7.png",
+      "reference": "preview/art/sequence/stone/stone-home.webp",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "stone-hold",
+      "file": "preview/art/sequence/layered-v1/stone-hold.webp",
+      "originalPng": "art-samples/layered-v1/stone-hold.png",
+      "generation": "exec-c9fea7ae-5d77-4af0-903e-892d3ad949b5.png",
+      "reference": "preview/art/sequence/stone/stone-hold.webp",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "stone-walk",
+      "file": "preview/art/sequence/layered-v1/stone-walk.webp",
+      "originalPng": "art-samples/layered-v1/stone-walk.png",
+      "generation": "exec-54c0daf4-1315-4cc0-8b6f-4cc0023d8da9.png",
+      "reference": "preview/art/sequence/stone/stone-walk.webp",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "stone-return",
+      "file": "preview/art/sequence/layered-v1/stone-return.webp",
+      "originalPng": "art-samples/layered-v1/stone-return.png",
+      "generation": "exec-fd209aec-f47f-4afa-9dd2-b4622bc25d15.png",
+      "reference": "preview/art/sequence/stone/stone-return.webp",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    },
+    {
+      "id": "rain-umbrella",
+      "file": "preview/art/sequence/layered-v1/rain-umbrella.webp",
+      "originalPng": "art-samples/layered-v1/rain-umbrella.png",
+      "generation": "exec-19faae52-6331-4056-9a4a-ae6cfb70c6a1.png",
+      "reference": "preview/art/sequence/rain/rain-shelter.webp",
+      "edit": "Extract the original plain green umbrella as a genuinely transparent layer; remove all body and background pixels."
+    },
+    {
+      "id": "stone-leave",
+      "file": "preview/art/sequence/layered-v1/stone-leave.webp",
+      "originalPng": "art-samples/layered-v1/stone-leave.png",
+      "generation": "exec-ee812091-44ad-47d3-ba72-0bb392f753f1.png",
+      "reference": "preview/art/sequence/stone/stone-leave.webp",
+      "edit": "Remove only the headless protagonist; preserve original camera, tactile paper/watercolor style, scenery, props and secondary characters."
+    }
+  ]
+}

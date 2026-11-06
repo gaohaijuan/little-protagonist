@@ -3,6 +3,7 @@ const approvedStories = require('./level1-approved');
 const AGE_WORDS = { 3: '三', 4: '四', 5: '五', 6: '六' };
 
 function listBooks(profile, members, options) {
+  if(options?.currentEdition)return require('./current-edition').listBooks(profile,members);
   const child = profile || {};
   const name = child.name || '小石头';
   const age = AGE_WORDS[child.age] || '五';
@@ -31,20 +32,27 @@ function listBooks(profile, members, options) {
     },
     {
       id: 'family', title: '我家有几口人？', tag: '认识家人', group: '第 3 组',
-      description: '数一数，谁把自己忘了？', tone: 'yellow',
+      description: '和家人一起，看看家里有谁。', tone: 'yellow',
       pages: [
-        ['我家有几口人？'], ['爷爷，奶奶。'], ['爸爸，妈妈。'],
-        ['一、二、三、四。'], ['我家有四口人！'], ['妈妈：“你呢？”'],
-        ['我？', '一、二、三、四、五！'], ['我家有五口人。', '我也在家！']
+        ['我家有几口人？'], ['这是爷爷。'], ['这是奶奶。'],
+        ['这是爸爸。'], ['这是妈妈。'], ['还有我！'],
+        ['我家有五口人。'], ['我们都在家！']
       ]
     }
   ];
   // Browser profiles opt into editable families. The native prototype still
   // uses its established eight-page story when no members argument is given.
   if (members !== undefined) Object.assign(books[2], familyBook(child, members));
-  // The browser has illustrated assets for the approved next three books.
+  // The browser has layered illustrations through book 10.
   // Native callers retain their original shelf until their renderer supports them.
-  if (options && options.includeApproved === true) books.push(...approvedStories.map(book => ({ ...book, pages: book.pages.map(lines => lines.slice()) })));
+  if (options && options.includeApproved === true) {
+    // Scene IDs and source numbers stay stable when the reading order changes.
+    const earlyOrder = ['hands', 'mountain', 'rain', 'stone'];
+    const ordered = earlyOrder.map(id => approvedStories.find(book => book.id === id))
+      .concat(approvedStories.filter(book => !earlyOrder.includes(book.id)));
+    books.push(...ordered.map((book, index) => ({ ...book, sourceNumber: book.number,
+      number: index + 4, pages: book.pages.map(lines => lines.slice()) })));
+  }
   return books;
 }
 

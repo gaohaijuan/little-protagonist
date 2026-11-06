@@ -141,12 +141,12 @@ function draw(canvas,options){
   const background=assets[m.background||'courtyard'],backgroundSize=dimensions(background);
   if(!backgroundSize)return false;
   const members=selectedMembers(o);if(!members.length)return false;
-  const actors=members.map(member=>actor(member,{...o,manifest:m,assets}));if(actors.some(item=>!item))return false;
+  const actors=members.map(member=>o.preparedActors?o.preparedActors[member.id]:actor(member,{...o,manifest:m,assets}));if(actors.some(item=>!item))return false;
   const c=canvas.getContext('2d');if(!c)return false;
   const width=positive(o.width,800),height=positive(o.height,450),ratio=bound(o.pixelRatio,.1,3,1);
   const pw=Math.max(1,Math.round(width*ratio)),ph=Math.max(1,Math.round(height*ratio));
   const mw=positive(m.width,backgroundSize.width),mh=positive(m.height,backgroundSize.height);
-  const fullFrame=!!o.cover||o.framing==='character';
+  const fullFrame=!!o.cover||o.framing==='character'||!!o.scenePanel;
   const portrait=fullFrame&&width<height;
   // Layout uses the actual canvas aspect ratio for narrow shelf covers. Story
   // spreads reserve their right third for accessible DOM text and controls.
@@ -157,7 +157,7 @@ function draw(canvas,options){
   if(scene.kind==='member'&&!fullFrame){area.x+=artWidth*.05;area.width*=.90;area.y=worldHeight*.08;area.height=worldHeight*.85;}
   if(scene.kind==='remember'&&Number(o.page)%2&&!fullFrame){area.x+=artWidth*.065;area.width*=.87;area.y+=worldHeight*.035;area.height*=.95;}
   if(scene.kind==='group'&&scene.count&&!fullFrame){area.x+=artWidth*.025;area.width*=.95;}
-  const placements=arrange(actors,area,scene,portrait);
+  const placements=arrange(actors,area,scene,o.scenePanel?false:portrait);
   if(canvas.width!==pw)canvas.width=pw;if(canvas.height!==ph)canvas.height=ph;
   c.setTransform(1,0,0,1,0,0);c.clearRect(0,0,pw,ph);c.fillStyle=m.paper||'#fbf6e9';c.fillRect(0,0,pw,ph);
   const worldWidth=o.artPanel&&!fullFrame?artWidth:mw;
@@ -170,6 +170,10 @@ function draw(canvas,options){
   c.drawImage(background,crop.x+(crop.width-sw)/2,crop.y+(crop.height-sh)/2,sw,sh,0,0,worldWidth,worldHeight);
   for(const p of placements){
     c.save();c.translate(p.x,p.y);c.scale(p.scale,p.scale);
+    if(p.composite){
+      c.drawImage(p.composite.image,p.composite.left,p.composite.top,p.composite.width,p.composite.height);
+      c.restore();continue;
+    }
     c.save();c.globalAlpha=.12;c.fillStyle='#665d40';c.beginPath();c.ellipse(0,3,Math.max(22,(p.bodyBounds.right-p.bodyBounds.left)*p.bodyScale*.29),5,0,0,Math.PI*2);c.fill();c.restore();
     drawSprite(c,p.body,p.bodyX,p.bodyY,p.bodyScale);
     // A local neck shadow only; the original alpha/matte and all hair pixels
@@ -177,6 +181,10 @@ function draw(canvas,options){
     c.save();c.globalAlpha=.13;c.fillStyle='#77603f';c.beginPath();c.ellipse(p.headX,p.headY+2,p.targetFace.width*.17,3,p.rotation,0,Math.PI*2);c.fill();c.restore();
     c.save();c.translate(p.headX,p.headY);c.rotate(p.rotation);drawSprite(c,p.head,p.dx,p.dy,p.headScale);c.restore();c.restore();
   }
-  c.setTransform(1,0,0,1,0,0);return true;
+  c.setTransform(1,0,0,1,0,0);
+  if(canvas.dataset&&o.scenePanel){canvas.dataset.familyMembers=JSON.stringify(members.map(m=>m.id));canvas.dataset.characterPipeline='composed-actor-v1';canvas.dataset.scene='family-courtyard-reused';}
+  return true;
 }
-module.exports={draw,selectedMembers,arrange};
+// Adult specifications are character-library data; consumers may assemble them
+// once before entering a scene. Page rendering only receives whole actors.
+module.exports={draw,selectedMembers,arrange,adultGeometry(member,options){return ADULTS.includes(member.role)?actor(member,options):null;}};

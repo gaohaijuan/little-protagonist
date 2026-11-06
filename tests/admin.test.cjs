@@ -21,7 +21,7 @@ async function fixture(t, extra = {}) {
   const directory = fs.mkdtempSync(path.join(os.tmpdir(), 'little-story-admin-'));
   let clock = Date.parse('2026-10-16T09:00:00Z');
   const errors = [], app = createApplication({ dataDir: directory, adminPassword: PASSWORD, paymentSecret: SECRET, now: () => clock, maxUploadBytes: 1024, quotaBytes: 4096, onError: e => errors.push(e), ...extra });
-  app.server.listen(20000+crypto.randomInt(40000), '127.0.0.1'); await once(app.server, 'listening');
+  app.server.listen(0, '127.0.0.1'); await once(app.server, 'listening');
   const base = 'http://127.0.0.1:' + app.server.address().port;
   const request = (route, options) => fetch(base + route, options);
   const post = (route, data, headers = {}) => request(route, { method: 'POST', headers: { 'Content-Type': 'application/json', ...headers }, body: JSON.stringify(data) });

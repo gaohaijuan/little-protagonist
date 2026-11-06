@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-26",
+  "mode": "built-in-imagegen",
+  "jobs": [
+    {
+      "key": "snow-window",
+      "prompt": "Create one square children’s picture-book background plate, illustration-story. Match the attached cottage playroom reference EXACTLY in rich tactile handpainted watercolor and gouache on paper, warm cream, sage wooden window, terracotta, detailed luminous brushwork. Change the view outside the SAME cottage window into a gentle first winter snowfall: distant roof lightly white, bare branches, muted sage grass bed below window. Indoors warm wooden floor and low sage window seat. Front-on roomy composition, window fills upper 65%, clear empty floor in lower 35% for an independently composited child at left-center. No people, no animals, no toys, no text, no falling snow particles baked into plate (those will be separate layers); only small accumulated snow outside. No snow indoors. Interior camera. Full bleed square, native high detail ideally 2048x2048. Do not emulate blurry enlargement.",
+      "refs": [
+        "preview/art/sequence/first-ten/car-room-wide.webp"
+      ],
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-a4b3ce63-9036-457b-87e6-f74e835875bb.png"
+    },
+    {
+      "key": "snow-air",
+      "prompt": "Create one square illustration-story background plate for the same children’s winter picture book, matching the reference cottage textures and painterly watercolor gouache style. Camera now looks from the open cottage window outward: distant sage gray leafless branches and cream cottage wall softly in background, a calm blue-gray winter sky occupying upper 75%, muted green grass strip along bottom 25%, light existing snow on soil. Visibly a closer observation outside, no indoor floor, no window obstruction. This is a BACKGROUND ONLY for counting separate snowflake sprites. NO falling snowflakes at all, no white dots in sky, no flowers, no petals, no people or text. Rich native paper brush detail, clean readable medium dark sky to show white snow. Full bleed square 2048 ideally.",
+      "refs": [
+        "preview/art/sequence/first-ten/car-room-wide.webp"
+      ],
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-a92643b2-5bf0-448a-8eb3-7549e0ade2c7.png"
+    },
+    {
+      "key": "snow-grass",
+      "prompt": "Create one square illustration-story background for a children’s picture book. Match reference rich tactile watercolor/gouache, paper grain, natural sage/ochre/cream palette. Close low camera at grass bed just outside the same cottage window on the first snow of winter: tall soft sage grass in foreground lower 2/3, a few tiny drifts on earth, gray blue air upper third. Delicate white snow nestles deep between grass blades and becomes visually indistinguishable, as the poem ends flying into grass and disappearing. Not spring flowers. No large individual floating snowflakes baked into background, no people, no animals, no text, full bleed square high native detail ideally2048.",
+      "refs": [
+        "preview/art/sequence/layered-v1/stone-home.webp"
+      ],
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-8acb97e4-209e-46cd-ab48-52eeb83372d8.png"
+    },
+    {
+      "key": "insect-stone",
+      "refs": [
+        "preview/art/sequence/layered-v1/stone-home.webp"
+      ],
+      "prompt": "illustration-story. One square full-bleed children’s picture book background, match the attached garden reference SAME painterly watercolor gouache, warm sun cream gold sage textures and stone cottage. New medium-low angle looking across a child-safe cottage garden path: one smooth broad flat gray pebble/low stone at left foreground, its flat TOP clearly visible about x250 y620 in a 1000 square; short lawn on left, a few white daisies, garden fence and cottage recede upper background. Right half of path at ground900 is empty for compositing child actor, ample clean air above actor too. Not split faded blank paper. Important NO insects, NO people, NO feet, NO text. The bug will be a separate small layer. Make coherent new square scene, not stretch a landscape. Native detailed 2048 square ideally.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-d3edeb2b-0d1c-4a81-88d7-70e73a2224d3.png"
+    },
+    {
+      "key": "insect-ground",
+      "refs": [
+        "preview/art/sequence/layered-v1/stone-home.webp"
+      ],
+      "prompt": "illustration-story. One square full-bleed children’s picture book BACKGROUND ONLY, same cottage garden tactile richly detailed watercolor gouache as reference. The camera is now closer and lower at the foot of the SAME smooth flat gray garden stone. Stone in LEFT foreground x0..360, top at y580, soil path across lower half, a few soft short grass blades along far left, sunlit cottage fence and daisies far background upper left. Right two thirds remain open warm pale soil path for a separate whole child character and foot reveal. Realistic comfortable garden ground, soft natural shadows. No creatures, NO insect, NO people, NO feet, no text, no collage. Distinct low viewpoint from first scene. Native 2048 square ideally.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-41b3497b-5e7a-4123-9fd4-aaf0febcb256.png"
+    },
+    {
+      "key": "little-bug",
+      "refs": [
+        "preview/art/sequence/layered-v1/stone-home.webp"
+      ],
+      "transparent": true,
+      "prompt": "illustration-story. One single tiny natural green inchworm for a children’s tactile handpainted watercolor gouache cottage story, matching attached brushwork. Side three-quarter view, curved little segmented sage green caterpillar body, two tiny natural dark eyes only, believable small legs; recognizable cute but no human smile, no clothes, no antenna exaggerated. Horizontal orientation walking to the RIGHT. Isolated as one object on TRUE TRANSPARENT alpha background, no paper, no ground or shadow, generous transparent margin. Rich edges and fine soft brush texture. Only one caterpillar, no scene or words.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-a17d08a5-3087-4517-ace3-40dad146e5ca.png"
+    },
+    {
+      "key": "ball-door",
+      "refs": [
+        "preview/art/sequence/books-14-16/wagon-side.webp"
+      ],
+      "prompt": "illustration-story. One square full-bleed handpainted watercolor gouache children’s cottage playroom scene MATCHING reference rich warm honey wood floor, textured cream wall, sage green wooden interior door, warm light, no style change. New viewpoint from the ROOM facing an INTERIOR door in left half. Door hinged at x150 is OPEN inward about 60 degrees toward camera; its panel takes x150..480,y130..780. A clearly visible small wedge of floor between the back of the door and the left wall at x80..200,y750..900 is where a toy ball can hide. Show the BACK side of the door and triangular hidden floor space, unmistakably BEHIND the opened door. Right half open wooden floor for compositing child at x680 ground940, bench and small toys shelf back wall. NO people, NO toys on floor, NO ball, NO animals, no text. Door bottom should allow visible ball placed at x140 y850 without entire ball being blocked. Native detailed square ideally2048.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-e69abda1-a223-44a2-88f9-05f333488a88.png"
+    },
+    {
+      "key": "insect-empty-close",
+      "refs": [
+        "preview/art/sequence/priority-three/insect-stone.webp"
+      ],
+      "prompt": "illustration-story. Single new square background plate, match the attached garden watercolor gouache reference exactly. For the next search scene in the SAME story, a NEW close-up from slightly above the exact same low broad gray moss-speckled flat stone. Its bare smooth light gray top surface fills the central 60% of the square with crisp stone brush detail, a few small green moss patches at edges only; short grass and tiny white daisies surround the stone, warm sunny garden path peeks at right. Main center stone surface is EMPTY: the little insect has crawled away. NO insect, NO worm, NO people, NO hands or feet, NO faces or text. This must be a full native close-up square composition, not a crop from a landscape, native high detail ideal2048square. Emphasize the clearly empty stone for the child asking where the bug went. Preserve warm cream/sage palette, paper texture and painted light.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-3b935e9b-32be-4c45-9cb3-f8dad76f7059.png"
+    }
+  ]
+}

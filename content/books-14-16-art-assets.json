@@ -1,0 +1,338 @@
+{
+  "small-shoes": {
+    "url": "./art/sequence/books-14-16/small-shoes.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      41,
+      119,
+      1221,
+      1153
+    ],
+    "nativePixelsExact": true
+  },
+  "wash-basin": {
+    "url": "./art/sequence/books-14-16/wash-basin.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      27,
+      190,
+      1514,
+      913
+    ],
+    "nativePixelsExact": true
+  },
+  "wash-corner": {
+    "url": "./art/sequence/books-14-16/wash-corner.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true
+  },
+  "wash-close": {
+    "url": "./art/sequence/books-14-16/wash-close.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true
+  },
+  "wagon-side": {
+    "url": "./art/sequence/books-14-16/wagon-side.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true
+  },
+  "wagon-call-door": {
+    "url": "./art/sequence/books-14-16/wagon-call-door.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true
+  },
+  "wagon-loading": {
+    "url": "./art/sequence/books-14-16/wagon-loading.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true
+  },
+  "wagon-home": {
+    "url": "./art/sequence/books-14-16/wagon-home.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true
+  },
+  "step-own-shoes": {
+    "url": "./art/sequence/books-14-16/step-own-shoes.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "bounds": [
+      105,
+      191,
+      1007,
+      1392
+    ],
+    "nativePixelsExact": true
+  },
+  "shoes-bench": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b18-p07.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "shoes-comparison": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b18-p03.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "shoes-try": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b18-p04.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "shoes-out": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b18-p06.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "shoes-end": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b18-p08.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "water-greet": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b19-p01.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "water-pour-scene": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b19-p02.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "water-drops": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b19-p03.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "water-runoff": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b19-p04.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "water-feet": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b19-p06.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "water-end": {
+    "url": "./art/sequence/books-16-20-storyboards-v2/b19-p07.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "existing": true
+  },
+  "large-shoes": {
+    "url": "./art/sequence/books-16-20/adult-shoes.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      36,
+      156,
+      1507,
+      912
+    ],
+    "existing": true
+  },
+  "pour-can": {
+    "url": "./art/sequence/books-16-20/watering-can.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      56,
+      95,
+      1494,
+      934
+    ],
+    "existing": true
+  },
+  "push-wagon": {
+    "url": "./art/sequence/books-11-15/wagon.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bounds": [
+      109,
+      41,
+      1515,
+      985
+    ],
+    "existing": true
+  },
+  "wagon-ball": {
+    "url": "./art/sequence/books-11-15/red-ball.png",
+    "size": [
+      1349,
+      1166
+    ],
+    "bounds": [
+      243,
+      162,
+      1093,
+      1001
+    ],
+    "existing": true
+  }
+}

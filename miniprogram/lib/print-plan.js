@@ -9,19 +9,22 @@ function leafLayout(number,profile=A5_PAGE){
 function createEditionPlan(books,{scope='level',volumeNumber=1,volumeCount=1,sample=true}={}){
   if(!Array.isArray(books)||!books.length||books.some(b=>!b.id||!Array.isArray(b.pages)||!b.pages.length))throw Error('Cannot print unfinished stories');
   if(scope==='book'&&books.length!==1)throw Error('Single-story edition requires one story');
-  const collection=scope==='level',contentsCount=collection?Math.ceil(books.length/12):0;
+  const collection=scope==='level',current=require('./current-edition'),isCurrent=collection&&current.matches(books);
+  if(isCurrent)sample=false;
+  const contentsCount=collection?(isCurrent?1:Math.ceil(books.length/12)):0;
   const pages=[{kind:'front',bookId:books[0].id}];
   for(let i=0;i<contentsCount;i++)pages.push({kind:'contents',part:i});
-  const chapters=[];
+  const chapters=[],chapterCovers=isCurrent;
   for(const [index,b] of books.entries()){
     const startPage=pages.length+1,startFolio=pages.length-contentsCount;
-    chapters.push({bookId:b.id,title:b.title,number:index+1,startPage,startFolio,storyPages:b.pages.length});
-    b.pages.forEach((_,page)=>pages.push({kind:'story',bookId:b.id,page,chapter:index+1}));
-    if(collection)pages.push({kind:'summary',bookId:b.id,chapter:index+1});
+    if(chapterCovers)pages.push({kind:'story-cover',bookId:b.id,chapter:b.number||index+1});
+    chapters.push({bookId:b.id,title:b.title,number:b.number||index+1,startPage,startFolio,bodyStartPage:pages.length+1,storyPages:b.pages.length});
+    b.pages.forEach((_,page)=>pages.push({kind:'story',bookId:b.id,page,chapter:b.number||index+1}));
+    if(collection)pages.push({kind:'summary',bookId:b.id,chapter:b.number||index+1});
   }
   pages.push({kind:collection?'collection-back':'summary',bookId:books.at(-1).id,back:true});
   pages.forEach((p,i)=>{p.number=i+1;p.folio=i>0&&i<pages.length-1&&p.kind!=='contents'?i-contentsCount:null;});
-  return {id:collection?'level-1'+(volumeCount>1?'-volume-'+volumeNumber:''):books[0].id,scope,collection,volumeNumber,volumeCount,books,chapters,pages,leaves:pages,pageCount:pages.length,readingContentPageCount:pages.length-2,coverFaceCount:Math.min(4,pages.length),interiorPageCount:Math.max(0,pages.length-4),storyCount:books.length,storyPageCount:books.reduce((n,b)=>n+b.pages.length,0),summaryCount:books.length,contentsCount,blankCount:0,imposed:false,title:collection?'第1级阅读故事集'+(volumeCount>1?' · 第'+volumeNumber+'册':''):books[0].title,sample:collection&&sample,binding:'printer-imposition-required'};
+  return {edition:isCurrent?current.EDITION:null,completeLevel:isCurrent,id:isCurrent?current.PRINT_ID:collection?'level-1'+(volumeCount>1?'-volume-'+volumeNumber:''):books[0].id,scope,collection,volumeNumber,volumeCount,books,chapters,pages,leaves:pages,pageCount:pages.length,readingContentPageCount:pages.length-2,coverFaceCount:Math.min(4,pages.length),interiorPageCount:Math.max(0,pages.length-4),storyCount:books.length,storyPageCount:books.reduce((n,b)=>n+b.pages.length,0),summaryCount:books.length,storyCoverCount:chapterCovers?books.length:0,contentsCount,blankCount:0,imposed:false,title:collection?'第1级阅读故事集'+(volumeCount>1?' · 第'+volumeNumber+'册':''):books[0].title,sample:collection&&sample,binding:'printer-imposition-required'};
 }
 function createBookPlan(book){return createEditionPlan([book],{scope:'book'});}
 function pageBoxes(profile=A5_PAGE,{bleed=true}={}){
@@ -30,7 +33,7 @@ function pageBoxes(profile=A5_PAGE,{bleed=true}={}){
 }
 function fileName(text){return String(text).replace(/[<>:"/\\|?*\u0000-\u001f]/g,'-').replace(/[. ]+$/,'').slice(0,100)||'绘本';}
 function editionManifest(plan){
-  return {version:5,level:1,scope:plan.collection?(plan.sample?'level-collection-sample':'level-collection-volume'):'single-story',volumeNumber:plan.volumeNumber,volumeCount:plan.volumeCount,bookCount:1,storyCount:plan.storyCount,completeLevel:false,title:plan.title,format:{...A5_PAGE},coverFormat:{...A4_SPREAD},pageCount:plan.pageCount,interiorPageCount:plan.interiorPageCount,readingContentPageCount:plan.readingContentPageCount,coverFaceCount:plan.coverFaceCount,storyPageCount:plan.storyPageCount,summaryPages:plan.summaryCount,contentsPages:plan.contentsCount,chapters:plan.chapters,sequence:plan.pages.map(({kind,bookId,page,number,folio})=>({kind,bookId,page,number,folio})),blankPages:0,saddleStitch:{productionPageCount:Math.ceil(plan.pageCount/4)*4,necessaryAdditionalFaces:(4-plan.pageCount%4)%4,applied:false},imposed:false,files:{outer:'封面-外侧与内侧.pdf',interior:'书芯-A5按阅读顺序.pdf'},binding:'Printer must select binding for final page count and stock, arrange cover reverse, duplex imposition and any necessary blank sides. These are reading-order masters, not a ready-imposed booklet.',color:'RGB proof; printer must approve color conversion',conformance:'Not certified PDF/X'};
+  return {version:5,level:1,scope:plan.collection?(plan.sample?'level-collection-sample':'level-collection-volume'):'single-story',volumeNumber:plan.volumeNumber,volumeCount:plan.volumeCount,bookCount:1,storyCount:plan.storyCount,completeLevel:!!plan.completeLevel,edition:plan.edition,title:plan.title,format:{...A5_PAGE},coverFormat:{...A4_SPREAD},pageCount:plan.pageCount,interiorPageCount:plan.interiorPageCount,readingContentPageCount:plan.readingContentPageCount,coverFaceCount:plan.coverFaceCount,storyPageCount:plan.storyPageCount,summaryPages:plan.summaryCount,storyCoverPages:plan.storyCoverCount||0,contentsPages:plan.contentsCount,chapters:plan.chapters,sequence:plan.pages.map(({kind,bookId,page,number,folio})=>({kind,bookId,page,number,folio})),blankPages:0,saddleStitch:{productionPageCount:Math.ceil(plan.pageCount/4)*4,necessaryAdditionalFaces:(4-plan.pageCount%4)%4,applied:false},imposed:false,files:{outer:'封面-外侧与内侧.pdf',interior:'书芯-A5按阅读顺序.pdf'},binding:'Printer must select binding for final page count and stock, arrange cover reverse, duplex imposition and any necessary blank sides. These are reading-order masters, not a ready-imposed booklet.',color:'RGB proof; printer must approve color conversion',conformance:'Not certified PDF/X'};
 }
 function levelManifest(books){return editionManifest(createEditionPlan(books));}
 module.exports={A5_PAGE,A4_SPREAD,MM_TO_PT,leafLayout,createEditionPlan,createBookPlan,pageBoxes,fileName,editionManifest,levelManifest};

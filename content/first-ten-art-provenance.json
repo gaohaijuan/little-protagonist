@@ -1,0 +1,133 @@
+{
+  "method": "Built-in imagegen; no image API or CLI",
+  "date": "2026-10-23",
+  "manuscript": "content/level1-stories-04-10.json:books 7–10",
+  "characterModel": "Existing registered child-v1 bodies and unchanged normalized heads",
+  "assets": [
+    {
+      "id": "water-reflection-bank",
+      "ref": "water-bank-wide",
+      "prompt": "Use case: illustration-story scene composition edit. Same hand-painted textured watercolor/gouache cream-stone cottage, sage garden door, white and yellow daisies as reference. Redraw from a NEW clear view facing a FAR SHORE of a shallow flat rain puddle. Crucial geometry for later character/reflection: upper 60 percent of square picture is dry flat sunlit stone paving in front of cottage, with unobstructed placement area centered at x50%,y40..60%; a gently curved nearly horizontal far edge of water runs across image at y64%. The shallow puddle fills most of LOWER foreground from x12..92%,y65..97%, reflecting blue sky and clouds. The whole lower foreground must be clear water so a separately composited child's upside-down full reflection can appear DIRECTLY BELOW their feet at the far edge. Show NO child, NO human reflection, no person or body part. Paper texture, warm sunshine, completely shallow safe puddle on level paving, no pond bank/drop. Square full frame, highest native detail, no text. A composition designed for physically aligned reflection, not a crop.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-3bc76161-8d0d-4160-9336-e45c99e44983.png",
+      "selected": true
+    },
+    {
+      "id": "child-crouch-touch",
+      "refPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\child-crouch-palm-v2.png",
+      "alpha": true,
+      "prompt": "Use case: precise-object-edit / registered character action. EDIT THIS EXACT TRANSPARENT HEADLESS CHILD BODY, preserve EXACT original 1024x1536 canvas and registration: neck/collar center (510,320), same shoulder positions, same crouching torso, same yellow sweater/cream chest pocket, same green shorts, same legs, same two orange sneakers and shoe sole baseline y1191. DO NOT resize, redraw anatomy, stretch body, add a head, or change other pixels. Change ONLY the child's arm on IMAGE LEFT: keep upper-arm length, rotate/bend forearm naturally DOWNWARD so open hand's fingertips gently touch a flat horizontal surface at y1205, around x160. Palm now faces downward with five small natural fingers, as crouching on dry paving while touching adjacent shallow water. Other hand stays on knee exactly as original. Hand and forearm anatomical lengths must match original child mother model; a small elbow angle change can reach the ground, do not elongate the arm. True transparent background, no water, floor or background, no separate hand, no text. Preserve the existing precise thick watercolor/gouache paper-textured rendering. All other body parts, head opening and complete feet unchanged. Output exact same frame so body can reuse collar registration.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-93092534-f642-409b-889a-3d02d1a6d455.png",
+      "selected": true
+    },
+    {
+      "id": "car-room-wide",
+      "prompt": "Use case: illustration-story. Create a new square children's picture-book BACKGROUND PLATE in the same very detailed hand-painted watercolor/gouache and textured cream paper style as an idyllic golden village garden picture book. Indoor play corner of the SAME rustic cream-plaster cottage with muted sage shutters, terracotta accents, wooden floorboards, morning sunlight and a window looking into flowering garden. Wide child-eye-level establishing view: a low rug and ample uncluttered floor in lower center/right reserved for a separately composited child and a small wooden toy garage. A shelf has restrained ordinary wooden blocks. Rich warm natural color and crisp native brush detail, square edge-to-edge composition at the highest available native resolution, designed for a near-square A5 illustration panel. NO people, no body parts, NO cars, NO garage, NO text, no watermark. This is a complete environment, not a flat stage or blank placeholder.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-820f976e-01b5-4cc5-b2da-c9b8ae7595c4.png",
+      "selected": true
+    },
+    {
+      "id": "ball-yard-wide",
+      "prompt": "Use case: illustration-story. Square richly detailed watercolor/gouache children's picture-book background, thick tactile cream paper, warm sunny colors; match a hand-painted idyllic stone cottage garden, sage green cottage door, white daisies and yellow flowers, rustic low limestone wall, terracotta roof glimpsed. Story setting is a SMALL enclosed home courtyard, not remote countryside: a little earth play mound at rear LEFT with 3 light-gray pebbles on top, a small red open-bed wooden TOY CART at rear RIGHT with 2 pebbles visible in its bed, cottage entrance in left background. WIDE eye-level establishing view, clear grass/stone path foreground center-left reserved for separately composited child. A hunt for a missing ball begins: NO ball anywhere, no people, no silhouettes, no writing or watermark. Square edge to edge, maximum native detail for A5 print; make real organic scene perspective, not sparse symbolic layout.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-3c12f4ff-96e0-4a5c-bf52-de1b34329e01.png",
+      "selected": true
+    },
+    {
+      "id": "water-bank-wide",
+      "prompt": "Use case: illustration-story. Square full detailed painterly watercolor/gouache picture-book BACKGROUND layer with tactile warm cream paper and sunny cottage garden style: stone cottage with sage door in upper background, white and golden daisies along small enclosed home garden, a SAFE shallow rain puddle on a flat stone path. Wide child-eye-level view; oval puddle occupies lower-right (center approximately 68% width, 77% height, extent x45..95%,y67..88%), reflects blue sky and a few white clouds. Clear DRY flat ground lower-left for a separately composited child, no steep bank and no deep water. NO people, no human reflection, no animals, no text or watermark. Natural sunlight, complete environment with crisp brush textures and highest native resolution, square edge-to-edge near-square A5 panel, no borders.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-67a5a51d-3b4d-4800-90ea-0d08b9340918.png",
+      "selected": true
+    },
+    {
+      "id": "toy-car",
+      "alpha": true,
+      "prompt": "Use case: illustration-story / transparent prop cutout. ONE small charming handmade wooden toy car, worn vermilion red body, cream roof, four small black rubber wheels with light wood hubs. Right-facing side profile with a tiny amount of top visible, no driver. Painterly gouache/watercolor on tactile paper, warm storybook village style with crisp detailed brush texture. Genuine transparent background around the car, no floor or scenery, no text, no shadow extending far outside silhouette. Square canvas, car nearly fills width, all four wheels and roof fully visible, highest native resolution. Not a real road car, clearly a toddler's little wooden toy.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-fc8d17cc-9f5b-4a8d-9c50-63f2e519e706.png",
+      "selected": true
+    },
+    {
+      "id": "garage-open",
+      "alpha": true,
+      "prompt": "Use case: illustration-story / transparent foreground prop. A simple miniature handmade wooden TOY GARAGE, frontal child-eye-level view with only a slight top of the red pitched roof visible. TWO equally sized side-by-side arched doorways, warm honey wood structure and a red tiled/painted roof, sage green hinged doors folded outward to each side. Two blank cream label plaques over doors, no letters. The two doorway interiors MUST BE GENUINELY TRANSPARENT HOLES so a separately composited toy car can pass behind the front facade. Transparent background outside silhouette too; NO back wall, no dark opaque interior, no floor, NO cars, no people, no furniture. Warm richly textured painterly watercolor/gouache children's book style, crisp wood grain, whole object fully visible with margin, wide 3:2 composition at highest native resolution. Door openings each wide enough for one toy car, thick central wooden pillar.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-f36fa993-602f-4d09-a43b-d36aa8d24c6c.png",
+      "selected": true
+    },
+    {
+      "id": "ball-mound-detail",
+      "ref": "ball-yard-wide",
+      "prompt": "Use case: precise-object-edit / illustration-story. Reframe the reference scene into a NEW low close observation of the SAME small earth play mound in this SAME tiny cottage courtyard. Same textured watercolor/gouache brushwork, same warm golden light, daisies, same low limestone back wall and green cottage door at far left. The mound now center-right prominently, exactly THREE pale smooth pebbles clearly on its top, NO ball hidden anywhere. Clear dry grass at lower-left for an independently composited crouching child. Change camera to mound height and closer view; keep the mound SMALL, not a mountain expedition. No people, hands, face or shadows from unseen people. Square complete edge-to-edge illustration, crisp native detail, no text or watermark.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-7a977dc5-3bc2-46da-af30-4552c6590c25.png",
+      "selected": true
+    },
+    {
+      "id": "water-puddle-detail",
+      "ref": "water-bank-wide",
+      "prompt": "Use case: precise-object-edit / illustration-story. New close downward-oblique view of the SAME shallow rain puddle on flat stone path by the same flower-covered stone cottage in the reference. Keep same warm tactile watercolor/gouache style, golden daisies, white daisies, sage door colors. Puddle occupies CENTER/RIGHT lower two-thirds, smooth still water clearly shows reflected white clouds, blue sky and nearby golden flower. Clear dry stone at left for separately composited child. No people or HUMAN reflection in the water. Not a pond, no banks or depth; small safe flat garden puddle. Square full composition, crisp maximum native resolution, no letters or watermark. Do not simply crop the reference: redraw from a closer downward camera with the reflected sky and flower as focal point.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-a26c7151-2b76-4dff-a2c4-5d90d8a00884.png",
+      "selected": true
+    },
+    {
+      "id": "car-room-low",
+      "ref": "car-room-wide",
+      "prompt": "Use case: illustration-story style-preserving scene edit. NEW LOW FLOOR-LEVEL camera in this SAME warm cream cottage playroom, looking across the woven sage-and-rust rug and honey wooden floor toward the same sage window seat, shelf and plaster wall. Now floor occupies lower three-quarters so miniature wooden toy garage and car can be composited on center-right; background furniture viewed from low angle, shallow narrative eye-level, beautifully detailed gouache/watercolor paper brush texture, warm sunlight. No humans, no cars or garages, no body parts, no writing. Square complete illustration, native maximum detail. Retain same room identity, natural colors, avoid photorealism or 3D.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-cf186dcb-7984-4366-bcc5-36234e2f40f1.png",
+      "selected": false
+    },
+    {
+      "id": "car-room-door",
+      "ref": "car-room-wide",
+      "prompt": "Use case: illustration-story style-preserving scene edit. New wide view from doorway into the SAME rustic child's playroom in reference, keeping same sage shuttered garden window and wooden shelf of blocks. Door jamb frames left edge, patterned woven rug center-right with clean area for separately composited toy garage, warm late-morning sunlight over wooden floor. A quiet returning-home conclusion to toy play. Low child-eye-level, painterly detailed watercolor/gouache and paper texture, square edge-to-edge scene, maximum native resolution. No people or body parts, no toy car, no garage, no lettering or watermark. Do not merely crop: a new view of the room from near the door.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-c9dfaf2f-1218-443a-9d9a-ebc90f37e40d.png",
+      "selected": true
+    },
+    {
+      "id": "ball-cart-detail",
+      "ref": "ball-yard-wide",
+      "prompt": "Use case: illustration-story scene continuity edit. New CLOSE LOOK INTO THE SAME red wooden toy cart in reference, in SAME tiny cottage courtyard with green door and low limestone wall, golden flowers and grass. At child crouch eye-level, red open-bed wooden four-wheel toy cart now occupies RIGHT two thirds of picture, exactly TWO clearly visible smooth pale-gray pebbles inside its bed. Absolutely NO ball in cart, beneath cart or in background. Clear dry grass on lower LEFT for separately composited crouching child. This is a different real camera shot, not a crop. Same sunlit painterly watercolor/gouache paper style. No people, hands, faces, text or watermark, square highest native detail.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-3291f0f6-a07c-4dc1-8175-862b911703b8.png",
+      "selected": true
+    },
+    {
+      "id": "ball-home-reveal",
+      "ref": "ball-yard-wide",
+      "prompt": "Use case: illustration-story scene continuity edit. New reveal scene from INSIDE the SAME stone cottage looking inward from its open sage green garden door. Outside through left doorway one glimpses the SAME small earth mound and red wooden toy cart in a little walled garden; inside foreground honey wooden floor, a low wooden bench by a wicker basket and cream plaster wall. Warm natural sunshine. Clear open FLOOR at lower RIGHT for a separate red-and-cream striped ball and at lower CENTER for a separately composited child. The ball will be added later, so NO ball drawn, no people or human parts. Same hand-painted watercolor/gouache thick paper storybook style, square full frame, maximum native detail, no text or watermark.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-91b58d81-870f-4f38-a020-f15937f0b4f6.png",
+      "selected": true
+    },
+    {
+      "id": "toy-ball",
+      "alpha": true,
+      "prompt": "Use case: illustration-story transparent prop. ONE small classic children's rubber ball with alternating faded vermilion red and warm ivory curved stripe panels, round and visibly spherical, no star/letters/logo. Detailed hand-painted gouache/watercolor with warm cream paper grain and soft natural highlights matching a sunny rustic cottage picture book. Entire ball fully visible, centered with margin, on genuinely transparent background; no floor, no hand, no scenery or extra objects, crisp native detail, square canvas highest native resolution.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-04c504f1-53be-4c62-8573-19092905df75.png",
+      "selected": true
+    },
+    {
+      "id": "garage-closed",
+      "ref": "garage-open",
+      "alpha": true,
+      "prompt": "Use case: precise-object-edit. Keep EXACTLY the same miniature wooden two-door toy garage, same camera, red roof, honey wood, two cream blank label plaques, matching dimensions and outline from this reference. Change ONLY both sage green arched doors: now each door is shut across its doorway, showing green wood grain and simple small round knobs. No car, no people, no text. Genuine transparency outside silhouette and between structural legs where appropriate, do not paint a colored backdrop. Same watercolor/gouache painted finish, entire garage visible without cropping, preserve original 3:2 frame.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-92c9c51d-fa9b-4bda-839f-ea1b17937d3a.png",
+      "selected": true
+    },
+    {
+      "id": "car-room-floor",
+      "ref": "car-room-low",
+      "prompt": "Use case: precise-object-edit. REMOVE the entire big wooden castle/block construction, ramps and all loose blocks from the rug on the right half of this reference. Inpaint complete continuous EMPTY woven rug and wooden floor there matching natural pattern, perspective, shadows and sunlight. Keep the rest of this exact low camera room scene unchanged: window, bench, shelves, chair, plant, walls. It is an empty environment for separate toy layers. No toys at all on the floor, no people, cars, garage or building. Same richly textured watercolor/gouache painting, square original resolution.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-195ae1a7-05e4-44c3-8cc3-5f2b30a8b108.png",
+      "selected": true
+    },
+    {
+      "id": "water-side-view",
+      "ref": "water-bank-wide",
+      "prompt": "Use case: illustration-story scene continuity edit. Draw a NEW LOWER SIDE VIEW of the SAME shallow little garden rain puddle and flower-covered cream stone cottage with sage door. The same white and yellow daisies cluster at right, water occupies a broad flat oval across lower-right half with still sky/cloud reflection; clear DRY sunlit stone at lower LEFT for separately composited crouching child. Looking diagonally across the puddle, garden gate in background left and sage cottage door upper right, visibly a new camera angle, not a crop. Warm sunshine, thick textured watercolor/gouache picture-book paint; no people, no human reflection or limbs, no fish, no text. Square highest native detail, full scene edge to edge. Keep this a safe shallow rain puddle, not a deep pool or stream.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-c03194d9-3f7f-4723-b0f3-cf60391d1ec7.png",
+      "selected": true
+    },
+    {
+      "id": "water-touch-bank",
+      "ref": "water-bank-wide",
+      "prompt": "Use case: illustration-story scene continuity edit. Create a NEW close view from the OTHER side of the SAME tiny shallow rain puddle on a flat cottage garden path. SAME thick textured watercolor/gouache style, white and golden daisies, sunlit stone cottage with muted sage green door. Composition is crucial: broad shallow puddle and reflections of clouds and flowers occupy LEFT 15..58% of image and LOWER LEFT at y60..90%; a broad clear DRY flat stone paving shelf occupies RIGHT 60..95% and bottom, where a separately composited child can crouch. Puddle's rightmost shore/contact point at x58%,y73%. No one painted in the plate, no hands, limbs or human reflection. No steep bank/depth; puddle is only a few millimeters of rainwater on paving. Different real camera angle, closer downward view centered on water edge and dry stone, not a simple crop. Square highest native detail, no text, no watermark.",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-c93c0808-936d-48ef-9de1-f8e0134b0f6f.png",
+      "selected": true
+    }
+  ]
+}

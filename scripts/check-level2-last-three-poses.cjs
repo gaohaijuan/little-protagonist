@@ -1,0 +1,16 @@
+'use strict';
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const {chromium}=require('C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const root=path.resolve(__dirname,'..'),out=path.join(root,'../output/level2-last-three-20261028');
+const lib=JSON.parse(fs.readFileSync(path.join(root,'content/child-pose-library.json'),'utf8'));
+const reg=JSON.parse(fs.readFileSync(path.join(root,'content/level2-last-three-pose-registration.json'),'utf8'));
+const ids=['stand-wave','jump-forward','sit-draw','sit-draw-active'];
+const defs=ids.map(id=>reg.poses[id]||lib.poses[id]);
+const data=p=>'data:image/'+(p.endsWith('.png')?'png':'webp')+';base64,'+fs.readFileSync(p).toString('base64');
+(async()=>{const b=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});try{const page=await b.newPage({viewport:{width:1800,height:1000}});
+await page.setContent('<html><body style="margin:0;background:#fbf6e9"><canvas id="qa"></canvas></body></html>');
+await page.addScriptTag({content:'var module={exports:{}};'+fs.readFileSync(path.join(root,'miniprogram/lib/character-rig.js'),'utf8')+';window.rig=module.exports;'});
+const record=await page.evaluate(async({defs,head,metrics,bodies})=>{const load=async src=>{const im=new Image;im.src=src;await im.decode();return im;};const composer=rig.createComposer(()=>document.createElement('canvas'),defs,{pixelDensity:2}),portrait=composer.prepare({kind:'illustrated',image:await load(head),metrics});const canvas=document.querySelector('#qa');canvas.width=1800;canvas.height=1000;const c=canvas.getContext('2d');c.fillStyle='#fbf6e9';c.fillRect(0,0,1800,1000);const rows=[];
+for(let i=0;i<defs.length;i++){const actor=composer.compose({portrait,body:await load(bodies[i]),poseId:defs[i].id});composer.place(c,actor,{x:225+i*450,y:300,scale:.8});c.fillStyle='#354b39';c.font='20px sans-serif';c.fillText(defs[i].id,i*450+20,40);rows.push({id:defs[i].id,headScale:actor.headScale,bounds:actor.bounds});}return{rows,png:canvas.toDataURL('image/png').split(',')[1]};},{defs,head:data(path.join(root,'preview/art/family/child-head.webp')),metrics:JSON.parse(fs.readFileSync(path.join(root,'preview/art/family/manifest.json'),'utf8')).heads.child.metrics,bodies:defs.map(p=>data(path.join(root,'preview',p.bodyUrl)))});
+assert.equal(new Set(record.rows.map(r=>r.headScale)).size,1);fs.writeFileSync(path.join(out,'new-pose-with-head-comparison.png'),Buffer.from(record.png,'base64'));fs.writeFileSync(path.join(out,'new-pose-composition-check.json'),JSON.stringify(record.rows,null,2));console.log(record.rows);
+}finally{await b.close();}})().catch(e=>{console.error(e);process.exitCode=1;});

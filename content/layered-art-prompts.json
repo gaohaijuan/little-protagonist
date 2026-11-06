@@ -1,0 +1,85 @@
+{
+  "method": "Built-in imagegen; no image API",
+  "prompts": [
+    {
+      "id": "intro-greeting",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied original children's picture-book illustration. Create an independent background plate for layered composition. Remove ONLY the central headless child's mustard-yellow sweater body, hands, green shorts, socks, shoes and its ground shadow. KEEP the little girl on the left exactly as she is. Fill the removed area with the existing courtyard flagstones and grass. Preserve the exact camera, positions, warm cream paper, tactile cut-paper/watercolor painted texture, lighting, colors and landscape 1672:941 composition. Do not redesign the scene. Do not insert any new person, face, limbs, silhouette or text. Keep the cream negative space on the right. This is background cleanup only, not a new illustration. Output a single full frame.",
+      "transparent_background": false
+    },
+    {
+      "id": "intro-play",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied original children's picture-book illustration. Create an independent background plate for layered composition. Remove ONLY the central headless child (yellow sweater, hands, green shorts, legs, shoes and its shadow). KEEP the wooden stool and blank card, shelves, toys, rug and all other room elements. Complete the wall and rug naturally behind the removed body. Preserve the exact camera, positions, warm cream paper, tactile cut-paper/watercolor painted texture, lighting, colors and landscape 1672:941 composition. Do not redesign the scene. Do not insert any new person, face, limbs, silhouette or text. Keep the cream negative space on the right. This is background cleanup only, not a new illustration. Output a single full frame.",
+      "transparent_background": false
+    },
+    {
+      "id": "intro-school",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied original children's picture-book illustration. Create an independent background plate for layered composition. Remove ONLY the central headless child (yellow sweater, backpack, hands, shorts, legs, shoes and shadow). KEEP the seated boy on the left unchanged and every shelf, doorway, backpack on wall, chair and classroom element. Complete the floor and background behind the removed body. Preserve the exact camera, positions, warm cream paper, tactile cut-paper/watercolor painted texture, lighting, colors and landscape 1672:941 composition. Do not redesign the scene. Do not insert any new person, face, limbs, silhouette or text. Keep the cream negative space on the right. This is background cleanup only, not a new illustration. Output a single full frame.",
+      "transparent_background": false
+    },
+    {
+      "id": "flower-care",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied original children's picture-book painting. Make a clean independent background plate. Remove ONLY the headless child: yellow sweater, hands, green shorts, legs and red shoes. Preserve the entire orange-red flower, stalk, leaves and snail unchanged. Restore the grass/soil hidden by the person. Preserve original warm tactile paper-cut/watercolor style, exact lighting, colors, camera and 1672:941 frame. Keep cream blank area on right. Do not add any person, head, limbs, text or watermark. Change only the removed person's area.",
+      "transparent_background": false
+    },
+    {
+      "id": "flower-wind",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied original children's picture-book painting. Make a clean independent background plate. Remove ONLY the headless yellow-sweater child including all arms, legs, shoes and body shadow. Preserve the small bare flower stalk and snail on the left, the flying green leaves, fence and garden. Restore the grass behind the body. Preserve original warm tactile paper-cut/watercolor style, exact lighting, colors, camera and 1672:941 frame. Keep cream blank area on right. Do not add any person, head, limbs, text or watermark. Change only the removed person's area.",
+      "transparent_background": false
+    },
+    {
+      "id": "flower-search",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied original children's picture-book painting. Make a clean independent background plate. Remove ONLY the headless yellow-sweater crouching child, including hands, legs, shoes and body shadow. Preserve all surrounding grasses, snail, stone wall, foliage and architecture. Complete the grassy gap with continuous garden vegetation, leaving space to place an independent crouching character. Preserve original warm tactile paper-cut/watercolor style, exact lighting, colors, camera and 1672:941 frame. Keep cream blank area on right. Do not add any person, head, limbs, text or watermark. Change only the removed person's area.",
+      "transparent_background": false
+    },
+    {
+      "id": "hands-room",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied original children's picture-book painting. Make a clean independent background plate. Remove ONLY the headless yellow-sweater child including both raised hands, shorts, legs, shoes and shadow. Preserve every room detail: window, drawings, ivy, shelves, cushions, rabbit toy, stool, rainbow, books and woven rug. Complete the wall and floor previously hidden by the child. Preserve original warm tactile paper-cut/watercolor style, exact lighting, colors, camera and 1672:941 frame. Keep cream blank area on right. Do not add any person, head, limbs, text or watermark. Change only the removed person's area.",
+      "transparent_background": false
+    },
+    {
+      "id": "rain-alone",
+      "prompt": "Use case: precise-object-edit. This is a background cleanup for an existing children's picture book, not a redesign. Remove the entire headless yellow-sweater child AND the complete umbrella including canopy, pole and handle. Keep the red-orange flower and all its leaves, fence, wet garden, rain, puddles and house exactly as they are. Fill the removed areas with continuing sky, garden and wet path. Preserve the original camera, exact original warm tactile watercolor/cut-paper illustration style, colors, lighting, architecture and 1672:941 landscape frame. Keep the cream paper negative space on the right. No new people, faces, limbs, text or watermark. Output one independent background plate.",
+      "transparent_background": false
+    },
+    {
+      "id": "rain-walk",
+      "prompt": "Use case: precise-object-edit. This is a background cleanup for an existing children's picture book, not a redesign. Remove the entire headless walking yellow-sweater child AND the complete umbrella including canopy, pole and handle. Keep flower, leaves, rain, garden, house and wet path unchanged. Reconstruct the garden and rain behind the removed umbrella and child. Preserve the original camera, exact original warm tactile watercolor/cut-paper illustration style, colors, lighting, architecture and 1672:941 landscape frame. Keep the cream paper negative space on the right. No new people, faces, limbs, text or watermark. Output one independent background plate.",
+      "transparent_background": false
+    },
+    {
+      "id": "rain-shelter",
+      "prompt": "Use case: precise-object-edit. This is a background cleanup for an existing children's picture book, not a redesign. Remove the entire headless crouching yellow-sweater child AND the complete umbrella including canopy, pole and handle. Keep the orange flower, fence, house, rain and puddles unchanged. Reconstruct background sky, shrubs and wet path in the removed areas. Preserve the original camera, exact original warm tactile watercolor/cut-paper illustration style, colors, lighting, architecture and 1672:941 landscape frame. Keep the cream paper negative space on the right. No new people, faces, limbs, text or watermark. Output one independent background plate.",
+      "transparent_background": false
+    },
+    {
+      "id": "stone-home",
+      "prompt": "Use case: precise-object-edit. This is a background cleanup for an existing children's picture book, not a redesign. Remove ONLY the headless crouching yellow-sweater child including hand, legs, shoes and shadow. KEEP the mossy boulder and small pale stone under its overhang exactly unchanged. Preserve the fence, potted flowers and path. Reconstruct the hidden garden path behind the child. Preserve the original camera, exact original warm tactile watercolor/cut-paper illustration style, colors, lighting, architecture and 1672:941 landscape frame. Keep the cream paper negative space on the right. No new people, faces, limbs, text or watermark. Output one independent background plate.",
+      "transparent_background": false
+    },
+    {
+      "id": "stone-hold",
+      "prompt": "Use case: precise-object-edit. Clean up the supplied original picture-book scene into an independent background layer. Remove ONLY the headless standing yellow-sweater child, hands and the small stone being held, shorts, legs, shoes and its shadow. Preserve the empty rock cave and boulder in the lower left, flower pots, fence and garden path. Preserve the exact camera, warm tactile paper/watercolor texture, color, lighting, architecture and all remaining original details. Keep the original 1672:941 composition and cream negative space on right. Reconstruct only the area occupied by the removed child. No person, face, limbs, new objects, text or watermark.",
+      "transparent_background": false
+    },
+    {
+      "id": "stone-walk",
+      "prompt": "Use case: precise-object-edit. Clean up the supplied original picture-book scene into an independent background layer. Remove ONLY the headless walking yellow-sweater child, hands and the small stone carried in the hand, legs, shoes and shadow. Preserve the empty rock cave, boulder, flower pots, fence and garden path. Preserve the exact camera, warm tactile paper/watercolor texture, color, lighting, architecture and all remaining original details. Keep the original 1672:941 composition and cream negative space on right. Reconstruct only the area occupied by the removed child. No person, face, limbs, new objects, text or watermark.",
+      "transparent_background": false
+    },
+    {
+      "id": "stone-return",
+      "prompt": "Use case: precise-object-edit. Clean up the supplied original picture-book scene into an independent background layer. Remove ONLY the headless crouching yellow-sweater child including its arm, hand, legs, shoes and shadow. Keep the mossy boulder and the little pale stone directly beneath its overhang unchanged. Restore the hidden path and vegetation. Preserve the exact camera, warm tactile paper/watercolor texture, color, lighting, architecture and all remaining original details. Keep the original 1672:941 composition and cream negative space on right. Reconstruct only the area occupied by the removed child. No person, face, limbs, new objects, text or watermark.",
+      "transparent_background": false
+    },
+    {
+      "id": "stone-leave",
+      "prompt": "Use case: precise-object-edit. Clean up the supplied original picture-book scene into an independent background layer. Remove ONLY the headless walking yellow-sweater child including hands, legs, shoes and shadow. Keep the boulder and small pale stone under its overhang, the fence, plants and path unchanged. Preserve the exact camera, warm tactile paper/watercolor texture, color, lighting, architecture and all remaining original details. Keep the original 1672:941 composition and cream negative space on right. Reconstruct only the area occupied by the removed child. No person, face, limbs, new objects, text or watermark.",
+      "transparent_background": false
+    },
+    {
+      "id": "rain-umbrella",
+      "transparent_background": true,
+      "prompt": "Use case: background-extraction. Extract ONLY the entire existing plain sage-green umbrella from the supplied original children's illustration, including its entire canopy, ribs, straight wooden pole and curved wooden handle. Preserve the umbrella's exact original appearance, shallow canopy shape, proportions, lighting, wet painted paper texture and source position. Remove the entire child, ALL hands/fingers, skin, clothes, flower, plants, house, sky, rain and paper. Fill the tiny umbrella-pole portion hidden by the hand with continuous wood. Output genuine transparent alpha everywhere outside the umbrella. Keep the same 1672:941 full-frame composition and umbrella coordinates; do not center or enlarge it. No shadow backdrop, no replacement floral pattern, no face, no body, no extra object, no text."
+    }
+  ]
+}

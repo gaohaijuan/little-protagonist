@@ -23,7 +23,7 @@ async function fixture(t, options = {}) {
     const identity = { openid: codes.get(code) || 'same-openid', session_key: 'private-session-key', unionid: 'private-union-id' };
     return Response.json(platform === 'wechat' ? provider.error ? { errcode: 40029, errmsg: 'secret-not-public' } : identity : { err_no: provider.error ? 40018 : 0, err_tips: 'secret-not-public', data: identity });
   }, ...options });
-  app.server.listen(20000 + crypto.randomInt(40000), '127.0.0.1'); await once(app.server, 'listening');
+  app.server.listen(0, '127.0.0.1'); await once(app.server, 'listening');
   const base = 'http://127.0.0.1:' + app.server.address().port;
   function native(platform, controls = {}) {
     const calls = [], storage = new Map();

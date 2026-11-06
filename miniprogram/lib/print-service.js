@@ -4,6 +4,10 @@ function createServicePlan(catalog, level = 1) {
   if (!Number.isInteger(level) || level < 1 || level > LEVEL_COUNT) throw Error('请选择第1至10级');
   const stories = level === 1 ? catalog : [];
   if (!Array.isArray(stories)) throw Error('打印内容无效');
+  const current=require('./current-edition');
+  if(level===1&&current.matches(stories))return {...current.orderPlan(),available:true,
+    targetStoryCount:15,storiesPerVolume:15,targetVolumeCount:1,
+    volumes:[{...current.orderPlan().volumes[0],books:stories}]};
   const ids = new Set();
   for (const story of stories) {
     if (!story.id || ids.has(story.id) || !Array.isArray(story.pages) || !story.pages.length) throw Error('不能打印未完成或重复的故事');

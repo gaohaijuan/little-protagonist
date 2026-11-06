@@ -1,0 +1,135 @@
+{
+  "model": "child-v1",
+  "poses": {
+    "jump-forward": {
+      "id": "jump-forward",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/level2-last-three/jump-forward.webp",
+      "collar": {
+        "x": 768,
+        "y": 600
+      },
+      "bounds": {
+        "left": 153,
+        "top": 564,
+        "right": 1293,
+        "bottom": 1783
+      },
+      "headRotation": 0,
+      "attachments": {
+        "leftSole": {
+          "x": 575,
+          "y": 1730
+        },
+        "rightSole": {
+          "x": 915,
+          "y": 1779
+        }
+      }
+    },
+    "sit-draw-active": {
+      "id": "sit-draw-active",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/level2-last-three/sit-draw-active.webp",
+      "collar": {
+        "x": 768,
+        "y": 600
+      },
+      "bounds": {
+        "left": 351,
+        "top": 565,
+        "right": 1221,
+        "bottom": 1519
+      },
+      "headRotation": -0.04,
+      "attachments": {
+        "pencilTip": {
+          "x": 1177,
+          "y": 1514
+        }
+      }
+    }
+  },
+  "registrations": [
+    {
+      "id": "jump-forward",
+      "sourceCollar": [
+        557,
+        250
+      ],
+      "uniformScale": 1.1494252873563218,
+      "offset": [
+        127.77011494252872,
+        312.64367816091954
+      ],
+      "basis": "Master standing collar to sweater hem: 500 pixels; generated same anatomical span: 435 pixels. No head geometry or independent limb transforms.",
+      "sourceAnatomySpan": 435,
+      "masterAnatomySpan": 500
+    },
+    {
+      "id": "sit-draw-active",
+      "sourceCollar": [
+        510,
+        298
+      ],
+      "uniformScale": 0.9084745762711864,
+      "offset": [
+        304.6779661016949,
+        329.27457627118645
+      ],
+      "basis": "Existing sit-draw collar to sweater hem: 536 pixels; generated span: 590 pixels. Original crossed-leg body matched by one uniform scale.",
+      "sourceAnatomySpan": 590,
+      "masterAnatomySpan": 536
+    }
+  ],
+  "assets": {
+    "white-rabbit-jump": {
+      "url": "./art/sequence/level2-last-three/white-rabbit-jump.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "bounds": [
+        54,
+        23,
+        1506,
+        875
+      ],
+      "sha256": "e2eb93022615a3e9d13963662762ebc4112e89852b2f443d1c1b0fbedb6f8901",
+      "nativePixelsExact": true
+    },
+    "jump-forward": {
+      "url": "./art/sequence/level2-last-three/jump-forward.webp",
+      "size": [
+        1536,
+        2048
+      ],
+      "bounds": [
+        153,
+        564,
+        1293,
+        1783
+      ],
+      "sha256": "9e9d2acee0438cab47b54b336b7bec81f25fae2d9b1c50c2a81ad1aefca5c0b2",
+      "nativePixelsExact": false
+    },
+    "sit-draw-active": {
+      "url": "./art/sequence/level2-last-three/sit-draw-active.webp",
+      "size": [
+        1536,
+        1920
+      ],
+      "bounds": [
+        351,
+        565,
+        1221,
+        1519
+      ],
+      "sha256": "152a09e6d97cb944ca44646aa5ce8154ebd2abcebb38f29dd46c151794a2a2a0",
+      "nativePixelsExact": false
+    }
+  },
+  "headGeometryChanged": false
+}

@@ -1,0 +1,10 @@
+{
+  "key": "child-bunny-hands-v2",
+  "kind": "pose",
+  "transparent": true,
+  "refs": [
+    "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-4d39380c-2a8e-4a6a-9f9f-4d2d714affb5.png",
+    "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/output/level1-complete-15-20261027/art/intro-complete-01.png"
+  ],
+  "prompt": "Use case: precise-object-edit. Input1 is the HEADLESS yellow-sweater body to correct; input2 is only the EXACT large-child-head/body PROPORTION GUIDE, not a request to generate that head or background. The hands in input1 are TOO LOW: they would lie beside the separately composited face, not on the crown. Output a SQUARE transparent canvas with the WHOLE body shifted into the LOWER HALF and arms raised FAR ABOVE THE COLLAR. Geometry must be visible: collar centered at x50%, y55%; soles at y94%; an imaginary head would extend from y55% up to y37%. Both palms at y36%, with upright V fingers from y35% to y23%, unmistakably ABOVE that head. Elbows lift outward at y48%; upper arms rise from shoulders, forearms continue upward around sides of empty imaginary head. Preserve the SAME yellow knit and cream pocket, sage cuffed shorts, white socks, red shoes, skin, toddler torso and leg proportions from input1, scaling the ENTIRE body uniformly within the square canvas. Do NOT change head/body ratio by squeezing legs. NO HEAD, face, hair, neck oval, head guide lines, animal head, text, background or floor. The upper middle from y37% to y55% must remain TRANSPARENT for the separately composited original BIG child's head. Full fingers and shoes have generous margins. Rich warm gouache/watercolor paper texture, real alpha. One reusable headless body, not a scene or montage."
+}

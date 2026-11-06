@@ -121,28 +121,25 @@ function familyBook(profile, members) {
   const others = selected.filter((member) => member.id !== 'child');
   const pages = [];
   const scenes = [];
+  const description = '和家人一起，看看家里有谁。';
   function add(lines, scene) { pages.push(lines); scenes.push(scene); }
-  add(['我家有几口人？', '我来数一数。'], { kind: 'group', memberIds: ids.slice() });
+  add(['我家有几口人？'], { kind: 'group', memberIds: ids.slice() });
   if (others.length === 0) {
-    add(['这里有我。'], { kind: 'member', memberIds: ['child'], focusId: 'child' });
-    add(['一！', '我也算一口人。'], { kind: 'count', memberIds: ['child'], count: 1 });
-    add(['数家人，', '别忘了自己呀！'], { kind: 'remember', memberIds: ['child'], focusId: 'child' });
-    return { pages, scenes };
+    add(['这是我。'], { kind: 'member', memberIds: ['child'], focusId: 'child' });
+    add(['我家有一口人。'], { kind: 'count', memberIds: ['child'], count: 1 });
+    add(['我在家！'], { kind: 'group', memberIds: ['child'], count: 1 });
+    return { pages, scenes, description };
   }
   others.forEach((member) => {
     add(['这是' + roleLabel(member.role) + '。'], {
       kind: 'member', memberIds: [member.id, 'child'], focusId: member.id
     });
   });
-  const counted = others.length === 2 ? '两' : numberWord(others.length);
-  add(['我数好了！', '一共有' + counted + '口人。'], {
-    kind: 'count', memberIds: others.map((member) => member.id), count: others.length
-  });
-  add(['咦？', '我把谁忘了？'], { kind: 'remember', memberIds: ids.slice(), focusId: 'child' });
-  add(['是我呀！', '还要加上我。'], { kind: 'remember', memberIds: ids.slice(), focusId: 'child' });
+  add(['还有我！'], { kind: 'remember', memberIds: ids.slice(), focusId: 'child' });
   const total = selected.length === 2 ? '两' : numberWord(selected.length);
-  add(['我家有' + total + '口人。', '我们都在家！'], { kind: 'group', memberIds: ids.slice(), count: selected.length });
-  return { pages, scenes };
+  add(['我家有' + total + '口人。'], { kind: 'count', memberIds: ids.slice(), count: selected.length });
+  add(['我们都在家！'], { kind: 'group', memberIds: ids.slice(), count: selected.length });
+  return { pages, scenes, description };
 }
 
 module.exports = {

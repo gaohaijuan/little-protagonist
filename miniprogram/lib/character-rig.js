@@ -15,7 +15,8 @@ function definePose(input){
   // a page. Source pixels have one uniform conversion into character units.
   if(!input||input.model!==CHILD_MODEL.id||!input.id||!positive(input.version)||!point(input.collar)||!box(input.bounds)||!Number.isFinite(input.headRotation)||Math.abs(input.headRotation)>Math.PI)throw Error('Invalid child pose');
   rejectOverrides(input);
-  return Object.freeze({...input,collar:Object.freeze({...input.collar}),bounds:Object.freeze({...input.bounds})});
+  if(input.foregroundRects&&(!Array.isArray(input.foregroundRects)||input.foregroundRects.some(r=>!box(r))))throw Error('Invalid registered foreground body regions');
+  return Object.freeze({...input,collar:Object.freeze({...input.collar}),bounds:Object.freeze({...input.bounds}),...(input.foregroundRects?{foregroundRects:Object.freeze(input.foregroundRects.map(r=>Object.freeze({...r})))}:{})});
 }
 function rotated(b,rotation,scale,dx,dy){
   const cs=Math.cos(rotation),sn=Math.sin(rotation),ps=[[b.left,b.top],[b.right,b.top],[b.left,b.bottom],[b.right,b.bottom]].map(([x,y])=>{x=x*scale+dx;y=y*scale+dy;return {x:x*cs-y*sn,y:x*sn+y*cs};});
@@ -33,7 +34,8 @@ function portraitGeometry(portrait){
   if(!positive(reference))throw Error('Invalid portrait reference');
   return Object.freeze({scale:CHILD_MODEL.headHeight/reference,chin:Object.freeze({...m.chin}),bounds:Object.freeze({...b}),size:Object.freeze(s)});
 }
-function createComposer(createCanvas,poseDefinitions){
+function createComposer(createCanvas,poseDefinitions,{pixelDensity=1}={}){
+  if(!positive(pixelDensity)||pixelDensity>4)throw Error('Invalid character pixel density');
   const library=new Map();
   for(const input of poseDefinitions||[]){const pose=definePose(input);if(library.has(pose.id))throw Error('Duplicate character pose');library.set(pose.id,pose);}
   const portraits=new WeakMap(),actors=new WeakMap(),prepared=new WeakSet();
@@ -57,18 +59,22 @@ function createComposer(createCanvas,poseDefinitions){
     const g=portrait.geometry,u=1/CHILD_MODEL.sourcePixelsPerUnit,head=rotated(g.bounds,pose.headRotation,g.scale,-g.chin.x*g.scale,-g.chin.y*g.scale);
     const bodyBounds={left:(pose.bounds.left-pose.collar.x)*u,top:(pose.bounds.top-pose.collar.y)*u,right:(pose.bounds.right-pose.collar.x)*u,bottom:(pose.bounds.bottom-pose.collar.y)*u};
     const bounds={left:Math.min(head.left,bodyBounds.left)-CHILD_MODEL.padding,top:Math.min(head.top,bodyBounds.top)-CHILD_MODEL.padding,right:Math.max(head.right,bodyBounds.right)+CHILD_MODEL.padding,bottom:Math.max(head.bottom,bodyBounds.bottom)+CHILD_MODEL.padding};
-    const canvas=createCanvas();canvas.width=Math.ceil(bounds.right-bounds.left);canvas.height=Math.ceil(bounds.bottom-bounds.top);
+    const canvas=createCanvas();canvas.width=Math.ceil((bounds.right-bounds.left)*pixelDensity);canvas.height=Math.ceil((bounds.bottom-bounds.top)*pixelDensity);
     const c=canvas.getContext('2d');if(!c)throw Error('Character canvas unavailable');
+    if(pixelDensity!==1)c.scale(pixelDensity,pixelDensity);
     c.translate(-bounds.left,-bounds.top);
     c.drawImage(body,0,0,bs.width,bs.height,-pose.collar.x*u,-pose.collar.y*u,bs.width*u,bs.height*u);
     c.save();c.rotate(pose.headRotation);c.drawImage(portrait.image,0,0,g.size.width,g.size.height,-g.chin.x*g.scale,-g.chin.y*g.scale,g.size.width*g.scale,g.size.height*g.scale);c.restore();
-    const actor=Object.freeze({image:canvas,model:CHILD_MODEL.id,pose:pose.id,version:pose.version,anchor:Object.freeze({x:-bounds.left,y:-bounds.top}),bounds:Object.freeze(bounds),headScale:g.scale});
+    // A registered hand may physically cover a cheek. Composite its original
+    // body pixels here once, so scenes still receive one complete cached actor.
+    for(const r of pose.foregroundRects||[]){if(r.left<0||r.top<0||r.right>bs.width||r.bottom>bs.height)throw Error('Foreground body region outside source');const w=r.right-r.left,h=r.bottom-r.top;c.drawImage(body,r.left,r.top,w,h,(r.left-pose.collar.x)*u,(r.top-pose.collar.y)*u,w*u,h*u);}
+    const actor=Object.freeze({image:canvas,pixelDensity,model:CHILD_MODEL.id,pose:pose.id,version:pose.version,anchor:Object.freeze({x:-bounds.left,y:-bounds.top}),bounds:Object.freeze(bounds),headScale:g.scale});
     poses.set(key,actor);return actor;
   }
   function place(context,actor,placement){
     if(!placement||Object.keys(placement).some(k=>!['x','y','scale','rotation'].includes(k))||!point(placement)||!positive(placement.scale)||placement.rotation!==undefined&&!Number.isFinite(placement.rotation))throw Error('A scene may only position and uniformly scale a complete character');
     context.save();context.translate(placement.x,placement.y);context.rotate(placement.rotation||0);
-    context.drawImage(actor.image,-actor.anchor.x*placement.scale,-actor.anchor.y*placement.scale,actor.image.width*placement.scale,actor.image.height*placement.scale);context.restore();
+    context.drawImage(actor.image,-actor.anchor.x*placement.scale,-actor.anchor.y*placement.scale,actor.image.width/(actor.pixelDensity||1)*placement.scale,actor.image.height/(actor.pixelDensity||1)*placement.scale);context.restore();
   }
   function release({portrait,body,poseId}){
     const pose=library.get(poseId),cache=actors.get(portrait)?.get(body);

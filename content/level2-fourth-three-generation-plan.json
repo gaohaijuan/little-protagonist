@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-28",
+  "method": "Built-in imagegen only; no API. Original child face pixels unchanged; bodies precomposited once.",
+  "jobs": [
+    {
+      "key": "white-rabbit-alert",
+      "transparent": true,
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20/rabbit.png"
+      ],
+      "prompt": "Use case: illustration-story. Asset type: new separate transparent story animal, a WHITE albino domestic rabbit required by the approved text, not a recolor of a previously published character. Image1 is only a STYLE, anatomy, and scale reference. One small entirely WHITE rabbit, tiny soft pale-pink nose and inner ears, clearly RUBY RED natural rabbit irises (not brown or black). Long alert ears and four clear little paws, soft rounded animal anatomy. Three-quarter side view with nose pointing LEFT. Neutral closed rabbit mouth, NO teeth showing yet, no human smile. Full body with generous transparent margins, no leaf, props, shadow cloud, halo, ground or background. Preserve the rich paper fur texture of the reference. Landscape 3:2 composition, animal fills frame without clipping ear tips or tail. Premium established Chinese preschool picture-book watercolor/gouache, fine layered paper brush texture, natural toddler/animal anatomy, honey ochre, muted sage, warm ivory, terracotta, coherent soft light, crisp detailed contours. No text, labels, watermark, borders, cartoon graphic symbols, plastic 3D, montage, extra people or animals.",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-9efdc768-799a-4aaf-ac48-d79e7bbcc2af.png",
+      "accepted": true,
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-fourth-three-native\\white-rabbit-alert.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-fourth-three\\white-rabbit-alert.webp"
+    },
+    {
+      "key": "moon-pond-wide",
+      "transparent": false,
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/first-ten/water-reflection-bank.webp",
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/sunrise/night.webp"
+      ],
+      "prompt": "Use case: illustration-story. Asset type: square layered story BACKGROUND, no figures. Image1 defines the same cottage-garden watercolor style; image2 defines nighttime light and color. A quiet shallow garden POND under a clearly visible full moon. Composition planned for separate child and rabbit layers: LEFT lower bank is dry broad flat honey-grey stone and short grass from x0 to x430, y580 to bottom; RIGHT half is dark calm water from x450 to x1000, y600 to bottom, reachable by a rabbit standing on left bank. Delicate reeds, low daisies, distant garden trees and subtle cottage wall at far left. Full moon in open sky, center approximately x760,y170 on a 1000-square canvas, disk diameter100. Fine crater/paper texture, pale ivory softly luminous disk with clean circular edge, not a star or glaring yellow sun. Water has dark indigo reflections of trees but NO bright moon reflection, NO white streak or circle in water: reflected moon will be composited separately. Plenty of open space at left lower foreground for child, near x250,y800, and at bank edge x450,y860 for rabbit. Eye-level establishing landscape, moon and water both clearly visible. No people, rabbits, birds, boats, furniture. Premium established Chinese preschool picture-book watercolor/gouache, fine layered paper brush texture, natural toddler/animal anatomy, honey ochre, muted sage, warm ivory, terracotta, coherent soft light, crisp detailed contours. No text, labels, watermark, borders, cartoon graphic symbols, plastic 3D, montage, extra people or animals.",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-b52b8d21-19bb-4922-bf37-118afa3b95e4.png",
+      "accepted": true,
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-fourth-three-native\\moon-pond-wide.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-fourth-three\\moon-pond-wide.webp"
+    },
+    {
+      "key": "child-sit-doze",
+      "transparent": true,
+      "refs": [
+        "C:/Users/Administrator/Documents/ChatGPT/分级阅读绘本/little-protagonist/preview/art/sequence/books-16-20/child-sit-read-v2.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset type: registered independent HEADLESS child-body gesture, from this EXACT existing seated body. Preserve the SAME yellow knit sweater with cream pocket, sage cuffed shorts, white socks, red canvas sneakers, skin and toddler limb lengths, torso width, crossed-leg seated shape, clothing textures. Change ONLY the two arms: elbows rest naturally on the bent knees, forearms rise to cup and support an imaginary tired child's head, BOTH palms softly overlap the imaginary EYES/upper cheeks, as the sleepy child nods into their hands while waiting. This is a resting pose, not a vigorous hide-and-seek gesture. Hands at sides and across upper face leave the CENTRAL collar and lower mouth space mostly clear. Crucial: NO HEAD, hair, face, eyes, neck oval or placeholder head. The original head will be composited afterward at the SAME large established proportion. Imaginary crown is about 550 source pixels above collar, eye line about 230 pixels above collar. Give sufficient transparent canvas ABOVE the collar and the raised hands, never squeeze legs or enlarge torso to fill frame. Original legs/body may be shifted uniformly on a larger tall portrait canvas; no anatomy changes. Full hands, knees, socks and shoes with margins. Genuine alpha transparency, NO ground, floor, colored halo, shadow cloud, prop or text. Premium established Chinese preschool picture-book watercolor/gouache, fine layered paper brush texture, natural toddler/animal anatomy, honey ochre, muted sage, warm ivory, terracotta, coherent soft light, crisp detailed contours. No text, labels, watermark, borders, cartoon graphic symbols, plastic 3D, montage, extra people or animals.",
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-605869e9-09d6-4d37-88b2-abaea50afd67.png",
+      "accepted": false,
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-fourth-three-native\\child-sit-doze.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-fourth-three\\sit-doze.webp",
+      "rejection": "Two palms read as covering face rather than sleeping; replaced with one supporting hand."
+    },
+    {
+      "key": "white-rabbit-drink",
+      "transparent": true,
+      "refs": [
+        "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-9efdc768-799a-4aaf-ac48-d79e7bbcc2af.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset: separate transparent animal action. Edit this exact WHITE rabbit, preserving its ruby-red natural eye, pink nose/inner ears, full white fur, body size, limb lengths and finely layered watercolor paper texture. Change pose ONLY: crouch at a shallow pond and lower the head so the little NOSE and MOUTH touch the ground-level waterline, as it gently drinks. Nose points LEFT, ears tilt gently backward but remain long, four paws safe on bank. Mouth at baseline close to front paws, not halfway up the body. No water, reflection, ground, leaf, shadow cloud or colored halo in this asset. Entire animal including ears, whiskers and tail in frame on real transparent background. Landscape 3:2. No extra rabbit, text, teeth or human grin.",
+      "accepted": true,
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-72d87d3c-2833-45e7-a564-5f627972f677.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-fourth-three-native\\white-rabbit-drink.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-fourth-three\\white-rabbit-drink.webp"
+    },
+    {
+      "key": "white-rabbit-teeth",
+      "transparent": true,
+      "refs": [
+        "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-9efdc768-799a-4aaf-ac48-d79e7bbcc2af.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Asset: transparent CLOSE VIEW of the SAME rabbit for a preschool story's final reveal. Preserve this white rabbit's exact natural anatomy, ruby-red eye, pink inner ears/nose, fur and detailed gouache paper texture. Rabbit faces LEFT, with head and upper chest/forepaws in a close three-quarter side view. It nibbles the leafy GREEN edge of one pale-green cabbage leaf held naturally in the mouth. Show TWO TINY anatomically plausible cream incisors clearly at the bite point, not giant buck teeth or a human smile. Both long ear tips remain fully inside frame. Crop lower body naturally at the bottom, not a floating severed head; include chest and forepaws. The leaf extends a short distance LEFT from mouth, so the tiny incisors remain visible beside the bite. Enough actual native detail to identify eye, nose, small teeth and leaf veins when printed. Pure alpha background, no floor, halo, fake labels, arrows, writing or other animals. Square composition, one animal.",
+      "accepted": true,
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-8658e9ef-ffb2-4c72-8f40-cb6358def223.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-fourth-three-native\\white-rabbit-teeth.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-fourth-three\\white-rabbit-teeth.webp"
+    },
+    {
+      "key": "moon-pond-close",
+      "transparent": false,
+      "refs": [
+        "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-b52b8d21-19bb-4922-bf37-118afa3b95e4.png"
+      ],
+      "prompt": "Use case: illustration-story. Asset: square high-detail close-view BACKGROUND from this exact moonlit cottage pond, same stone bank, reeds, flower species and blue nighttime lighting. Camera now LOW and CLOSE to the bank and water, looking gently DOWN across the pond. LEFT 30 percent is the dry honey-grey flat STONE edge and grass at which a separately added rabbit can drink. The shallow dark indigo reflective WATER fills right70 percent and lower foreground. Water-edge contact line around x380,y720, allowing a rabbit placed on left with its nose near x480,y780. Dark tree reflections and delicate moonlit highlights, clear fine paper texture. NO SKY or actual moon visible in this close shot. No bright disk, white streak, or moon reflection in water; that reflection and ripples will be separate composited layers. Do NOT paint rabbits, people, hands, floating animals, signs, text, numbers, arrows, borders or watermark. This must be a genuinely closer view, not simply an enlarged crop of the wide image.",
+      "accepted": true,
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-f8f93151-2b63-45ba-b9c5-b9a545da494c.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-fourth-three-native\\moon-pond-close.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-fourth-three\\moon-pond-close.webp"
+    },
+    {
+      "key": "child-sit-rest-side",
+      "transparent": true,
+      "refs": [
+        "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-605869e9-09d6-4d37-88b2-abaea50afd67.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target: this exact HEADLESS seated yellow-sweater child-body. The current TWO palms over eyes look like crying. Change ONLY the arm on the viewer's LEFT: lower that left arm onto the crossed knees with a relaxed hand. Keep the viewer-right arm, upright forearm and cupped right hand in exactly the SAME position, to support an imaginary sleepy head leaning heavily sideways to the RIGHT. The one remaining right hand supports the tilted temple, right forearm supports the cheek, so the sleeping face will be hidden behind the arm after compositing. Do not generate that head: NO face, eyes, hair or head placeholder at all. Keep the exact same collar-to-shoes length, seated torso/hip/leg shape and scale, yellow knitted sweater/cream pocket, sage shorts, socks, red shoes, skin and gouache paper texture. Full transparent body with safe margin, original pose canvas and layout. Real alpha; no halo, ground, objects, text or cartoon sleep symbols. One headless body only.",
+      "accepted": true,
+      "source": "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-03890866-dd11-4bba-bc20-85d6ed76159c.png",
+      "savedNativePath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\art-samples\\level2-fourth-three-native\\child-sit-rest-side.png",
+      "savedWebPath": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\level2-fourth-three\\sit-doze.webp"
+    }
+  ]
+}

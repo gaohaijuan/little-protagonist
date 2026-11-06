@@ -1,0 +1,75 @@
+{
+  "warm-water-room": {
+    "url": "./art/sequence/level2-next-three/warm-water-room.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true,
+    "sha256": "f35fd35f56d663aaef7c47e7ed911be6c058eb381c361d9903f44d8377349fc4"
+  },
+  "warm-water-table-close": {
+    "url": "./art/sequence/level2-next-three/warm-water-table-close.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true,
+    "sha256": "2ea8d4a65378fd8388e33cb3c6792b7fed6f3e2c7a14cbe5ec7d9158f1b1c7b0"
+  },
+  "flower-leaf-shelter": {
+    "url": "./art/sequence/level2-next-three/flower-leaf-shelter.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "nativePixelsExact": true,
+    "sha256": "610616c74170674ba5906641b0f38dfe3834a3976bdeecc1e5db5cff7d68ea86"
+  },
+  "warm-water-cup": {
+    "url": "./art/sequence/books-16-20/water-cup.png",
+    "size": [
+      1385,
+      1136
+    ],
+    "bounds": [
+      127,
+      148,
+      1326,
+      1039
+    ],
+    "reused": true
+  },
+  "warm-water-hand": {
+    "url": "./art/sequence/action-fixes/pov-search-hand.webp",
+    "size": [
+      1254,
+      1254
+    ],
+    "bounds": [
+      0,
+      101,
+      1189,
+      1254
+    ],
+    "reused": true
+  }
+}

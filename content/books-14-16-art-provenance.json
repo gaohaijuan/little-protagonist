@@ -1,0 +1,64 @@
+{
+  "method": "Built-in imagegen only; no image API or CLI",
+  "date": "2026-10-24",
+  "manuscript": "content/level1-stories-11-20.json:14–16",
+  "characterModel": "Registered child-v1 complete actors; one footwear-only edit of the registered barefoot-step pose, unchanged collar and anatomy",
+  "assets": [
+    {
+      "id": "small-shoes",
+      "alpha": true,
+      "ref": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b18-p03.png",
+      "prompt": "Use case: illustration-story isolated prop. From the reference, extract/recreate ONLY the same pair of SMALL orange-red canvas children's sneakers with ivory rubber toe caps, cream soles and cream laces. Same warm hand-painted textured gouache/paper-collage, exact design as small shoes on LEFT of reference, same 3/4 frontal camera looking down into open shoes, left and right shoes side by side with a clear gap. NO brown adult loafers, no feet or people, no floor, no cast background, no lettering. Genuine transparent background, complete silhouettes and margin, maximum native resolution.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-075dc7cc-1ba1-48e8-a62e-d16a66ac0349.png"
+    },
+    {
+      "id": "wash-basin",
+      "alpha": true,
+      "prompt": "Use case: illustration-story independent transparent prop. A shallow oval ivory enamel foot-washing basin with a thin muted sage rim, shown from a child's eye height in gentle three-quarter front view, clean clear ankle-shallow water reflecting tiny soft sunlit highlights. Soft handmade warm watercolor/gouache textured paper-collage, same cozy Chinese preschool picture book material texture. Basin is wide low oval, not a deep bucket. Whole basin fully visible, no feet, no people, no soap, no objects, no surrounding floor or background, no text. Genuine transparent background, high native detail.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-e36fecf5-07d3-43e3-b766-7adb9ddf8553.png"
+    },
+    {
+      "id": "wash-corner",
+      "ref": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b19-p02.png",
+      "prompt": "Use case: illustration-story full scene continuity edit. SAME sunlit stone cottage garden and SINGLE orange cosmos-like flower in terracotta pot on low pale wooden stool as reference. NEW camera at the garden tap corner: ivory plaster wall and a small old bronze tap at BACK LEFT, muted sage doorway BACK RIGHT, daisies/thyme around margins. Same flower and stool at far RIGHT around 78%,88%, already watered, no water flowing now. Broad clean flat flagstone paving at LEFT/CENTER lower two-thirds reserved for separate standing child and shallow basin. Do NOT paint child, feet, shoes, watering can or basin. Rich warm handmade gouache/watercolor layered paper texture, full square scene, highest native detail, no text/watermark.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-bbdc5ab0-9376-4dba-93cc-ed4d06c8a295.png"
+    },
+    {
+      "id": "wash-close",
+      "ref": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\b19-p02.png",
+      "prompt": "Use case: illustration-story full scene continuity edit. Same idyllic warm cottage garden, same single orange flower in terracotta pot on low pale wooden stool RIGHT. NEW side view from beside an open muted sage door at LEFT looking diagonally across a clean flat stone washing corner. Small folded cream towel on a low bench BACK LEFT; vine-covered low limestone wall BACK. Clear flat pale flagstones across foreground and LEFT/CENTER reserved for a separately composited complete child standing in a shallow basin, flower at far RIGHT. No people/body parts/shoes/basin/watering can or poured water baked in. Detailed authentic watercolor/gouache layered cream paper texture, warm sunshine, square full scene, highest native resolution, no words or border.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-852254bc-0b02-464a-81dc-dc3894e6d630.png"
+    },
+    {
+      "id": "wagon-side",
+      "ref": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\playroom-clear.png",
+      "prompt": "Use case: illustration-story complete background plate. Same cozy warm cottage playroom, muted sage window, ivory plaster walls, honey wood floor, leafy potted plants and low shelf with blocks and baskets. NEW LOW SIDE-ON camera, wide horizontal empty honey floor play lane across entire lower TWO THIRDS, small window and shelf confined to top third; symmetrical stable eye line. Front-to-back direction of a separately composited red wooden pushcart will always face RIGHT. No child, people, hands, toys, wheels, cart or balls anywhere in foreground. Rich hand-painted gouache/watercolor paper texture, clear sunlit warm tones, full square no margins, maximum native detail, no text.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-ddb9ed15-de2f-4fb3-881a-e56383fb7c7e.png"
+    },
+    {
+      "id": "wagon-call-door",
+      "ref": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\playroom-clear.png",
+      "prompt": "Use case: illustration-story complete NEW scene. Same warm stone cottage playroom, honey timber floor, ivory walls, muted sage door, woven basket and low wooden shelf. NEW DIAGONAL camera looking from open garden doorway at BACK LEFT across broad clear floor toward RIGHT foreground; green plant and daisies frame left edge. Doorway and shelves stay in upper third, broad flat unbroken floor remains open lower two-thirds for one child calling to a separate toy pushcart. No people, body parts, toy carts, balls or footwear painted. Rich warm authentic watercolor/gouache paper-collage detail, coherent Chinese preschool storybook, square full scene at maximum native resolution, no writing.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-39c01d52-120f-48ca-95cb-bd49b3638c07.png"
+    },
+    {
+      "id": "wagon-loading",
+      "ref": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-15\\playroom-clear.png",
+      "prompt": "Use case: illustration-story complete NEW scene. Same honey-wood-floored cozy cottage playroom, muted sage window on BACK RIGHT, ivory plaster wall, leafy plants, neatly arranged low open toy shelf BACK LEFT. NEW slightly higher three-quarter camera looking toward an EMPTY smooth floor work area lower two-thirds for child kneeling beside a red wooden pushcart and placing a ball into it. Empty area broad and clear, no cart/ball/person/body parts or footwear drawn; do not paint a toy box into the work area. Warm detailed handmade textured gouache/watercolor on cream paper, square full scene, native highest detail, no words/border.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-e4d57a9f-c855-4ca9-9501-318266c33bc1.png"
+    },
+    {
+      "id": "wagon-home",
+      "ref": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-11-13\\cat-play-wide.webp",
+      "prompt": "Use case: illustration-story complete NEW scene matching reference art. Same sunny cottage garden with terracotta roof, muted sage door at BACK RIGHT and low flower-covered limestone wall. NEW LOW SIDE-ON view of wide level smooth flagstone path running LEFT to RIGHT across lower two-thirds, suitable for a small wooden pushcart with a ball; white and yellow daisies and thyme frame path at far sides, sunlit cream wall and doorway in upper third. No steps or slopes on play path. No people/body parts, no animals, cart, balls or toys painted. Rich warm gouache/watercolor/paper-collage tactile detail, full square highest native resolution, no text/watermark.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-43b80a80-e390-48d5-95be-1317d4ff13b0.png"
+    },
+    {
+      "id": "step-own-shoes",
+      "alpha": true,
+      "ref": "C:\\Users\\Administrator\\Documents\\ChatGPT\\分级阅读绘本\\little-protagonist\\preview\\art\\sequence\\books-16-20-storyboards-v2\\barefoot-step.png",
+      "prompt": "Use case: illustration-story strictly localized footwear edit of the provided registered character body. Preserve the exact original image canvas 1024x1536, existing headless child body, collar at pixel (501,225), yellow sweater/ivory chest patch, sage shorts, arms, legs, knee/ankle positions, all anatomical proportions and brush/paper texture. Change ONLY footwear: add the character's familiar orange-red canvas sneakers with ivory rubber toe caps and cream laces to both existing bare feet. LEFT lifted foot is stepping slowly, RIGHT foot planted; same exact walking pose, not running. Shoes correctly enclose feet and meet ankles; no bare toes remain. Do NOT change torso silhouette, pose, hands, leg lengths, clothing, neck, collar location or transparency. No head, face, background, floor, added objects, lettering. Keep exact 1024x1536 framing and source body scale; genuine transparent background.",
+      "generated": "C:\\Users\\Administrator\\.codex\\generated_images\\01a166e7-882e-77b3-92c6-d14037784b34\\exec-ba60312d-2ae5-4597-bbac-3e094ac6cf48.png"
+    }
+  ]
+}

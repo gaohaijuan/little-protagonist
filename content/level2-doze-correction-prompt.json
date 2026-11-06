@@ -1,0 +1,8 @@
+{
+  "key": "child-sit-rest-side",
+  "transparent": true,
+  "refs": [
+    "C:/Users/Administrator/.codex/generated_images/01a166e7-882e-77b3-92c6-d14037784b34/exec-605869e9-09d6-4d37-88b2-abaea50afd67.png"
+  ],
+  "prompt": "Use case: precise-object-edit. Edit target: this exact HEADLESS seated yellow-sweater child-body. The current TWO palms over eyes look like crying. Change ONLY the arm on the viewer's LEFT: lower that left arm onto the crossed knees with a relaxed hand. Keep the viewer-right arm, upright forearm and cupped right hand in exactly the SAME position, to support an imaginary sleepy head leaning heavily sideways to the RIGHT. The one remaining right hand supports the tilted temple, right forearm supports the cheek, so the sleeping face will be hidden behind the arm after compositing. Do not generate that head: NO face, eyes, hair or head placeholder at all. Keep the exact same collar-to-shoes length, seated torso/hip/leg shape and scale, yellow knitted sweater/cream pocket, sage shorts, socks, red shoes, skin and gouache paper texture. Full transparent body with safe margin, original pose canvas and layout. Real alpha; no halo, ground, objects, text or cartoon sleep symbols. One headless body only."
+}

@@ -1,0 +1,36 @@
+{
+  "poses": {
+    "wear-big-shoes": {
+      "id": "wear-big-shoes",
+      "version": 1,
+      "model": "child-v1",
+      "bodyUrl": "./art/sequence/level2-review-fixes/wear-big-shoes-body.webp",
+      "collar": {
+        "x": 768,
+        "y": 600
+      },
+      "bounds": {
+        "left": 408,
+        "top": 579,
+        "right": 1194,
+        "bottom": 1842
+      },
+      "headRotation": 0
+    }
+  },
+  "registration": {
+    "sourceCollar": [
+      510,
+      120
+    ],
+    "sourceTorsoHeight": 540,
+    "masterTorsoHeight": 500,
+    "uniformScale": 0.9259259259259259,
+    "offset": [
+      295.77777777777777,
+      488.8888888888889
+    ],
+    "soleMinusCollar": 1241.67,
+    "basis": "One uniform collar-to-sweater-hem alignment to the standing master; no limb stretch or head adjustment."
+  }
+}

@@ -4,7 +4,7 @@ const {createApplication}=require('../server/app.cjs'),{hash}=require('../server
 async function setup(t){
   const directory=fs.mkdtempSync(path.join(os.tmpdir(),'little-story-billing-'));let clock=Date.now();const errors=[];
   const app=createApplication({adminPassword:'billing-test-password',dataDir:directory,now:()=>clock,paymentSecret:'test-signed-payment-secret',onError:e=>errors.push(e.message)});
-  app.server.listen(20000+crypto.randomInt(40000),'127.0.0.1');await once(app.server,'listening');const base='http://127.0.0.1:'+app.server.address().port;
+  app.server.listen(0,'127.0.0.1');await once(app.server,'listening');const base='http://127.0.0.1:'+app.server.address().port;
   const session=app.store.userSession(),user=app.store.authenticate(session.token),otherSession=app.store.userSession({invite:session.inviteCode}),other=app.store.authenticate(otherSession.token);
   const post=(route,value,headers={})=>fetch(base+route,{method:'POST',headers:{'Content-Type':'application/json',...headers},body:JSON.stringify(value)});
   const login=await post('/api/admin/login',{password:'billing-test-password'}),admin={Cookie:login.headers.get('set-cookie').split(';')[0],'X-Admin-CSRF':(await login.json()).csrf};
